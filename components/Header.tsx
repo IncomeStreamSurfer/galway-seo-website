@@ -18,12 +18,11 @@ export default function Header() {
               </div>
               <div>
                 <span className="font-display text-xl font-bold text-white">Kraft Agency</span>
-                <p className="text-xs text-gray-400 hidden sm:block">Craftspeople in a digital sense</p>
               </div>
             </Link>
 
             {/* Desktop Navigation */}
-            <div className="hidden md:flex items-center space-x-8">
+            <div className="header-nav-desktop items-center space-x-8">
               <Link href="/services" className="text-gray-300 hover:text-white transition">Services</Link>
               <Link href="/locations" className="text-gray-300 hover:text-white transition">Locations</Link>
               <Link href="/about" className="text-gray-300 hover:text-white transition">About</Link>
@@ -33,7 +32,7 @@ export default function Header() {
             {/* Mobile Menu Button */}
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              className="md:hidden text-white p-2"
+              className="header-mobile-toggle text-white p-2"
               aria-label="Toggle menu"
             >
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -46,9 +45,10 @@ export default function Header() {
 
       {/* Mobile Menu */}
       <div
-        className={`fixed top-0 right-0 w-64 h-full bg-darker border-l border-white/10 md:hidden transition-transform duration-300 z-50 ${
+        className={`fixed top-0 right-0 w-64 h-full bg-darker border-l border-white/10 transition-transform duration-300 z-50 ${
           mobileMenuOpen ? 'translate-x-0' : 'translate-x-full'
         }`}
+        style={{ display: mobileMenuOpen ? 'block' : 'none' }}
       >
         <div className="p-6">
           <button
@@ -72,7 +72,7 @@ export default function Header() {
       {/* Overlay */}
       {mobileMenuOpen && (
         <div
-          className="fixed inset-0 bg-black/50 z-40 md:hidden"
+          className="fixed inset-0 bg-black/50 z-40"
           onClick={() => setMobileMenuOpen(false)}
         ></div>
       )}

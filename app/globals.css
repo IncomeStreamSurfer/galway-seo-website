@@ -1,13 +1,14 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
-:root {
+@theme {
   --color-primary: #6366f1;
   --color-secondary: #8b5cf6;
   --color-dark: #0f0f23;
   --color-darker: #080813;
   --color-accent: #14b8a6;
+
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+  --font-display: var(--font-playfair), serif;
 }
 
 * {
@@ -15,13 +16,13 @@
 }
 
 body {
-  font-family: var(--font-inter), system-ui, sans-serif;
+  font-family: var(--font-sans);
   background: var(--color-dark);
   color: #e5e7eb;
 }
 
 .font-display {
-  font-family: var(--font-playfair), serif;
+  font-family: var(--font-display);
 }
 
 /* Gradient backgrounds */
@@ -167,4 +168,64 @@ body {
 .testimonial-slide {
   scroll-snap-align: start;
   flex-shrink: 0;
+}
+
+/* Custom color utilities for Tailwind v4 */
+.bg-dark {
+  background-color: var(--color-dark);
+}
+
+.bg-darker {
+  background-color: var(--color-darker);
+}
+
+.bg-primary {
+  background-color: var(--color-primary);
+}
+
+.bg-secondary {
+  background-color: var(--color-secondary);
+}
+
+.bg-accent {
+  background-color: var(--color-accent);
+}
+
+.text-primary {
+  color: var(--color-primary);
+}
+
+.text-secondary {
+  color: var(--color-secondary);
+}
+
+.text-accent {
+  color: var(--color-accent);
+}
+
+.border-primary {
+  border-color: var(--color-primary);
+}
+
+.border-secondary {
+  border-color: var(--color-secondary);
+}
+
+/* Header specific fix */
+.header-nav-desktop {
+  display: none;
+}
+
+.header-mobile-toggle {
+  display: block;
+}
+
+@media (min-width: 768px) {
+  .header-nav-desktop {
+    display: flex;
+  }
+
+  .header-mobile-toggle {
+    display: none !important;
+  }
 }
