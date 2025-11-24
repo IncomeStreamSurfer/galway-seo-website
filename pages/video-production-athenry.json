@@ -1,0 +1,189 @@
+{
+  "id": "video-production-athenry",
+  "service": "Video Production & Marketing",
+  "serviceSlug": "video-production",
+  "location": "Athenry",
+  "locationSlug": "athenry",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Video Production Athenry - Professional Video Services | Kraft",
+  "metaDescription": "Expert video production in Athenry, County Galway. Create professional videos that grow your business. Filming, editing & marketing services. Free quote available!",
+
+  "heroHeadline": "Professional Video Production in Athenry",
+  "heroSubheadline": "Elevate Your Brand with High-Quality Video Content",
+
+  "description": "Looking for professional video production in Athenry? Kraft Agency delivers comprehensive video services that help local businesses throughout East Galway tell their stories and achieve their marketing goals. From the historic town of Athenry to businesses across County Galway, we create video content that engages audiences, builds trust, and drives measurable business results.\n\nOur video production expertise covers every aspect of content creation. Whether you need promotional videos to showcase your Athenry business, training and educational content, customer testimonials, social media videos, or corporate communications, our experienced team brings professional quality and creative vision to every project. We use cinema-grade equipment and proven production techniques to ensure your videos look polished, professional, and perfectly aligned with your brand identity.\n\nKraft Agency stands out by combining technical excellence with marketing strategy. We don't just produce beautiful videos – we create content engineered to achieve specific business objectives. Every video is optimized for your target platforms, whether that's YouTube, social media, your website, or email campaigns. With years of experience serving Athenry and East Galway businesses, professional equipment, and a commitment to delivering results, we're your trusted partner for video production that makes a real impact on your bottom line.",
+
+  "shortDescription": "Professional video production serving Athenry and East Galway. Comprehensive filming, editing, and video marketing services.",
+
+  "benefits": [
+    "Local expertise serving Athenry businesses",
+    "Cinema-quality cameras and equipment",
+    "Complete production services end-to-end",
+    "Professional scriptwriting included",
+    "Expert editing and post-production",
+    "Marketing strategy integration",
+    "Affordable pricing for SMEs",
+    "Responsive local service and support"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Initial Consultation",
+      "description": "We discuss your business objectives, target audience, and video requirements. Together we develop a strategy and creative approach that aligns with your goals and budget."
+    },
+    {
+      "step": 2,
+      "title": "Creative Development",
+      "description": "Our team creates scripts, storyboards, and shot lists. We handle all pre-production planning including location coordination, scheduling, and talent requirements."
+    },
+    {
+      "step": 3,
+      "title": "Production Day",
+      "description": "Our professional crew films at your Athenry location or our studio using cinema-quality cameras, professional lighting, and high-end audio equipment to capture stunning footage."
+    },
+    {
+      "step": 4,
+      "title": "Post-Production",
+      "description": "Our editors transform your footage into polished videos with professional color grading, audio enhancement, graphics, animations, and effects that elevate your content."
+    },
+    {
+      "step": 5,
+      "title": "Review & Refinement",
+      "description": "We share preview versions for your feedback and make revisions until the video perfectly matches your vision and meets all your requirements."
+    },
+    {
+      "step": 6,
+      "title": "Final Delivery",
+      "description": "Receive your completed videos in all necessary formats, optimized for different platforms, plus guidance on distribution and marketing to maximize viewership and results."
+    }
+  ],
+
+  "pricingInfo": "Video production services in Athenry start from €1,500 for social media content, €3,000-€5,000 for professional business videos, and €8,000+ for comprehensive commercial productions. Pricing varies based on video length, filming requirements, locations, and post-production needs. We provide transparent quotes tailored to your project and budget.",
+
+  "serviceArea": "Athenry and surrounding areas including Loughrea, Craughwell, Clarinbridge, Oranmore, and all of East Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Flexible scheduling to accommodate client needs.",
+
+  "qualifications": [
+    "Professional video production specialists",
+    "Certified digital marketing experts",
+    "Advanced editing and post-production",
+    "Business video expertise",
+    "10+ years combined experience"
+  ],
+  "yearsExperience": "10+ years combined video production experience",
+  "guarantees": [
+    "Professional broadcast-quality output",
+    "Comprehensive revision process",
+    "Punctual project delivery",
+    "Multi-platform optimization",
+    "Full usage rights provided"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1584224549374-995cbac1ab62?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional videographer filming in Athenry with cinema camera",
+      "caption": "Expert Video Production in Athenry"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1632187989763-c9c620420b4d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Video production crew filming on location",
+        "caption": "Professional on-location filming services"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1625690303837-654c9666d2d0?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional camera on tripod ready for filming",
+        "caption": "Cinema-quality production equipment"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1607112812619-182cb1c7bb61?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Video editing display screen",
+        "caption": "Professional video editing services"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1543242594-c8bae8b9e708?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Videographer with professional camera equipment",
+        "caption": "Experienced video production team"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Athenry Businesses Choose Kraft Agency",
+    "Our Professional Video Production Process",
+    "Video Content Types That Generate Results",
+    "Video Marketing Strategy for Local Businesses",
+    "Video Production FAQs for Athenry Clients",
+    "Ready to Create Professional Video Content?"
+  ],
+
+  "faq": [
+    {
+      "question": "Can you film at business locations in Athenry?",
+      "answer": "Yes! We regularly film on-site at client premises throughout Athenry and East Galway. We bring all necessary equipment and work efficiently to minimize any disruption to your business operations while capturing great footage."
+    },
+    {
+      "question": "What types of videos work best for small businesses?",
+      "answer": "Popular options include business overview videos, customer testimonial videos, product or service demonstrations, social media content, and 'meet the team' videos. We'll recommend the best approach based on your goals and budget during consultation."
+    },
+    {
+      "question": "How much does video production cost?",
+      "answer": "Costs start from €1,500 for simple social media videos, €3,000-€5,000 for professional business videos, and €8,000+ for comprehensive productions. We provide transparent quotes based on your specific requirements and work within various budgets."
+    },
+    {
+      "question": "Do you provide scripts or do we need to write them?",
+      "answer": "We provide professional scriptwriting as part of our service. Our team can work from your ideas or develop concepts from scratch. We'll collaborate with you to ensure the script perfectly captures your message and brand voice."
+    },
+    {
+      "question": "How long does the production process take?",
+      "answer": "Simple videos can be completed in 1-2 weeks, while more complex projects typically take 3-6 weeks from initial consultation to final delivery. We provide realistic timelines upfront and keep you updated throughout the process."
+    },
+    {
+      "question": "Can you help promote our videos after production?",
+      "answer": "Absolutely! We offer comprehensive video marketing services including YouTube optimization, social media advertising, email marketing integration, and analytics tracking to ensure your videos reach your target audience and drive results."
+    },
+    {
+      "question": "What equipment do you use for filming?",
+      "answer": "We use professional cinema cameras, high-quality lenses, professional lighting kits, advanced audio recording equipment, gimbals and stabilizers, and industry-standard editing software to ensure broadcast-quality results."
+    },
+    {
+      "question": "Do we own the final videos?",
+      "answer": "Yes! You receive complete copyright ownership and unlimited usage rights. We deliver files in all formats you need for unlimited use across websites, social media, advertising, presentations, or any other purpose."
+    }
+  ],
+
+  "keywords": [
+    "video production",
+    "business video services",
+    "professional videography",
+    "corporate video",
+    "video marketing",
+    "commercial video production",
+    "promotional video",
+    "video content creation",
+    "professional filming",
+    "video editing services"
+  ],
+  "localKeywords": [
+    "video production Athenry",
+    "videographer Athenry",
+    "video services Athenry",
+    "Athenry video production",
+    "video marketing Athenry",
+    "business video Athenry",
+    "commercial video Athenry",
+    "East Galway video production",
+    "video company Athenry",
+    "professional video Athenry"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Request Your Free Video Quote",
+  "ctaSecondary": "View Portfolio"
+}

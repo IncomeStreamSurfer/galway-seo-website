@@ -1,0 +1,189 @@
+{
+  "id": "marketing-automation-kinvara",
+  "service": "Marketing Automation",
+  "serviceSlug": "marketing-automation",
+  "location": "Kinvara",
+  "locationSlug": "kinvara",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Marketing Automation Kinvara - Automate & Scale | Kraft Agency",
+  "metaDescription": "Streamline your Kinvara marketing with intelligent automation. Nurture leads 24/7, boost conversions & save time. Expert automation from Kraft Agency.",
+
+  "heroHeadline": "Smart Marketing Automation in Kinvara",
+  "heroSubheadline": "Automate Your Marketing, Accelerate Growth",
+
+  "description": "Looking to scale your marketing efforts in Kinvara without the overhead? Kraft Agency delivers sophisticated marketing automation solutions that help businesses work smarter and achieve more. Our intelligent automation systems handle repetitive marketing tasks, nurture leads around the clock, and deliver personalized customer experiences that convert—giving you more time to focus on strategy, creativity, and growing your Kinvara business.\n\nAs a full-service digital agency serving Kinvara and South Galway, we understand that effective marketing automation requires both technical expertise and strategic thinking. We design complete customer journeys that guide prospects from their first interaction through to becoming loyal brand advocates. Our automated workflows leverage behavioral psychology, data-driven insights, and AI-powered personalization to ensure every message resonates with your audience at exactly the right moment. Whether you're nurturing B2B leads or engaging consumers in Kinvara, we build systems that deliver measurable ROI.\n\nWhat makes our service exceptional is our commitment to continuous improvement and optimization. Marketing automation isn't a set-it-and-forget-it solution—it requires ongoing monitoring, testing, and refinement. We track your automation performance daily, conduct systematic A/B tests, and make data-driven adjustments to improve engagement and conversion rates. With seamless CRM integration, comprehensive analytics dashboards, and strategic support from our expert team, you'll have everything needed to scale your marketing efficiently and outperform competitors in Kinvara.",
+
+  "shortDescription": "Transform your Kinvara business with marketing automation. Automate lead nurturing, boost efficiency, and increase conversions with intelligent systems.",
+
+  "benefits": [
+    "Save hours every week by automating repetitive marketing tasks",
+    "Nurture leads 24/7 with intelligent, personalized sequences",
+    "Boost conversion rates by 30-45% with behavioral automation",
+    "Deliver the perfect message at the ideal time, every time",
+    "Automatically score and prioritize your best leads",
+    "Integrate seamlessly with your CRM and existing tools",
+    "Track performance and ROI with detailed analytics",
+    "Benefit from continuous optimization and expert support"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Strategic Planning",
+      "description": "We begin with a comprehensive consultation to understand your business goals, customer personas, and current marketing challenges specific to Kinvara. This ensures we design automation that delivers maximum impact aligned with your objectives."
+    },
+    {
+      "step": 2,
+      "title": "Customer Journey Design",
+      "description": "Our team maps your complete customer journey and identifies the most impactful automation opportunities at each stage. We design workflows for lead generation, nurturing, conversion, onboarding, and retention that align with your business model."
+    },
+    {
+      "step": 3,
+      "title": "Platform Setup & Integration",
+      "description": "We configure your chosen marketing automation platform, implement integrations with your CRM and other tools, set up tracking and analytics, and ensure everything is technically sound before building workflows."
+    },
+    {
+      "step": 4,
+      "title": "Workflow Development & Content Creation",
+      "description": "Our team creates automated workflows, develops email sequences, crafts personalized content for each audience segment, and implements lead scoring rules. Every element is designed to engage and convert your specific audience."
+    },
+    {
+      "step": 5,
+      "title": "Testing & Controlled Launch",
+      "description": "We thoroughly test all workflows, triggers, and integrations before launch. Deployment is phased and closely monitored, with adjustments made based on performance data from your Kinvara audience."
+    },
+    {
+      "step": 6,
+      "title": "Optimization & Performance Enhancement",
+      "description": "Marketing automation requires ongoing refinement to maximize results. We continuously monitor metrics, conduct A/B tests, and optimize workflows to improve engagement rates, conversions, and ROI for your Kinvara business."
+    }
+  ],
+
+  "pricingInfo": "Marketing automation investment ranges from €1,200 per month for small business solutions with core workflows to €5,000+ per month for enterprise implementations with sophisticated multi-channel automation and comprehensive integrations. Pricing depends on your customer journey complexity, lead volume, platform requirements, and level of support needed. Contact us for a free automation assessment and customized proposal for your Kinvara business.",
+
+  "serviceArea": "Kinvara and surrounding areas including Galway City, Gort, Clarinbridge, Oranmore, and all of South County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Expert automation support available.",
+
+  "qualifications": [
+    "Certified marketing automation experts (HubSpot, Marketo, ActiveCampaign)",
+    "Marketing strategy and automation specialists",
+    "AI and personalization technology experts",
+    "CRM and marketing technology integration professionals",
+    "15+ years combined automation and digital marketing experience"
+  ],
+  "yearsExperience": "15+ years combined marketing automation expertise",
+  "guarantees": [
+    "Customized automation strategy for your business",
+    "Seamless integration with existing marketing tools",
+    "Transparent monthly reporting and insights",
+    "Ongoing optimization for maximum performance",
+    "Dedicated support from automation specialists"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Marketing automation analytics and performance dashboard",
+      "caption": "Smart Marketing Automation for Kinvara Businesses"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing performance analytics on laptop",
+        "caption": "Comprehensive performance tracking"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1542744173-05336fcc7ad4?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional managing marketing automation campaigns",
+        "caption": "Expert automation management and optimization"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533750349088-cd871a92f312?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing strategy and automation planning",
+        "caption": "Strategic automation planning for success"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing automation platform interface",
+        "caption": "Sophisticated automation tools for business growth"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Kinvara Businesses Trust Kraft Agency for Marketing Automation",
+    "Our Comprehensive Marketing Automation Process",
+    "The Business Impact of Intelligent Marketing Automation",
+    "Real Results: Marketing Automation Success Stories",
+    "Marketing Automation FAQs for Kinvara Businesses",
+    "Start Your Marketing Automation Journey in Kinvara"
+  ],
+
+  "faq": [
+    {
+      "question": "What is marketing automation and how can it benefit my Kinvara business?",
+      "answer": "Marketing automation uses software to automate repetitive marketing tasks like email campaigns, lead nurturing, and customer segmentation. For Kinvara businesses, this means you can engage prospects 24/7, deliver personalized experiences at scale, and typically increase conversion rates by 30-45%—all while saving your team significant time for strategic work."
+    },
+    {
+      "question": "What types of marketing can be automated?",
+      "answer": "We automate email campaigns, lead nurturing sequences, lead scoring, social media scheduling, customer segmentation, personalized content delivery, abandoned cart recovery, welcome emails, customer onboarding, re-engagement campaigns, event follow-ups, and comprehensive reporting."
+    },
+    {
+      "question": "Which marketing automation platform is best for my business?",
+      "answer": "The ideal platform depends on your specific needs, budget, and technical requirements. We're experts in HubSpot (comprehensive all-in-one), ActiveCampaign (powerful and cost-effective), Marketo (enterprise-level), and Mailchimp (small business). During our strategy session, we'll recommend the perfect solution for your Kinvara business."
+    },
+    {
+      "question": "Can marketing automation integrate with our CRM?",
+      "answer": "Yes! CRM integration is essential for effective marketing automation. We have extensive experience integrating with Salesforce, HubSpot CRM, Pipedrive, Zoho, Microsoft Dynamics, and other major platforms. This ensures your marketing and sales teams work from unified, real-time customer data."
+    },
+    {
+      "question": "How long does it take to see results from marketing automation?",
+      "answer": "Many clients start seeing improvements within 2-4 weeks as initial workflows launch. Significant results—like measurable increases in conversion rates and lead quality—typically appear within 2-3 months as automation matures and we optimize based on performance data."
+    },
+    {
+      "question": "Will automation make our marketing feel impersonal?",
+      "answer": "Not at all! Modern automation enables greater personalization through behavioral triggers, dynamic content, and AI. We create automation that delivers relevant, timely messages to each prospect—making your marketing feel more personal and engaging, not robotic."
+    },
+    {
+      "question": "What does marketing automation cost?",
+      "answer": "Investment varies based on platform, workflow complexity, and scale. Small business automation typically starts at €1,200/month (including platform costs and management). Enterprise solutions range from €3,000-€5,000/month. We provide detailed proposals based on your specific requirements."
+    },
+    {
+      "question": "How do you track and report automation performance?",
+      "answer": "We provide comprehensive monthly reports tracking email engagement rates, conversion metrics, lead velocity, pipeline contribution, customer lifetime value, time saved, and marketing ROI. You'll see exactly how automation impacts your Kinvara business's growth and profitability."
+    }
+  ],
+
+  "keywords": [
+    "marketing automation",
+    "automated marketing",
+    "lead nurturing automation",
+    "email automation",
+    "marketing workflows",
+    "customer journey automation",
+    "marketing efficiency tools",
+    "automated email campaigns",
+    "lead scoring",
+    "CRM automation"
+  ],
+  "localKeywords": [
+    "marketing automation Kinvara",
+    "marketing automation South Galway",
+    "email automation Kinvara",
+    "automated marketing Galway",
+    "marketing automation services Ireland",
+    "Kinvara marketing automation",
+    "HubSpot automation Kinvara",
+    "marketing automation agency Galway",
+    "CRM automation Kinvara",
+    "marketing automation consultant Galway"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Schedule Your Free Automation Assessment",
+  "ctaSecondary": "Download Automation Success Guide"
+}

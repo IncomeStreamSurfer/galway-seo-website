@@ -1,0 +1,189 @@
+{
+  "id": "marketing-automation-gort",
+  "service": "Marketing Automation",
+  "serviceSlug": "marketing-automation",
+  "location": "Gort",
+  "locationSlug": "gort",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Marketing Automation Gort - Automate, Optimize, Grow | Kraft",
+  "metaDescription": "Scale your Gort business with marketing automation. Nurture leads automatically, boost conversions & maximize efficiency. Expert automation from Kraft Agency.",
+
+  "heroHeadline": "Marketing Automation That Drives Results in Gort",
+  "heroSubheadline": "Work Smarter with Intelligent Automation",
+
+  "description": "Ready to transform your marketing in Gort? Kraft Agency's marketing automation solutions help businesses automate repetitive tasks, nurture leads intelligently, and deliver personalized customer experiences that drive real growth. Our proven automation systems engage prospects 24/7, qualify leads automatically, and guide customers through optimized journeys—freeing your team to focus on strategy, creativity, and closing more deals in Gort and beyond.\n\nAs a leading digital agency serving Gort and South Galway, we understand that successful marketing automation requires both technical expertise and strategic vision. We design complete customer journeys that guide prospects from initial awareness through to loyal advocacy. Our automated workflows use behavioral intelligence, AI-powered personalization, and sophisticated segmentation to ensure every message resonates with your audience at precisely the right moment. Whether you're nurturing B2B leads or engaging consumers in Gort, we build automation systems that deliver measurable ROI.\n\nWhat distinguishes Kraft Agency is our commitment to ongoing optimization and performance excellence. We don't just implement automation and disappear—we continuously monitor metrics, conduct systematic testing, and refine workflows to maximize your results. With seamless CRM integration, comprehensive analytics dashboards, and strategic guidance from our expert team, you'll have everything needed to scale your marketing efficiently and outperform competitors in your market.",
+
+  "shortDescription": "Transform your Gort business with marketing automation. Automate lead nurturing, boost efficiency, and increase conversions with intelligent systems.",
+
+  "benefits": [
+    "Save 15+ hours weekly by automating repetitive tasks",
+    "Nurture leads 24/7 with intelligent, personalized sequences",
+    "Boost conversion rates by 30-45% with smart automation",
+    "Automatically score and prioritize your best opportunities",
+    "Deliver personalized experiences at scale",
+    "Integrate seamlessly with your existing CRM and tools",
+    "Track performance and ROI with detailed analytics",
+    "Continuous optimization from dedicated automation experts"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Strategic Planning",
+      "description": "We begin with a comprehensive consultation to understand your business objectives, customer personas, and current marketing processes. This ensures we design automation that delivers maximum impact for your Gort business."
+    },
+    {
+      "step": 2,
+      "title": "Journey Mapping & Workflow Design",
+      "description": "Our team maps your complete customer journey and identifies the most impactful automation opportunities at each stage. We design workflows for lead generation, nurturing, conversion, onboarding, and long-term customer engagement."
+    },
+    {
+      "step": 3,
+      "title": "Platform Configuration & Integration",
+      "description": "We configure your chosen marketing automation platform, integrate with your CRM and marketing stack, implement tracking and analytics, and ensure all technical foundations are solid before workflow development begins."
+    },
+    {
+      "step": 4,
+      "title": "Workflow Development & Content Creation",
+      "description": "Our team builds automated workflows, creates email sequences, develops personalized content for each audience segment, and implements lead scoring. Every element is designed to engage your specific audience and drive conversions."
+    },
+    {
+      "step": 5,
+      "title": "Testing & Controlled Rollout",
+      "description": "We thoroughly test all workflows, triggers, and integrations before launch. Deployment is phased and closely monitored, with adjustments made in real-time based on performance data from your Gort audience."
+    },
+    {
+      "step": 6,
+      "title": "Optimization & Continuous Improvement",
+      "description": "Marketing automation requires ongoing refinement. We continuously monitor performance metrics, conduct A/B tests, and optimize workflows to maximize engagement, conversion rates, and ROI for your Gort business."
+    }
+  ],
+
+  "pricingInfo": "Marketing automation investment ranges from €1,200 per month for small business solutions with core workflows to €5,000+ per month for enterprise implementations with sophisticated multi-channel automation and comprehensive integrations. Pricing depends on your customer journey complexity, lead volume, platform requirements, and support needs. Contact us for a free automation assessment and customized proposal for your Gort business.",
+
+  "serviceArea": "Gort and surrounding areas including Galway City, Kinvara, Loughrea, Ennis, and all of South County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Expert automation support available.",
+
+  "qualifications": [
+    "Certified marketing automation experts (HubSpot, Marketo, ActiveCampaign)",
+    "Marketing strategy and automation specialists",
+    "AI and personalization technology experts",
+    "CRM and marketing technology integration professionals",
+    "15+ years combined automation and digital marketing experience"
+  ],
+  "yearsExperience": "15+ years combined marketing automation expertise",
+  "guarantees": [
+    "Customized automation strategy for your business goals",
+    "Seamless integration with existing marketing tools",
+    "Transparent monthly reporting and insights",
+    "Ongoing optimization for maximum performance",
+    "Dedicated support from automation specialists"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Marketing automation analytics and performance dashboard",
+      "caption": "Intelligent Marketing Automation for Gort Businesses"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Advanced marketing automation analytics",
+        "caption": "Data-driven automation strategies"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1542744173-05336fcc7ad4?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional managing marketing automation campaigns",
+        "caption": "Expert automation management and optimization"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing performance analytics on laptop",
+        "caption": "Comprehensive performance tracking"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558965509-228052befa6b?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Multi-device marketing automation management",
+        "caption": "Multi-channel automation coordination"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Gort Businesses Trust Kraft Agency for Marketing Automation",
+    "Our Comprehensive Marketing Automation Process",
+    "The Business Impact of Intelligent Marketing Automation",
+    "Real Results: Marketing Automation Success Stories",
+    "Marketing Automation FAQs for Gort Businesses",
+    "Start Your Marketing Automation Journey in Gort"
+  ],
+
+  "faq": [
+    {
+      "question": "What is marketing automation and how can it benefit my Gort business?",
+      "answer": "Marketing automation uses software to automate repetitive marketing tasks like email campaigns, lead nurturing, and customer segmentation. For Gort businesses, this means you can engage prospects 24/7, deliver personalized experiences at scale, and typically increase conversion rates by 30-45%—all while saving your team significant time for strategic work."
+    },
+    {
+      "question": "What types of marketing can be automated?",
+      "answer": "We can automate email campaigns, lead nurturing sequences, lead scoring, social media scheduling, customer segmentation, personalized content delivery, abandoned cart recovery, welcome emails, customer onboarding, re-engagement campaigns, event follow-ups, and comprehensive performance reporting."
+    },
+    {
+      "question": "Which marketing automation platform is best for my business?",
+      "answer": "The ideal platform depends on your specific needs, budget, and technical requirements. We're experts in HubSpot (comprehensive all-in-one), ActiveCampaign (powerful and affordable), Marketo (enterprise-level), and Mailchimp (small business friendly). During our strategy session, we'll recommend the perfect solution for your Gort business."
+    },
+    {
+      "question": "Can marketing automation integrate with our CRM?",
+      "answer": "Yes! CRM integration is essential for effective marketing automation. We have extensive experience integrating with Salesforce, HubSpot CRM, Pipedrive, Zoho, Microsoft Dynamics, and other major platforms. This ensures your marketing and sales teams work from unified, real-time customer data."
+    },
+    {
+      "question": "How long does it take to see results from marketing automation?",
+      "answer": "Many clients start seeing improvements within 2-4 weeks as initial workflows launch. Significant results—like measurable increases in conversion rates and lead quality—typically appear within 2-3 months as automation matures and we implement ongoing optimizations based on performance data."
+    },
+    {
+      "question": "Will automation make our marketing feel impersonal?",
+      "answer": "Not at all! Properly implemented automation enables greater personalization through behavioral triggers, dynamic content, and AI. We create automation that delivers relevant, timely messages to each prospect—making your marketing feel more personal and engaging, not robotic or generic."
+    },
+    {
+      "question": "What does marketing automation cost?",
+      "answer": "Investment varies based on platform, workflow complexity, and scale. Small business automation typically starts at €1,200/month (including platform costs and management). Enterprise solutions range from €3,000-€5,000/month. We provide detailed proposals based on your specific requirements and goals."
+    },
+    {
+      "question": "How do you track and report automation performance?",
+      "answer": "We provide comprehensive monthly reports tracking email engagement rates, conversion metrics, lead velocity, pipeline contribution, customer lifetime value, time saved, and marketing ROI. You'll see exactly how automation impacts your Gort business's growth and profitability with clear, actionable insights."
+    }
+  ],
+
+  "keywords": [
+    "marketing automation",
+    "automated marketing",
+    "lead nurturing automation",
+    "email automation",
+    "marketing workflows",
+    "customer journey automation",
+    "marketing efficiency tools",
+    "automated email campaigns",
+    "lead scoring",
+    "CRM automation"
+  ],
+  "localKeywords": [
+    "marketing automation Gort",
+    "marketing automation South Galway",
+    "email automation Gort",
+    "automated marketing Galway",
+    "marketing automation services Ireland",
+    "Gort marketing automation",
+    "HubSpot automation Gort",
+    "marketing automation agency Galway",
+    "CRM automation Gort",
+    "marketing automation consultant Galway"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Schedule Your Free Automation Assessment",
+  "ctaSecondary": "View Automation Success Stories"
+}

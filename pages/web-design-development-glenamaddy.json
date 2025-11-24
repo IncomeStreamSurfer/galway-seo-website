@@ -1,0 +1,187 @@
+{
+  "id": "web-design-development-glenamaddy",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Glenamaddy",
+  "locationSlug": "glenamaddy",
+  "serviceNiche": "Full-Service Digital Agency",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Glenamaddy - Modern Websites That Convert | Kraft",
+  "metaDescription": "Expert web design in Glenamaddy. Kraft Agency builds professional, conversion-focused websites for North Galway businesses. Mobile-optimized, SEO-ready. Call now!",
+  "heroHeadline": "Professional Web Design in Glenamaddy",
+  "heroSubheadline": "Custom Websites Built for North Galway Success",
+
+  "description": "Searching for professional web design in Glenamaddy? Kraft Agency creates custom websites that help North Galway businesses establish a powerful online presence and drive growth. Whether you're a local business in Glenamaddy town, a service provider, or a company serving the wider North Galway area, we build websites that work as hard as you do.\n\nOur approach to web design combines creativity with strategy. We understand that your website needs to do more than just look good – it needs to attract the right visitors, engage them effectively, and convert them into customers. Every design element, from color schemes to navigation structure, is carefully chosen to support your business objectives and resonate with your target audience in Glenamaddy and beyond.\n\nEvery website we create is fully responsive, search engine optimized, and built with modern web technologies that ensure fast, reliable performance. We understand the unique character of Glenamaddy and North Galway, creating websites that connect with your local community while expanding your reach across the region. From initial concept through launch and ongoing support, Kraft Agency provides the expertise you need to succeed online.",
+
+  "shortDescription": "Expert web design and development in Glenamaddy. Professional websites optimized for conversions, mobile devices, and search engine visibility.",
+
+  "benefits": [
+    "Custom web design for Glenamaddy businesses",
+    "Mobile-responsive design optimized for all devices",
+    "SEO-friendly architecture for better rankings",
+    "Lightning-fast loading speeds for superior UX",
+    "Conversion-optimized layouts that drive sales",
+    "Complete training and dedicated support",
+    "Experience with local and regional businesses",
+    "Clear, transparent pricing with flexible terms"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Business Discovery",
+      "description": "We start by diving deep into your Glenamaddy business – understanding your goals, your customers, your competition, and what makes you special. This foundation guides all our design decisions."
+    },
+    {
+      "step": 2,
+      "title": "Custom Design",
+      "description": "Our design team creates custom mockups that capture your brand essence and appeal to your North Galway audience. We iterate based on your feedback until the design perfectly represents your vision."
+    },
+    {
+      "step": 3,
+      "title": "Expert Development",
+      "description": "Our developers transform the design into a fully functional website using cutting-edge technologies. We ensure clean code, fast performance, and seamless integration with your business systems."
+    },
+    {
+      "step": 4,
+      "title": "Rigorous Testing",
+      "description": "We thoroughly test every aspect of your website across multiple devices, browsers, and connection speeds. Performance, security, and user experience are all optimized before launch."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Training",
+      "description": "We manage the technical aspects of launching your website and provide comprehensive training so you can confidently update your content and manage your online presence."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Partnership",
+      "description": "We're committed to your long-term success. Our maintenance and support services ensure your Glenamaddy website stays secure, fast, and effective as your business evolves."
+    }
+  ],
+
+  "pricingInfo": "Web design projects for Glenamaddy businesses typically range from €2,500 for professional small business websites to €10,000+ for e-commerce platforms or advanced functionality. We offer payment plans and transparent pricing. Contact us for a detailed quote.",
+
+  "serviceArea": "Glenamaddy and surrounding North Galway areas including Mountbellew, Dunmore, Tuam, Ballygar, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Flexible scheduling for Glenamaddy business owners.",
+
+  "qualifications": [
+    "Professional web design specialists",
+    "Full-stack development capabilities",
+    "Google Partner certified",
+    "UI/UX optimization experts",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Fully responsive mobile design",
+    "SEO-optimized architecture",
+    "90-day post-launch support",
+    "Secure SSL encryption"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1624996752380-8ec242e0f85d?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "Laptop computer web development in Glenamaddy",
+      "caption": "Professional Web Design Services in Glenamaddy"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Responsive website on multiple devices",
+        "caption": "Multi-device optimization for Glenamaddy"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Dual monitor web development workspace",
+        "caption": "Professional development tools"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1583508915901-b5f84c1dcde1?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Developer working at desk",
+        "caption": "Expert team serving North Galway"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Web development keyboard",
+        "caption": "Modern web technologies"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Glenamaddy Businesses Choose Kraft Agency",
+    "Our Web Design Process: From Concept to Launch",
+    "Essential Features for High-Performing Websites",
+    "Success Stories from North Galway",
+    "Common Questions About Web Design",
+    "Start Your Web Design Project Today"
+  ],
+
+  "faq": [
+    {
+      "question": "Do you serve businesses in Glenamaddy?",
+      "answer": "Yes! We work with businesses throughout Glenamaddy and the wider North Galway area. We understand the local market and create websites that resonate with your community while reaching customers across Galway and beyond."
+    },
+    {
+      "question": "How long does it take to build a website?",
+      "answer": "Most website projects take 4-8 weeks from initial consultation to launch. The timeline depends on the complexity of your site and how quickly we receive content and feedback. We'll provide a detailed schedule during our discovery session."
+    },
+    {
+      "question": "Will my website work on mobile phones?",
+      "answer": "Absolutely! Every website we build is fully responsive and optimized for mobile devices. With the majority of web traffic coming from smartphones, mobile optimization is essential for reaching Glenamaddy customers effectively."
+    },
+    {
+      "question": "Can you help with website photography?",
+      "answer": "Yes! We can recommend professional photographers in the Galway area, or we can source and optimize high-quality imagery that showcases your Glenamaddy business and appeals to your target audience."
+    },
+    {
+      "question": "What does a website cost?",
+      "answer": "Website costs vary based on your requirements. Professional small business websites typically start at €2,500, while e-commerce sites or custom functionality may range from €5,000-€12,000+. We provide transparent, detailed quotes."
+    },
+    {
+      "question": "Do you provide hosting and maintenance?",
+      "answer": "Yes, we offer reliable website hosting and comprehensive maintenance packages. This includes security monitoring, regular backups, software updates, performance optimization, and technical support."
+    },
+    {
+      "question": "Will my website be optimized for search engines?",
+      "answer": "Every website we build includes foundational SEO optimization – clean code, fast loading, proper meta tags, and mobile responsiveness. We can also provide ongoing SEO services to help you rank for Glenamaddy and North Galway searches."
+    },
+    {
+      "question": "What support do you offer after launch?",
+      "answer": "All websites include 90 days of post-launch support. We monitor performance, address any issues, and help you become comfortable managing your site. We also offer ongoing maintenance packages for continued peace of mind."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "custom website",
+    "responsive design",
+    "business website",
+    "professional web design",
+    "website redesign",
+    "mobile website",
+    "e-commerce website",
+    "web development services"
+  ],
+  "localKeywords": [
+    "web design Glenamaddy",
+    "website design North Galway",
+    "Glenamaddy web developer",
+    "web development Glenamaddy",
+    "Glenamaddy website company",
+    "North Galway web design",
+    "Glenamaddy digital agency",
+    "website builder Glenamaddy",
+    "Glenamaddy web services",
+    "local web design Glenamaddy"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "Email Us: hello@kraftagency.ie"
+}

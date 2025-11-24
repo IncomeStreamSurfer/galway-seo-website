@@ -1,0 +1,64 @@
+{
+  "id": "ai-marketing-clarinbridge",
+  "service": "AI-Powered Marketing Solutions",
+  "serviceSlug": "ai-marketing",
+  "location": "Clarinbridge",
+  "locationSlug": "clarinbridge",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+  "pageTitle": "AI Marketing Clarinbridge - Smart Growth Solutions | Kraft Agency",
+  "metaDescription": "Transform your Clarinbridge business with AI marketing automation and intelligent strategies. Kraft Agency delivers AI solutions that drive measurable growth. Start today!",
+  "heroHeadline": "Cutting-Edge AI Marketing for Clarinbridge Businesses",
+  "heroSubheadline": "Automate Your Marketing & Scale Growth with Artificial Intelligence",
+  "description": "Unlock the power of artificial intelligence for your Clarinbridge business with Kraft Agency's comprehensive AI marketing solutions. As AI reshapes the digital marketing landscape, businesses in Clarinbridge have a unique opportunity to gain competitive advantage through intelligent automation, predictive analytics, and machine learning optimization. Our AI marketing services help you work smarter, reduce costs, and achieve growth that manual methods simply can't match.\n\nWe specialize in practical AI implementation that delivers results for Clarinbridge companies. From AI-powered content creation and automated email campaigns to intelligent customer segmentation and predictive performance modeling, our solutions address real business challenges. Whether you're looking to free up your team from repetitive tasks, gain deeper customer insights, or optimize campaigns in real-time, we have AI tools and strategies proven to work in the Irish market.\n\nServing Clarinbridge and the greater Galway region, Kraft Agency brings world-class AI expertise to local businesses. We understand that AI can seem complex and overwhelming, which is why we focus on making it accessible and practical. Our team handles the technical complexity while you reap the benefits – more leads, better conversions, reduced costs, and the ability to compete with larger companies. Let us show you how AI can transform your Clarinbridge business.",
+  "shortDescription": "AI-powered marketing solutions for Clarinbridge businesses. Leverage automation, machine learning, and predictive analytics to accelerate growth and efficiency.",
+  "benefits": [
+    "Automate repetitive tasks and save 18+ hours weekly",
+    "AI-driven insights reveal hidden opportunities in Clarinbridge market",
+    "Predictive analytics forecast customer behavior accurately",
+    "Intelligent content generation maintains brand quality at scale",
+    "24/7 automated customer engagement through AI chatbots",
+    "Real-time campaign optimization via machine learning",
+    "Personalized marketing at scale increases conversions",
+    "Cost-effective access to enterprise-level AI tools"
+  ],
+  "process": [
+    {"step": 1, "title": "AI Readiness Assessment", "description": "We evaluate your current marketing operations in Clarinbridge, identify automation opportunities, assess data readiness, and determine where AI can deliver maximum impact on your bottom line."},
+    {"step": 2, "title": "Custom AI Strategy", "description": "Based on assessment findings, we design a tailored AI marketing strategy for your Clarinbridge business, selecting optimal tools, defining workflows, and creating an implementation timeline with clear milestones."},
+    {"step": 3, "title": "Platform Integration", "description": "Our technical specialists implement your AI marketing stack, integrating platforms with existing systems, configuring automations, training AI models on your data, and testing thoroughly before go-live."},
+    {"step": 4, "title": "Team Enablement", "description": "We provide hands-on training for your Clarinbridge team, teaching them to leverage AI tools effectively, interpret AI-generated insights, and incorporate AI capabilities into daily marketing workflows."},
+    {"step": 5, "title": "Continuous Optimization", "description": "AI requires ongoing refinement. We monitor performance metrics, test new AI features, optimize existing automations, and keep your Clarinbridge business at the forefront of AI marketing innovation."}
+  ],
+  "pricingInfo": "AI marketing services are customized for your business size and objectives. Small business AI packages start at €1,500/month, growing business solutions range €3,500-€10,000/month, and enterprise AI marketing spans €12,000-€30,000+/month. Pricing includes strategy development, platform setup, team training, and continuous optimization. Contact us for a free AI assessment and personalized quote for your Clarinbridge business.",
+  "serviceArea": "Clarinbridge and surrounding areas including Oranmore, Galway City, Kilcolgan, Ardrahan, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. AI marketing experts available for consultations.",
+  "qualifications": ["Certified AI & ML professionals", "Marketing automation specialists", "OpenAI and Anthropic certified", "Analytics and data science experts", "13+ years combined marketing experience"],
+  "yearsExperience": "13+ years marketing, 4+ years AI specialization",
+  "guarantees": ["Measurable KPIs and transparent reporting", "Ethical AI implementation and GDPR compliance", "Solutions tailored to Clarinbridge businesses", "Ongoing support and enhancement", "No long-term contracts required"],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {"url": "https://images.unsplash.com/photo-1542744173-05336fcc7ad4?ixlib=rb-4.0.3&w=1920&q=80", "alt": "AI marketing professional working in Clarinbridge", "caption": "Transform Your Marketing with AI in Clarinbridge"},
+    "gallery": [
+      {"url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80", "alt": "Marketing analytics dashboard", "caption": "AI-powered insights"},
+      {"url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixlib=rb-4.0.3&w=1200&q=80", "alt": "Data analytics on laptop screen", "caption": "Intelligent optimization"},
+      {"url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&w=1200&q=80", "alt": "Performance graphs and analytics", "caption": "Real-time performance tracking"},
+      {"url": "https://images.unsplash.com/photo-1746608943132-065d1d4b3c5d?ixlib=rb-4.0.3&w=1200&q=80", "alt": "AI assistant on smartphone", "caption": "Advanced AI tools"}
+    ]
+  },
+  "h2Headings": ["Why Clarinbridge Businesses Choose Kraft Agency for AI", "Our Proven AI Marketing Process from Start to Scale", "The ROI of AI Marketing for Clarinbridge Companies", "AI Marketing Tools and Technologies We Deploy", "Common AI Marketing Questions Answered", "Start Your AI Journey in Clarinbridge Today"],
+  "faq": [
+    {"question": "What can AI actually do for my marketing?", "answer": "AI can automate content creation, optimize email campaigns, personalize customer experiences, predict customer behavior, score leads, manage chatbot conversations, analyze campaign data, optimize ad spending, and much more. For Clarinbridge businesses, this translates to better results with less manual effort."},
+    {"question": "Is AI marketing expensive to set up?", "answer": "Cost varies by scope, but AI is more accessible than ever. Small Clarinbridge businesses can start with basic automation from €1,500/month. While initial setup requires investment, most clients achieve positive ROI within 4-6 months through efficiency gains and improved campaign performance."},
+    {"question": "Will AI replace my marketing team?", "answer": "No – AI enhances your team, not replaces them. AI handles time-consuming tasks like data analysis, content drafts, and optimization, freeing your Clarinbridge team to focus on strategy, creativity, and relationship building where humans excel. It's about working together."},
+    {"question": "How accurate is AI-generated content?", "answer": "Modern AI like ChatGPT and Claude produces remarkably good content, but it's not perfect. That's why we combine AI generation with human review and editing. This hybrid approach gives you the speed of AI with the quality assurance of human expertise for your Clarinbridge brand."},
+    {"question": "Can AI work with our existing marketing tools?", "answer": "Yes! Modern AI integrates seamlessly with popular platforms like HubSpot, Mailchimp, Google Analytics, social media tools, CRMs, and more. We ensure your AI marketing capabilities work harmoniously with your current tech stack in Clarinbridge."},
+    {"question": "How do you measure AI marketing success?", "answer": "We track multiple KPIs including time saved through automation, campaign performance improvements, conversion rate increases, cost per acquisition reductions, and overall ROI. You'll receive regular reports showing exactly how AI is impacting your Clarinbridge business."},
+    {"question": "What industries benefit from AI marketing?", "answer": "Virtually every industry. AI delivers value for retail, hospitality, professional services, healthcare, manufacturing, real estate, and more in Clarinbridge. We customize our approach based on your specific industry dynamics and customer behaviors."},
+    {"question": "Is my business data safe with AI tools?", "answer": "Yes. We only use enterprise-grade AI platforms with robust security, encryption, and GDPR compliance. Your Clarinbridge business data is protected and never used to train public AI models. We implement strict data governance throughout."}
+  ],
+  "keywords": ["AI marketing", "marketing automation", "artificial intelligence", "machine learning", "predictive analytics", "AI tools", "intelligent automation", "ChatGPT marketing", "marketing AI", "AI optimization"],
+  "localKeywords": ["AI marketing Clarinbridge", "marketing automation Clarinbridge", "AI agency Clarinbridge", "AI marketing Galway", "artificial intelligence Clarinbridge", "marketing automation Ireland", "AI solutions Clarinbridge", "Clarinbridge digital marketing", "intelligent marketing Clarinbridge", "AI marketing County Galway"],
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Get Your Free AI Assessment",
+  "ctaSecondary": "Book Strategy Call"
+}

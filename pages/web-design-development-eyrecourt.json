@@ -1,0 +1,187 @@
+{
+  "id": "web-design-development-eyrecourt",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Eyrecourt",
+  "locationSlug": "eyrecourt",
+  "serviceNiche": "Full-Service Digital Agency",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Eyrecourt - Professional Websites for East Galway | Kraft",
+  "metaDescription": "Expert web design in Eyrecourt. Kraft Agency creates stunning, effective websites for East Galway businesses. Mobile-optimized, SEO-ready. Free consultation!",
+  "heroHeadline": "Custom Web Design Services in Eyrecourt",
+  "heroSubheadline": "Professional Websites That Drive East Galway Business Growth",
+
+  "description": "Need professional web design in Eyrecourt? Kraft Agency specializes in creating custom websites that help East Galway businesses thrive online. Whether you're a local business in Eyrecourt village, a service provider along the River Shannon, or a company serving the wider East Galway region, we build websites designed to attract customers and drive growth.\n\nOur web design philosophy is simple: your website should work as your best sales tool. We create sites that are not only visually appealing but also strategically designed to convert visitors into customers. From the first impression to the final call-to-action, every element is carefully crafted to guide users toward engaging with your Eyrecourt business and taking action.\n\nEvery website we deliver is fully responsive, search engine optimized, and built with modern web technologies that ensure exceptional performance. We understand the unique characteristics of Eyrecourt and East Galway, creating websites that connect with your local community while expanding your reach across the region and beyond. From concept to launch and ongoing support, Kraft Agency is your trusted partner for web design excellence.",
+
+  "shortDescription": "Expert web design and development in Eyrecourt. Custom, high-performing websites built for East Galway businesses with proven results.",
+
+  "benefits": [
+    "Custom web design for Eyrecourt businesses",
+    "Mobile-responsive design for all screen sizes",
+    "SEO-optimized to attract East Galway customers",
+    "Fast-loading performance for better engagement",
+    "Conversion-focused layouts that drive results",
+    "Complete training and ongoing support",
+    "Experience with local and regional sectors",
+    "Transparent pricing with flexible payment options"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Strategy",
+      "description": "We begin by understanding your Eyrecourt business – your goals, your target customers, and what sets you apart in East Galway. This strategic foundation guides all our design and development work."
+    },
+    {
+      "step": 2,
+      "title": "Custom Design Creation",
+      "description": "Our design team creates custom mockups that reflect your brand and appeal to your audience. We iterate based on your feedback until the design perfectly captures your vision and business needs."
+    },
+    {
+      "step": 3,
+      "title": "Professional Development",
+      "description": "Our developers build your website using modern, reliable technologies. We ensure clean code, fast performance, and seamless integration with the tools your Eyrecourt business requires."
+    },
+    {
+      "step": 4,
+      "title": "Comprehensive Testing",
+      "description": "Before launch, we rigorously test your website across devices, browsers, and connection speeds. Every element is optimized to ensure flawless performance for Eyrecourt customers and visitors."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Training",
+      "description": "We handle all technical aspects of launching your website and provide thorough training on content management. You'll have the confidence to update your site whenever needed."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Support",
+      "description": "We're here for the long term. Our maintenance and support services ensure your Eyrecourt website stays secure, fast, and effective as your business grows and evolves."
+    }
+  ],
+
+  "pricingInfo": "Web design projects for Eyrecourt businesses typically start from €2,500 for professional small business websites up to €12,000+ for e-commerce or custom functionality. We offer payment plans and transparent pricing. Contact us for a personalized quote.",
+
+  "serviceArea": "Eyrecourt and surrounding East Galway areas including Portumna, Ballinasloe, Banagher, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Flexible consultation times for Eyrecourt clients.",
+
+  "qualifications": [
+    "Professional web design team",
+    "Full-stack development expertise",
+    "Google Partner certification",
+    "Tourism and local business specialists",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive design guaranteed",
+    "SEO-optimized from launch",
+    "90-day post-launch support",
+    "Secure SSL certificates included"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "Web design planning tools in Eyrecourt",
+      "caption": "Professional Web Design Services in Eyrecourt"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Responsive web design on multiple devices",
+        "caption": "Mobile-optimized for East Galway"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "MacBook and iMac web design setup",
+        "caption": "Professional design environment"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "MacBook with code on desk",
+        "caption": "Expert development for Eyrecourt"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Code editor on monitor",
+        "caption": "Modern web technologies"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Eyrecourt Businesses Trust Kraft Agency",
+    "Our Web Design Process: Strategy to Launch",
+    "Essential Website Features for Modern Businesses",
+    "Success Stories from East Galway",
+    "Frequently Asked Questions About Web Design",
+    "Ready to Build Your Eyrecourt Website?"
+  ],
+
+  "faq": [
+    {
+      "question": "Do you work with businesses in Eyrecourt and East Galway?",
+      "answer": "Yes! We work with businesses throughout Eyrecourt and the wider East Galway region. We understand the local market and create websites that resonate with your community while reaching customers across Galway and beyond."
+    },
+    {
+      "question": "How long does a website project take?",
+      "answer": "Most website projects are completed within 4-8 weeks from kickoff to launch. The exact timeline depends on the complexity of your requirements and how quickly we can gather content and feedback. We provide a detailed timeline during our discovery session."
+    },
+    {
+      "question": "Will my website be mobile-friendly?",
+      "answer": "Absolutely! Every website we create is fully responsive and optimized for mobile devices, tablets, and desktops. Mobile optimization is essential for reaching Eyrecourt customers and visitors to East Galway."
+    },
+    {
+      "question": "Can you integrate booking or e-commerce systems?",
+      "answer": "Yes! We specialize in integrating booking systems, payment gateways, e-commerce platforms, and other business tools. Whether you need online sales, reservations, or custom functionality, we can build it for your Eyrecourt business."
+    },
+    {
+      "question": "What does web design cost for an Eyrecourt business?",
+      "answer": "Website costs vary based on your specific needs. Professional small business websites typically start from €2,500, while e-commerce sites or custom applications range from €5,000-€15,000+. We provide clear, detailed quotes."
+    },
+    {
+      "question": "Do you provide website hosting and maintenance?",
+      "answer": "Yes, we offer reliable hosting and comprehensive maintenance packages for Eyrecourt businesses. This includes security monitoring, regular backups, software updates, and technical support."
+    },
+    {
+      "question": "Will my website be optimized for Google?",
+      "answer": "Every website we build includes foundational SEO optimization – clean code, fast loading, proper meta tags, and mobile responsiveness. We can also provide ongoing SEO services to help you rank for Eyrecourt and East Galway searches."
+    },
+    {
+      "question": "What happens after my website launches?",
+      "answer": "All websites include 90 days of post-launch support. We monitor performance, fix any issues, and help you get comfortable managing your site. We also offer ongoing maintenance packages for long-term peace of mind."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "custom website",
+    "responsive web design",
+    "business website",
+    "professional web design",
+    "website redesign",
+    "mobile website",
+    "e-commerce website",
+    "web development agency"
+  ],
+  "localKeywords": [
+    "web design Eyrecourt",
+    "website design East Galway",
+    "Eyrecourt web developer",
+    "web development Eyrecourt",
+    "Eyrecourt website company",
+    "East Galway digital agency",
+    "web design County Galway",
+    "website builder Eyrecourt",
+    "Eyrecourt web services",
+    "local web design Eyrecourt"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "Email Us: hello@kraftagency.ie"
+}

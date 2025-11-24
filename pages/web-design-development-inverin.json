@@ -1,0 +1,208 @@
+{
+  "id": "web-design-development-inverin",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Inverin",
+  "locationSlug": "inverin",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Inverin - Stunning Websites That Convert | Kraft Agency",
+  "metaDescription": "Boost your Inverin business with professional web design. Kraft Agency creates beautiful, high-converting websites with cutting-edge technology. Free quote available!",
+  "heroHeadline": "Beautiful Web Design in Inverin",
+  "heroSubheadline": "Websites That Captivate, Convert, and Grow Your Business",
+
+  "description": "Looking for outstanding web design in Inverin? Kraft Agency creates stunning, high-performance websites that help Inverin businesses stand out and succeed online. Serving the Connemara Gaeltacht region and beyond, we understand the unique character of Inverin and the importance of creating digital experiences that resonate with both local and wider audiences. Our web design services combine artistic excellence with strategic thinking to deliver websites that are as effective as they are beautiful.\n\nYour Inverin business needs a website that does more than look good—it needs to work hard to attract customers, communicate your unique value, and drive business growth. Our approach to web design starts with understanding your business inside and out. We take time to learn about your customers in Inverin, your competitive advantages, and your growth goals. Then we craft a custom website that authentically represents your brand while incorporating proven conversion principles that transform visitors into loyal customers. Every design decision is intentional, purposeful, and aligned with your business objectives.\n\nKraft Agency brings international expertise to Inverin businesses with a local touch. We build websites using the latest technologies—ensuring fast performance, strong security, and easy scalability as your business grows. Every website is fully responsive across all devices, optimized for search engines from day one, and built with accessibility in mind. With comprehensive training, ongoing support, and continuous optimization, we're your long-term partner in digital success. Trust Kraft Agency to create a web presence that elevates your Inverin business above the competition.",
+
+  "shortDescription": "Professional web design services in Inverin. Beautiful, conversion-focused websites with modern technology and AI optimization. Free consultation for Inverin businesses.",
+
+  "benefits": [
+    "Custom design that captures your Inverin business's unique character",
+    "Mobile-responsive design optimized for all devices and screen sizes",
+    "SEO optimization to reach customers searching in Inverin and beyond",
+    "Lightning-fast loading speeds for excellent user experience",
+    "AI-powered conversion optimization technology",
+    "Comprehensive training and dedicated support team",
+    "Local Connemara expertise with global standards",
+    "Transparent fixed pricing with no hidden surprises"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Strategic Planning",
+      "description": "We begin with a comprehensive discovery session to understand your Inverin business, your target customers, competitive landscape, and business goals. This strategic groundwork ensures every design decision serves your objectives and resonates with your audience."
+    },
+    {
+      "step": 2,
+      "title": "Creative Design & Prototyping",
+      "description": "Our talented designers create custom visual concepts and interactive prototypes specifically for your brand. You'll see and interact with your website before development begins, providing feedback through collaborative revisions until the design is absolutely perfect."
+    },
+    {
+      "step": 3,
+      "title": "Expert Development & Integration",
+      "description": "Our development team brings approved designs to life with clean, efficient code and modern web technologies. We seamlessly integrate all necessary features—from contact forms and booking systems to payment gateways and analytics—ensuring everything works harmoniously."
+    },
+    {
+      "step": 4,
+      "title": "Quality Testing & Optimization",
+      "description": "Before launch, we rigorously test your website across all devices, browsers, and real-world scenarios. We optimize for speed, security, accessibility, and user experience, ensuring flawless performance and maximum conversions from day one."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Comprehensive Training",
+      "description": "We manage the complete launch process and provide hands-on training sessions so you can confidently manage your website. You'll receive detailed documentation, video tutorials, and ongoing access to our support team whenever questions arise."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Optimization & Support",
+      "description": "After launch, we continuously monitor website performance, analyze user behavior, and implement strategic improvements. Your Inverin business website evolves through ongoing optimization, security updates, and feature enhancements that keep you competitive."
+    }
+  ],
+
+  "pricingInfo": "Web design services for Inverin businesses typically range from €2,500 for professional small business websites to €15,000+ for sophisticated e-commerce platforms or custom web applications. We offer flexible payment arrangements and completely transparent pricing. Schedule your free consultation to receive a customized quote tailored to your specific business needs.",
+
+  "serviceArea": "Inverin and surrounding areas including Spiddal, Carraroe, Galway City, Oranmore, and all of Connemara and County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Dedicated support for existing clients.",
+
+  "qualifications": [
+    "Award-winning design professionals",
+    "Certified full-stack development team",
+    "Google Partner certified",
+    "AI and automation certified specialists",
+    "15+ years combined industry experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee on all projects",
+    "Mobile-responsive design across all platforms",
+    "SEO-optimized from launch day",
+    "90-day comprehensive post-launch support",
+    "Secure SSL certificates and hosting included"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Modern web design workspace with creative tools in Inverin",
+      "caption": "Professional Web Design Services in Inverin",
+      "credit": {
+        "photographer": "Eftakher Alam",
+        "unsplashUrl": "https://unsplash.com/photos/i1VQZsU86ok"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Creative web design UI components and elements",
+        "caption": "Beautiful and intuitive design",
+        "credit": {
+          "photographer": "Hal Gatewood",
+          "unsplashUrl": "https://unsplash.com/photos/tZc3vjPCk-Q"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Web development and coding workspace",
+        "caption": "Expert custom development",
+        "credit": {
+          "photographer": "Christopher Gower",
+          "unsplashUrl": "https://unsplash.com/photos/m_HRfLhgABo"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Responsive design displayed on laptop, tablet, and phone",
+        "caption": "Seamless experience across all devices",
+        "credit": {
+          "photographer": "Edho Pratama",
+          "unsplashUrl": "https://unsplash.com/photos/T6fDN60bMWY"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559028012-481c04fa702d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Team collaboration on web design project",
+        "caption": "Collaborative approach to excellence",
+        "credit": {
+          "photographer": "Smartworks Coworking",
+          "unsplashUrl": "https://unsplash.com/photos/cW4lLTavU80"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Inverin Businesses Choose Kraft Agency for Web Design",
+    "Our Complete Web Design Process: Strategy to Success",
+    "Key Features That Make Inverin Business Websites Successful",
+    "Success Stories: Websites That Transformed Local Businesses",
+    "Common Web Design Questions from Inverin Business Owners",
+    "Start Building Your Inverin Business Website Today"
+  ],
+
+  "faq": [
+    {
+      "question": "How long will it take to complete my Inverin business website?",
+      "answer": "Most website projects for Inverin businesses take between 4-8 weeks from initial kickoff to launch. Timeline depends on project complexity, custom features required, and content readiness. Simpler websites can launch faster, while comprehensive e-commerce platforms may need more time. We provide a detailed project schedule with clear milestones during our planning phase."
+    },
+    {
+      "question": "What support and maintenance do you provide after launch?",
+      "answer": "Every Inverin business website includes 90 days of comprehensive post-launch support covering technical issues, updates, and questions. We also offer ongoing maintenance packages that include secure hosting, regular backups, security updates, performance optimization, content updates, and priority technical support to keep your website running perfectly."
+    },
+    {
+      "question": "Will my website work properly on smartphones and tablets?",
+      "answer": "Absolutely! Every website we design is built with a mobile-first approach and is fully responsive across all devices. We extensively test on various smartphones, tablets, and desktop computers to ensure your Inverin business looks professional and functions flawlessly regardless of how your customers access your site."
+    },
+    {
+      "question": "Can you create content and copy for my Inverin business website?",
+      "answer": "Yes! We offer comprehensive content creation services including professional copywriting, custom graphics, image sourcing, and video integration. Our content team understands how to create engaging, SEO-optimized content that connects with your Inverin audience and drives conversions while staying true to your brand voice."
+    },
+    {
+      "question": "What is the investment for a professional website?",
+      "answer": "Investment varies based on your specific requirements and business objectives. Professional small business websites typically start from €2,500, while more comprehensive business sites range from €5,000-€8,000. Complex e-commerce platforms or custom web applications typically range from €10,000-€15,000+. We provide detailed, transparent quotes with no hidden fees after our initial consultation."
+    },
+    {
+      "question": "Do you provide website hosting and security services?",
+      "answer": "Yes! We offer premium hosting optimized for speed, security, and reliability. Our hosting includes SSL certificates, automated daily backups, malware scanning, security monitoring, DDoS protection, and 99.9% uptime guarantee. Your Inverin business website will be fast, secure, and always accessible to your customers."
+    },
+    {
+      "question": "Will my website be optimized for search engines like Google?",
+      "answer": "Yes! Every website includes foundational SEO optimization including clean code structure, fast loading speeds, mobile optimization, proper meta tags, schema markup, optimized images, and XML sitemaps. We can also provide advanced ongoing SEO services to help your Inverin business achieve higher rankings and attract more qualified organic traffic."
+    },
+    {
+      "question": "Can you redesign or improve my existing website?",
+      "answer": "Absolutely! We specialize in website redesigns and improvements for Inverin businesses. We'll conduct a thorough audit of your current site, identify strengths to preserve and weaknesses to address, then create a strategic redesign that modernizes your presence, enhances user experience, and delivers better business results."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "custom website",
+    "responsive design",
+    "web designer",
+    "business website",
+    "e-commerce website",
+    "website redesign",
+    "web development",
+    "digital agency"
+  ],
+  "localKeywords": [
+    "web design Inverin",
+    "website design Inverin",
+    "Inverin web designer",
+    "web development Inverin",
+    "Inverin website company",
+    "digital agency Inverin",
+    "website builder Inverin",
+    "web designer near Inverin",
+    "Connemara web design",
+    "Galway web design"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Inverin Website Consultation",
+  "ctaSecondary": "See Our Portfolio"
+}

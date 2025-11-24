@@ -1,0 +1,188 @@
+{
+  "id": "content-marketing-barna",
+  "service": "Content Marketing & Creation",
+  "serviceSlug": "content-marketing",
+  "location": "Barna",
+  "locationSlug": "barna",
+  "serviceNiche": "Full-Service Digital Agency",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Content Marketing Barna - Grow Your Brand with Expert Content | Kraft Agency",
+  "metaDescription": "Accelerate growth in Barna with strategic content marketing from Kraft Agency. Compelling content that attracts, engages, and converts. Free consultation available!",
+
+  "heroHeadline": "Expert Content Marketing in Barna",
+  "heroSubheadline": "Create Content That Attracts Your Ideal Customers and Drives Growth",
+
+  "description": "Want to grow your Barna business with content marketing that delivers real results? Kraft Agency creates strategic, high-quality content that positions your brand as an authority, builds trust with your audience, and drives consistent business growth. Serving businesses throughout Barna and across County Galway, we understand the local market dynamics and know how to create content that resonates with Irish audiences while competing on a global stage.\n\nOur content marketing services are designed for businesses that want more than just traffic - they want qualified leads and paying customers. We develop comprehensive content strategies that map to your entire customer journey, from initial awareness through consideration and decision-making. Whether it's thought-leadership articles that establish your expertise, detailed guides that answer customer questions, or persuasive case studies that overcome objections, every piece of content serves a strategic purpose in moving prospects closer to becoming customers in Barna.\n\nWhat makes Kraft Agency's approach unique is our commitment to both art and science. We use advanced AI-powered tools to identify content opportunities, optimize for search engines, and track performance metrics. But we also know that memorable content requires creativity, empathy, and authentic storytelling. Our team of experienced content strategists and creators craft compelling narratives that reflect your brand personality and connect emotionally with your audience. The result is content marketing that not only ranks well on Google but genuinely engages the people you want to reach in Barna and beyond.",
+
+  "shortDescription": "Strategic content marketing in Barna. Create authoritative, engaging content that drives traffic, generates leads, and increases revenue. Free consultation available.",
+
+  "benefits": [
+    "Establish authority and thought leadership in your industry",
+    "Attract qualified traffic through SEO-optimized content",
+    "Generate consistent leads and sales opportunities",
+    "Build lasting relationships with your audience",
+    "Cost-effective marketing with long-term ROI",
+    "Strengthen brand awareness across Barna and beyond",
+    "Local expertise with global best practices",
+    "Complete transparency with detailed performance reports"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Business & Audience Discovery",
+      "description": "We start by deeply understanding your business goals, target audience, and competitive landscape in Barna. This discovery phase ensures our content strategy aligns perfectly with what matters most to your business."
+    },
+    {
+      "step": 2,
+      "title": "Content Strategy & Planning",
+      "description": "Based on our discovery, we develop a comprehensive content strategy including topic clusters, content formats, publishing frequency, and distribution channels optimized for your specific goals and audience."
+    },
+    {
+      "step": 3,
+      "title": "Research & Content Development",
+      "description": "Our team conducts thorough research on each topic, then creates well-written, engaging content that provides genuine value to your audience. We blend expert knowledge with compelling storytelling."
+    },
+    {
+      "step": 4,
+      "title": "SEO & Conversion Optimization",
+      "description": "Every piece of content is optimized for search engines with strategic keywords, proper formatting, and technical SEO elements. We also optimize for conversions with strategic CTAs and persuasive copywriting."
+    },
+    {
+      "step": 5,
+      "title": "Multi-Platform Distribution",
+      "description": "Creating content is just the beginning. We implement comprehensive distribution strategies across your website, social media, email, and other channels to ensure your content reaches the right audience."
+    },
+    {
+      "step": 6,
+      "title": "Performance Tracking & Optimization",
+      "description": "We monitor detailed metrics to understand what's working and continuously refine our approach. Regular reporting keeps you informed while we focus on improving results month over month."
+    }
+  ],
+
+  "pricingInfo": "Content marketing packages for Barna businesses start from €1,200 per month for foundational services including blog content and social media, ranging up to €6,500+ per month for comprehensive strategies with advanced SEO, video content, and multi-channel campaigns. We customize every package to your unique needs and budget. Contact us for a complimentary content audit and personalized proposal.",
+
+  "serviceArea": "Barna and surrounding areas including Knocknacarra, Salthill, Galway City, Furbo, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Your dedicated content manager is always available.",
+
+  "qualifications": [
+    "Certified content marketing strategists",
+    "Experienced SEO specialists",
+    "Professional writers across industries",
+    "Digital marketing certified team",
+    "15+ years combined expertise"
+  ],
+  "yearsExperience": "15+ years combined content marketing experience",
+  "guarantees": [
+    "100% original, professionally written content",
+    "SEO-optimized for search visibility",
+    "Punctual delivery every time",
+    "Revisions until you're delighted",
+    "Measurable results with transparent reporting"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-4.1.0&q=80&w=1920",
+      "alt": "Content marketing strategy development in Barna",
+      "caption": "Expert Content Marketing Services in Barna"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?ixlib=rb-4.1.0&q=80&w=1200",
+        "alt": "Professional content writer at work",
+        "caption": "High-quality content creation"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?ixlib=rb-4.1.0&q=80&w=1200",
+        "alt": "Digital content strategy and planning",
+        "caption": "Strategic content planning"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?ixlib=rb-4.1.0&q=80&w=1200",
+        "alt": "Content strategy brainstorming session",
+        "caption": "Collaborative strategy development"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1686061594225-3e92c0cd51b0?ixlib=rb-4.1.0&q=80&w=1200",
+        "alt": "Analytics dashboard for content performance",
+        "caption": "Data-driven optimization"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Barna Businesses Trust Kraft Agency for Content Marketing",
+    "Our Content Marketing Process: From Strategy to Results",
+    "Content Marketing Services That Drive Business Growth",
+    "Real Results: Content Marketing Success in Barna",
+    "Content Marketing Questions Answered",
+    "Transform Your Content Strategy Today"
+  ],
+
+  "faq": [
+    {
+      "question": "Is content marketing suitable for small businesses in Barna?",
+      "answer": "Absolutely! Content marketing is particularly effective for small businesses because it levels the playing field. You don't need a massive advertising budget to compete - you need valuable content that demonstrates your expertise and builds trust with potential customers in Barna and beyond."
+    },
+    {
+      "question": "How much content should we publish each month?",
+      "answer": "The ideal volume depends on your industry, goals, and resources. Most businesses see excellent results with 3-5 high-quality blog posts per month, plus consistent social media content. We'll recommend a sustainable publishing schedule during your consultation based on your specific situation."
+    },
+    {
+      "question": "Can you write content for specialized or technical industries?",
+      "answer": "Yes! Our team has experience creating content across diverse industries including technology, healthcare, finance, manufacturing, and professional services. We invest time learning your industry and work closely with your team to ensure accuracy and authenticity in every piece."
+    },
+    {
+      "question": "How do you ensure our content stands out from competitors?",
+      "answer": "We conduct thorough competitive analysis to identify what competitors are doing and where gaps exist. We then develop unique angles, deeper insights, and more valuable content that differentiates your brand. Our goal is to make your content the best resource available on any topic we cover."
+    },
+    {
+      "question": "What's your process for understanding our brand voice?",
+      "answer": "We start with a brand voice workshop where we explore your brand personality, values, and communication style. We review your existing materials and may interview key team members. This creates a brand voice guide that ensures all content sounds authentically like your brand."
+    },
+    {
+      "question": "How do you handle seasonal or timely content?",
+      "answer": "We build flexibility into our content calendars to capitalize on seasonal opportunities, industry trends, and timely topics. We can also create evergreen content that remains valuable year-round. The key is balancing timely content with long-term strategic pieces."
+    },
+    {
+      "question": "Can you help with content for multiple locations or markets?",
+      "answer": "Yes! We can create location-specific content for businesses serving multiple areas, or adapt content for different markets. This is particularly effective for businesses serving Barna and surrounding towns who want to improve local SEO and connect with each community."
+    },
+    {
+      "question": "What if our competitors are already doing content marketing?",
+      "answer": "That's actually good news - it validates that content marketing works in your industry! The key is doing it better. We'll analyze what competitors are doing, identify their weaknesses, and create superior content that captures market share and positions you as the authority in Barna."
+    }
+  ],
+
+  "keywords": [
+    "content marketing",
+    "content strategy services",
+    "business content creation",
+    "blog writing",
+    "SEO content",
+    "content marketing agency",
+    "digital content",
+    "strategic content",
+    "content development",
+    "brand storytelling"
+  ],
+  "localKeywords": [
+    "content marketing Barna",
+    "Barna content agency",
+    "content creation Barna",
+    "blog writing Barna",
+    "Barna content services",
+    "content strategy Galway",
+    "Barna digital marketing",
+    "SEO content Barna",
+    "content marketing County Galway",
+    "Barna copywriting services"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Schedule Free Consultation",
+  "ctaSecondary": "Download Content Guide"
+}

@@ -1,0 +1,99 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link "K Kraft Agency" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e7]: K
+          - generic [ref=e8]: Kraft Agency
+        - button "Toggle menu" [ref=e9]:
+          - img
+  - generic [ref=e12]:
+    - button "Close menu" [ref=e13]:
+      - img
+    - generic [ref=e15]:
+      - link "Services" [ref=e16] [cursor=pointer]:
+        - /url: /services
+      - link "Locations" [ref=e17] [cursor=pointer]:
+        - /url: /locations
+      - link "About" [ref=e18] [cursor=pointer]:
+        - /url: /about
+      - link "Get Started" [ref=e19] [cursor=pointer]:
+        - /url: /contact
+  - main [ref=e20]:
+    - generic [ref=e22]:
+      - heading "404" [level=1] [ref=e23]
+      - heading "This page could not be found." [level=2] [ref=e25]
+  - contentinfo [ref=e26]:
+    - generic [ref=e27]:
+      - generic [ref=e28]:
+        - generic [ref=e29]:
+          - generic [ref=e30]:
+            - generic [ref=e32]: K
+            - generic [ref=e33]: Kraft Agency
+          - paragraph [ref=e34]: Craftspeople in a digital sense. Building exceptional digital experiences since 2016.
+          - generic:
+            - link "Twitter":
+              - /url: "#"
+              - img
+            - link "Facebook":
+              - /url: "#"
+              - img
+            - link "LinkedIn":
+              - /url: "#"
+              - img
+        - generic [ref=e38]:
+          - heading "Services" [level=3] [ref=e39]
+          - list [ref=e40]:
+            - listitem [ref=e41]:
+              - link "Web Design" [ref=e42] [cursor=pointer]:
+                - /url: /services/web-design-development
+            - listitem [ref=e43]:
+              - link "SEO Services" [ref=e44] [cursor=pointer]:
+                - /url: /services/seo-services
+            - listitem [ref=e45]:
+              - link "AI Marketing" [ref=e46] [cursor=pointer]:
+                - /url: /services/ai-marketing
+            - listitem [ref=e47]:
+              - link "Content Marketing" [ref=e48] [cursor=pointer]:
+                - /url: /services/content-marketing
+            - listitem [ref=e49]:
+              - link "PPC & Google Ads" [ref=e50] [cursor=pointer]:
+                - /url: /services/ppc-google-ads
+            - listitem [ref=e51]:
+              - link "Social Media" [ref=e52] [cursor=pointer]:
+                - /url: /services/social-media-marketing
+        - generic [ref=e53]:
+          - heading "Company" [level=3] [ref=e54]
+          - list [ref=e55]:
+            - listitem [ref=e56]:
+              - link "About Us" [ref=e57] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e58]:
+              - link "Locations" [ref=e59] [cursor=pointer]:
+                - /url: /locations
+            - listitem [ref=e60]:
+              - link "Contact" [ref=e61] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=e62]:
+          - heading "Contact" [level=3] [ref=e63]
+          - list [ref=e64]:
+            - listitem [ref=e65]:
+              - link "+353 86 153 0832" [ref=e66] [cursor=pointer]:
+                - /url: tel:+353861530832
+            - listitem [ref=e67]:
+              - link "hello@kraftagency.ie" [ref=e68] [cursor=pointer]:
+                - /url: mailto:hello@kraftagency.ie
+            - listitem [ref=e69]: Galway, Ireland
+      - generic [ref=e71]:
+        - paragraph [ref=e72]: © 2025 Kraft Agency. All rights reserved. Craftspeople in a digital sense.
+        - generic [ref=e73]:
+          - link "Privacy Policy" [ref=e74] [cursor=pointer]:
+            - /url: /privacy
+          - link "Terms of Service" [ref=e75] [cursor=pointer]:
+            - /url: /terms
+  - alert [ref=e76]
+```

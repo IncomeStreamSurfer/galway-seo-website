@@ -1,0 +1,208 @@
+{
+  "id": "ai-marketing-renmore",
+  "service": "AI-Powered Marketing Solutions",
+  "serviceSlug": "ai-marketing",
+  "location": "Renmore",
+  "locationSlug": "renmore",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "AI Marketing Renmore - Automate & Scale | Kraft Agency",
+  "metaDescription": "Transform your Renmore business with AI-powered marketing from Kraft Agency. Automate campaigns, personalize at scale, and boost ROI. Free consultation today!",
+  "heroHeadline": "AI-Powered Marketing Solutions in Renmore",
+  "heroSubheadline": "Harness Artificial Intelligence to Supercharge Your Marketing",
+
+  "description": "Ready to revolutionize your Renmore business marketing with artificial intelligence? Kraft Agency delivers cutting-edge AI-powered marketing solutions that automate repetitive tasks, personalize customer experiences at scale, and dramatically improve campaign performance. As a pioneering digital agency serving Renmore and Galway City, we leverage the latest AI technologies – from machine learning and predictive analytics to natural language processing and automation – to create marketing strategies that deliver unprecedented efficiency and results.\n\nOur AI marketing approach transforms how Renmore businesses connect with customers. We implement intelligent chatbots that provide 24/7 customer service, predictive analytics that identify your highest-value prospects, automated email campaigns that adapt to individual behaviors, and AI-powered content generation that scales your marketing efforts. Our machine learning algorithms continuously optimize your ad campaigns across platforms, ensuring every euro spent delivers maximum return. From sentiment analysis that understands customer feedback to recommendation engines that personalize product suggestions, Kraft Agency brings enterprise-level AI capabilities to Renmore businesses of all sizes.\n\nWhat makes Kraft Agency the leader in AI marketing is our ability to make complex technology accessible and actionable. We don't just implement AI tools – we create comprehensive strategies that integrate AI throughout your marketing ecosystem, from lead generation and nurturing to conversion optimization and customer retention. You'll see measurable improvements in efficiency, personalization, and ROI as AI handles routine tasks and uncovers insights human analysis would miss. Whether you're a Renmore startup looking to compete with larger competitors or an established business ready to scale marketing without proportionally scaling costs, Kraft Agency's AI-powered solutions provide the competitive advantage you need to dominate your market.",
+
+  "shortDescription": "AI-powered marketing solutions for Renmore businesses. Automate campaigns, personalize at scale, optimize performance, and boost ROI with artificial intelligence.",
+
+  "benefits": [
+    "Automate repetitive marketing tasks and save time",
+    "Personalize customer experiences at scale",
+    "Predict customer behavior and optimize campaigns",
+    "24/7 AI chatbots for customer service",
+    "Dramatically improve marketing ROI",
+    "AI-generated content that converts",
+    "Real-time campaign optimization",
+    "Gain competitive advantage in Renmore market"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "AI Readiness Assessment",
+      "description": "We analyze your current marketing operations, data infrastructure, and business goals to identify the highest-impact AI opportunities for your Renmore business. This assessment creates our implementation roadmap."
+    },
+    {
+      "step": 2,
+      "title": "Data Strategy & Integration",
+      "description": "AI requires quality data. We help you organize, clean, and integrate your customer data across platforms, creating the foundation for effective AI-powered marketing in Renmore."
+    },
+    {
+      "step": 3,
+      "title": "AI Tool Selection & Setup",
+      "description": "We select and implement the right AI tools for your specific needs – from marketing automation and chatbots to predictive analytics and content generation. Every tool is chosen to deliver measurable business value."
+    },
+    {
+      "step": 4,
+      "title": "Campaign Automation & Personalization",
+      "description": "We build automated marketing workflows that leverage AI to personalize messaging, timing, and offers for each Renmore customer. AI handles routine tasks while you focus on strategy and growth."
+    },
+    {
+      "step": 5,
+      "title": "Machine Learning Optimization",
+      "description": "Our AI systems continuously learn from campaign performance, automatically optimizing targeting, creative, bidding, and messaging to improve results for your Renmore business over time."
+    },
+    {
+      "step": 6,
+      "title": "Monitoring & Strategic Refinement",
+      "description": "We monitor AI performance, provide regular reporting on efficiency gains and ROI improvements, and continuously refine your AI marketing strategy as technology and your Renmore business evolve."
+    }
+  ],
+
+  "pricingInfo": "AI-powered marketing solutions for Renmore businesses typically range from €2,000 per month for foundational automation and chatbots to €15,000+ per month for comprehensive enterprise AI marketing systems. Investment depends on your current marketing complexity, data readiness, and desired AI capabilities. Contact us for a free AI readiness assessment and customized proposal.",
+
+  "serviceArea": "Renmore and surrounding areas including Mervue, Galway City, Doughiska, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. AI systems work 24/7 for your business.",
+
+  "qualifications": [
+    "AI and machine learning certified",
+    "Marketing automation specialists",
+    "Data science and analytics experts",
+    "Certified in major AI platforms",
+    "15+ years digital marketing experience"
+  ],
+  "yearsExperience": "15+ years combined AI and marketing expertise",
+  "guarantees": [
+    "Measurable efficiency improvements",
+    "Transparent AI implementation process",
+    "Ongoing training and support",
+    "Regular performance reporting",
+    "Flexible service agreements"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Laptop showing AI marketing analytics and data visualization",
+      "caption": "AI-Powered Marketing Solutions in Renmore",
+      "credit": {
+        "photographer": "Carlos Muza",
+        "unsplashUrl": "https://unsplash.com/photos/hpjSkU2UYSU"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1746608943132-065d1d4b3c5d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Smartphone displaying AI assistant interface",
+        "caption": "AI chatbots and automated customer service",
+        "credit": {
+          "photographer": "Zulfugar Karimov",
+          "unsplashUrl": "https://unsplash.com/photos/L_ABvr0KxgU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Abstract AI and technology visualization",
+        "caption": "Advanced AI marketing technology",
+        "credit": {
+          "photographer": "fabio",
+          "unsplashUrl": "https://unsplash.com/photos/oyXis2kALVg"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Robot toy representing AI and automation",
+        "caption": "Marketing automation and AI integration",
+        "credit": {
+          "photographer": "Andrea De Santis",
+          "unsplashUrl": "https://unsplash.com/photos/zwd435-ewb4"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533750349088-cd871a92f312?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing strategy paper with planning",
+        "caption": "Strategic AI marketing planning for Renmore",
+        "credit": {
+          "photographer": "Campaign Creators",
+          "unsplashUrl": "https://unsplash.com/photos/yktK2qaiVHI"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Renmore Businesses Need AI-Powered Marketing",
+    "Our AI Marketing Implementation Process",
+    "AI Marketing Use Cases for Renmore Businesses",
+    "Real Results: AI Marketing Success Stories",
+    "Common AI Marketing Questions Answered",
+    "Transform Your Marketing with AI Today"
+  ],
+
+  "faq": [
+    {
+      "question": "What is AI-powered marketing?",
+      "answer": "AI-powered marketing uses artificial intelligence and machine learning to automate tasks, personalize customer experiences, predict behavior, and optimize campaigns in real-time. It includes technologies like chatbots, predictive analytics, automated content generation, and intelligent campaign optimization that work 24/7 to improve your Renmore business's marketing performance."
+    },
+    {
+      "question": "How can AI marketing help my Renmore business?",
+      "answer": "AI marketing helps Renmore businesses automate repetitive tasks (saving time and money), personalize messaging at scale (improving conversion rates), predict which leads are most likely to convert (improving efficiency), optimize campaigns in real-time (maximizing ROI), and provide 24/7 customer service through chatbots (improving customer satisfaction)."
+    },
+    {
+      "question": "How much does AI marketing cost?",
+      "answer": "AI marketing solutions for Renmore businesses typically range from €2,000/month for basic automation and chatbots to €8,000-€15,000/month for comprehensive AI marketing systems. Investment depends on your current marketing complexity, data readiness, and desired capabilities. Most businesses see positive ROI within 3-6 months through efficiency gains alone."
+    },
+    {
+      "question": "Do I need technical expertise to use AI marketing?",
+      "answer": "No! That's where Kraft Agency comes in. We handle all the technical implementation, integration, and optimization. You don't need any AI expertise – we make complex technology simple and actionable for your Renmore business, providing training and ongoing support."
+    },
+    {
+      "question": "Will AI replace my marketing team?",
+      "answer": "No, AI enhances your marketing team, not replaces it. AI handles repetitive, data-intensive tasks, freeing your team to focus on strategy, creativity, and relationship building. Think of AI as a tireless assistant that makes your human marketers more effective and productive."
+    },
+    {
+      "question": "How long does AI marketing implementation take?",
+      "answer": "Basic AI tools like chatbots can be implemented in 2-4 weeks. More comprehensive AI marketing systems typically take 2-3 months to fully implement and optimize. You'll start seeing benefits from early implementations while we continue building out your complete AI marketing ecosystem."
+    },
+    {
+      "question": "What kind of results can I expect from AI marketing?",
+      "answer": "Renmore businesses typically see 30-50% improvement in marketing efficiency, 20-40% increase in conversion rates through better personalization, 24/7 customer service availability, significant time savings on routine tasks, and improved campaign ROI through continuous optimization. Results vary based on implementation scope."
+    },
+    {
+      "question": "Is my business too small for AI marketing?",
+      "answer": "Not at all! AI marketing tools have become accessible for businesses of all sizes. Even small Renmore businesses can benefit from AI chatbots, email automation, and predictive analytics. We tailor our AI solutions to your business size, budget, and growth goals."
+    }
+  ],
+
+  "keywords": [
+    "AI marketing",
+    "artificial intelligence marketing",
+    "marketing automation",
+    "AI chatbots",
+    "predictive analytics",
+    "machine learning marketing",
+    "marketing AI",
+    "automated marketing",
+    "AI personalization",
+    "intelligent marketing"
+  ],
+  "localKeywords": [
+    "AI marketing Renmore",
+    "AI marketing Galway",
+    "marketing automation Ireland",
+    "AI agency Renmore",
+    "AI marketing services Galway",
+    "artificial intelligence marketing Ireland",
+    "AI chatbots Renmore",
+    "marketing automation County Galway",
+    "AI marketing agency near me",
+    "Irish AI marketing"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free AI Readiness Assessment",
+  "ctaSecondary": "Schedule AI Consultation"
+}

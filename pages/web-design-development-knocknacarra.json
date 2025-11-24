@@ -1,0 +1,188 @@
+{
+  "id": "web-design-development-knocknacarra",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Knocknacarra",
+  "locationSlug": "knocknacarra",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Knocknacarra - Local Business Websites | Kraft Agency",
+  "metaDescription": "Professional web design for Knocknacarra businesses. Custom websites that attract local customers and drive growth. Kraft Agency delivers results. Call +353 86 153 0832!",
+  "heroHeadline": "Web Design Services in Knocknacarra",
+  "heroSubheadline": "Helping Local Businesses Grow Online",
+
+  "description": "Knocknacarra is a thriving community with diverse local businesses, and Kraft Agency is here to help you establish a strong online presence. We create professional websites for Knocknacarra businesses of all types – from retail shops and professional services to restaurants and local enterprises. Our goal is simple: build you a website that attracts more customers and helps your Knocknacarra business grow.\n\nWe understand the Knocknacarra market and what local customers expect when they visit a website. That's why we focus on creating clean, user-friendly designs with clear calls-to-action that encourage visitors to contact you, make a purchase, or visit your location. Whether you're a new Knocknacarra business launching for the first time or an established company ready to modernize your online presence, we have the expertise to deliver results.\n\nAs your local web design partner serving Knocknacarra, we provide personalized service with ongoing support. We're never more than a phone call away and can meet with you locally to discuss your project. From initial design to launch and beyond, Kraft Agency is committed to helping your Knocknacarra business succeed online.",
+
+  "shortDescription": "Local web design services for Knocknacarra businesses. Professional, affordable websites that drive results. Contact Kraft Agency at +353 86 153 0832 or hello@kraftagency.ie.",
+
+  "benefits": [
+    "Local Knocknacarra expertise and personalized service",
+    "Affordable packages for small and medium businesses",
+    "Mobile-friendly designs for local customers",
+    "Fast, reliable hosting and maintenance",
+    "SEO optimization for Knocknacarra local searches",
+    "Easy-to-update content management systems",
+    "Professional look that builds trust",
+    "Ongoing support when you need it"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Initial Consultation",
+      "description": "We meet with you in Knocknacarra to understand your business, your customers, and your goals. This personal approach ensures we create exactly what your business needs."
+    },
+    {
+      "step": 2,
+      "title": "Custom Design",
+      "description": "Our designers create mockups tailored to your Knocknacarra business and target audience. You'll see the design before development begins and can request changes until you're completely satisfied."
+    },
+    {
+      "step": 3,
+      "title": "Development & Setup",
+      "description": "We build your website using reliable, modern technology. All features are set up and tested, from contact forms to photo galleries, ensuring everything works perfectly for your Knocknacarra customers."
+    },
+    {
+      "step": 4,
+      "title": "Content & Optimization",
+      "description": "We help optimize your content for search engines so Knocknacarra customers can find you easily. If you need help with writing or photography, we can assist with that too."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Training",
+      "description": "We handle the technical launch and provide hands-on training. You'll learn how to update content, add photos, and manage your website with confidence."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Partnership",
+      "description": "We're here whenever you need support, updates, or advice. Your success is our success, and we're committed to helping your Knocknacarra business thrive."
+    }
+  ],
+
+  "pricingInfo": "Our web design packages start from €2,500 for small business websites, with flexible payment options available for Knocknacarra businesses. All packages include responsive design, basic SEO, and training. Contact us for a free consultation and custom quote.",
+
+  "serviceArea": "Knocknacarra and surrounding areas including Salthill, Barna, Galway City, and County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Available for local meetings in Knocknacarra. Email: hello@kraftagency.ie",
+
+  "qualifications": [
+    "Experienced local web design team",
+    "Serving Knocknacarra businesses",
+    "Full-service digital capabilities",
+    "Modern web development expertise",
+    "Committed to customer satisfaction"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive design",
+    "SEO-optimized structure",
+    "Easy content management",
+    "90-day support included"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1658053283477-b985256569bc?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "Professional web design for Knocknacarra businesses",
+      "caption": "Quality Web Design Services in Knocknacarra"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1666698809123-44e998e93f23?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Team collaboration on website project",
+        "caption": "Collaborative web design process"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1593720213681-e9a8778330a7?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Web development coding",
+        "caption": "Professional development standards"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Responsive website design",
+        "caption": "Mobile-friendly responsive design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1691050769649-390293697deb?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Clean website design mockup",
+        "caption": "Clean, professional website designs"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Knocknacarra Businesses Choose Kraft Agency",
+    "Our Web Design Process",
+    "Features Every Knocknacarra Business Website Needs",
+    "Success Stories from Local Businesses",
+    "Frequently Asked Questions",
+    "Start Your Website Project Today"
+  ],
+
+  "faq": [
+    {
+      "question": "How long does it take to build a website for my Knocknacarra business?",
+      "answer": "Most small to medium business websites take 4-6 weeks from initial consultation to launch. The timeline depends on how complex your website needs to be and how quickly you can provide content and feedback."
+    },
+    {
+      "question": "Can I update my website myself?",
+      "answer": "Yes! We build websites on user-friendly platforms and provide full training. You'll be able to update text, images, prices, and other content without needing technical skills. And we're always here if you need help."
+    },
+    {
+      "question": "Do I need a website if my Knocknacarra business is small?",
+      "answer": "Absolutely! Even small businesses benefit from a professional website. It builds credibility, makes it easier for Knocknacarra customers to find you, and can significantly increase your business visibility and customer inquiries."
+    },
+    {
+      "question": "Will my website work on mobile phones?",
+      "answer": "Yes, every website we create is fully responsive and looks great on smartphones, tablets, and computers. This is essential since many Knocknacarra customers browse on mobile devices."
+    },
+    {
+      "question": "How much does a website cost?",
+      "answer": "Our packages start from €2,500 for small business websites. The final cost depends on features you need. We provide transparent quotes with no hidden fees and offer flexible payment options for Knocknacarra businesses."
+    },
+    {
+      "question": "Will my website show up on Google?",
+      "answer": "Yes! We optimize every website for search engines so Knocknacarra customers can find you when they search online. We can also provide additional SEO services to help you rank even higher."
+    },
+    {
+      "question": "Do you provide website hosting?",
+      "answer": "Yes, we offer secure, reliable hosting for your website. We handle all the technical details so you can focus on running your Knocknacarra business."
+    },
+    {
+      "question": "What if I need changes after my website is live?",
+      "answer": "We provide 90 days of support after launch for any issues or minor changes. After that, we offer maintenance packages or can make updates on an hourly basis. We're always here to help your Knocknacarra business."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "small business website",
+    "web designer",
+    "responsive design",
+    "local business website",
+    "website builder",
+    "custom website",
+    "web development",
+    "professional website"
+  ],
+  "localKeywords": [
+    "web design Knocknacarra",
+    "website design Knocknacarra",
+    "Knocknacarra web designer",
+    "web development Knocknacarra",
+    "local web designer Knocknacarra",
+    "Knocknacarra website company",
+    "website builder Knocknacarra",
+    "Galway web design",
+    "web designer near me Knocknacarra",
+    "Knocknacarra digital services"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "See Our Work"
+}

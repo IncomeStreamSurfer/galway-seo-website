@@ -1,0 +1,189 @@
+{
+  "id": "seo-services-corrandulla",
+  "service": "Search Engine Optimization (SEO)",
+  "serviceSlug": "seo-services",
+  "location": "Corrandulla",
+  "locationSlug": "corrandulla",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "SEO Corrandulla - Rank Higher Locally | Kraft Agency",
+  "metaDescription": "Powerful SEO services for Corrandulla businesses. Increase local visibility, attract more customers, and grow your revenue. Free consultation available!",
+
+  "heroHeadline": "Rank Higher with SEO in Corrandulla",
+  "heroSubheadline": "Strategic Search Optimization for Local Business Growth",
+
+  "description": "Looking to grow your Corrandulla business through online search? Kraft Agency delivers strategic SEO services that increase your local visibility, drive qualified traffic, and convert searches into customers. Serving Corrandulla and throughout North Galway, we understand the local market dynamics and create customized SEO strategies that deliver real business results.\n\nOur comprehensive SEO services address every factor impacting your search rankings. We optimize your website's technical foundation to ensure Google can properly crawl and index your pages. We develop strategic content targeting the specific keywords your Corrandulla customers use when searching. And we build your online authority through quality backlinks and local citations that signal trust to Google and customers alike. Every strategy is customized for your industry, competitive landscape, and business objectives in Corrandulla.\n\nAt Kraft Agency, we believe success comes from combining proven SEO fundamentals with cutting-edge technology. Our team leverages AI-powered tools to identify opportunities faster and more accurately than traditional methods. We monitor your performance continuously, test optimization strategies regularly, and refine our approach based on actual results. You'll receive complete transparency through detailed monthly reports and strategy sessions. Our focus is simple: drive measurable growth for your Corrandulla business through increased visibility, more traffic, and higher conversions.",
+
+  "shortDescription": "Strategic SEO services for Corrandulla businesses. Increase local visibility, drive qualified traffic, and grow revenue with proven optimization.",
+
+  "benefits": [
+    "Increase visibility for Corrandulla local searches",
+    "Attract customers actively looking for your services",
+    "Build sustainable organic rankings",
+    "AI-powered insights and optimization",
+    "Full-service technical, content, and link SEO",
+    "Clear monthly reporting and strategy updates",
+    "Local expertise serving Corrandulla businesses",
+    "Flexible month-to-month engagement"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "SEO Discovery & Market Analysis",
+      "description": "We thoroughly assess your Corrandulla business, analyze local competition, review your current SEO performance, and identify opportunities for growth. This creates our strategic foundation."
+    },
+    {
+      "step": 2,
+      "title": "Keyword Research & Targeting",
+      "description": "We identify the most valuable keywords for your Corrandulla business, balancing search volume, competition, and commercial intent. Our research focuses on terms that drive actual business results, not just traffic."
+    },
+    {
+      "step": 3,
+      "title": "Technical SEO Foundation",
+      "description": "We optimize your website's technical infrastructure - site speed, mobile experience, crawlability, indexing, schema markup, and architecture - creating a solid foundation for strong rankings in Corrandulla searches."
+    },
+    {
+      "step": 4,
+      "title": "Content Strategy & Development",
+      "description": "We create and optimize content that targets your strategic keywords while providing genuine value to customers. Every piece is designed to rank well on Google and convert visitors into customers for your Corrandulla business."
+    },
+    {
+      "step": 5,
+      "title": "Authority Building & Link Acquisition",
+      "description": "We implement strategic link building campaigns, earning quality backlinks from relevant industry websites and local sources. These authoritative links improve your domain strength and search visibility in Corrandulla."
+    },
+    {
+      "step": 6,
+      "title": "Continuous Monitoring & Refinement",
+      "description": "We track performance daily, analyze results monthly, and continuously optimize based on data. Regular reporting and strategy calls ensure your Corrandulla business stays ahead of competition and algorithm changes."
+    }
+  ],
+
+  "pricingInfo": "SEO services for Corrandulla businesses start at €1,200 per month for local optimization campaigns, scaling to €4,000+ per month for competitive regional or national strategies. Investment is customized based on your industry, competition level, current website status, and business goals. Contact us for a complimentary audit and tailored proposal.",
+
+  "serviceArea": "Corrandulla and surrounding areas including Headford, Tuam, Galway City, Claregalway, and throughout North Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Dedicated support with regular communication.",
+
+  "qualifications": [
+    "Google Partner certification",
+    "15+ years combined SEO expertise",
+    "Technical SEO specialists",
+    "Professional content team",
+    "AI and analytics certified"
+  ],
+  "yearsExperience": "15+ years combined SEO experience",
+  "guarantees": [
+    "Complete transparency with monthly reports",
+    "White-hat ethical SEO practices only",
+    "Customized strategy for your Corrandulla business",
+    "Regular updates and strategy sessions",
+    "Flexible monthly service - no contracts"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1599658880436-c61792e70672?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "SEO professional working on optimization strategy",
+      "caption": "Strategic SEO Services in Corrandulla"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Google Analytics SEO performance dashboard",
+        "caption": "Data-driven SEO optimization"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1562577309-4932fdd64cd1?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "SEO tools and optimization",
+        "caption": "Professional SEO implementation"
+      },
+      {
+        "url":"https://images.unsplash.com/photo-1686061594183-8c864f508b00?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Search engine data analysis",
+        "caption": "Comprehensive performance tracking"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing team collaboration",
+        "caption": "Dedicated team focused on your success"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Corrandulla Businesses Trust Kraft Agency for SEO",
+    "Our Strategic SEO Process: Audit to Results",
+    "Local SEO for Corrandulla: Capturing Nearby Customers",
+    "Real SEO Results from North Galway Businesses",
+    "SEO Questions from Corrandulla Business Owners",
+    "Transform Your Corrandulla Business with Professional SEO"
+  ],
+
+  "faq": [
+    {
+      "question": "How long before my Corrandulla business sees SEO results?",
+      "answer": "Most businesses see initial ranking improvements within 2-4 months, with substantial traffic growth typically occurring between 6-12 months. SEO is a medium to long-term strategy that builds momentum over time. The timeline varies based on your industry competition in Corrandulla, current website status, and keyword difficulty."
+    },
+    {
+      "question": "Why should I invest in SEO instead of just using paid ads?",
+      "answer": "Both have value! Paid ads deliver immediate traffic but require continuous spending. SEO builds long-term organic visibility that continues generating traffic without ongoing ad costs. For most Corrandulla businesses, a combination approach works best - ads for immediate results while building SEO for sustainable long-term growth."
+    },
+    {
+      "question": "Can you guarantee my business will rank #1 in Corrandulla?",
+      "answer": "We can't ethically guarantee specific rankings as Google's algorithm involves hundreds of constantly evolving factors. However, we do guarantee our commitment to proven strategies, transparent communication, and continuous optimization focused on driving measurable traffic and revenue growth for your Corrandulla business."
+    },
+    {
+      "question": "What makes your SEO services different?",
+      "answer": "We combine 15+ years of SEO expertise with cutting-edge AI tools for superior insights and faster optimization. We're completely transparent about our methods and results. We focus on metrics that drive business growth - traffic, leads, and revenue - not just vanity metrics like rankings. Plus, we provide personalized service with direct access to our team."
+    },
+    {
+      "question": "How much should a Corrandulla business invest in SEO?",
+      "answer": "Investment depends on your goals, competition, and growth timeline. Local campaigns often start at €1,200-€2,000/month, while more competitive strategies may require €3,000-€5,000/month. We provide custom proposals after understanding your specific situation, ensuring the investment aligns with expected returns."
+    },
+    {
+      "question": "Will you optimize my Google Business Profile?",
+      "answer": "Absolutely! Google Business Profile optimization is a crucial part of local SEO for Corrandulla businesses. We optimize your profile, manage reviews, add posts, and ensure you appear in Google Maps and local pack results when customers search for your services."
+    },
+    {
+      "question": "How often will you report on my SEO progress?",
+      "answer": "You'll receive comprehensive monthly reports detailing keyword rankings, traffic growth, user engagement, and conversion data. We also schedule regular strategy calls (typically monthly) to discuss performance, answer questions, and plan next steps for your Corrandulla business."
+    },
+    {
+      "question": "What if my website is old or outdated?",
+      "answer": "We can work with most existing websites! We'll identify technical limitations and recommend improvements. If your site has fundamental issues preventing good SEO performance, we may suggest a redesign. However, we often achieve strong results through optimization and improvements to existing sites."
+    }
+  ],
+
+  "keywords": [
+    "SEO services",
+    "search engine optimization",
+    "SEO agency",
+    "SEO expert",
+    "organic search",
+    "Google rankings",
+    "local SEO",
+    "technical SEO",
+    "SEO consultant",
+    "search marketing"
+  ],
+  "localKeywords": [
+    "SEO Corrandulla",
+    "SEO services North Galway",
+    "SEO agency Ireland",
+    "Corrandulla SEO company",
+    "local SEO Corrandulla",
+    "SEO consultant Galway",
+    "search engine optimization Ireland",
+    "Galway SEO expert",
+    "Irish SEO services",
+    "SEO near Corrandulla"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free SEO Audit",
+  "ctaSecondary": "Request Consultation"
+}

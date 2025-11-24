@@ -1,0 +1,208 @@
+{
+  "id": "seo-services-terryland",
+  "service": "Search Engine Optimization (SEO)",
+  "serviceSlug": "seo-services",
+  "location": "Terryland",
+  "locationSlug": "terryland",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "SEO Terryland - Dominate Search Results | Kraft Agency",
+  "metaDescription": "Grow your Terryland business with expert SEO from Kraft Agency. Rank #1 on Google, attract customers, and increase revenue. Free SEO audit available now!",
+  "heroHeadline": "High-Performance SEO Services in Terryland",
+  "heroSubheadline": "Dominate Search Rankings & Grow Your Customer Base",
+
+  "description": "Want to dominate search results in Terryland? Kraft Agency delivers high-performance SEO strategies that elevate your business to the top of Google search, driving consistent organic traffic and qualified leads that fuel sustainable growth. As a leading digital agency serving Terryland and Galway City, we combine proven SEO methodologies with cutting-edge AI-powered analytics to create customized strategies that deliver measurable, long-term results for businesses across all sectors.\n\nOur holistic SEO approach addresses every ranking factor comprehensively. We start with detailed technical audits to identify and resolve performance issues affecting your Terryland search visibility, then conduct strategic keyword research to target high-value search queries your ideal customers are using. Our local SEO experts ensure your business achieves prominent positions in location-based searches and Google Maps, while our content team creates authoritative, engaging content that builds trust and drives conversions with your Terryland audience.\n\nWhat sets Kraft Agency apart is our unwavering commitment to results and transparency. You'll receive comprehensive monthly reports that clearly demonstrate your SEO investment's impact – from improved rankings and increased traffic to more leads and higher revenue. Our dedicated team actively monitors algorithm updates, tracks competitor movements, and continuously optimizes your approach to maintain your Terryland business's competitive edge in search. Whether you're a local Terryland service provider looking to attract more customers or a growing business ready to expand throughout Galway and beyond, Kraft Agency provides the SEO expertise, innovative technology, and personalized support needed to achieve and sustain digital dominance in your market.",
+
+  "shortDescription": "High-performance SEO services for Terryland businesses. Drive organic growth, dominate local search, and increase revenue with expert strategies. Free audit available.",
+
+  "benefits": [
+    "Top positions in Terryland and Galway search results",
+    "Consistent flow of qualified organic traffic",
+    "AI-powered optimization for superior results",
+    "Complete SEO solution: technical, content, links",
+    "Transparent reporting with actionable insights",
+    "Proven track record across industries",
+    "Flexible month-to-month agreements",
+    "Dedicated SEO specialist for your account"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Comprehensive SEO Audit",
+      "description": "We perform an extensive analysis of your website's technical health, content quality, backlink profile, and competitive position in Terryland. This audit identifies opportunities and guides our strategic approach."
+    },
+    {
+      "step": 2,
+      "title": "Keyword Research & Strategy",
+      "description": "Our experts identify the most valuable keywords for your Terryland business, analyzing search demand, competition, buyer intent, and revenue potential. We focus on keywords that drive business growth, not vanity metrics."
+    },
+    {
+      "step": 3,
+      "title": "Technical Optimization",
+      "description": "We enhance your website's technical foundation – improving page speed, mobile usability, site architecture, crawlability, and implementing schema markup. These improvements are essential for competitive Terryland rankings."
+    },
+    {
+      "step": 4,
+      "title": "Content Development & Optimization",
+      "description": "Our content specialists create SEO-optimized content that serves Terryland searchers while satisfying search engine requirements. We focus on valuable content that educates, engages, and converts."
+    },
+    {
+      "step": 5,
+      "title": "Authority & Link Building",
+      "description": "We acquire high-quality backlinks from authoritative, relevant sources through ethical outreach and content marketing. These links strengthen your domain authority and boost rankings for competitive Terryland keywords."
+    },
+    {
+      "step": 6,
+      "title": "Monitoring & Continuous Optimization",
+      "description": "SEO requires ongoing refinement. We track performance daily, analyze results monthly, and continuously optimize to maintain and expand your Terryland business's search engine dominance over time."
+    }
+  ],
+
+  "pricingInfo": "SEO services for Terryland businesses range from €1,500 per month for targeted local campaigns to €10,000+ per month for comprehensive regional or national strategies. We tailor our services to your specific business goals, competitive environment, and budget. Contact us for a free SEO consultation and customized proposal.",
+
+  "serviceArea": "Terryland and surrounding areas including Newcastle, Doughiska, Galway City, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Quick response times for all inquiries.",
+
+  "qualifications": [
+    "Google Partner certification",
+    "15+ years SEO experience",
+    "Certified technical SEO team",
+    "Professional content specialists",
+    "AI and analytics experts"
+  ],
+  "yearsExperience": "15+ years combined expertise",
+  "guarantees": [
+    "Detailed monthly performance reporting",
+    "Ethical white-hat SEO practices",
+    "Custom strategy for Terryland market",
+    "Regular strategy review sessions",
+    "Flexible service agreements"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1686061594225-3e92c0cd51b0?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "SEO analytics dashboard showing search performance",
+      "caption": "High-Performance SEO Services in Terryland",
+      "credit": {
+        "photographer": "1981 Digital",
+        "unsplashUrl": "https://unsplash.com/photos/bMWHu8wU1Vk"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1709281847780-2b34c28853c0?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional managing SEO on laptop",
+        "caption": "Expert SEO management for Terryland",
+        "credit": {
+          "photographer": "Lukas Müller",
+          "unsplashUrl": "https://unsplash.com/photos/4fiIDwaWlzQ"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1674027326476-3ea3cbf7b9be?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "White robot with magnifying glass for SEO",
+        "caption": "AI-powered SEO optimization",
+        "credit": {
+          "photographer": "Growtika",
+          "unsplashUrl": "https://unsplash.com/photos/g5kpSCf3dOs"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "SEO analytics on monitor screen",
+        "caption": "Comprehensive performance tracking",
+        "credit": {
+          "photographer": "Stephen Phillips",
+          "unsplashUrl": "https://unsplash.com/photos/shr_Xn8S8QU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1477013743164-ffc3a5e556da?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Google search on smartphone",
+        "caption": "Dominate Google search in Terryland",
+        "credit": {
+          "photographer": "Edho Pratama",
+          "unsplashUrl": "https://unsplash.com/photos/yeB9jDmHm6M"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Terryland Businesses Trust Kraft Agency for SEO",
+    "Our Strategic SEO Process Explained",
+    "Local SEO: Winning in Terryland",
+    "Proven SEO Success Stories from Galway",
+    "SEO FAQs for Terryland Business Owners",
+    "Ready to Dominate Search Results?"
+  ],
+
+  "faq": [
+    {
+      "question": "How quickly can I expect SEO results in Terryland?",
+      "answer": "Most Terryland businesses begin seeing ranking improvements within 3-5 months, with significant traffic and lead increases by 6-12 months. SEO builds sustainable growth that compounds over time. We provide monthly reports tracking your progress across rankings, traffic, and conversions."
+    },
+    {
+      "question": "What does your SEO service include?",
+      "answer": "Our comprehensive SEO includes technical website optimization, strategic keyword research, content creation and optimization, on-page SEO, link building, local SEO, Google Business Profile optimization, competitor monitoring, detailed monthly reporting, and regular strategy sessions with your dedicated account manager."
+    },
+    {
+      "question": "How much should I invest in SEO?",
+      "answer": "Professional SEO for Terryland businesses typically ranges from €1,500/month for focused local campaigns to €5,000-€10,000/month for comprehensive regional strategies. Investment varies based on your industry competition, business goals, and desired timeline. We provide custom proposals after a free consultation."
+    },
+    {
+      "question": "Why is local SEO important for Terryland businesses?",
+      "answer": "Local SEO ensures your Terryland business appears in location-based searches, Google Maps, and 'near me' queries – connecting you with nearby customers with high purchase intent. For businesses serving local areas, local SEO typically delivers the highest ROI by attracting ready-to-buy customers."
+    },
+    {
+      "question": "Can you guarantee first page rankings?",
+      "answer": "No ethical SEO company can guarantee specific rankings because Google's algorithm constantly evolves. However, we guarantee our commitment to best practices, transparent reporting, and continuous optimization. Our proven track record shows most clients achieve first-page rankings for target keywords within 6-12 months."
+    },
+    {
+      "question": "Do you write content for SEO?",
+      "answer": "Yes! Content creation is a core part of our SEO service. Our experienced content team researches, writes, and optimizes blog posts, service pages, and landing pages that rank well in Terryland searches while engaging your audience and driving conversions."
+    },
+    {
+      "question": "How do you track and report results?",
+      "answer": "We monitor comprehensive metrics including keyword rankings, organic traffic growth, local visibility, click-through rates, conversion rates, lead generation, and revenue impact. You'll receive detailed monthly reports and regular strategy calls to review performance and refine our approach."
+    },
+    {
+      "question": "What makes Kraft Agency different?",
+      "answer": "We combine 15+ years of proven SEO expertise with cutting-edge AI tools, maintain complete transparency with detailed reporting, use only ethical white-hat techniques, and provide dedicated account management. Most importantly, we focus on business outcomes – driving leads and revenue for your Terryland business."
+    }
+  ],
+
+  "keywords": [
+    "SEO services",
+    "search engine optimization",
+    "SEO company",
+    "Google optimization",
+    "organic search",
+    "search rankings",
+    "local SEO",
+    "SEO expert",
+    "website optimization",
+    "digital marketing"
+  ],
+  "localKeywords": [
+    "SEO Terryland",
+    "SEO Galway City",
+    "Terryland SEO company",
+    "local SEO Galway",
+    "SEO agency Ireland",
+    "Galway SEO expert",
+    "SEO services County Galway",
+    "Terryland digital marketing",
+    "SEO near me",
+    "Irish SEO services"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free SEO Audit",
+  "ctaSecondary": "Schedule Strategy Call"
+}

@@ -1,0 +1,189 @@
+{
+  "id": "video-production-salthill",
+  "service": "Video Production & Marketing",
+  "serviceSlug": "video-production",
+  "location": "Salthill",
+  "locationSlug": "salthill",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Video Production Salthill - Stunning Visual Content | Kraft Agency",
+  "metaDescription": "Professional video production in Salthill, Galway. Capture stunning coastal footage and create engaging videos. Expert filming, editing & distribution. Free consultation available!",
+
+  "heroHeadline": "Stunning Video Production in Salthill",
+  "heroSubheadline": "Create Visual Stories That Captivate Your Audience",
+
+  "description": "Looking for exceptional video production in Salthill? Kraft Agency brings professional video expertise to Galway's stunning coastal community. We create compelling video content that showcases your brand against Salthill's beautiful backdrop while delivering content that engages audiences and achieves your business objectives. From tourism and hospitality videos to corporate content and social media campaigns, we make your vision come to life.\n\nOur comprehensive video production services in Salthill include everything from initial creative consultation and script development to professional filming and advanced post-production. We leverage Salthill's stunning coastal scenery, vibrant community atmosphere, and unique locations to create visually striking content that stands out. Whether you're a local business, tourism operator, or national brand looking to capture Salthill's essence, our experienced team delivers broadcast-quality results.\n\nKraft Agency combines technical excellence with creative storytelling. We don't just film beautiful footage – we craft strategic video content optimized for maximum engagement across all platforms. From cinematic brand films to scroll-stopping social media content, our Salthill video production services help businesses cut through the noise and connect authentically with their audience. With professional equipment, years of local experience, and a passion for visual storytelling, we're Salthill's trusted video production partner.",
+
+  "shortDescription": "Professional video production in Salthill. Create stunning visual content leveraging coastal beauty and expert filmmaking. Free quote.",
+
+  "benefits": [
+    "Leverage Salthill's stunning coastal locations",
+    "Professional cinema cameras and equipment",
+    "Experienced local production team",
+    "Complete creative and technical services",
+    "Drone footage for breathtaking aerials",
+    "Social media and web optimization",
+    "Tourism and hospitality video expertise",
+    "Fast delivery with premium quality"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Creative Consultation & Concept",
+      "description": "We discuss your vision, brand goals, and target audience. Together we develop creative concepts that leverage Salthill's unique character and align with your marketing objectives."
+    },
+    {
+      "step": 2,
+      "title": "Pre-Production Planning",
+      "description": "Our team handles all planning – scriptwriting, storyboarding, location scouting in Salthill, talent coordination, permits, and detailed production schedules to ensure smooth filming."
+    },
+    {
+      "step": 3,
+      "title": "Professional Filming",
+      "description": "Using professional cameras, specialized lenses, stabilizers, and drones, we capture stunning footage that showcases your story and Salthill's natural beauty with cinematic quality."
+    },
+    {
+      "step": 4,
+      "title": "Post-Production Excellence",
+      "description": "Our editing team transforms raw footage into polished content with professional color grading, audio mixing, motion graphics, music licensing, and visual effects."
+    },
+    {
+      "step": 5,
+      "title": "Review & Refinement",
+      "description": "We present draft versions for your feedback and make unlimited revisions until the final video perfectly captures your vision and meets all your requirements."
+    },
+    {
+      "step": 6,
+      "title": "Delivery & Marketing Support",
+      "description": "Receive your videos optimized for all platforms, plus strategic guidance on distribution, SEO, social media marketing, and advertising to maximize reach and impact."
+    }
+  ],
+
+  "pricingInfo": "Video production pricing varies based on project requirements. Social media videos start from €1,500, tourism and hospitality videos from €3,500, and comprehensive commercial productions from €8,000+. Pricing includes full production, editing, drone footage if needed, and delivery in multiple formats. Contact us for a customized quote.",
+
+  "serviceArea": "Salthill and surrounding areas including Galway City, Knocknacarra, Barna, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Flexible scheduling for weather-dependent coastal shoots.",
+
+  "qualifications": [
+    "Professional cinematography specialists",
+    "Licensed drone operators",
+    "Tourism video expertise",
+    "Social media marketing certified",
+    "10+ years video production experience"
+  ],
+  "yearsExperience": "10+ years video production experience",
+  "guarantees": [
+    "Broadcast-quality production values",
+    "Unlimited revisions included",
+    "Weather-flexible scheduling",
+    "Optimized for all digital platforms",
+    "Complete copyright ownership"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1497015289639-54688650d173?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional video interview setup in Salthill",
+      "caption": "Professional Video Production in Salthill"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1603126004372-e63e3b53934b?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Video production crew on location",
+        "caption": "Expert on-location filming in Salthill"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1628017974670-846f66fc7671?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional video camera on table ready for filming",
+        "caption": "Professional cinema-grade equipment"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1601506521937-0121a7fc2a6b?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Videographer filming outdoor content",
+        "caption": "Capturing stunning coastal footage"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1607112812619-182cb1c7bb61?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional video editing screen",
+        "caption": "Advanced post-production editing"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Choose Kraft Agency for Video Production in Salthill?",
+    "Our Video Production Process: From Vision to Reality",
+    "Perfect Video Content for Tourism & Hospitality",
+    "Leveraging Salthill's Coastal Beauty in Your Videos",
+    "Video Production FAQs for Salthill Businesses",
+    "Ready to Create Stunning Video Content?"
+  ],
+
+  "faq": [
+    {
+      "question": "Can you film outdoor locations along the Salthill promenade?",
+      "answer": "Absolutely! We regularly film along Salthill promenade, beaches, and coastal areas. We handle all necessary permits and work with local authorities to ensure smooth filming. Weather-dependent shoots are scheduled flexibly to capture the best conditions."
+    },
+    {
+      "question": "Do you offer drone videography for coastal shots?",
+      "answer": "Yes! We have licensed drone pilots and professional drones to capture breathtaking aerial footage of Salthill's coastline, promenade, and surrounding areas. Aerial shots add spectacular production value to your videos."
+    },
+    {
+      "question": "What types of videos work best for tourism businesses in Salthill?",
+      "answer": "Tourism businesses benefit from promotional videos showcasing amenities, virtual tours, guest testimonials, seasonal campaign videos, social media content, and destination videos highlighting Salthill's attractions. We specialize in creating content that inspires bookings."
+    },
+    {
+      "question": "How do you handle weather challenges for outdoor filming?",
+      "answer": "We build flexibility into schedules for weather-dependent shoots, monitor forecasts closely, and have backup plans ready. Salthill's coastal location can be unpredictable, but our experience ensures we capture perfect footage regardless of conditions."
+    },
+    {
+      "question": "Can you create videos optimized for social media platforms?",
+      "answer": "Yes! We create and optimize videos specifically for Instagram, Facebook, TikTok, YouTube, and LinkedIn. Each platform has different requirements for aspect ratios, lengths, and engagement tactics – we ensure your content performs optimally on each."
+    },
+    {
+      "question": "Do you provide actors or on-camera talent?",
+      "answer": "We can coordinate professional actors and on-camera talent if needed, or we can feature your team members. Many successful videos feature business owners or staff, which builds authenticity and trust with viewers."
+    },
+    {
+      "question": "How long does video production take in Salthill?",
+      "answer": "Timelines vary by project. Simple videos can be completed in 1-2 weeks, while comprehensive productions take 3-6 weeks. Weather-dependent coastal filming may add buffer time. We provide realistic timelines during consultation."
+    },
+    {
+      "question": "Can you help with video marketing strategy and distribution?",
+      "answer": "Yes! Beyond production, we offer complete video marketing services including SEO optimization, YouTube channel management, social media advertising, email marketing integration, and analytics tracking to ensure your videos drive real business results."
+    }
+  ],
+
+  "keywords": [
+    "video production",
+    "tourism videography",
+    "coastal filming",
+    "drone videography",
+    "commercial video",
+    "hospitality video",
+    "promotional video",
+    "destination marketing video",
+    "professional filming",
+    "video content creation"
+  ],
+  "localKeywords": [
+    "video production Salthill",
+    "videographer Salthill",
+    "Salthill video services",
+    "video production Galway",
+    "Salthill promenade filming",
+    "coastal video production Salthill",
+    "tourism video Salthill",
+    "Salthill videography",
+    "video marketing Salthill",
+    "drone footage Salthill"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Video Consultation",
+  "ctaSecondary": "View Portfolio"
+}

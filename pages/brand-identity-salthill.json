@@ -1,0 +1,209 @@
+{
+  "id": "brand-identity-salthill",
+  "service": "Brand Identity & Strategy",
+  "serviceSlug": "brand-identity",
+  "location": "Salthill",
+  "locationSlug": "salthill",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Brand Identity Salthill - Creative Branding Agency | Kraft Agency",
+  "metaDescription": "Elevate your Salthill business with professional brand identity services from Kraft Agency. Strategic logo design, visual identity & brand strategy. Free consultation available!",
+
+  "heroHeadline": "Transform Your Salthill Business With Powerful Branding",
+  "heroSubheadline": "Strategic Brand Identity That Drives Customer Connection",
+
+  "description": "In Salthill's vibrant business community, a distinctive brand identity is your key to standing out and attracting customers. Kraft Agency brings world-class branding expertise to Salthill businesses, creating brand identities that capture your unique essence and resonate with your target audience. Whether you're a local hospitality business, retail shop, or professional service, we develop brands that build recognition and drive growth.\n\nOur comprehensive brand identity services go far beyond creating a logo. We develop complete brand systems including visual identity, brand strategy, messaging frameworks, and implementation guidelines. Through strategic research and creative excellence, we ensure your brand authentically represents your business while being strategically positioned against competitors. Our team understands Salthill's unique market dynamics and creates brands that connect with both locals and the tourists who visit this beautiful seaside destination.\n\nWith our offices just minutes from Salthill in Galway City and Oranmore, we're perfectly positioned to serve Salthill businesses with personalized, hands-on service. We take time to understand your business, your customers, and your goals before crafting a brand identity that truly represents you. From initial strategy through final implementation, we're your partner in building a brand that Salthill customers will recognize, trust, and choose. Let's create something remarkable together.",
+
+  "shortDescription": "Professional brand identity services in Salthill. Strategic branding, logo design, and visual identity development that drives business growth and customer connection.",
+
+  "benefits": [
+    "Distinctive brand identity for Salthill market",
+    "Strategic positioning against local competitors",
+    "Professional logo design and visual system",
+    "Complete brand guidelines and asset library",
+    "Market research specific to Salthill demographics",
+    "Brand strategy aligned with growth goals",
+    "Nearby Galway-based team for easy collaboration",
+    "Comprehensive launch and implementation support"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Brand Strategy Session",
+      "description": "We start with in-depth discovery workshops to understand your Salthill business, target customers, competitive landscape, and growth objectives. This strategic foundation guides all creative decisions."
+    },
+    {
+      "step": 2,
+      "title": "Market & Competitor Analysis",
+      "description": "Our team researches Salthill's market dynamics, analyzes competitors, and identifies opportunities to differentiate your brand and capture customer attention."
+    },
+    {
+      "step": 3,
+      "title": "Brand Concept Creation",
+      "description": "We develop multiple creative concepts for your brand identity, each strategically designed to resonate with your Salthill audience while reflecting your unique business personality."
+    },
+    {
+      "step": 4,
+      "title": "Refinement & Development",
+      "description": "Based on your feedback, we refine your preferred direction, perfecting every element including logo variations, color systems, typography, and visual applications."
+    },
+    {
+      "step": 5,
+      "title": "Brand Guidelines & Deliverables",
+      "description": "We create comprehensive brand guidelines ensuring consistent implementation, plus deliver all logo files, brand assets, and templates in multiple formats."
+    },
+    {
+      "step": 6,
+      "title": "Implementation & Support",
+      "description": "We guide your brand launch with implementation recommendations, design support, and ongoing consultation to ensure successful rollout across your Salthill business."
+    }
+  ],
+
+  "pricingInfo": "Brand identity investment starts from €3,500 for small business packages up to €15,000+ for comprehensive brand development with extensive research and applications. We create custom proposals based on your specific needs and budget. Contact us for a free brand consultation and detailed quote.",
+
+  "serviceArea": "Salthill and surrounding areas including Galway City, Knocknacarra, Barna, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Consultations available by appointment.",
+
+  "qualifications": [
+    "Expert brand strategists",
+    "Award-winning creative team",
+    "15+ years branding experience",
+    "Strategic marketing consultants",
+    "Full-service digital agency"
+  ],
+  "yearsExperience": "15+ years combined branding expertise",
+  "guarantees": [
+    "Unlimited revisions until satisfied",
+    "Complete brand guidelines included",
+    "All source files and formats provided",
+    "Strategic brand positioning",
+    "90-day post-launch support"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Creative brand identity design process in Salthill",
+      "caption": "Professional Brand Identity Design for Salthill Businesses",
+      "credit": {
+        "photographer": "Kelly Sikkema",
+        "unsplashUrl": "https://unsplash.com/photos/IkHwu5xLXxs"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1633533451997-8b6079082e3d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Brand design and product development",
+        "caption": "Creative brand identity solutions",
+        "credit": {
+          "photographer": "MK +2",
+          "unsplashUrl": "https://unsplash.com/photos/ypeZtZBUW6E"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1590102426275-8d1c367070d3?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Brand strategy and planning materials",
+        "caption": "Strategic brand development process",
+        "credit": {
+          "photographer": "Slidebean",
+          "unsplashUrl": "https://unsplash.com/photos/TY3pj5q72tw"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1723220217548-169d91fd1ba3?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Brand color palette and design system",
+        "caption": "Professional brand color strategy",
+        "credit": {
+          "photographer": "Fiona Murray",
+          "unsplashUrl": "https://unsplash.com/photos/5Hl03JE699s"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1614036634955-ae5e90f9b9eb?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Branded packaging and materials",
+        "caption": "Complete brand application design",
+        "credit": {
+          "photographer": "Brands&People",
+          "unsplashUrl": "https://unsplash.com/photos/0adHvNJu-Zo"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Salthill Businesses Choose Kraft Agency for Branding",
+    "Our Strategic Brand Identity Development Process",
+    "Comprehensive Brand Services for Salthill Businesses",
+    "Brand Identity Success Stories in Salthill",
+    "Frequently Asked Questions About Brand Identity",
+    "Ready to Elevate Your Salthill Business Brand?"
+  ],
+
+  "faq": [
+    {
+      "question": "Why is professional branding important for my Salthill business?",
+      "answer": "In Salthill's competitive market - especially with tourism and hospitality - a professional brand identity helps you stand out, build customer trust, and command premium pricing. Strong branding creates emotional connections that turn first-time visitors into loyal customers."
+    },
+    {
+      "question": "How long does the brand identity process take?",
+      "answer": "Most brand identity projects take 6-10 weeks from kickoff to delivery. This includes discovery, research, creative development, refinement, and final delivery. We can adjust timelines based on your specific needs and urgency."
+    },
+    {
+      "question": "What's included in your brand identity packages?",
+      "answer": "Our packages include brand strategy, logo design with variations, color palette, typography system, visual identity guidelines, brand messaging framework, and all files in multiple formats. We customize each package to your specific needs."
+    },
+    {
+      "question": "Can you help us appeal to both locals and tourists in Salthill?",
+      "answer": "Absolutely! We understand Salthill's unique dual market. Our research and strategy phase identifies opportunities to create a brand that resonates with both Galway locals and the tourists who visit Salthill year-round."
+    },
+    {
+      "question": "Do you work with hospitality and tourism businesses?",
+      "answer": "Yes! We have extensive experience working with hotels, restaurants, cafes, activity providers, and other hospitality businesses. We understand the unique branding needs of tourism-focused businesses in areas like Salthill."
+    },
+    {
+      "question": "What if our business grows and our brand needs to evolve?",
+      "answer": "We design flexible brand systems that can grow with your business. Your brand guidelines will include applications for future needs, and we're always available for brand evolution projects as your Salthill business expands."
+    },
+    {
+      "question": "Will we have ownership of our brand identity?",
+      "answer": "Yes, absolutely. Upon final payment, you receive full ownership and rights to your brand identity, including all logo files, brand assets, and intellectual property. You'll have everything needed to implement and protect your brand."
+    },
+    {
+      "question": "Can you help rebrand our established Salthill business?",
+      "answer": "Yes! We specialize in strategic rebrands that honor your heritage while positioning your business for future growth. Our process includes careful analysis of what's working to ensure we maintain valuable brand equity while evolving your identity."
+    }
+  ],
+
+  "keywords": [
+    "brand identity",
+    "brand strategy",
+    "logo design",
+    "visual identity",
+    "brand development",
+    "rebranding",
+    "brand guidelines",
+    "corporate identity",
+    "brand positioning",
+    "creative branding"
+  ],
+  "localKeywords": [
+    "brand identity Salthill",
+    "logo design Salthill",
+    "branding agency Salthill",
+    "brand strategy Salthill",
+    "Salthill brand designer",
+    "rebrand Salthill business",
+    "visual identity Salthill",
+    "Salthill creative agency",
+    "brand development Galway",
+    "Salthill branding services"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Brand Consultation",
+  "ctaSecondary": "View Our Brand Portfolio"
+}

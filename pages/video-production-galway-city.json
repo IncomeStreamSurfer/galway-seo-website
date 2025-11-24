@@ -1,0 +1,189 @@
+{
+  "id": "video-production-galway-city",
+  "service": "Video Production & Marketing",
+  "serviceSlug": "video-production",
+  "location": "Galway City",
+  "locationSlug": "galway-city",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Video Production Galway City - Captivating Content | Kraft Agency",
+  "metaDescription": "Professional video production in Galway City. Create stunning videos that capture attention and drive engagement. Expert filming, editing & marketing. Get your free consultation today!",
+
+  "heroHeadline": "Professional Video Production in Galway City",
+  "heroSubheadline": "Create Captivating Video Content That Drives Results",
+
+  "description": "Looking for exceptional video production services in Galway City? Kraft Agency delivers professional video content that captures attention, tells your story, and drives real business results. As a full-service digital agency based in Galway, we combine creative excellence with cutting-edge technology to produce videos that engage audiences and maximize conversions.\n\nOur comprehensive video production services cover everything from initial concept development and scriptwriting to professional filming, post-production editing, and strategic distribution. Whether you need promotional videos, social media content, corporate videos, testimonials, or full-scale commercial productions, our experienced team in Galway City brings your vision to life with stunning visual storytelling.\n\nWhat sets Kraft Agency apart is our integrated approach to video marketing. We don't just create beautiful videos – we develop strategic content that aligns with your business goals and reaches your target audience. From SEO-optimized YouTube content to scroll-stopping social media videos, we ensure your video content delivers measurable results. With state-of-the-art equipment, professional editing suites, and years of experience serving Galway City businesses, we're your trusted partner for video production excellence.",
+
+  "shortDescription": "Professional video production and marketing in Galway City. Engaging video content from concept to distribution. Free consultation available.",
+
+  "benefits": [
+    "Professional filming with cinema-quality equipment",
+    "Expert scriptwriting and creative development",
+    "Advanced post-production and visual effects",
+    "Optimized for social media and digital platforms",
+    "AI-powered video optimization for maximum engagement",
+    "Fast turnaround without compromising quality",
+    "Full-service from concept to distribution",
+    "Transparent pricing with no hidden costs"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Concept Development",
+      "description": "We start with a detailed consultation to understand your brand, goals, and target audience. Together, we develop a creative concept and storyboard that brings your vision to life."
+    },
+    {
+      "step": 2,
+      "title": "Scriptwriting & Pre-Production",
+      "description": "Our creative team writes compelling scripts and plans every detail of the shoot – from location scouting to talent coordination, ensuring a smooth production day."
+    },
+    {
+      "step": 3,
+      "title": "Professional Filming",
+      "description": "Using cinema-quality cameras, professional lighting, and expert techniques, we capture stunning footage that tells your story beautifully and professionally."
+    },
+    {
+      "step": 4,
+      "title": "Post-Production & Editing",
+      "description": "Our editors transform raw footage into polished final products with color grading, sound design, motion graphics, and visual effects that elevate your content."
+    },
+    {
+      "step": 5,
+      "title": "Review & Refinement",
+      "description": "We provide preview versions for your feedback and make revisions until the final video exceeds your expectations and achieves your vision perfectly."
+    },
+    {
+      "step": 6,
+      "title": "Delivery & Distribution Strategy",
+      "description": "Receive your videos in all required formats, plus strategic guidance on distribution across social media, websites, and advertising platforms for maximum impact."
+    }
+  ],
+
+  "pricingInfo": "Video production projects typically range from €1,500 for simple social media content to €15,000+ for comprehensive commercial productions. Pricing depends on video length, complexity, locations, talent, and post-production requirements. We offer flexible packages and transparent quotes. Contact us for a custom proposal based on your specific needs.",
+
+  "serviceArea": "Galway City and surrounding areas including Salthill, Knocknacarra, Renmore, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Weekend shoots available by arrangement.",
+
+  "qualifications": [
+    "Award-winning video production team",
+    "Professional cinematography expertise",
+    "Advanced editing and post-production",
+    "Social media marketing specialists",
+    "10+ years combined experience"
+  ],
+  "yearsExperience": "10+ years combined video production experience",
+  "guarantees": [
+    "Professional cinema-quality results",
+    "Unlimited revisions until satisfied",
+    "On-time delivery guaranteed",
+    "Optimized for all platforms",
+    "Full copyright ownership"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1632187989763-c9c620420b4d?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional video production crew filming in Galway City",
+      "caption": "Expert Video Production Services in Galway City"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1576280314550-773c50583407?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Silhouette of professional videographer with camera",
+        "caption": "Professional cinematography and filming"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1543242594-c8bae8b9e708?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Woman filmmaker with professional camera on set",
+        "caption": "Expert video production team"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1579109652910-99b9be06aaec?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Video editing workstation with professional software",
+        "caption": "Advanced post-production and editing"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1625690303837-654c9666d2d0?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional camera equipment and tripod",
+        "caption": "Cinema-quality equipment and technology"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Choose Kraft Agency for Video Production in Galway City?",
+    "Our Video Production Process: From Concept to Final Cut",
+    "Types of Video Content We Create",
+    "Video Marketing Strategy: Making Your Content Work Harder",
+    "Frequently Asked Questions About Video Production",
+    "Ready to Create Stunning Video Content?"
+  ],
+
+  "faq": [
+    {
+      "question": "How long does video production take?",
+      "answer": "Timeline varies by project complexity. Simple social media videos can be completed in 1-2 weeks, while comprehensive commercial productions may take 4-6 weeks from concept to delivery. We provide detailed timelines during our initial consultation and keep you updated throughout the process."
+    },
+    {
+      "question": "What types of videos can you produce?",
+      "answer": "We create all types of video content including promotional videos, social media content, corporate videos, testimonial videos, product demonstrations, event coverage, training videos, animated explainer videos, and full commercial productions. Tell us your goals and we'll recommend the best approach."
+    },
+    {
+      "question": "Do you provide scriptwriting services?",
+      "answer": "Absolutely! Our creative team includes experienced scriptwriters who can develop compelling scripts that tell your story effectively. We can work from your ideas or develop concepts from scratch based on your business goals."
+    },
+    {
+      "question": "What equipment do you use?",
+      "answer": "We use professional cinema cameras (RED, Sony FX series), professional lighting and audio equipment, gimbals and stabilizers, drones for aerial footage, and industry-standard editing software like Adobe Premiere Pro, After Effects, and DaVinci Resolve."
+    },
+    {
+      "question": "Can you film on location in Galway City?",
+      "answer": "Yes! We regularly film on location throughout Galway City and County Galway. We handle all location logistics including permits if needed, and can film at your business premises, outdoor locations, or in our studio space."
+    },
+    {
+      "question": "How much does video production cost?",
+      "answer": "Costs vary significantly based on your needs. Simple social media videos start from €1,500, while comprehensive commercial productions range from €5,000-€15,000+. Factors include video length, locations, talent, complexity, and post-production. We provide transparent quotes with no hidden fees."
+    },
+    {
+      "question": "Will I own the rights to the video?",
+      "answer": "Yes! You receive full copyright ownership of the final videos and all rights for unlimited use across any platforms. We deliver videos in all formats you need for web, social media, and broadcasting."
+    },
+    {
+      "question": "Can you help with video marketing and distribution?",
+      "answer": "Absolutely! We provide strategic guidance on video distribution, SEO optimization for YouTube, social media advertising, and video marketing campaigns to ensure your content reaches your target audience and delivers measurable results."
+    }
+  ],
+
+  "keywords": [
+    "video production",
+    "video marketing",
+    "videography",
+    "commercial video",
+    "corporate video",
+    "promotional video",
+    "video editing",
+    "social media video",
+    "video content creation",
+    "professional filming"
+  ],
+  "localKeywords": [
+    "video production Galway City",
+    "videographer Galway",
+    "video marketing Galway City",
+    "commercial video production Galway",
+    "corporate video Galway City",
+    "video production company Galway",
+    "Galway videographer",
+    "video production services Galway City",
+    "professional video Galway",
+    "video agency Galway City"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Video Consultation",
+  "ctaSecondary": "View Our Video Portfolio"
+}

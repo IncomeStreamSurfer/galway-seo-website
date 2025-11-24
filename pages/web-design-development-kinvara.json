@@ -1,0 +1,209 @@
+{
+  "id": "web-design-development-kinvara",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Kinvara",
+  "locationSlug": "kinvara",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Kinvara - Stunning Websites for Local Businesses | Kraft",
+  "metaDescription": "Premium web design services in Kinvara. Custom websites that capture your brand and drive conversions. Kraft Agency delivers excellence. Free quote today!",
+
+  "heroHeadline": "Beautiful Web Design in Kinvara",
+  "heroSubheadline": "Websites That Reflect Your Coastal Town's Unique Character",
+
+  "description": "Searching for professional web design in Kinvara? Kraft Agency creates stunning, conversion-optimized websites that capture the unique spirit of your coastal business. As a leading digital agency serving Kinvara and South Galway, we understand the local market and create websites that resonate with both locals and visitors to this beautiful seaside village.\n\nOur approach to web design for Kinvara businesses goes beyond aesthetics. We build strategic digital experiences that showcase your business's personality, engage your target audience, and drive measurable results. Whether you're a hospitality business welcoming tourists to Kinvara, a local retailer, or a professional service provider, we create websites that work as hard as you do to grow your business.\n\nEvery website we design for Kinvara clients is mobile-responsive, lightning-fast, and optimized for search engines. We know that many visitors discover Kinvara businesses online while planning their trips, so we ensure your website makes an outstanding first impression. From boutique bed and breakfasts to restaurants, retail shops to service providers, Kraft Agency delivers web design excellence that puts Kinvara businesses on the digital map.",
+
+  "shortDescription": "Premium web design services in Kinvara. Custom websites that capture your brand and convert visitors into customers. Excellence delivered.",
+
+  "benefits": [
+    "Custom design that captures Kinvara's unique coastal character",
+    "Mobile-optimized for tourists and locals browsing on the go",
+    "Fast-loading websites that engage visitors immediately",
+    "SEO-optimized to attract visitors searching for Kinvara businesses",
+    "Beautiful imagery showcasing your business and location",
+    "Easy content management system for updates",
+    "Local South Galway team that understands your market",
+    "Hospitality and tourism website expertise"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Brand Understanding",
+      "description": "We start by understanding your Kinvara business, your unique story, and what makes you special. This deep understanding informs every design decision."
+    },
+    {
+      "step": 2,
+      "title": "Custom Design Creation",
+      "description": "Our designers create beautiful, custom mockups that reflect your brand personality and Kinvara's coastal charm. We iterate until you're thrilled with the direction."
+    },
+    {
+      "step": 3,
+      "title": "Development & Features",
+      "description": "We build your website with modern technology, integrating booking systems, galleries, maps, and any features your Kinvara business needs to thrive online."
+    },
+    {
+      "step": 4,
+      "title": "Content & Photography",
+      "description": "We help create compelling content and can arrange professional photography to showcase your Kinvara business in the best light."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Training",
+      "description": "We handle the technical launch and provide simple training so you can easily update your website content whenever needed."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Partnership",
+      "description": "We remain your digital partner, providing support, updates, and optimization to ensure your website continues to perform beautifully."
+    }
+  ],
+
+  "pricingInfo": "Website design for Kinvara businesses typically ranges from €2,500 for brochure websites to €8,000+ for e-commerce or booking-enabled sites. We offer flexible payment plans tailored to seasonal businesses. Contact us for a custom quote.",
+
+  "serviceArea": "Kinvara and surrounding areas including Gort, Ardrahan, Clarinbridge, and South County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Flexible scheduling for Kinvara business owners.",
+
+  "qualifications": [
+    "Award-winning design team",
+    "Tourism and hospitality website specialists",
+    "Google Partner certified",
+    "E-commerce and booking system experts",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive design",
+    "Fast-loading performance",
+    "90-day post-launch support",
+    "Training and documentation included"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1559028012-481c04fa702d?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Beautiful modern web design workspace in Kinvara",
+      "caption": "Professional Web Design Services in Kinvara",
+      "credit": {
+        "photographer": "Eftakher Alam",
+        "unsplashUrl": "https://unsplash.com/photos/i1VQZsU86ok"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Laptop displaying beautiful website design",
+        "caption": "Stunning websites for Kinvara businesses",
+        "credit": {
+          "photographer": "Ben Kolde",
+          "unsplashUrl": "https://unsplash.com/photos/bs2Ba7t69mM"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Web design planning and wireframing",
+        "caption": "Strategic planning for every project",
+        "credit": {
+          "photographer": "Kelly Sikkema",
+          "unsplashUrl": "https://unsplash.com/photos/v9FQR4tbIq8"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "UX design process for optimal user experience",
+        "caption": "User-focused design methodology",
+        "credit": {
+          "photographer": "UX Indonesia",
+          "unsplashUrl": "https://unsplash.com/photos/qC2n6RQU4Vw"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1542744095-0d53267d353e?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Web designer working on conversion-focused website",
+        "caption": "Expert designers dedicated to your success",
+        "credit": {
+          "photographer": "Campaign Creators",
+          "unsplashUrl": "https://unsplash.com/photos/ARW7Ic7MSAM"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Kinvara Businesses Choose Kraft Agency for Web Design",
+    "Our Proven Web Design Process for Kinvara",
+    "Website Features Perfect for Tourism and Hospitality",
+    "Success Stories from Kinvara and South Galway",
+    "Common Questions About Web Design in Kinvara",
+    "Start Your Web Design Project Today"
+  ],
+
+  "faq": [
+    {
+      "question": "Do you have experience with tourism and hospitality websites?",
+      "answer": "Yes! We have extensive experience creating websites for hotels, B&Bs, restaurants, and tourism businesses in Kinvara and across Ireland. We understand the unique needs of businesses that serve both locals and visitors."
+    },
+    {
+      "question": "Can you integrate online booking systems?",
+      "answer": "Absolutely. We can integrate various booking and reservation systems into your Kinvara website, making it easy for customers to book accommodations, tables, or services online."
+    },
+    {
+      "question": "How long does it take to build a website for my Kinvara business?",
+      "answer": "Most projects take 4-8 weeks depending on complexity. We work efficiently to ensure your website is ready for peak season if needed."
+    },
+    {
+      "question": "Will my website work well on mobile phones?",
+      "answer": "Yes, every website we create is fully responsive and optimized for mobile devices. Many visitors discover Kinvara businesses while traveling, so mobile optimization is essential."
+    },
+    {
+      "question": "Can you help with professional photography?",
+      "answer": "Yes! We can arrange professional photography to showcase your Kinvara business, or we can work with photos you already have and enhance them for web use."
+    },
+    {
+      "question": "What if I need to update my website content myself?",
+      "answer": "We build all websites with easy-to-use content management systems and provide training so you can update text, photos, menus, and other content whenever needed."
+    },
+    {
+      "question": "Do you understand seasonal businesses?",
+      "answer": "Yes, we understand that many Kinvara businesses are seasonal. We can create flexible payment plans and ensure your website is ready before your peak season begins."
+    },
+    {
+      "question": "Can you help with local SEO?",
+      "answer": "Absolutely. We optimize all Kinvara websites for local search, helping you appear when people search for businesses in Kinvara or plan their visit to the area."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "custom website",
+    "responsive design",
+    "tourism website",
+    "hospitality website",
+    "booking website",
+    "restaurant website",
+    "hotel website",
+    "business website"
+  ],
+  "localKeywords": [
+    "web design Kinvara",
+    "website design Kinvara",
+    "Kinvara web designer",
+    "web development Kinvara",
+    "Kinvara website company",
+    "South Galway web design",
+    "coastal business website",
+    "tourism website Kinvara",
+    "Kinvara digital agency",
+    "web designer South Galway"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "View Tourism Website Portfolio"
+}

@@ -1,0 +1,209 @@
+{
+  "id": "web-design-development-headford",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Headford",
+  "locationSlug": "headford",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Headford - Local Business Websites That Work | Kraft",
+  "metaDescription": "Professional web design in Headford. Custom websites for local businesses that drive real results. Kraft Agency - your North Galway digital partner. Free quote!",
+
+  "heroHeadline": "Expert Web Design in Headford",
+  "heroSubheadline": "Grow Your North Galway Business Online",
+
+  "description": "Need professional web design in Headford? Kraft Agency creates effective, affordable websites for local businesses throughout North Galway. We understand the unique needs of Headford businesses – whether you're a retail shop on Main Street, a service provider serving the local community, or a business targeting both Headford residents and the wider Galway market.\n\nOur web design approach for Headford businesses focuses on practical results. We build websites that work hard for your business: attracting local customers, showcasing your products or services clearly, making it easy for people to contact you, and establishing your credibility in the Headford community. Every website is mobile-friendly (essential as more Headford residents browse on phones), fast-loading, and easy for you to update when needed.\n\nWhether you're starting your first website or upgrading an outdated one, Kraft Agency makes the process simple and affordable for Headford businesses. We're based in County Galway, we understand the local market, and we're committed to helping Headford businesses succeed online. From tradespeople and retailers to professional services and community organizations, we deliver web design that gets results without breaking the bank.",
+
+  "shortDescription": "Professional, affordable web design for Headford businesses. Practical websites that work hard to grow your local business.",
+
+  "benefits": [
+    "Affordable pricing for Headford small businesses",
+    "Mobile-friendly websites that work on all devices",
+    "Easy to update without technical knowledge",
+    "Local SEO to attract Headford area customers",
+    "Clear contact forms and click-to-call buttons",
+    "Professional design that builds trust",
+    "Fast turnaround for local businesses",
+    "Ongoing support from County Galway team"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Simple Discovery Call",
+      "description": "We chat about your Headford business, what you need from a website, and who your customers are. No jargon, just practical discussion."
+    },
+    {
+      "step": 2,
+      "title": "Design That Fits Your Brand",
+      "description": "We create a professional design that reflects your business personality and appeals to your Headford customers."
+    },
+    {
+      "step": 3,
+      "title": "Build & Content",
+      "description": "We build your website with easy-to-use features and help organize your content so visitors find what they need quickly."
+    },
+    {
+      "step": 4,
+      "title": "Your Feedback",
+      "description": "We show you the website, make any adjustments you want, and ensure you're completely happy before launch."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Training",
+      "description": "We launch your website and show you how to make simple updates yourself – it's easier than you think!"
+    },
+    {
+      "step": 6,
+      "title": "Always Here to Help",
+      "description": "We provide ongoing support and help whenever you need it. Your success is our success."
+    }
+  ],
+
+  "pricingInfo": "Website design for Headford businesses typically starts from €2,000 for straightforward business websites. We offer payment plans to suit local businesses and transparent pricing with no hidden costs. Get in touch for a no-obligation quote based on your specific needs.",
+
+  "serviceArea": "Headford and surrounding North Galway including Tuam, Claregalway, Moycullen, and the greater Galway area",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Evening consultations available for Headford business owners.",
+
+  "qualifications": [
+    "Experienced local web design team",
+    "Small business specialists",
+    "Mobile and responsive design experts",
+    "Local SEO specialists",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive design",
+    "Training included",
+    "90-day post-launch support",
+    "No hidden costs"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional web design services for Headford businesses",
+      "caption": "Web Design Services in Headford",
+      "credit": {
+        "photographer": "Lee Campbell",
+        "unsplashUrl": "https://unsplash.com/photos/DtDlVpy-vvQ"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1542744094-3a31f272c490?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Small business owner working on website",
+        "caption": "Websites designed for local businesses",
+        "credit": {
+          "photographer": "Campaign Creators",
+          "unsplashUrl": "https://unsplash.com/photos/iEiUITs149M"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Mobile-responsive website on multiple devices",
+        "caption": "Mobile-friendly for on-the-go customers",
+        "credit": {
+          "photographer": "Daniel Korpai",
+          "unsplashUrl": "https://unsplash.com/photos/pKRNxEguRgM"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Website planning and strategy session",
+        "caption": "Strategic planning for your success",
+        "credit": {
+          "photographer": "Kelly Sikkema",
+          "unsplashUrl": "https://unsplash.com/photos/v9FQR4tbIq8"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional web design workspace",
+        "caption": "Professional quality, local service",
+        "credit": {
+          "photographer": "Domenico Loia",
+          "unsplashUrl": "https://unsplash.com/photos/hGV2TfOh0ns"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Headford Businesses Choose Kraft Agency",
+    "Our Straightforward Web Design Process",
+    "Website Features Your Headford Business Needs",
+    "Real Results for North Galway Businesses",
+    "Common Questions from Headford Business Owners",
+    "Ready to Get Your Business Online?"
+  ],
+
+  "faq": [
+    {
+      "question": "How much does a website cost for a Headford business?",
+      "answer": "Most Headford business websites start from around €2,000. The exact cost depends on your specific needs, but we're always transparent about pricing and offer payment plans to make it affordable for local businesses."
+    },
+    {
+      "question": "How long will it take to build my website?",
+      "answer": "Most straightforward business websites take 3-6 weeks from start to finish. We work efficiently and keep you updated throughout the process."
+    },
+    {
+      "question": "Will I be able to update the website myself?",
+      "answer": "Yes! We build all websites with easy-to-use content management systems and provide training. You'll be able to update text, add photos, and make simple changes without needing technical skills."
+    },
+    {
+      "question": "Will people in Headford be able to find my website?",
+      "answer": "Yes, we optimize all websites for local search so when people in Headford or North Galway search for your type of business, you'll show up. We also set up your Google Business Profile to increase local visibility."
+    },
+    {
+      "question": "What if I don't have photos or content ready?",
+      "answer": "No problem! We can help you with content creation and source professional images. Many Headford businesses start with limited materials and we help them develop everything they need."
+    },
+    {
+      "question": "Do I need to know anything technical?",
+      "answer": "Not at all! We handle all the technical aspects and explain everything in plain English. You focus on your business, we handle the website."
+    },
+    {
+      "question": "What happens after my website launches?",
+      "answer": "We provide 90 days of support included, plus we offer affordable ongoing maintenance if you want someone to handle updates, security, and technical matters for you."
+    },
+    {
+      "question": "Can you help with social media too?",
+      "answer": "Yes! We can integrate your social media profiles into your website and also offer social media marketing services to help grow your online presence in Headford and beyond."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "small business website",
+    "local business website",
+    "affordable website",
+    "responsive design",
+    "mobile website",
+    "business website",
+    "website builder",
+    "web designer"
+  ],
+  "localKeywords": [
+    "web design Headford",
+    "website design Headford",
+    "Headford web designer",
+    "web development Headford",
+    "Headford website company",
+    "North Galway web design",
+    "local web designer Headford",
+    "small business website Headford",
+    "web designer North Galway",
+    "website builder Headford"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Website Quote",
+  "ctaSecondary": "See Our Work"
+}

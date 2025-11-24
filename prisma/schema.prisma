@@ -1,0 +1,274 @@
+// Kraft Agency Database Schema
+// Digital Agency Service Website
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// Contact form submissions - General inquiries
+model ContactForm {
+  id            String   @id @default(cuid())
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  // Contact information
+  name          String
+  email         String
+  phone         String?
+  company       String?
+
+  // Message details
+  message       String   @db.Text
+  service       String?  // Which service they're interested in
+  location      String?  // Which location they're from/targeting
+
+  // Metadata
+  sourceUrl     String?  // Which page they submitted from
+  ipAddress     String?
+  userAgent     String?
+  referrer      String?
+
+  // Status tracking
+  status        String   @default("new") // new, contacted, qualified, converted, lost
+  notes         String?  @db.Text
+  assignedTo    String?  // Team member handling this lead
+  respondedAt   DateTime?
+  convertedAt   DateTime?
+
+  @@index([createdAt])
+  @@index([status])
+  @@index([service])
+  @@index([location])
+  @@index([email])
+  @@map("contact_forms")
+}
+
+// Quote/proposal requests - Serious leads
+model QuoteRequest {
+  id            String   @id @default(cuid())
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  // Contact information
+  name          String
+  email         String
+  phone         String
+  company       String?
+  website       String?
+
+  // Service details
+  service       String   // Which service(s) they need
+  location      String?  // Target location for service
+
+  // Project details
+  budget        String?  // Budget range
+  timeline      String?  // Expected timeline (immediate, 1-3 months, 3-6 months, etc.)
+  description   String?  @db.Text // Detailed project description
+
+  // Current situation
+  hasExistingWebsite Boolean @default(false)
+  currentProvider    String?
+
+  // Metadata
+  sourceUrl     String?
+  ipAddress     String?
+  userAgent     String?
+
+  // Status tracking
+  status        String   @default("pending") // pending, reviewing, quoted, accepted, declined, on-hold
+  quotedAmount  Decimal? @db.Decimal(10, 2)
+  quotedAt      DateTime?
+  acceptedAt    DateTime?
+  notes         String?  @db.Text
+  assignedTo    String?
+
+  @@index([createdAt])
+  @@index([status])
+  @@index([service])
+  @@index([email])
+  @@map("quote_requests")
+}
+
+// Callback/consultation requests - Quick lead capture
+model CallbackRequest {
+  id            String   @id @default(cuid())
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  // Contact information
+  name          String
+  phone         String
+  email         String?
+
+  // Preference details
+  preferredTime String?  // morning, afternoon, evening, anytime
+  preferredDate DateTime?
+  service       String?  // Optional: which service they're interested in
+  location      String?
+
+  // Metadata
+  sourceUrl     String?
+
+  // Status tracking
+  status        String   @default("pending") // pending, scheduled, called, completed, no-answer
+  calledAt      DateTime?
+  scheduledFor  DateTime?
+  notes         String?  @db.Text
+  callOutcome   String?  @db.Text // Notes from the call
+  assignedTo    String?
+
+  @@index([createdAt])
+  @@index([status])
+  @@index([scheduledFor])
+  @@map("callback_requests")
+}
+
+// Newsletter/email subscribers
+model NewsletterSubscriber {
+  id            String   @id @default(cuid())
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  // Subscriber information
+  email         String   @unique
+  name          String?
+  company       String?
+  location      String?
+
+  // Preferences
+  interests     String[] // Array of service interests
+
+  // Status
+  subscribed    Boolean  @default(true)
+  subscribedAt  DateTime @default(now())
+  unsubscribedAt DateTime?
+  unsubscribeReason String?
+
+  // Engagement tracking
+  emailsSent    Int      @default(0)
+  emailsOpened  Int      @default(0)
+  emailsClicked Int      @default(0)
+  lastEmailSentAt DateTime?
+  lastOpenedAt    DateTime?
+
+  // Metadata
+  sourceUrl     String?  // Where they subscribed from
+
+  @@index([subscribed])
+  @@index([createdAt])
+  @@map("newsletter_subscribers")
+}
+
+// Page view analytics - Track engagement and popular pages
+model PageView {
+  id            String   @id @default(cuid())
+  createdAt     DateTime @default(now())
+
+  // Page information
+  pageUrl       String
+  pageTitle     String?
+  pageType      String   // home, service, location, service-location, about, contact, blog
+  service       String?  // If it's a service page
+  location      String?  // If it's a location page
+
+  // Visitor information
+  ipAddress     String?
+  userAgent     String?
+  referrer      String?
+  country       String?
+  city          String?
+
+  // Session tracking
+  sessionId     String?
+  isNewVisitor  Boolean  @default(true)
+
+  // Engagement metrics
+  timeOnPage    Int?     // Seconds spent on page
+  scrollDepth   Int?     // Percentage scrolled (0-100)
+
+  // Device information
+  deviceType    String?  // desktop, mobile, tablet
+  browser       String?
+  os            String?
+
+  @@index([createdAt])
+  @@index([pageType])
+  @@index([service])
+  @@index([location])
+  @@index([sessionId])
+  @@index([pageUrl])
+  @@map("page_views")
+}
+
+// Lead magnets / downloadable resources
+model LeadMagnet {
+  id            String   @id @default(cuid())
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  // Contact information
+  name          String
+  email         String
+  company       String?
+  phone         String?
+
+  // Download details
+  resourceType  String   // guide, ebook, template, checklist, whitepaper
+  resourceTitle String
+  resourceSlug  String
+
+  // Metadata
+  sourceUrl     String?
+  ipAddress     String?
+
+  // Follow-up tracking
+  downloadedAt  DateTime @default(now())
+  followedUp    Boolean  @default(false)
+  followedUpAt  DateTime?
+  converted     Boolean  @default(false)
+  convertedAt   DateTime?
+
+  @@index([createdAt])
+  @@index([resourceSlug])
+  @@index([email])
+  @@index([followedUp])
+  @@map("lead_magnets")
+}
+
+// Blog post comments (if blog is added later)
+model BlogComment {
+  id            String   @id @default(cuid())
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  // Commenter information
+  name          String
+  email         String
+  website       String?
+
+  // Comment details
+  comment       String   @db.Text
+  postSlug      String   // Which blog post
+
+  // Moderation
+  approved      Boolean  @default(false)
+  approvedAt    DateTime?
+  approvedBy    String?
+
+  // Status
+  status        String   @default("pending") // pending, approved, spam, rejected
+
+  // Metadata
+  ipAddress     String?
+  userAgent     String?
+
+  @@index([postSlug])
+  @@index([approved])
+  @@index([createdAt])
+  @@map("blog_comments")
+}

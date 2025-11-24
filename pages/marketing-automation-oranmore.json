@@ -1,0 +1,188 @@
+{
+  "id": "marketing-automation-oranmore",
+  "service": "Marketing Automation",
+  "serviceSlug": "marketing-automation",
+  "location": "Oranmore",
+  "locationSlug": "oranmore",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Marketing Automation Oranmore - Transform Your Marketing | Kraft Agency",
+  "metaDescription": "Revolutionize your Oranmore business with smart marketing automation from Kraft Agency. Save time, nurture leads, drive growth. Free automation audit today!",
+  "heroHeadline": "Intelligent Marketing Automation for Oranmore Businesses",
+  "heroSubheadline": "Work Smarter, Not Harder with AI-Powered Marketing Systems",
+
+  "description": "Transform your marketing from time-consuming manual tasks to efficient, automated systems with Kraft Agency's marketing automation expertise. Serving businesses in Oranmore and East Galway, we implement intelligent automation solutions that nurture leads, engage customers, and drive revenue growth while dramatically reducing your marketing workload. Whether you're a local Oranmore business or a growing company serving national and international markets, our automation systems deliver the scalability and efficiency you need to compete and win.\n\nOur marketing automation philosophy is simple: automate the repetitive, personalize the experience, and measure everything. We design automation workflows that feel personal and timely to your customers while running entirely on autopilot for your team. From welcome email sequences that convert new subscribers into customers, to abandoned cart recovery systems that recapture lost sales, to sophisticated lead scoring that identifies your hottest prospects, we build automation that directly impacts your bottom line. Every workflow is backed by proven templates, customized for your business, and optimized through continuous testing.\n\nWhat sets Kraft Agency apart as Oranmore's marketing automation experts? We're based locally in Oranmore, giving us unique insight into the challenges and opportunities facing businesses in our community. Our team brings 15+ years of automation experience across platforms like HubSpot, ActiveCampaign, Klaviyo, and Mailchimp, combined with strategic marketing expertise that ensures automation serves your business goals. We don't just set up tools – we design complete systems that integrate seamlessly with your existing processes, amplify your team's effectiveness, and deliver measurable ROI from day one.",
+
+  "shortDescription": "Marketing automation in Oranmore. Automate lead nurturing, streamline campaigns, and scale your marketing with AI-powered workflows. Free assessment.",
+
+  "benefits": [
+    "Save 15-30 hours per week on repetitive marketing tasks",
+    "Nurture leads automatically with personalized messaging",
+    "Increase sales conversion rates by 10-30%",
+    "AI-powered lead scoring identifies best prospects",
+    "Seamless integration across all your marketing tools",
+    "Scale marketing efforts without adding team members",
+    "Comprehensive tracking and performance analytics",
+    "Local Oranmore team with global automation expertise"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Automation Opportunity Assessment",
+      "description": "We analyze your current marketing processes, identify time-consuming manual tasks, map your customer journey, and assess your technology stack. This reveals the automation opportunities that will deliver the biggest impact for your Oranmore business."
+    },
+    {
+      "step": 2,
+      "title": "Strategic Automation Blueprint",
+      "description": "Our team designs a comprehensive automation strategy tailored to your business goals, customer lifecycle, and existing processes. We prioritize workflows that deliver quick wins while building toward sophisticated automation systems."
+    },
+    {
+      "step": 3,
+      "title": "Platform Implementation & Integration",
+      "description": "We select and implement the optimal automation platform for your needs, handling all technical setup and integration with your website, CRM, email system, e-commerce platform, and other marketing tools."
+    },
+    {
+      "step": 4,
+      "title": "Workflow Development & Testing",
+      "description": "Our automation specialists build your workflows including lead capture, nurturing sequences, customer onboarding, re-engagement campaigns, and retention programs. Every workflow is thoroughly tested before going live."
+    },
+    {
+      "step": 5,
+      "title": "AI-Enhanced Optimization",
+      "description": "We implement machine learning algorithms that continuously optimize your automation – from send time prediction to content personalization to behavioral triggers. Your automation gets smarter over time."
+    },
+    {
+      "step": 6,
+      "title": "Performance Monitoring & Growth",
+      "description": "We provide ongoing monitoring, detailed reporting, and strategic improvements to your automation systems. As your business grows and evolves, we adapt and expand your automation to support new objectives."
+    }
+  ],
+
+  "pricingInfo": "Marketing automation services range from €1,500 per month for essential automation setup and management to €5,000-€8,000+ per month for comprehensive multi-platform automation with advanced features and enterprise-level support. Pricing is customized based on your business size, marketing volume, platform requirements, and automation complexity. Transparent pricing with flexible terms. Contact us for a free automation assessment and personalized proposal.",
+
+  "serviceArea": "Oranmore and surrounding areas including Galway City, Carnmore, Athenry, Clarinbridge, and all of East County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Extended support for automation clients.",
+
+  "qualifications": [
+    "HubSpot certified implementation partners",
+    "ActiveCampaign automation consultants",
+    "Klaviyo email marketing specialists",
+    "Mailchimp and Zapier experts",
+    "AI and machine learning certified",
+    "15+ years combined automation expertise"
+  ],
+  "yearsExperience": "15+ years combined marketing automation experience",
+  "guarantees": [
+    "Transparent ROI tracking and performance reporting",
+    "Proven automation templates and best practices",
+    "No long-term contracts required",
+    "Responsive technical support and troubleshooting",
+    "100% commitment to your marketing success"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Marketing automation workflow and systems in Oranmore",
+      "caption": "Smart Marketing Automation in Oranmore"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Automation dashboard and analytics",
+        "caption": "Comprehensive automation platforms"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing analytics and performance tracking",
+        "caption": "Data-driven automation optimization"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1553877522-43269d4ea984?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Email marketing automation workflow",
+        "caption": "Intelligent email automation"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Business automation and efficiency tools",
+        "caption": "Streamlined marketing processes"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Oranmore Businesses Trust Kraft Agency for Automation",
+    "Marketing Automation Services We Provide",
+    "The Business Impact of Marketing Automation",
+    "Automation Platforms and Technologies We Master",
+    "Marketing Automation FAQs for Oranmore Businesses",
+    "Start Automating Your Marketing Today"
+  ],
+
+  "faq": [
+    {
+      "question": "How does marketing automation actually work?",
+      "answer": "Marketing automation uses software to automatically execute marketing tasks based on triggers and workflows you define. For example, when someone downloads your guide, they automatically receive a welcome email, then a series of educational emails, and sales outreach – all without manual effort. It's like having a marketing team that never sleeps."
+    },
+    {
+      "question": "What tasks can be automated in my Oranmore business?",
+      "answer": "Common automation includes email sequences, social media posting, lead scoring and routing, abandoned cart recovery, customer onboarding, appointment reminders, survey distribution, campaign reporting, and much more. If it's repetitive and rule-based, it can likely be automated."
+    },
+    {
+      "question": "Will automation make my marketing feel impersonal?",
+      "answer": "Quite the opposite! Good automation enables better personalization at scale. You can send targeted, relevant messages based on individual behavior, preferences, and lifecycle stage. Customers receive timely, helpful content that feels personalized because it is – you just didn't have to manually send each one."
+    },
+    {
+      "question": "How much time will marketing automation save my team?",
+      "answer": "Most businesses save 15-30 hours per week on repetitive tasks. This frees your team to focus on strategy, creative work, and high-value activities. Plus, automation works 24/7, so you're nurturing leads and engaging customers even when your team is offline."
+    },
+    {
+      "question": "Is marketing automation expensive?",
+      "answer": "Not when you consider the ROI. Platform costs range from €50-€500+ per month depending on your needs. Combined with implementation and management, total investment starts around €2,000-€3,000 per month. However, the time saved and revenue generated typically deliver 3-10x ROI within the first year."
+    },
+    {
+      "question": "Can automation work for B2B companies in Oranmore?",
+      "answer": "Absolutely! B2B marketing automation is particularly powerful for nurturing longer sales cycles, scoring leads, coordinating sales and marketing, and managing complex customer journeys. Many B2B companies see even higher ROI than B2C due to higher customer values."
+    },
+    {
+      "question": "What happens if something goes wrong with my automation?",
+      "answer": "We provide ongoing monitoring and support to prevent issues. Automation platforms have built-in safeguards, and we implement additional checks to ensure everything runs smoothly. If something does go wrong, we're available to troubleshoot and resolve issues quickly."
+    },
+    {
+      "question": "How do you measure automation success?",
+      "answer": "We track metrics like time saved, email engagement rates, lead conversion rates, revenue attributed to automation, customer lifetime value, and overall marketing ROI. You receive monthly reports showing exactly how automation is performing and contributing to your business goals."
+    }
+  ],
+
+  "keywords": [
+    "marketing automation",
+    "email automation",
+    "workflow automation",
+    "lead nurturing automation",
+    "CRM automation",
+    "automated marketing",
+    "marketing automation platform",
+    "business automation",
+    "AI marketing automation",
+    "automation software"
+  ],
+  "localKeywords": [
+    "marketing automation Oranmore",
+    "automation services Galway",
+    "email automation Ireland",
+    "HubSpot partner Oranmore",
+    "workflow automation Galway",
+    "marketing automation East Galway",
+    "automation consultant Ireland",
+    "automation agency Oranmore",
+    "marketing automation near me",
+    "automation services Ireland"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Get Your Free Automation Audit",
+  "ctaSecondary": "Schedule a Demo"
+}

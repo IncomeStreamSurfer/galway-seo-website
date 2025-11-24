@@ -1,0 +1,192 @@
+{
+  "id": "web-design-development-ballybane",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Ballybane",
+  "locationSlug": "ballybane",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Ballybane - Affordable Professional Websites | Kraft Agency",
+  "metaDescription": "Professional web design in Ballybane at affordable prices. Custom websites that grow your business. Mobile-responsive, SEO-optimized. Get your free quote today!",
+
+  "heroHeadline": "Affordable Web Design & Development in Ballybane",
+  "heroSubheadline": "Professional Websites That Grow Your Business",
+
+  "description": "Need a professional website for your Ballybane business without breaking the bank? Kraft Agency provides affordable, high-quality web design that delivers exceptional value. We create custom websites that look professional, function flawlessly, and drive real business results – all at prices that make sense for local Ballybane businesses. Whether you're a startup launching your first website, a service provider needing online visibility, or an established business ready to upgrade, we build websites that work as hard as you do to attract and convert customers.\n\nOur web design service in Ballybane focuses on what matters most: creating websites that generate leads, sales, and growth for your business. We don't believe in cookie-cutter templates or generic designs. Every website we create is custom-built to reflect your unique brand, speak to your target customers, and achieve your specific business goals. From professional layouts and compelling copywriting to strategic call-to-actions and easy navigation, we optimize every element for conversion. Our websites are mobile-responsive, fast-loading, and search engine friendly – ensuring your Ballybane business gets found online and makes a strong first impression.\n\nWhat makes Kraft Agency different is our commitment to accessible, transparent pricing combined with cutting-edge expertise. We use modern web technologies and AI-powered optimization tools typically reserved for enterprise clients, but we make them accessible for Ballybane businesses of all sizes. Our flexible packages and payment plans mean professional web design is within reach. Plus, with local service and ongoing support, we're here whenever you need us – not just for the initial build but as your long-term digital partner helping your business grow and thrive online.",
+
+  "shortDescription": "Affordable professional web design in Ballybane. Custom websites that drive business growth. Mobile-responsive, SEO-optimized, and built with modern technology.",
+
+  "benefits": [
+    "Affordable professional web design for Ballybane businesses",
+    "Custom designs (no generic templates)",
+    "Mobile-responsive across all devices",
+    "Fast loading speeds for better user experience",
+    "SEO-optimized to rank on Google",
+    "Easy-to-manage content systems",
+    "Flexible payment plans available",
+    "Local support from Galway-based team",
+    "E-commerce capabilities included",
+    "90-day post-launch support"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Free Consultation",
+      "description": "We start with a free consultation to understand your Ballybane business, your goals, and your budget. We discuss what you need from your website and provide transparent pricing recommendations that fit your budget without compromising quality."
+    },
+    {
+      "step": 2,
+      "title": "Custom Design",
+      "description": "Our designers create custom mockups that reflect your brand personality and appeal to your target customers in Ballybane. We present design concepts for your feedback and refine them until you're completely satisfied with the direction."
+    },
+    {
+      "step": 3,
+      "title": "Development & Building",
+      "description": "Our developers build your website using modern, secure technologies. We ensure fast loading speeds, mobile responsiveness, and easy content management. We integrate any necessary features like contact forms, booking systems, or e-commerce."
+    },
+    {
+      "step": 4,
+      "title": "Content & SEO",
+      "description": "We optimize your website content for search engines so your Ballybane business gets found on Google. This includes keyword research, meta tag optimization, and technical SEO to give you the best chance of ranking well in local searches."
+    },
+    {
+      "step": 5,
+      "title": "Testing & Refinement",
+      "description": "Before launch, we test your website thoroughly on all devices and browsers. We check functionality, loading speeds, and user experience to ensure everything works perfectly. We make any necessary adjustments based on testing results."
+    },
+    {
+      "step": 6,
+      "title": "Launch & Training",
+      "description": "We launch your website and provide training so you can manage content confidently. We include 90 days of post-launch support to address any questions or issues. We're here to help your Ballybane business succeed online."
+    }
+  ],
+
+  "pricingInfo": "Web design in Ballybane starts from €2,500 for professional business websites. E-commerce sites typically range from €4,000-€8,000 depending on features. We offer flexible payment plans to make professional web design accessible. All packages include responsive design, SEO optimization, and training. Contact us for a free consultation and custom quote based on your needs.",
+
+  "serviceArea": "Ballybane and surrounding areas including Galway City, Mervue, Renmore, Castlegar, Doughiska, and all of East Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Available for consultations evenings and weekends by appointment.",
+
+  "qualifications": [
+    "Experienced web design team",
+    "Full-stack development capabilities",
+    "Google Partner certified",
+    "Modern web technologies (React, WordPress, Next.js)",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive design guaranteed",
+    "SEO-optimized from launch",
+    "90-day post-launch support included",
+    "Secure hosting available",
+    "Flexible payment plans"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1487338875411-8880f74114a2?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional web design in Ballybane",
+      "caption": "Affordable Professional Web Design in Ballybane"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1661677942925-b6ad7b27af18?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Modern website design layout",
+        "caption": "Custom designs for your brand"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Mobile responsive website design",
+        "caption": "Perfect on all devices"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Web development and coding",
+        "caption": "Built with modern technology"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Website performance analytics",
+        "caption": "Optimized for results"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Ballybane Businesses Choose Kraft Agency",
+    "Affordable Web Design Without Compromising Quality",
+    "Our Straightforward Web Design Process",
+    "Essential Website Features for Local Businesses",
+    "Common Web Design Questions from Ballybane Clients",
+    "Ready to Get Your Professional Website?"
+  ],
+
+  "faq": [
+    {
+      "question": "How affordable is web design for Ballybane businesses?",
+      "answer": "We offer professional web design starting from €2,500 for business websites. We provide flexible payment plans to make quality web design accessible for Ballybane businesses of all sizes. During your free consultation, we'll discuss your budget and recommend a package that delivers maximum value."
+    },
+    {
+      "question": "Do I need to know anything technical to manage my website?",
+      "answer": "No technical knowledge needed! We build websites with user-friendly content management systems that anyone can use. We provide comprehensive training on how to update text, add images, create new pages, and manage your site. Plus, we're always available if you need help."
+    },
+    {
+      "question": "How long will it take to get my website live?",
+      "answer": "Most business websites take 4-6 weeks from start to launch. This includes design, development, content creation, testing, and your review time. We can work faster if you have a specific deadline. We'll provide a clear timeline during your free consultation."
+    },
+    {
+      "question": "Will my website work on mobile phones?",
+      "answer": "Yes! Every website we design is fully responsive and optimized for mobile phones, tablets, and desktop computers. With most people browsing on mobile devices, mobile optimization is essential. We test thoroughly to ensure your site looks great and works perfectly on every device."
+    },
+    {
+      "question": "Can you help me with website content and text?",
+      "answer": "Absolutely! Many Ballybane clients need help with website content. We offer professional copywriting services to create compelling text that engages visitors and drives conversions. We can write everything from scratch or refine existing content – whatever helps your business shine online."
+    },
+    {
+      "question": "What if I need changes after the website is finished?",
+      "answer": "We include 90 days of post-launch support for any adjustments or changes you need. After that, we offer affordable maintenance packages for ongoing updates, or we can train you to make simple changes yourself. We're here for long-term support as your business grows."
+    },
+    {
+      "question": "Will people be able to find my website on Google?",
+      "answer": "Yes! We optimize every website for search engines with proper SEO techniques including keyword optimization, meta tags, fast loading speeds, mobile optimization, and technical SEO. While ranking takes time and ongoing effort, we give your Ballybane business the best foundation for search visibility."
+    },
+    {
+      "question": "Do you offer payment plans?",
+      "answer": "Yes, we offer flexible payment plans to make professional web design accessible. Instead of paying everything upfront, you can spread payments over several months. We'll discuss payment options during your free consultation to find an arrangement that works for your budget."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "affordable website",
+    "web designer",
+    "business website",
+    "custom website",
+    "responsive design",
+    "website builder",
+    "professional website",
+    "web development"
+  ],
+  "localKeywords": [
+    "web design Ballybane",
+    "website design Ballybane",
+    "Ballybane web designer",
+    "affordable web design Ballybane",
+    "web development Ballybane",
+    "website builder Ballybane",
+    "web design Galway",
+    "Ballybane website company",
+    "web designer near me",
+    "website development East Galway"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "See Pricing Packages"
+}

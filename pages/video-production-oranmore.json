@@ -1,0 +1,189 @@
+{
+  "id": "video-production-oranmore",
+  "service": "Video Production & Marketing",
+  "serviceSlug": "video-production",
+  "location": "Oranmore",
+  "locationSlug": "oranmore",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Video Production Oranmore - Expert Filmmaking | Kraft Agency",
+  "metaDescription": "Top-rated video production services in Oranmore. Create engaging video content that drives results. Professional filming & editing. Contact Kraft Agency for your free quote today!",
+
+  "heroHeadline": "Expert Video Production in Oranmore",
+  "heroSubheadline": "Transform Your Brand with Professional Video Content",
+
+  "description": "Searching for professional video production services in Oranmore? Kraft Agency specializes in creating high-impact video content that elevates your brand and drives measurable business results. Based right in Oranmore, we understand the local business landscape and deliver video solutions that resonate with your target audience across Galway and beyond.\n\nOur video production expertise spans the full spectrum of content creation. From concept development and storyboarding to professional filming with cinema-grade equipment and expert post-production editing, we handle every aspect of your video project. Whether you're launching a product, building brand awareness, creating social media content, or producing corporate communications, our Oranmore-based team delivers exceptional quality that exceeds expectations.\n\nAt Kraft Agency in Oranmore, we combine artistic creativity with strategic marketing insight. Every video we produce is crafted with your business objectives in mind – whether that's increasing conversions, building trust, generating leads, or expanding your reach. With our state-of-the-art equipment, talented production team, and proven track record serving Oranmore businesses, we're your local partner for video production that delivers real ROI.",
+
+  "shortDescription": "Professional video production in Oranmore. Create compelling video content that engages audiences and drives results. Free consultation.",
+
+  "benefits": [
+    "Local Oranmore-based video production team",
+    "Cinema-quality filming and production values",
+    "Complete creative development and scripting",
+    "Professional editing with motion graphics",
+    "Social media optimization and formatting",
+    "Fast project turnaround times",
+    "Competitive pricing for local businesses",
+    "End-to-end service from concept to delivery"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Initial Consultation & Planning",
+      "description": "We meet with you to understand your brand, objectives, and target audience. Together we develop a creative brief and production plan that aligns with your goals and budget."
+    },
+    {
+      "step": 2,
+      "title": "Creative Development & Scripting",
+      "description": "Our team creates detailed storyboards, scripts, and shot lists. We handle all pre-production logistics including location scouting, talent coordination, and scheduling."
+    },
+    {
+      "step": 3,
+      "title": "Professional Video Production",
+      "description": "Using professional cameras, lighting, and audio equipment, we capture high-quality footage that showcases your brand beautifully and tells your story effectively."
+    },
+    {
+      "step": 4,
+      "title": "Expert Post-Production",
+      "description": "Our editors craft your footage into polished final videos with professional color correction, sound mixing, motion graphics, and visual effects that enhance your message."
+    },
+    {
+      "step": 5,
+      "title": "Client Review & Revisions",
+      "description": "We share draft versions for your feedback and incorporate revisions to ensure the final video perfectly matches your vision and meets your requirements."
+    },
+    {
+      "step": 6,
+      "title": "Final Delivery & Support",
+      "description": "Receive your completed videos in all necessary formats, plus guidance on distribution strategy and marketing to maximize your video's impact and reach."
+    }
+  ],
+
+  "pricingInfo": "Video production costs vary based on project scope and complexity. Social media videos typically start from €1,500, corporate videos from €3,000, and full commercial productions from €8,000+. Pricing includes concept development, filming, editing, and final delivery in multiple formats. Contact us for a detailed quote tailored to your project.",
+
+  "serviceArea": "Oranmore and surrounding areas including Galway City, Clarinbridge, Athenry, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Weekend filming available upon request.",
+
+  "qualifications": [
+    "Professional cinematography team",
+    "Advanced video editing specialists",
+    "Certified marketing professionals",
+    "Award-winning creative work",
+    "10+ years industry experience"
+  ],
+  "yearsExperience": "10+ years combined video production experience",
+  "guarantees": [
+    "Professional broadcast-quality results",
+    "Comprehensive revision process",
+    "On-schedule delivery commitment",
+    "Multi-platform optimization",
+    "Full rights and ownership"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1584224549374-995cbac1ab62?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional videographer filming in Oranmore with cinema camera",
+      "caption": "Professional Video Production in Oranmore"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1490971688337-f2c79913ea7d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Videographer using professional camera equipment",
+        "caption": "Cinema-quality filming equipment"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1612548403247-aa2873e9422d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional DSLR camera and video equipment",
+        "caption": "State-of-the-art video technology"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1574717025058-2f8737d2e2b7?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Video editing software on professional workstation",
+        "caption": "Expert video editing and post-production"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1595292340185-f8a3c5e8b593?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Female videographer with professional camera",
+        "caption": "Experienced production professionals"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Kraft Agency is Oranmore's Premier Video Production Company",
+    "Our Complete Video Production Process",
+    "Video Content Types We Excel At",
+    "Maximizing ROI with Strategic Video Marketing",
+    "Common Questions About Video Production in Oranmore",
+    "Start Your Video Project Today"
+  ],
+
+  "faq": [
+    {
+      "question": "How long does a typical video project take in Oranmore?",
+      "answer": "Project timelines depend on complexity. Simple videos can be completed in 1-2 weeks, while more complex productions typically take 3-6 weeks. We provide clear timelines upfront and maintain open communication throughout to ensure on-time delivery."
+    },
+    {
+      "question": "What makes Kraft Agency different from other video production companies?",
+      "answer": "We're local to Oranmore with deep understanding of the Galway market, we combine creative excellence with marketing strategy, use professional cinema-grade equipment, and deliver comprehensive service from concept through distribution. Plus, our AI-powered optimization ensures maximum engagement."
+    },
+    {
+      "question": "Can you film at our Oranmore business location?",
+      "answer": "Absolutely! We regularly film on-site at client locations throughout Oranmore and surrounding areas. We handle all logistics including permits if required, and work efficiently to minimize disruption to your business operations."
+    },
+    {
+      "question": "Do you offer drone footage and aerial videography?",
+      "answer": "Yes! We have licensed drone operators and professional drone equipment to capture stunning aerial footage that adds production value and unique perspectives to your videos."
+    },
+    {
+      "question": "What video formats do you deliver?",
+      "answer": "We deliver your videos in any formats you need – optimized for YouTube, social media platforms (Instagram, Facebook, LinkedIn, TikTok), websites, presentations, and broadcast. You'll receive multiple versions formatted perfectly for each use case."
+    },
+    {
+      "question": "How much creative input can I have in the process?",
+      "answer": "As much as you want! We work collaboratively with clients. Some prefer to provide detailed creative direction, while others want us to lead the creative process. We adapt to your preferences and ensure you're involved in key decisions."
+    },
+    {
+      "question": "Can you handle large-scale commercial productions?",
+      "answer": "Yes, we have the team, equipment, and experience to manage productions of any scale – from simple talking-head videos to multi-location commercial shoots with actors, specialized equipment, and complex post-production."
+    },
+    {
+      "question": "Do you offer video marketing services beyond production?",
+      "answer": "Yes! We're a full-service digital agency offering video SEO, YouTube optimization, social media advertising, video marketing campaigns, and analytics tracking to ensure your video content delivers measurable business results."
+    }
+  ],
+
+  "keywords": [
+    "video production",
+    "professional videography",
+    "commercial video",
+    "video marketing services",
+    "corporate videography",
+    "video content creation",
+    "professional filming",
+    "video editing services",
+    "promotional videos",
+    "brand video production"
+  ],
+  "localKeywords": [
+    "video production Oranmore",
+    "videographer Oranmore",
+    "video production Galway",
+    "Oranmore video services",
+    "commercial video Oranmore",
+    "video marketing Oranmore",
+    "Oranmore videography company",
+    "corporate video Oranmore",
+    "video agency Oranmore",
+    "professional video Oranmore"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Request Your Free Video Quote",
+  "ctaSecondary": "See Our Work"
+}

@@ -1,0 +1,188 @@
+{
+  "id": "web-design-development-gort",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Gort",
+  "locationSlug": "gort",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Gort - South Galway Business Websites | Kraft Agency",
+  "metaDescription": "Gort web design specialists. Professional websites for South Galway businesses. Retail, services, tourism, and agriculture. Kraft Agency delivers. Call +353 86 153 0832!",
+  "heroHeadline": "Professional Web Design in Gort",
+  "heroSubheadline": "Digital Solutions for South Galway's Market Town",
+
+  "description": "Gort is a thriving market town in South Galway with a diverse business community, and Kraft Agency is proud to provide professional web design services to local businesses. Whether you're in retail, agriculture, professional services, tourism, or manufacturing, we create websites that help your Gort business establish a strong online presence and attract more customers.\n\nWe understand the Gort business landscape – a town with strong agricultural roots, growing commerce, and proximity to major tourist attractions like Coole Park. Your website needs to reflect your business's professionalism while appealing to both local customers and visitors to South Galway. Our designs are clean, functional, and optimized for conversions, ensuring visitors can easily find information, make purchases, or contact your Gort business.\n\nAs a digital agency serving Gort businesses, we provide personalized local service with ongoing support. We've worked with diverse businesses across Gort and South Galway – from agricultural suppliers to retail shops, professional services to tourism operators. Let Kraft Agency help your business thrive in the digital age with a professional website that drives real results.",
+
+  "shortDescription": "Professional web design for Gort South Galway businesses. Custom websites that attract customers and drive growth. Contact Kraft Agency: +353 86 153 0832.",
+
+  "benefits": [
+    "Professional designs for Gort's diverse business community",
+    "Expertise across retail, agriculture, and services",
+    "Mobile-optimized for local and visiting customers",
+    "SEO-optimized for Gort and South Galway searches",
+    "E-commerce for retail and agricultural suppliers",
+    "Fast loading and reliable performance",
+    "Easy content management systems",
+    "Local Galway-based support team"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Consultation",
+      "description": "We meet with you in Gort to understand your business, your customers, and your goals. We'll discuss the features you need to succeed in the South Galway market."
+    },
+    {
+      "step": 2,
+      "title": "Custom Design",
+      "description": "Our designers create mockups tailored specifically to your Gort business and industry. You'll see the design before development and can request changes until it's perfect."
+    },
+    {
+      "step": 3,
+      "title": "Development & Integration",
+      "description": "We build your website using modern, reliable technology. All features are integrated and tested – from contact forms to e-commerce to industry-specific functionality."
+    },
+    {
+      "step": 4,
+      "title": "Content & SEO",
+      "description": "We optimize your content for search engines so Gort customers and those in South Galway can find you easily. We can help with content writing if needed."
+    },
+    {
+      "step": 5,
+      "title": "Testing & Launch",
+      "description": "Before launch, we thoroughly test your website across all devices and browsers, ensuring flawless performance for every visitor to your Gort business website."
+    },
+    {
+      "step": 6,
+      "title": "Training & Support",
+      "description": "We provide comprehensive training and 90 days of support after launch. You'll feel confident managing your website, with our team always available to help."
+    }
+  ],
+
+  "pricingInfo": "Web design packages for Gort businesses start from €2,500 for small business websites up to €12,000+ for complex e-commerce or custom solutions. We offer flexible payment plans and transparent pricing. Contact us for a personalized quote.",
+
+  "serviceArea": "Gort and surrounding areas including Loughrea, Kinvara, Ardrahan, Kilcolgan, Ennis, and South Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Available for meetings in Gort. Email: hello@kraftagency.ie",
+
+  "qualifications": [
+    "Experienced professional web design team",
+    "Expertise across multiple industries",
+    "E-commerce and custom development specialists",
+    "Local knowledge of Gort and South Galway",
+    "Committed to delivering quality results"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive on all devices",
+    "SEO-optimized structure",
+    "Easy content management",
+    "90-day post-launch support"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1603985585179-3d71c35a537c?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "Professional web design for Gort businesses",
+      "caption": "Expert Web Design Services in Gort, South Galway"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1666698809123-44e998e93f23?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Web design collaboration",
+        "caption": "Collaborative web design approach"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1593720213681-e9a8778330a7?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Professional web development",
+        "caption": "Expert development for Gort businesses"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1541462608143-67571c6738dd?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Responsive website design",
+        "caption": "Mobile-optimized responsive design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1691050769649-390293697deb?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Modern website mockup",
+        "caption": "Professional website designs"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Gort Businesses Choose Kraft Agency",
+    "Our Web Design Process for Gort Companies",
+    "Essential Features for South Galway Business Websites",
+    "Success Stories from Gort Businesses",
+    "Frequently Asked Questions",
+    "Ready to Launch Your Gort Business Online?"
+  ],
+
+  "faq": [
+    {
+      "question": "Do you create websites for Gort agricultural businesses?",
+      "answer": "Yes! We create websites for agricultural suppliers, farm services, machinery dealers, and agri-businesses in Gort. We can include product catalogs, e-commerce, and features specific to the agricultural industry."
+    },
+    {
+      "question": "How long does it take to build a website for my Gort business?",
+      "answer": "Most websites take 4-8 weeks from initial consultation to launch. The timeline depends on the complexity of your site and how quickly we receive content. We'll provide a detailed schedule during our consultation."
+    },
+    {
+      "question": "Can you help my Gort retail shop sell online?",
+      "answer": "Absolutely! We build complete e-commerce websites with product catalogs, shopping carts, and secure payment processing. This allows your Gort shop to reach customers across South Galway and beyond."
+    },
+    {
+      "question": "Will my website be mobile-friendly?",
+      "answer": "Yes, every website we create is fully responsive and optimized for smartphones, tablets, and desktop computers. This is essential as many Gort customers browse on mobile devices."
+    },
+    {
+      "question": "Do you provide website hosting and maintenance?",
+      "answer": "Yes, we offer secure, reliable hosting and comprehensive maintenance packages. This includes regular backups, security updates, and technical support for your Gort business website."
+    },
+    {
+      "question": "Can I update my website content myself?",
+      "answer": "Yes! We build websites on user-friendly platforms and provide full training. You'll be able to update text, images, prices, and more without technical skills. And we're always here if you need help."
+    },
+    {
+      "question": "How much does a website cost for a Gort business?",
+      "answer": "Prices start from €2,500 for small business websites. E-commerce and more complex sites typically range from €4,000 to €12,000 depending on features. We provide transparent quotes with no hidden fees."
+    },
+    {
+      "question": "Will my Gort business website show up on Google?",
+      "answer": "Yes! We optimize every website for search engines so local Gort customers and those in South Galway can find you when they search online. We can also provide ongoing SEO services for better rankings."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "business website",
+    "agricultural website",
+    "e-commerce website",
+    "responsive design",
+    "web designer",
+    "custom website",
+    "professional website",
+    "web development"
+  ],
+  "localKeywords": [
+    "web design Gort",
+    "website design Gort",
+    "Gort web designer",
+    "web development Gort",
+    "South Galway web design",
+    "Gort website company",
+    "local web designer Gort",
+    "website builder Gort",
+    "Gort digital agency",
+    "Galway web design"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "View Our Portfolio"
+}

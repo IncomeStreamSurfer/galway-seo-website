@@ -1,0 +1,208 @@
+{
+  "id": "ai-marketing-castlegar",
+  "service": "AI-Powered Marketing Solutions",
+  "serviceSlug": "ai-marketing",
+  "location": "Castlegar",
+  "locationSlug": "castlegar",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "AI Marketing Castlegar - Transform Your Business with AI | Kraft Agency",
+  "metaDescription": "Revolutionize your marketing with AI in Castlegar! Kraft Agency delivers cutting-edge AI automation, chatbots & intelligent campaigns. Get ahead of competitors now!",
+
+  "heroHeadline": "AI-Powered Marketing Solutions in Castlegar",
+  "heroSubheadline": "Leverage Cutting-Edge AI to Supercharge Your Marketing Performance",
+
+  "description": "Ready to revolutionize your marketing strategy in Castlegar? Kraft Agency brings the power of artificial intelligence to businesses in Castlegar and throughout County Galway. Our AI-powered marketing solutions combine advanced machine learning, automation, and data analytics to deliver results that traditional marketing simply cannot match. From intelligent chatbots that engage customers 24/7 to predictive analytics that forecast customer behavior, we're transforming how Castlegar businesses connect with their audiences.\n\nAs a forward-thinking digital agency based in Galway, we understand that AI isn't just a buzzword—it's a game-changer for businesses looking to scale efficiently. Our AI marketing solutions for Castlegar businesses include automated content generation, smart email campaigns that personalize messaging at scale, AI-driven social media optimization, and sophisticated customer segmentation that identifies your most valuable prospects. We've helped businesses in Castlegar reduce marketing costs by up to 40% while simultaneously increasing conversion rates by 200% or more.\n\nWhat sets Kraft Agency apart is our ability to make AI accessible and practical for businesses of all sizes in Castlegar. You don't need to be a tech giant to leverage AI—our team handles the complex implementation while you enjoy the results. From setting up intelligent lead scoring systems to deploying AI-powered advertising campaigns that automatically optimize for better ROI, we're your partner in embracing the future of marketing. Let's put AI to work for your Castlegar business today.",
+
+  "shortDescription": "Transform your Castlegar business with AI-powered marketing solutions from Kraft Agency. Automation, chatbots, predictive analytics, and intelligent campaigns that drive results.",
+
+  "benefits": [
+    "24/7 AI chatbots that qualify leads and engage customers automatically",
+    "Predictive analytics to forecast customer behavior and trends",
+    "Automated content generation saving hours of creative time",
+    "Smart email campaigns with AI-powered personalization at scale",
+    "Intelligent ad optimization that maximizes ROI automatically",
+    "Advanced customer segmentation using machine learning",
+    "Real-time campaign adjustments based on AI insights",
+    "Reduce marketing costs by up to 40% while increasing results"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "AI Readiness Assessment",
+      "description": "We analyze your current marketing operations to identify the best AI opportunities for your Castlegar business. This includes reviewing your customer data, existing tools, and marketing workflows to create a customized AI strategy."
+    },
+    {
+      "step": 2,
+      "title": "AI Solution Design",
+      "description": "Our team designs a tailored AI marketing system for your needs—whether that's implementing chatbots, setting up predictive analytics, or creating automated campaign workflows. Everything is designed around your specific goals."
+    },
+    {
+      "step": 3,
+      "title": "Implementation & Integration",
+      "description": "We seamlessly integrate AI tools with your existing marketing stack. From connecting chatbots to your CRM to setting up automated email sequences, we handle all the technical complexity while ensuring everything works together perfectly."
+    },
+    {
+      "step": 4,
+      "title": "AI Model Training",
+      "description": "Your AI systems learn from your unique business data. We train machine learning models on your customer interactions, past campaigns, and industry benchmarks to ensure accurate predictions and optimal performance."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Optimization",
+      "description": "Once your AI systems are live, we continuously monitor performance and fine-tune algorithms for better results. AI gets smarter over time, and we ensure your systems are always learning and improving."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing AI Management",
+      "description": "AI isn't set-it-and-forget-it. We provide ongoing management, regular reporting on AI performance, and strategic recommendations to expand your AI capabilities as your business grows."
+    }
+  ],
+
+  "pricingInfo": "AI marketing solutions are customized based on your needs and scale. Entry-level AI chatbot implementations start from €1,500 setup + €300/month management. Comprehensive AI marketing systems with predictive analytics, automated campaigns, and advanced personalization typically range from €3,000-€8,000/month depending on complexity. We offer flexible packages and transparent pricing. Contact us for a custom AI marketing audit and proposal.",
+
+  "serviceArea": "Castlegar and surrounding areas including Galway City, Oranmore, Carnmore, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. AI systems operate 24/7 with round-the-clock monitoring.",
+
+  "qualifications": [
+    "Certified AI and machine learning specialists",
+    "Google Partner with AI advertising expertise",
+    "Advanced training in marketing automation platforms",
+    "Data science and analytics experts",
+    "15+ years combined digital marketing experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "Transparent AI performance reporting",
+    "30-day money-back satisfaction guarantee",
+    "Ongoing AI optimization included",
+    "GDPR-compliant AI systems",
+    "Dedicated AI strategy consultant"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1746608943132-065d1d4b3c5d?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "AI assistant interface on smartphone for marketing automation in Castlegar",
+      "caption": "AI-Powered Marketing Solutions for Castlegar Businesses",
+      "credit": {
+        "photographer": "Zulfugar Karimov",
+        "unsplashUrl": "https://unsplash.com/photos/L_ABvr0KxgU"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing analytics dashboard with AI insights",
+        "caption": "Real-time AI analytics and performance tracking",
+        "credit": {
+          "photographer": "Carlos Muza",
+          "unsplashUrl": "https://unsplash.com/photos/hpjSkU2UYSU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533750349088-cd871a92f312?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing strategy planning with AI tools",
+        "caption": "Strategic AI-powered marketing planning",
+        "credit": {
+          "photographer": "Campaign Creators",
+          "unsplashUrl": "https://unsplash.com/photos/yktK2qaiVHI"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "AI technology and digital marketing visualization",
+        "caption": "Cutting-edge AI marketing technology",
+        "credit": {
+          "photographer": "fabio",
+          "unsplashUrl": "https://unsplash.com/photos/oyXis2kALVg"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "AI robot representing automated marketing",
+        "caption": "Marketing automation powered by AI",
+        "credit": {
+          "photographer": "Andrea De Santis",
+          "unsplashUrl": "https://unsplash.com/photos/zwd435-ewb4"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Choose AI-Powered Marketing in Castlegar?",
+    "How AI Transforms Your Marketing Performance",
+    "AI Marketing Solutions We Offer in Castlegar",
+    "Success Stories: AI Marketing Results from Irish Businesses",
+    "AI Marketing FAQs for Castlegar Business Owners",
+    "Ready to Embrace AI Marketing in Castlegar?"
+  ],
+
+  "faq": [
+    {
+      "question": "What exactly is AI-powered marketing?",
+      "answer": "AI-powered marketing uses artificial intelligence and machine learning to automate, optimize, and personalize your marketing efforts. This includes chatbots that engage customers 24/7, predictive analytics that forecast trends, automated content creation, intelligent ad optimization, and smart customer segmentation. It's about using technology to work smarter, not harder."
+    },
+    {
+      "question": "Is AI marketing suitable for small businesses in Castlegar?",
+      "answer": "Absolutely! AI marketing is no longer just for enterprise companies. We've designed accessible AI solutions specifically for small and medium businesses in Castlegar. Even basic AI implementations like chatbots and automated email sequences can deliver significant ROI. We scale solutions to fit your budget and grow with your business."
+    },
+    {
+      "question": "How quickly will I see results from AI marketing?",
+      "answer": "Many AI solutions deliver immediate benefits—chatbots start engaging customers from day one, and automated campaigns begin optimizing right away. However, AI gets smarter over time as it learns from your data. Most Castlegar businesses see measurable improvements within 30-60 days, with results continuing to improve over 6-12 months."
+    },
+    {
+      "question": "Will AI replace my marketing team?",
+      "answer": "No! AI augments your team, not replaces them. Think of AI as a super-powered assistant that handles repetitive tasks, data analysis, and optimization, freeing your team to focus on strategy, creativity, and relationship building. Many of our Castlegar clients find their teams become more effective and productive with AI support."
+    },
+    {
+      "question": "How much does AI marketing cost?",
+      "answer": "AI marketing solutions are highly customizable. Basic chatbot implementations start from €1,500 setup + €300/month. Comprehensive AI marketing systems range from €3,000-€8,000/month depending on features and scale. We create packages based on your specific needs and budget. Contact us for a custom proposal."
+    },
+    {
+      "question": "Is my customer data safe with AI systems?",
+      "answer": "Data security and privacy are paramount. All our AI systems are GDPR-compliant and use enterprise-grade security. Your customer data is encrypted, securely stored, and never shared with third parties. We follow strict data protection protocols to ensure your Castlegar business and customers are fully protected."
+    },
+    {
+      "question": "What AI tools and platforms do you use?",
+      "answer": "We work with leading AI marketing platforms including HubSpot AI, Salesforce Einstein, Google AI, ChatGPT for content, and custom machine learning models. We select the best tools based on your specific needs, ensuring everything integrates seamlessly with your existing marketing stack."
+    },
+    {
+      "question": "Can you help us implement just one AI feature to start?",
+      "answer": "Yes! Many Castlegar businesses start with a single AI feature like a chatbot or automated email sequences, then expand as they see results. We're happy to start small and scale up. There's no obligation to implement everything at once—we build your AI capabilities at a pace that works for you."
+    }
+  ],
+
+  "keywords": [
+    "AI marketing",
+    "artificial intelligence marketing",
+    "marketing automation",
+    "AI chatbot",
+    "predictive analytics",
+    "machine learning marketing",
+    "AI advertising",
+    "automated marketing",
+    "smart marketing",
+    "AI content generation"
+  ],
+  "localKeywords": [
+    "AI marketing Castlegar",
+    "AI marketing Galway",
+    "marketing automation Castlegar",
+    "AI chatbot Castlegar",
+    "Castlegar digital marketing AI",
+    "AI marketing agency Galway",
+    "artificial intelligence marketing Ireland",
+    "marketing automation Ireland",
+    "AI marketing near me",
+    "Castlegar AI solutions"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Get Your Free AI Marketing Consultation",
+  "ctaSecondary": "See AI Marketing Case Studies"
+}

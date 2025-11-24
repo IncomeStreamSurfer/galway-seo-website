@@ -1,0 +1,188 @@
+{
+  "id": "social-media-marketing-ballinasloe",
+  "service": "Social Media Marketing",
+  "serviceSlug": "social-media-marketing",
+  "location": "Ballinasloe",
+  "locationSlug": "ballinasloe",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Social Media Marketing Ballinasloe - Grow Your Brand | Kraft",
+  "metaDescription": "Boost your Ballinasloe business with Kraft Agency's social media marketing. Build audience, increase engagement & drive revenue. Free audit available now!",
+  "heroHeadline": "Results-Driven Social Media Marketing in Ballinasloe",
+  "heroSubheadline": "Build Your Brand & Drive Measurable Business Growth",
+
+  "description": "Transform your Ballinasloe business with strategic social media marketing from Kraft Agency. We help local businesses build powerful online communities, increase brand visibility, and drive measurable revenue growth across all social platforms. Serving Ballinasloe and East Galway, we understand the local market and create content that resonates authentically with your target audience while positioning your business as a community leader and trusted provider.\n\nOur social media marketing approach is built on strategy, creativity, and consistent execution. We don't just post content – we develop comprehensive campaigns designed to achieve your specific business objectives. Whether you're looking to increase foot traffic to your Ballinasloe location, generate online leads, build brand awareness across East Galway, or launch new products and services, we have the expertise and tools to deliver results. From engaging content creation to targeted advertising campaigns, we manage every aspect of your social media presence professionally.\n\nKraft Agency delivers transparency and accountability that Ballinasloe businesses deserve. We track every metric that impacts your bottom line – engagement, reach, website traffic, lead generation, conversions, and ROI – and provide detailed monthly reports with actionable insights. Our team uses AI-powered analytics to continuously optimize your campaigns, ensuring your social media investment delivers maximum returns and sustainable business growth.",
+
+  "shortDescription": "Strategic social media marketing for Ballinasloe businesses. Engage audiences, build brand loyalty, and drive revenue with expert management.",
+
+  "benefits": [
+    "Increased brand visibility in Ballinasloe and East Galway",
+    "Higher engagement with target customers",
+    "Consistent, professional content that builds trust",
+    "Strategic advertising for maximum ROI",
+    "Active community management and customer service",
+    "AI-powered insights for optimization",
+    "Complete multi-platform management",
+    "Transparent monthly reporting with insights"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Business Analysis & Strategy Creation",
+      "description": "We begin with a thorough analysis of your Ballinasloe business, industry, target audience, competitors, and goals. This foundation informs a custom social media strategy designed to achieve your specific objectives and maximize your marketing investment."
+    },
+    {
+      "step": 2,
+      "title": "Profile Setup & Optimization",
+      "description": "Our team optimizes your social media presence across all relevant platforms. We ensure professional branding, strategic keyword integration, complete business information, and proper setup of tracking and business tools to maximize platform capabilities and visibility."
+    },
+    {
+      "step": 3,
+      "title": "Content Strategy & Editorial Planning",
+      "description": "We develop comprehensive content strategies with monthly editorial calendars. Our plans include a strategic mix of promotional content, educational posts, community engagement, user-generated content, and campaigns aligned with your Ballinasloe business goals and seasonal opportunities."
+    },
+    {
+      "step": 4,
+      "title": "Content Production & Creation",
+      "description": "Our creative team produces all content including professional photography, engaging videos, custom graphics, animations, and compelling copy. Every asset is crafted to capture attention in crowded social feeds and inspire your Ballinasloe audience to take action."
+    },
+    {
+      "step": 5,
+      "title": "Strategic Publishing & Community Building",
+      "description": "We publish content at optimal times based on audience behavior analytics, then actively engage with your community through prompt responses, meaningful interactions, and relationship building. This consistent engagement transforms followers into loyal customers and brand advocates."
+    },
+    {
+      "step": 6,
+      "title": "Performance Monitoring & Optimization",
+      "description": "We track all performance metrics daily and provide comprehensive monthly reports. Our data-driven approach includes continuous testing and optimization of content, targeting, and strategies to consistently improve results and ROI for your Ballinasloe business."
+    }
+  ],
+
+  "pricingInfo": "Social media marketing for Ballinasloe businesses ranges from €850 per month for single-platform organic content management to €5,000+ per month for comprehensive multi-channel strategies including paid advertising, professional video production, and influencer marketing. We create customized packages based on your goals, industry, and budget. Schedule a free consultation for a personalized proposal.",
+
+  "serviceArea": "Ballinasloe and surrounding areas including Athlone, Athenry, Loughrea, Portumna, and all of East Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Social media monitoring and community engagement available seven days a week.",
+
+  "qualifications": [
+    "Meta Business Partner certified",
+    "LinkedIn Marketing Solutions Partner",
+    "Google Ads certified professional",
+    "10+ years digital marketing expertise",
+    "AI and automation specialists"
+  ],
+  "yearsExperience": "10+ years combined social media and digital marketing experience",
+  "guarantees": [
+    "Custom strategy tailored to Ballinasloe market",
+    "Professional content creation and management",
+    "Daily monitoring and community engagement",
+    "Detailed monthly performance reports",
+    "Flexible month-to-month contracts available"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1683721003111-070bcc053d8b?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Social media marketing for Ballinasloe businesses",
+      "caption": "Strategic Social Media Marketing in Ballinasloe"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Social media content creation workspace",
+        "caption": "Professional content creation"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1627777941175-d31f471f3d12?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Content creator filming social media video",
+        "caption": "Engaging video content production"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1643503640904-75c1a2093570?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Social media marketing analytics",
+        "caption": "Performance tracking and insights"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1621184078811-1120e2f1fc9e?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Social media team collaboration",
+        "caption": "Strategic campaign planning"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Ballinasloe Businesses Choose Kraft Agency",
+    "Our Complete Social Media Marketing Process",
+    "Platform Selection: Finding the Right Fit",
+    "Real Results from East Galway Businesses",
+    "Your Social Media Marketing Questions Answered",
+    "Start Growing Your Ballinasloe Business Today"
+  ],
+
+  "faq": [
+    {
+      "question": "Why should my Ballinasloe business invest in social media?",
+      "answer": "Social media is essential for modern business success. It helps you build brand awareness in Ballinasloe and East Galway, engage directly with customers, showcase your expertise, drive traffic to your location or website, generate qualified leads, and increase sales. It's one of the most cost-effective marketing channels with measurable ROI."
+    },
+    {
+      "question": "Which platforms work best for Ballinasloe businesses?",
+      "answer": "Most Ballinasloe businesses see strong results on Facebook and Instagram due to their local reach and engagement capabilities. LinkedIn is crucial for B2B and professional services. TikTok and YouTube work well for businesses targeting younger demographics or showcasing visual content. We'll analyze your specific situation and recommend the optimal platform mix."
+    },
+    {
+      "question": "How often do you post on our social media accounts?",
+      "answer": "Posting frequency varies by platform and strategy. We typically recommend 4-7 posts weekly on Facebook/Instagram plus daily stories, 3-5 LinkedIn posts per week, and more frequent content on Twitter and TikTok. We focus on quality over quantity, ensuring every post delivers value to your Ballinasloe audience."
+    },
+    {
+      "question": "What's included in your social media management?",
+      "answer": "Our comprehensive service includes strategy development, audience research, content planning and calendar creation, professional content production (graphics, videos, photography, copy), scheduling and publishing, daily community management, comment and message responses, paid advertising management, analytics tracking, and monthly reporting with insights."
+    },
+    {
+      "question": "Can you help with social media advertising?",
+      "answer": "Absolutely! We specialize in creating and managing paid social media campaigns on Facebook, Instagram, LinkedIn, and other platforms. Our campaigns use advanced targeting to reach your ideal customers in Ballinasloe and surrounding areas, compelling creative to capture attention, and continuous optimization to maximize ROI."
+    },
+    {
+      "question": "How do you handle negative feedback on social media?",
+      "answer": "We monitor your social channels daily and respond to all feedback professionally. For negative comments or reviews, we follow a protocol that acknowledges concerns, offers constructive solutions, and moves sensitive conversations to private channels when appropriate. This protects your reputation while demonstrating your commitment to customer satisfaction."
+    },
+    {
+      "question": "What kind of results can we expect?",
+      "answer": "Results vary by industry and goals, but Ballinasloe businesses typically see increased brand awareness, higher engagement with target audiences, more website traffic, increased inquiries or bookings, improved customer loyalty, and measurable revenue growth within 3-6 months. We provide detailed reports tracking progress toward your specific objectives."
+    },
+    {
+      "question": "How is Kraft Agency different from other social media agencies?",
+      "answer": "We combine local East Galway market knowledge with AI-powered analytics and creative excellence. Unlike agencies using generic templates, we develop custom strategies for each Ballinasloe business focused on measurable results. Our transparent reporting, flexible contracts, and proven track record set us apart from competitors."
+    }
+  ],
+
+  "keywords": [
+    "social media marketing",
+    "social media management",
+    "Instagram marketing",
+    "Facebook advertising",
+    "LinkedIn marketing",
+    "content creation",
+    "social media strategy",
+    "community management",
+    "brand awareness",
+    "digital marketing"
+  ],
+  "localKeywords": [
+    "social media marketing Ballinasloe",
+    "social media agency Ballinasloe",
+    "social media manager Ballinasloe",
+    "Facebook marketing Ballinasloe",
+    "Instagram marketing East Galway",
+    "social media Ballinasloe",
+    "digital marketing Ballinasloe",
+    "content marketing Galway",
+    "social media services near me",
+    "marketing agency East Galway"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Strategy Call",
+  "ctaSecondary": "View Success Stories"
+}

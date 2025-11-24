@@ -1,0 +1,209 @@
+{
+  "id": "ppc-google-ads-moycullen",
+  "service": "PPC & Google Ads Management",
+  "serviceSlug": "ppc-google-ads",
+  "location": "Moycullen",
+  "locationSlug": "moycullen",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "PPC Moycullen - AI-Powered Google Ads That Convert | Kraft Agency",
+  "metaDescription": "Drive more customers in Moycullen with Kraft Agency's expert PPC management. AI-optimized Google Ads campaigns that maximize ROI. Free consultation today!",
+
+  "heroHeadline": "AI-Powered PPC Campaigns in Moycullen",
+  "heroSubheadline": "Google Ads Management That Delivers Real Business Growth",
+
+  "description": "Ready to dominate search results in Moycullen and attract more qualified customers? Kraft Agency specializes in high-performance Google Ads campaigns that combine expert strategy with AI-powered optimization. Serving businesses throughout Moycullen and County Galway, we transform ad spend into measurable revenue growth through data-driven PPC management that outperforms traditional approaches.\n\nOur Google Ads specialists understand the unique challenges of advertising in Moycullen's competitive market. We don't just set up campaigns and hope for the best – we continuously analyze performance data, test new strategies, and leverage artificial intelligence to ensure your ads reach the right people at the right time with the right message. From local service businesses to e-commerce stores, we've helped dozens of Moycullen companies achieve breakthrough results with Google Ads that actually deliver ROI.\n\nWhat makes Kraft Agency the trusted choice for Moycullen businesses? Complete transparency and proven results. You'll receive detailed monthly reports showing exactly where every euro goes, which keywords drive conversions, and how we're optimizing your campaigns for better performance. With our local presence in Galway and Oranmore, you get the personal attention of a local agency combined with world-class PPC expertise that drives real business growth.",
+
+  "shortDescription": "Expert PPC and Google Ads management in Moycullen. AI-powered campaigns with transparent reporting and proven ROI. Local expertise, global results.",
+
+  "benefits": [
+    "AI-driven optimization for superior campaign performance",
+    "Google Partner certified with 15+ years PPC experience",
+    "Detailed performance tracking and transparent reporting",
+    "Custom landing pages built for maximum conversions",
+    "Local Moycullen market expertise",
+    "Advanced remarketing to capture lost visitors",
+    "Month-to-month contracts with no long-term commitment",
+    "Dedicated account manager for personalized service"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & PPC Audit",
+      "description": "We start with a comprehensive analysis of your business goals, target audience in Moycullen, and competitive landscape. If you're already running ads, we audit your existing campaigns to identify opportunities for improvement."
+    },
+    {
+      "step": 2,
+      "title": "Strategy & Campaign Build",
+      "description": "Our team develops a custom Google Ads strategy tailored to the Moycullen market, including keyword research, audience targeting, ad copywriting, and budget allocation across search, display, and remarketing campaigns."
+    },
+    {
+      "step": 3,
+      "title": "Conversion Optimization",
+      "description": "We ensure your landing pages are optimized for conversions, implementing tracking pixels, A/B testing frameworks, and conversion rate optimization techniques to maximize results from every click."
+    },
+    {
+      "step": 4,
+      "title": "Campaign Launch & Monitoring",
+      "description": "Your campaigns go live with comprehensive tracking in place. We monitor performance daily, making real-time adjustments to bids, budgets, and targeting to optimize results from the start."
+    },
+    {
+      "step": 5,
+      "title": "AI-Powered Optimization",
+      "description": "Using advanced machine learning tools, we continuously analyze campaign performance and implement data-driven optimizations that improve ROI. Our AI identifies opportunities human analysis might miss."
+    },
+    {
+      "step": 6,
+      "title": "Reporting & Growth Planning",
+      "description": "Receive detailed monthly reports with full transparency into campaign performance. We schedule regular strategy sessions to review results, discuss insights, and plan scaling strategies for continued growth."
+    }
+  ],
+
+  "pricingInfo": "PPC management for Moycullen businesses typically starts from €750 per month (plus your Google Ads budget). We recommend minimum ad spend of €500-€1,000 monthly for local campaigns, with larger budgets for regional or national reach. Contact us for a free audit and custom proposal based on your goals.",
+
+  "serviceArea": "Moycullen and surrounding areas including Galway City, Spiddal, Oughterard, Furbo, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Emergency support available for urgent campaign issues.",
+
+  "qualifications": [
+    "Google Partner certified agency",
+    "Advanced Google Analytics certification",
+    "15+ years combined PPC expertise",
+    "AI and marketing automation specialists",
+    "Certified conversion optimization experts"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% transparent reporting with live dashboard access",
+    "No long-term contracts or hidden fees",
+    "Google-approved white-hat advertising only",
+    "Free monthly strategy consultations",
+    "Dedicated Moycullen-focused account management"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Google Ads dashboard showing campaign metrics and performance",
+      "caption": "AI-Powered PPC Management in Moycullen",
+      "credit": {
+        "photographer": "Stephen Phillips - Hostreviews.co.uk",
+        "unsplashUrl": "https://unsplash.com/photos/shr_Xn8S8QU"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1518734549841-b417d28c22aa?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Analytics showing growth in website traffic and conversions",
+        "caption": "Measurable results for Moycullen businesses",
+        "credit": {
+          "photographer": "William Iven",
+          "unsplashUrl": "https://unsplash.com/photos/Ah4F6g-OmgI"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "PPC specialist optimizing Google Ads campaigns",
+        "caption": "Expert campaign optimization for maximum ROI",
+        "credit": {
+          "photographer": "Firmbee.com",
+          "unsplashUrl": "https://unsplash.com/photos/IrRbSND5EUc"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing analytics and performance data visualization",
+        "caption": "Data-driven strategies that work for Moycullen",
+        "credit": {
+          "photographer": "Carlos Muza",
+          "unsplashUrl": "https://unsplash.com/photos/hpjSkU2UYSU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1633307057722-a4740ba0c5d0?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Conversion tracking and ROI analysis dashboard",
+        "caption": "Complete transparency in campaign performance",
+        "credit": {
+          "photographer": "Austin Distel",
+          "unsplashUrl": "https://unsplash.com/photos/_Lnid7JAWFQ"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Moycullen Businesses Choose Kraft Agency for Google Ads",
+    "Our AI-Powered PPC Process That Delivers Results",
+    "Google Ads vs Facebook Ads: Which is Best for Moycullen?",
+    "Success Stories: PPC Results from Local Businesses",
+    "Frequently Asked Questions About Google Ads in Moycullen",
+    "Start Growing Your Moycullen Business with Google Ads Today"
+  ],
+
+  "faq": [
+    {
+      "question": "What's the minimum budget needed for Google Ads in Moycullen?",
+      "answer": "We recommend starting with at least €500-€1,000 per month in ad spend for local Moycullen campaigns, plus management fees. This provides enough data to optimize effectively while reaching qualified local customers. Smaller budgets can work but may limit reach and testing capabilities."
+    },
+    {
+      "question": "How long before I see results from my Google Ads?",
+      "answer": "Your ads can appear within hours of launch, generating immediate traffic. However, optimal performance typically develops over 4-8 weeks as we collect data and refine targeting. Most Moycullen clients see positive ROI within 2-3 months as campaigns mature and optimize."
+    },
+    {
+      "question": "Do you only serve businesses in Moycullen?",
+      "answer": "No, we serve businesses throughout County Galway and all of Ireland. While we have deep local expertise in the Moycullen market, our Google Ads capabilities extend to clients targeting local, regional, national, or even international audiences."
+    },
+    {
+      "question": "What makes AI-powered PPC better than traditional management?",
+      "answer": "AI analyzes thousands of data points to identify optimization opportunities humans might miss. It can adjust bids in real-time based on conversion likelihood, test ad variations faster, and predict performance trends. This results in better ROI, lower cost per acquisition, and faster optimization."
+    },
+    {
+      "question": "Will I have access to my Google Ads account and data?",
+      "answer": "Absolutely! You maintain ownership of your Google Ads account and have full access at all times. We also provide 24/7 access to custom dashboards showing real-time performance metrics, plus comprehensive monthly reports and regular strategy calls."
+    },
+    {
+      "question": "What if I'm already running Google Ads but not seeing results?",
+      "answer": "We offer free PPC audits to identify what's not working in your current campaigns. Common issues include poor keyword targeting, weak ad copy, unoptimized landing pages, or inadequate conversion tracking. We can take over management and implement fixes to dramatically improve performance."
+    },
+    {
+      "question": "Can you help with both Google Ads and other platforms like Facebook Ads?",
+      "answer": "Yes! While Google Ads is often the primary focus for Moycullen businesses, we manage multi-channel PPC campaigns including Facebook Ads, Instagram Ads, LinkedIn Ads, and more. We can recommend the best platform mix based on your target audience and business goals."
+    },
+    {
+      "question": "Do you require long-term contracts?",
+      "answer": "No, Kraft Agency operates on flexible month-to-month agreements. While we recommend at least 3-6 months for campaigns to fully optimize, you're never locked in. We believe in earning your continued business through consistent results and exceptional service."
+    }
+  ],
+
+  "keywords": [
+    "ppc management",
+    "google ads",
+    "paid search",
+    "search advertising",
+    "google adwords",
+    "ppc campaigns",
+    "paid advertising",
+    "search engine marketing",
+    "google advertising",
+    "ppc optimization"
+  ],
+  "localKeywords": [
+    "ppc Moycullen",
+    "google ads Moycullen",
+    "paid advertising County Galway",
+    "Moycullen google ads agency",
+    "ppc management Galway",
+    "search ads Moycullen",
+    "google ads specialist Moycullen",
+    "paid search Moycullen",
+    "adwords Moycullen",
+    "ppc agency near me"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Google Ads Audit",
+  "ctaSecondary": "Schedule a Strategy Call"
+}

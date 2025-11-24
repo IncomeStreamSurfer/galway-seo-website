@@ -1,0 +1,188 @@
+{
+  "id": "content-marketing-galway-city",
+  "service": "Content Marketing & Creation",
+  "serviceSlug": "content-marketing",
+  "location": "Galway City",
+  "locationSlug": "galway-city",
+  "serviceNiche": "Full-Service Digital Agency",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Content Marketing Galway City - Drive Engagement & Conversions | Kraft Agency",
+  "metaDescription": "Transform your brand with expert content marketing in Galway City. Kraft Agency creates strategic content that engages audiences and drives real results. Get your free content audit today!",
+
+  "heroHeadline": "Strategic Content Marketing in Galway City",
+  "heroSubheadline": "Compelling Content That Converts Visitors Into Loyal Customers",
+
+  "description": "Looking for content marketing that actually drives results in Galway City? Kraft Agency specializes in creating strategic, conversion-focused content that engages your target audience and builds lasting relationships. Based right here in Galway City, we understand the local market and know exactly what resonates with Irish audiences while maintaining a global perspective that keeps your brand competitive.\n\nOur content marketing approach goes far beyond simply writing blog posts. We develop comprehensive content strategies that align with your business goals, target the right audience at the right time, and guide prospects through every stage of the buyer's journey. From compelling website copy and thought-leadership articles to engaging social media content and persuasive email campaigns, every piece of content we create serves a strategic purpose in your marketing ecosystem.\n\nWhat sets Kraft Agency apart in Galway City is our integration of AI-powered tools with human creativity. We use advanced analytics to identify content opportunities, optimize for search engines, and track performance metrics that matter. But we never sacrifice the authentic voice and emotional connection that only skilled human writers can provide. Whether you're a startup looking to establish thought leadership or an established business ready to dominate your niche, our content marketing services in Galway City will help you achieve your goals faster.",
+
+  "shortDescription": "Expert content marketing in Galway City. Strategic content creation that engages audiences, builds authority, and drives conversions. Free content audit available.",
+
+  "benefits": [
+    "Strategic content that drives qualified leads and sales",
+    "SEO-optimized content for higher search rankings",
+    "Authentic brand voice that resonates with your audience",
+    "Multi-channel content strategy across all platforms",
+    "AI-powered insights combined with human creativity",
+    "Consistent publishing schedule that builds momentum",
+    "Local Galway City expertise with global best practices",
+    "Measurable ROI with transparent performance tracking"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Content Audit & Strategy",
+      "description": "We begin with a comprehensive audit of your existing content and competitive landscape. This reveals gaps, opportunities, and creates our strategic roadmap aligned with your business objectives."
+    },
+    {
+      "step": 2,
+      "title": "Audience Research & Personas",
+      "description": "Our team develops detailed audience personas based on research and data. Understanding your ideal customer's pain points, questions, and buying journey is critical for content that converts."
+    },
+    {
+      "step": 3,
+      "title": "Content Calendar Planning",
+      "description": "We create a strategic content calendar that ensures consistent publishing across all channels. Each piece of content is planned to support your business goals and seasonal opportunities."
+    },
+    {
+      "step": 4,
+      "title": "Content Creation & Optimization",
+      "description": "Our skilled writers and creators develop high-quality, SEO-optimized content that engages readers and ranks on Google. Every piece undergoes rigorous editing and quality control."
+    },
+    {
+      "step": 5,
+      "title": "Multi-Channel Distribution",
+      "description": "We don't just create content - we ensure it reaches your audience. Our distribution strategy maximizes reach across your website, social media, email, and other relevant channels."
+    },
+    {
+      "step": 6,
+      "title": "Performance Tracking & Refinement",
+      "description": "We continuously monitor content performance using advanced analytics, tracking engagement, conversions, and ROI. Data-driven insights inform ongoing optimization and strategy refinement."
+    }
+  ],
+
+  "pricingInfo": "Content marketing services typically range from €1,200 per month for essential blog content packages to €5,000+ per month for comprehensive multi-channel content strategies. We customize our approach based on your goals, industry, and content needs. Contact us for a free content audit and custom proposal tailored to your Galway City business.",
+
+  "serviceArea": "Galway City and surrounding areas including Salthill, Newcastle, Rahoon, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Dedicated content strategist available.",
+
+  "qualifications": [
+    "Award-winning content strategists",
+    "SEO and copywriting experts",
+    "Multi-industry content experience",
+    "Google Analytics certified",
+    "Content marketing specialists with 15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined content marketing experience",
+  "guarantees": [
+    "100% original, plagiarism-free content",
+    "SEO-optimized for search rankings",
+    "On-time delivery guaranteed",
+    "Unlimited revisions until satisfied",
+    "Transparent monthly reporting"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?ixlib=rb-4.1.0&q=80&w=1920",
+      "alt": "Professional content creator working on laptop in Galway City",
+      "caption": "Strategic Content Marketing Services in Galway City"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?ixlib=rb-4.1.0&q=80&w=1200",
+        "alt": "Content strategy planning and brainstorming",
+        "caption": "Comprehensive content strategy development"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?ixlib=rb-4.1.0&q=80&w=1200",
+        "alt": "Multi-channel content marketing across devices",
+        "caption": "Multi-channel content distribution"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1607703703520-bb638e84caf2?ixlib=rb-4.1.0&q=80&w=1200",
+        "alt": "Content writer creating engaging articles",
+        "caption": "High-quality content creation"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-4.1.0&q=80&w=1200",
+        "alt": "Content marketing analytics and performance tracking",
+        "caption": "Data-driven content optimization"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Choose Kraft Agency for Content Marketing in Galway City?",
+    "Our Proven Content Marketing Process",
+    "Content Types That Drive Results for Galway Businesses",
+    "Content Marketing Success Stories from Galway City",
+    "Frequently Asked Questions About Content Marketing",
+    "Ready to Transform Your Content Strategy?"
+  ],
+
+  "faq": [
+    {
+      "question": "What types of content do you create?",
+      "answer": "We create a wide range of content including blog posts, website copy, landing pages, email campaigns, social media content, whitepapers, case studies, video scripts, infographics, and more. Our content marketing services are fully customizable to your specific needs and goals."
+    },
+    {
+      "question": "How long does it take to see results from content marketing?",
+      "answer": "Content marketing is a long-term strategy, but many clients start seeing increased organic traffic within 3-6 months. Significant improvements in leads and conversions typically occur within 6-12 months. We provide regular performance reports so you can track progress from day one."
+    },
+    {
+      "question": "Do you write content for my specific industry?",
+      "answer": "Yes! Our team has experience creating content across 100+ industries. We take time to understand your business, products, and target audience to create authentic, industry-specific content that resonates with your ideal customers in Galway City and beyond."
+    },
+    {
+      "question": "How often should we publish new content?",
+      "answer": "The ideal publishing frequency depends on your goals and resources. Most businesses benefit from 2-4 blog posts per month, plus regular social media content. We'll recommend a content calendar that balances consistency with quality for maximum impact."
+    },
+    {
+      "question": "Will the content be optimized for SEO?",
+      "answer": "Absolutely! Every piece of content we create is optimized for search engines while maintaining readability and engagement. We conduct keyword research, optimize meta tags, structure content properly, and follow SEO best practices to help your content rank on Google."
+    },
+    {
+      "question": "Can you help promote the content after it's created?",
+      "answer": "Yes! Content creation is only half the battle. We develop comprehensive distribution strategies that include social media promotion, email marketing, influencer outreach, and paid amplification when appropriate. We ensure your content reaches the right audience."
+    },
+    {
+      "question": "How do you measure content marketing success?",
+      "answer": "We track multiple metrics including organic traffic growth, keyword rankings, time on page, engagement rates, lead generation, conversion rates, and ultimately revenue impact. You'll receive detailed monthly reports showing exactly how your content investment is performing."
+    },
+    {
+      "question": "What makes Kraft Agency different from other content agencies in Galway?",
+      "answer": "We combine local Galway expertise with AI-powered tools and global best practices. Our approach integrates content marketing with your overall digital strategy, ensuring every piece of content serves a purpose. Plus, we focus on measurable ROI, not just vanity metrics."
+    }
+  ],
+
+  "keywords": [
+    "content marketing",
+    "content creation",
+    "content strategy",
+    "blog writing",
+    "copywriting",
+    "SEO content",
+    "content marketing services",
+    "digital content",
+    "content marketing agency",
+    "strategic content"
+  ],
+  "localKeywords": [
+    "content marketing Galway City",
+    "content creation Galway",
+    "Galway City content agency",
+    "content writer Galway",
+    "blog writing Galway City",
+    "SEO content Galway",
+    "Galway content marketing services",
+    "content strategy Galway City",
+    "Galway copywriter",
+    "content marketing agency Ireland"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Get Your Free Content Audit",
+  "ctaSecondary": "View Content Samples"
+}

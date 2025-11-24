@@ -1,0 +1,208 @@
+{
+  "id": "web-design-development-shantalla",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Shantalla",
+  "locationSlug": "shantalla",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Shantalla Galway - Affordable Quality Websites | Kraft Agency",
+  "metaDescription": "Quality web design for Shantalla businesses at affordable prices. Kraft Agency creates professional, effective websites that drive results. Free consultation available!",
+  "heroHeadline": "Quality Web Design in Shantalla",
+  "heroSubheadline": "Professional Websites That Fit Your Budget",
+
+  "description": "Searching for quality web design in Shantalla? Kraft Agency creates professional, effective websites that help Shantalla businesses compete online without breaking the bank. Serving Shantalla and across Galway City, we understand that local businesses need affordable digital solutions that deliver real value. Our web design services focus on creating practical, professional websites that look great, work reliably, and drive genuine business results—all at prices that make sense for growing businesses.\n\nYour Shantalla business deserves a professional website that helps you grow, not one that drains your budget. Our web design approach balances quality with affordability, starting with understanding your business needs, your customers, and your realistic budget constraints. We then create a professional website that effectively represents your brand, communicates your value clearly, and guides visitors toward becoming customers. Every element is designed with purpose and efficiency—from clean, professional aesthetics to practical functionality that serves your business without unnecessary complexity or cost.\n\nKraft Agency builds websites for Shantalla businesses using proven, reliable technologies that provide excellent value and long-term performance. Every website is fully responsive across all devices, optimized for local search to help customers find you, and built with practical features that support your business operations. We provide clear training so you can manage your website confidently, plus affordable ongoing support options to keep everything running smoothly. With honest pricing, no hidden fees, and genuine local service, Kraft Agency is your partner for quality, affordable web design in Shantalla.",
+
+  "shortDescription": "Quality affordable web design for Shantalla businesses. Professional, effective websites with proven technology and reliable support. Free consultation available.",
+
+  "benefits": [
+    "Quality professional design for your Shantalla business",
+    "Affordable pricing that fits small business budgets",
+    "Mobile-responsive for all devices",
+    "Local Galway SEO to attract customers",
+    "Reliable performance and fast loading",
+    "Clear training and helpful support",
+    "Local Shantalla and Galway expertise",
+    "No hidden fees or surprise costs"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Budget Planning",
+      "description": "We start with a practical consultation to understand your Shantalla business needs, your target customers, and your realistic budget. This honest planning ensures we create a quality website that delivers value within your financial constraints."
+    },
+    {
+      "step": 2,
+      "title": "Efficient Design Creation",
+      "description": "Our designers create professional visual concepts that balance quality with efficiency. You'll review clear mockups and provide feedback through a streamlined revision process that respects both quality standards and your budget considerations."
+    },
+    {
+      "step": 3,
+      "title": "Smart Development",
+      "description": "Our developers build your website using efficient, proven technologies that provide excellent value. We include essential features—contact forms, basic analytics, mobile optimization—while avoiding unnecessary complexity that drives up costs without adding real business value."
+    },
+    {
+      "step": 4,
+      "title": "Quality Testing",
+      "description": "Before launch, we test your website thoroughly to ensure it works properly across devices and browsers. We verify functionality, check performance, and ensure everything meets professional standards while staying within your approved budget."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Simple Training",
+      "description": "We handle the launch process and provide clear, practical training so you can manage your website confidently. You'll receive straightforward documentation and access to our support team for questions—all included in your project price."
+    },
+    {
+      "step": 6,
+      "title": "Affordable Ongoing Support",
+      "description": "After launch, we offer affordable maintenance options to keep your website secure, updated, and performing well. You choose the level of ongoing support that fits your budget while ensuring your Shantalla business website continues delivering value."
+    }
+  ],
+
+  "pricingInfo": "Quality web design for Shantalla businesses starts from €2,500 for professional small business websites, with mid-range options from €4,000-€6,000, and comprehensive solutions up to €15,000 for e-commerce or custom features. We offer flexible payment plans and completely transparent pricing with no hidden costs. Contact us for an honest quote that fits your budget.",
+
+  "serviceArea": "Shantalla and surrounding areas including Galway City Centre, Newcastle, Westside, Bohermore, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Friendly support for clients.",
+
+  "qualifications": [
+    "Professional design team",
+    "Experienced developers",
+    "Google Partner certified",
+    "Proven track record",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive design",
+    "SEO-optimized from launch",
+    "90-day post-launch support",
+    "Secure hosting included"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Quality web design workspace in Shantalla Galway",
+      "caption": "Quality Web Design Services in Shantalla",
+      "credit": {
+        "photographer": "Christopher Gower",
+        "unsplashUrl": "https://unsplash.com/photos/m_HRfLhgABo"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1558655146-d09347e92766?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional web development",
+        "caption": "Quality development services",
+        "credit": {
+          "photographer": "Florian Olivo",
+          "unsplashUrl": "https://unsplash.com/photos/4hbJ-eymZ1o"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Clean web design elements",
+        "caption": "Professional design quality",
+        "credit": {
+          "photographer": "Hal Gatewood",
+          "unsplashUrl": "https://unsplash.com/photos/tZc3vjPCk-Q"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Responsive design display",
+        "caption": "Works on all devices",
+        "credit": {
+          "photographer": "Edho Pratama",
+          "unsplashUrl": "https://unsplash.com/photos/T6fDN60bMWY"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Website performance tracking",
+        "caption": "Track your results",
+        "credit": {
+          "photographer": "Carlos Muza",
+          "unsplashUrl": "https://unsplash.com/photos/hpjSkU2UYSU"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Shantalla Businesses Choose Kraft Agency for Quality Web Design",
+    "Our Efficient Process: Quality Design Within Your Budget",
+    "Essential Features for Effective Shantalla Business Websites",
+    "Real Success Stories from Local Business Websites",
+    "Your Web Design Questions Answered",
+    "Get Started with Your Affordable Shantalla Website Today"
+  ],
+
+  "faq": [
+    {
+      "question": "How much does a quality website cost for my Shantalla business?",
+      "answer": "Quality website design for Shantalla businesses starts from €2,500 for professional small business websites. Mid-range sites with more features range from €4,000-€6,000, while comprehensive e-commerce solutions range from €8,000-€15,000. We work within your budget to provide maximum value and quality. We offer flexible payment plans and honest, transparent pricing."
+    },
+    {
+      "question": "How long does it take to build my website?",
+      "answer": "Most website projects for Shantalla businesses take 4-6 weeks from start to launch. We work efficiently to deliver quality results without unnecessary delays. You'll receive a clear timeline during planning so you know exactly when to expect your website to be ready."
+    },
+    {
+      "question": "What's included in your affordable web design packages?",
+      "answer": "Our affordable packages include professional custom design, mobile-responsive development, basic SEO optimization, contact forms, Google Analytics integration, training, 90-day support, and secure hosting setup. We include everything essential for an effective business website while keeping costs reasonable for Shantalla businesses."
+    },
+    {
+      "question": "Will my website work on mobile phones?",
+      "answer": "Yes! Every website we create is fully mobile-responsive and works perfectly on smartphones, tablets, and desktops. This is included as standard in all our packages because mobile accessibility is essential for reaching customers in Shantalla and beyond."
+    },
+    {
+      "question": "Do you offer payment plans?",
+      "answer": "Yes! We offer flexible payment plans to make quality web design accessible for Shantalla businesses. You can spread the cost over several months rather than paying everything upfront. Contact us to discuss payment options that fit your budget and cash flow."
+    },
+    {
+      "question": "What ongoing costs should I expect?",
+      "answer": "After your initial website investment, typical ongoing costs include domain registration (about €15-30/year), hosting (from €10-30/month depending on needs), and optional maintenance support (from €50/month). We're completely transparent about all costs upfront—no surprises or hidden fees."
+    },
+    {
+      "question": "Can I update the website myself to save money?",
+      "answer": "Yes! We provide clear training so you can make basic updates yourself, which helps keep costs down. For more complex changes, we offer affordable support packages. This gives you control over routine updates while having expert help available when needed."
+    },
+    {
+      "question": "How does your pricing compare to other web designers?",
+      "answer": "Our pricing is competitive and honest. We focus on providing genuine value—quality professional work at fair prices for Shantalla businesses. Unlike some agencies, we don't have hidden fees or charge for every small change. We believe in building long-term relationships through fair pricing and quality service."
+    }
+  ],
+
+  "keywords": [
+    "affordable web design",
+    "quality website",
+    "web design",
+    "budget web design",
+    "professional website",
+    "small business website",
+    "website development",
+    "web designer",
+    "responsive design",
+    "business website"
+  ],
+  "localKeywords": [
+    "web design Shantalla",
+    "affordable web design Galway",
+    "Shantalla web designer",
+    "quality website Shantalla",
+    "web development Shantalla",
+    "Galway City web design",
+    "Shantalla website company",
+    "budget web design Galway",
+    "web designer Shantalla Galway",
+    "small business web design Galway"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Shantalla Website Quote",
+  "ctaSecondary": "View Our Work"
+}

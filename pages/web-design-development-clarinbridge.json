@@ -1,0 +1,188 @@
+{
+  "id": "web-design-development-clarinbridge",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Clarinbridge",
+  "locationSlug": "clarinbridge",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Clarinbridge - Oyster Village Websites | Kraft Agency",
+  "metaDescription": "Clarinbridge web design specialists. Beautiful websites for the Oyster Village. Tourism, hospitality, and local businesses. Kraft Agency delivers. Call +353 86 153 0832!",
+  "heroHeadline": "Web Design Services in Clarinbridge",
+  "heroSubheadline": "Showcasing the Best of the Oyster Village Online",
+
+  "description": "Clarinbridge is famous as Ireland's Oyster Village, and Kraft Agency specializes in creating stunning websites for local businesses that capture the unique character of this special community. Whether you're a restaurant showcasing fresh oysters, a pub welcoming tourists, a retail business, or providing services to the area, we create websites that help your Clarinbridge business thrive online.\n\nWe understand the Clarinbridge market – a village known for hospitality, culinary excellence, and warm welcomes. Your website should reflect those same qualities while providing modern functionality that today's customers expect. Our designs are visually appealing, easy to navigate, and optimized for conversions. We can integrate online menus, booking systems, photo galleries, and e-commerce – whatever your Clarinbridge business needs to succeed.\n\nAs a local digital agency serving Clarinbridge businesses, we provide personalized service with quick response times. We're familiar with the area and understand what attracts both local customers and tourists to Clarinbridge establishments. Let us help your business establish a professional online presence that drives bookings, increases foot traffic, and grows your revenue.",
+
+  "shortDescription": "Web design for Clarinbridge Oyster Village businesses. Beautiful, functional websites for tourism and local trade. Contact Kraft Agency: +353 86 153 0832 or hello@kraftagency.ie.",
+
+  "benefits": [
+    "Specialized in Clarinbridge hospitality and tourism websites",
+    "Beautiful designs that reflect the Oyster Village character",
+    "Online menus and reservation systems for restaurants",
+    "Mobile-optimized for tourists searching on the go",
+    "SEO-optimized for Clarinbridge and oyster-related searches",
+    "Photo galleries showcasing your establishment",
+    "Fast loading and excellent user experience",
+    "Local support from Galway-based team"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Planning",
+      "description": "We meet with you in Clarinbridge to learn about your business, what makes it special, and your goals. For restaurants and hospitality, we discuss features like online menus and booking systems."
+    },
+    {
+      "step": 2,
+      "title": "Design & Visual Appeal",
+      "description": "Our designers create beautiful mockups that showcase your Clarinbridge business. We focus on imagery, branding, and layouts that attract customers and encourage bookings or visits."
+    },
+    {
+      "step": 3,
+      "title": "Development & Integration",
+      "description": "We build your website with modern technology and integrate all necessary features – from online menus to reservation systems to payment processing – ensuring everything works seamlessly."
+    },
+    {
+      "step": 4,
+      "title": "Photography & Content",
+      "description": "We can arrange professional photography of your Clarinbridge establishment and write compelling content that attracts both search engines and customers."
+    },
+    {
+      "step": 5,
+      "title": "Testing & Launch",
+      "description": "We thoroughly test all features before launch, ensuring your website performs perfectly for every visitor – whether they're locals or tourists planning their Clarinbridge visit."
+    },
+    {
+      "step": 6,
+      "title": "Training & Support",
+      "description": "We provide comprehensive training on managing your website and 90 days of support. You'll feel confident updating menus, photos, and information as needed."
+    }
+  ],
+
+  "pricingInfo": "Web design for Clarinbridge hospitality and tourism businesses typically ranges from €3,000 to €10,000, depending on features like booking systems and online menus. We offer flexible payment plans. Contact us for a custom quote for your Clarinbridge business.",
+
+  "serviceArea": "Clarinbridge and surrounding areas including Oranmore, Galway City, Kilcolgan, Kinvara, and South Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Available for meetings in Clarinbridge. Email: hello@kraftagency.ie",
+
+  "qualifications": [
+    "Specialists in hospitality and tourism websites",
+    "Experience with restaurant and pub websites",
+    "Online booking and menu integration experts",
+    "Local knowledge of Clarinbridge market",
+    "Committed to showcasing your business beautifully"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "Mobile-responsive design guaranteed",
+    "Beautiful imagery and professional look",
+    "SEO-optimized for tourism searches",
+    "90-day post-launch support",
+    "Training on all website features"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1603985585179-3d71c35a537c?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "Beautiful web design for Clarinbridge businesses",
+      "caption": "Professional Web Design for Clarinbridge Oyster Village"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1627599936744-51d288f89af4?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Website planning collaboration",
+        "caption": "Working together on your Clarinbridge website"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Professional web development",
+        "caption": "Expert development for Clarinbridge"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Responsive design on devices",
+        "caption": "Perfect on every device"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1707836868495-3307d371aba4?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Website mockup design",
+        "caption": "Professional mockups and planning"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Clarinbridge Businesses Trust Kraft Agency",
+    "Web Design Process for Hospitality & Tourism",
+    "Essential Features for Clarinbridge Business Websites",
+    "Success Stories from Clarinbridge",
+    "Common Questions About Web Design",
+    "Ready to Showcase Your Clarinbridge Business Online?"
+  ],
+
+  "faq": [
+    {
+      "question": "Can you create a website for my Clarinbridge restaurant or pub?",
+      "answer": "Absolutely! We specialize in restaurant and pub websites with features like online menus, photo galleries, reservation systems, and event calendars. We'll showcase your Clarinbridge establishment beautifully."
+    },
+    {
+      "question": "How can a website help my Clarinbridge hospitality business?",
+      "answer": "A professional website makes it easy for tourists and locals to find you, view your menu, check opening hours, and make reservations. With Clarinbridge's reputation for oysters and hospitality, a great website helps you capture more of that tourism traffic."
+    },
+    {
+      "question": "Can you integrate an online booking system?",
+      "answer": "Yes! We can integrate reservation systems that allow customers to book tables online, view availability, and receive confirmation. This is especially valuable during peak tourist seasons and the Oyster Festival."
+    },
+    {
+      "question": "Will my website attract tourists to Clarinbridge?",
+      "answer": "Yes! We optimize your website for searches related to Clarinbridge, oysters, and Galway tourism. Combined with beautiful imagery and compelling content, your website will attract visitors planning their trip to the area."
+    },
+    {
+      "question": "Can you help with professional photography of my establishment?",
+      "answer": "Yes, we work with professional photographers who can capture stunning images of your Clarinbridge business, food, and atmosphere. Great photography is crucial for hospitality websites."
+    },
+    {
+      "question": "How long does it take to build a restaurant website?",
+      "answer": "Most restaurant and pub websites take 4-6 weeks from start to finish. If you need a website ready before the Oyster Festival or peak season, we can often accommodate faster timelines."
+    },
+    {
+      "question": "How much does a website cost for a Clarinbridge business?",
+      "answer": "Restaurant and hospitality websites typically start from €3,000 depending on features needed like booking systems and online menus. We provide transparent quotes and flexible payment plans."
+    },
+    {
+      "question": "Can I update my menu myself?",
+      "answer": "Yes! We build websites that make it easy for you to update menus, prices, specials, and event information. We provide full training, and you won't need technical skills to make updates."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "restaurant website",
+    "pub website",
+    "hospitality website",
+    "tourism website",
+    "online menu",
+    "booking system",
+    "responsive design",
+    "web designer"
+  ],
+  "localKeywords": [
+    "web design Clarinbridge",
+    "website design Clarinbridge",
+    "Clarinbridge web designer",
+    "restaurant website Clarinbridge",
+    "Oyster Village web design",
+    "Clarinbridge hospitality website",
+    "web development Clarinbridge",
+    "Clarinbridge digital agency",
+    "local web designer Clarinbridge",
+    "Galway web design"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "View Hospitality Websites"
+}

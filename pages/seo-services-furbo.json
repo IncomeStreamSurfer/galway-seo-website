@@ -1,0 +1,189 @@
+{
+  "id": "seo-services-furbo",
+  "service": "Search Engine Optimization (SEO)",
+  "serviceSlug": "seo-services",
+  "location": "Furbo",
+  "locationSlug": "furbo",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "SEO Furbo - Local Search Optimization | Kraft Agency",
+  "metaDescription": "Professional SEO services for Furbo businesses. Dominate local search, attract more customers from Galway, and grow your revenue. Free audit today!",
+
+  "heroHeadline": "SEO Services for Furbo Businesses",
+  "heroSubheadline": "Dominate Local Search in Furbo & Greater Galway",
+
+  "description": "Is your Furbo business getting the online visibility it deserves? Kraft Agency specializes in SEO services that help local businesses in Furbo dominate search results throughout the greater Galway area. Whether you serve local residents, Galway City customers, or visitors along the Wild Atlantic Way, our strategic SEO services drive qualified traffic and convert searches into sales.\n\nOur SEO approach for Furbo businesses combines local optimization with broader regional targeting. We ensure your business appears in local Furbo searches while also capturing customers from nearby Galway City, Salthill, Spiddal, and throughout the region. This strategic approach maximizes your visibility across the entire target market. From technical website optimization to strategic content creation and authoritative link building, we handle every element of your search presence.\n\nWhat sets Kraft Agency apart is our use of advanced AI technology combined with 15+ years of SEO expertise. We monitor your search performance daily, identify opportunities your competitors miss, and continuously refine our strategy based on real performance data. You'll receive complete transparency through detailed monthly reports showing exactly how SEO is impacting your Furbo business – from keyword rankings and website traffic to lead generation and revenue growth. Our goal is simple: make your Furbo business the obvious choice when customers search online.",
+
+  "shortDescription": "Professional SEO services for Furbo businesses. Dominate local search, attract more Galway customers, and grow revenue with expert strategies.",
+
+  "benefits": [
+    "Dominate local search in Furbo and Galway",
+    "Attract customers from across the region",
+    "Build long-term organic visibility",
+    "AI-powered competitive intelligence",
+    "Comprehensive SEO - technical, content, links",
+    "Transparent monthly reporting with ROI focus",
+    "Local expertise serving Furbo businesses",
+    "No contracts - flexible monthly service"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Local Market Analysis & Audit",
+      "description": "We analyze your Furbo business, target market (Furbo, Galway, regional), competitive landscape, and current SEO performance. This creates our strategic foundation for local search dominance."
+    },
+    {
+      "step": 2,
+      "title": "Local & Regional Keyword Strategy",
+      "description": "We identify valuable keywords targeting Furbo locals, Galway City customers, and regional searches. Our research ensures we capture searches across your entire service area with optimal keyword targeting."
+    },
+    {
+      "step": 3,
+      "title": "Technical & Local SEO Optimization",
+      "description": "We optimize technical elements and local SEO factors - Google Business Profile, local citations, schema markup, and more - ensuring your Furbo business dominates local search results."
+    },
+    {
+      "step": 4,
+      "title": "Content Strategy & Creation",
+      "description": "We create location-specific content targeting Furbo, Galway, and regional searches. Content demonstrates local expertise while targeting valuable keywords that drive customer acquisition for your business."
+    },
+    {
+      "step": 5,
+      "title": "Local Link Building & Citations",
+      "description": "We build authority through local directories, Galway business networks, and regional partnerships. These local signals improve your visibility for location-based searches in Furbo and throughout Galway."
+    },
+    {
+      "step": 6,
+      "title": "Performance Tracking & Optimization",
+      "description": "We monitor rankings, traffic, and conversions continuously. Monthly reports show performance across all target locations (Furbo, Galway, regional), with ongoing optimization ensuring sustained growth for your business."
+    }
+  ],
+
+  "pricingInfo": "SEO services for Furbo businesses range from €1,200 per month for focused local optimization to €3,500+ per month for comprehensive regional campaigns covering greater Galway. Pricing is customized based on your industry, competitive landscape, service area, and growth objectives. Contact us for a free SEO audit and personalized proposal.",
+
+  "serviceArea": "Furbo and surrounding areas including Galway City, Salthill, Spiddal, Barna, and throughout Galway Bay",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Local team with responsive support.",
+
+  "qualifications": [
+    "Google Partner certified",
+    "15+ years SEO expertise",
+    "Local SEO specialists",
+    "Technical SEO certified",
+    "AI and analytics experts"
+  ],
+  "yearsExperience": "15+ years combined SEO experience",
+  "guarantees": [
+    "Transparent monthly reporting",
+    "Ethical white-hat SEO only",
+    "Custom strategy for your Furbo business",
+    "Regular updates and consultations",
+    "Month-to-month flexibility"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "SEO analytics showing local search performance",
+      "caption": "Professional SEO Services for Furbo"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1562577309-4932fdd64cd1?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Local SEO optimization workspace",
+        "caption": "Strategic local SEO implementation"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Team collaborating on local SEO strategy",
+        "caption": "Expert team focused on your success"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Google rankings dashboard",
+        "caption": "Comprehensive performance tracking"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1557838923-2985c318be48?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Digital marketing strategy planning",
+        "caption": "Data-driven SEO strategy"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Furbo Businesses Choose Kraft Agency for SEO",
+    "Local SEO: Dominating Furbo & Galway Search Results",
+    "Our Proven Process for Furbo Business Success",
+    "Success Stories from Galway Local Businesses",
+    "Common SEO Questions from Furbo Business Owners",
+    "Ready to Transform Your Furbo Business with SEO?"
+  ],
+
+  "faq": [
+    {
+      "question": "How does local SEO work for Furbo businesses?",
+      "answer": "Local SEO optimizes your online presence for location-based searches like 'business near Furbo' or 'service in Galway'. We optimize your Google Business Profile, build local citations, create location-specific content, and earn local backlinks to dominate search results when Furbo and Galway customers search for your services."
+    },
+    {
+      "question": "Should I target just Furbo or broader Galway?",
+      "answer": "Most Furbo businesses benefit from targeting both! We optimize for specific Furbo searches while also capturing customers from Galway City, Salthill, Spiddal, and the broader region. This maximizes your visibility across your entire service area, driving more qualified traffic to your business."
+    },
+    {
+      "question": "How quickly can my Furbo business see local SEO results?",
+      "answer": "Local SEO often shows results faster than national SEO. Many businesses see improved local rankings within 2-4 months, with substantial traffic increases by 6-9 months. The timeline depends on your industry competition in the Furbo/Galway area and your current online presence."
+    },
+    {
+      "question": "What's the difference between regular SEO and local SEO?",
+      "answer": "Local SEO focuses on location-based searches and includes optimization of Google Business Profile, local citations, location-specific content, and local link building. Regular SEO targets broader keywords without geographic focus. Most Furbo businesses need strong local SEO to capture nearby customers."
+    },
+    {
+      "question": "How much does local SEO cost for Furbo businesses?",
+      "answer": "Local SEO for Furbo businesses typically starts at €1,200-€1,800/month for focused local optimization, ranging to €2,500-€3,500/month for comprehensive campaigns covering the greater Galway area. We provide custom proposals based on your specific industry, competition, and service area."
+    },
+    {
+      "question": "Do I need a Google Business Profile?",
+      "answer": "Absolutely! Your Google Business Profile is crucial for local SEO. It helps you appear in Google Maps, local pack results, and location-based searches. We optimize your profile as part of our local SEO service, ensuring maximum visibility for your Furbo business."
+    },
+    {
+      "question": "Can SEO help if most of my customers are from Galway City?",
+      "answer": "Yes! We create strategies targeting multiple locations - Furbo for hyperlocal searches and Galway City for the larger market. This ensures you capture customers regardless of how they search, whether they specify Furbo, Galway, or just search for your service type."
+    },
+    {
+      "question": "How do you measure local SEO success?",
+      "answer": "We track local keyword rankings, Google Business Profile visibility, website traffic by location, direction requests, phone calls, form submissions, and conversion rates. Monthly reports segment performance by location (Furbo, Galway, regional) so you see exactly where your customers are coming from."
+    }
+  ],
+
+  "keywords": [
+    "SEO services",
+    "local SEO",
+    "search engine optimization",
+    "Google Business Profile",
+    "local search",
+    "SEO agency",
+    "organic search",
+    "SEO expert",
+    "digital marketing",
+    "local business marketing"
+  ],
+  "localKeywords": [
+    "SEO Furbo",
+    "local SEO Galway",
+    "SEO services Furbo",
+    "Furbo business marketing",
+    "SEO Galway Bay",
+    "local search optimization Galway",
+    "SEO Salthill",
+    "SEO Spiddal",
+    "Galway SEO agency",
+    "SEO near me"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Local SEO Audit",
+  "ctaSecondary": "Schedule Strategy Call"
+}

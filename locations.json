@@ -1,0 +1,830 @@
+{
+  "serviceArea": {
+    "mainCity": "Galway",
+    "region": "County Galway",
+    "country": "Ireland",
+    "serviceRadius": {
+      "value": 50,
+      "unit": "km"
+    }
+  },
+  "totalLocations": 48,
+  "locations": [
+    {
+      "id": "galway-city",
+      "name": "Galway City",
+      "slug": "galway-city",
+      "type": "city",
+      "isMainLocation": true,
+      "distanceFromMain": {
+        "value": 0,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 79934,
+      "coordinates": {
+        "latitude": 53.2707,
+        "longitude": -9.0568
+      }
+    },
+    {
+      "id": "oranmore",
+      "name": "Oranmore",
+      "slug": "oranmore",
+      "type": "town",
+      "isMainLocation": true,
+      "distanceFromMain": {
+        "value": 9,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 4990,
+      "coordinates": {
+        "latitude": 53.2667,
+        "longitude": -8.9167
+      }
+    },
+    {
+      "id": "salthill",
+      "name": "Salthill",
+      "slug": "salthill",
+      "type": "suburb",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 3,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 6000,
+      "coordinates": {
+        "latitude": 53.2575,
+        "longitude": -9.0794
+      }
+    },
+    {
+      "id": "knocknacarra",
+      "name": "Knocknacarra",
+      "slug": "knocknacarra",
+      "type": "suburb",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 5,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 3500,
+      "coordinates": {
+        "latitude": 53.2622,
+        "longitude": -9.0972
+      }
+    },
+    {
+      "id": "barna",
+      "name": "Barna",
+      "slug": "barna",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 8,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 1800,
+      "coordinates": {
+        "latitude": 53.2500,
+        "longitude": -9.1500
+      }
+    },
+    {
+      "id": "athenry",
+      "name": "Athenry",
+      "slug": "athenry",
+      "type": "town",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 22,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 4000,
+      "coordinates": {
+        "latitude": 53.2976,
+        "longitude": -8.7444
+      }
+    },
+    {
+      "id": "loughrea",
+      "name": "Loughrea",
+      "slug": "loughrea",
+      "type": "town",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 29,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 5556,
+      "coordinates": {
+        "latitude": 53.1972,
+        "longitude": -8.5694
+      }
+    },
+    {
+      "id": "tuam",
+      "name": "Tuam",
+      "slug": "tuam",
+      "type": "town",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 34,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 8767,
+      "coordinates": {
+        "latitude": 53.5147,
+        "longitude": -8.8542
+      }
+    },
+    {
+      "id": "clarinbridge",
+      "name": "Clarinbridge",
+      "slug": "clarinbridge",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 15,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 1400,
+      "coordinates": {
+        "latitude": 53.2083,
+        "longitude": -8.8833
+      }
+    },
+    {
+      "id": "moycullen",
+      "name": "Moycullen",
+      "slug": "moycullen",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 12,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 1100,
+      "coordinates": {
+        "latitude": 53.3333,
+        "longitude": -9.1833
+      }
+    },
+    {
+      "id": "oughterard",
+      "name": "Oughterard",
+      "slug": "oughterard",
+      "type": "town",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 26,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 1318,
+      "coordinates": {
+        "latitude": 53.4333,
+        "longitude": -9.3167
+      }
+    },
+    {
+      "id": "gort",
+      "name": "Gort",
+      "slug": "gort",
+      "type": "town",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 37,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 2734,
+      "coordinates": {
+        "latitude": 53.0667,
+        "longitude": -8.8167
+      }
+    },
+    {
+      "id": "ballinasloe",
+      "name": "Ballinasloe",
+      "slug": "ballinasloe",
+      "type": "town",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 48,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 6662,
+      "coordinates": {
+        "latitude": 53.3333,
+        "longitude": -8.2167
+      }
+    },
+    {
+      "id": "kinvara",
+      "name": "Kinvara",
+      "slug": "kinvara",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 25,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 1070,
+      "coordinates": {
+        "latitude": 53.1333,
+        "longitude": -8.9333
+      }
+    },
+    {
+      "id": "clifden",
+      "name": "Clifden",
+      "slug": "clifden",
+      "type": "town",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 46,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 2056,
+      "coordinates": {
+        "latitude": 53.4889,
+        "longitude": -10.0197
+      }
+    },
+    {
+      "id": "headford",
+      "name": "Headford",
+      "slug": "headford",
+      "type": "town",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 28,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 695,
+      "coordinates": {
+        "latitude": 53.4667,
+        "longitude": -9.1000
+      }
+    },
+    {
+      "id": "renmore",
+      "name": "Renmore",
+      "slug": "renmore",
+      "type": "suburb",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 4,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 2500,
+      "coordinates": {
+        "latitude": 53.2833,
+        "longitude": -9.0167
+      }
+    },
+    {
+      "id": "doughiska",
+      "name": "Doughiska",
+      "slug": "doughiska",
+      "type": "suburb",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 6,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 3200,
+      "coordinates": {
+        "latitude": 53.2667,
+        "longitude": -8.9833
+      }
+    },
+    {
+      "id": "ballybane",
+      "name": "Ballybane",
+      "slug": "ballybane",
+      "type": "suburb",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 5,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 4000,
+      "coordinates": {
+        "latitude": 53.2833,
+        "longitude": -9.0333
+      }
+    },
+    {
+      "id": "mervue",
+      "name": "Mervue",
+      "slug": "mervue",
+      "type": "suburb",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 4,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 3500,
+      "coordinates": {
+        "latitude": 53.2833,
+        "longitude": -9.0500
+      }
+    },
+    {
+      "id": "castlegar",
+      "name": "Castlegar",
+      "slug": "castlegar",
+      "type": "suburb",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 5,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 2800,
+      "coordinates": {
+        "latitude": 53.2833,
+        "longitude": -8.9833
+      }
+    },
+    {
+      "id": "claregalway",
+      "name": "Claregalway",
+      "slug": "claregalway",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 13,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 2400,
+      "coordinates": {
+        "latitude": 53.3333,
+        "longitude": -8.9500
+      }
+    },
+    {
+      "id": "spiddal",
+      "name": "Spiddal",
+      "slug": "spiddal",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 19,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 1357,
+      "coordinates": {
+        "latitude": 53.2500,
+        "longitude": -9.3000
+      }
+    },
+    {
+      "id": "carraroe",
+      "name": "Carraroe",
+      "slug": "carraroe",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 38,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 2415,
+      "coordinates": {
+        "latitude": 53.2667,
+        "longitude": -9.5667
+      }
+    },
+    {
+      "id": "roundstone",
+      "name": "Roundstone",
+      "slug": "roundstone",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 48,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 247,
+      "coordinates": {
+        "latitude": 53.4000,
+        "longitude": -9.9000
+      }
+    },
+    {
+      "id": "portumna",
+      "name": "Portumna",
+      "slug": "portumna",
+      "type": "town",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 49,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 1505,
+      "coordinates": {
+        "latitude": 53.0833,
+        "longitude": -8.2167
+      }
+    },
+    {
+      "id": "craughwell",
+      "name": "Craughwell",
+      "slug": "craughwell",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 19,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 780,
+      "coordinates": {
+        "latitude": 53.2167,
+        "longitude": -8.7500
+      }
+    },
+    {
+      "id": "ardrahan",
+      "name": "Ardrahan",
+      "slug": "ardrahan",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 24,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 434,
+      "coordinates": {
+        "latitude": 53.1333,
+        "longitude": -8.8500
+      }
+    },
+    {
+      "id": "kilcolgan",
+      "name": "Kilcolgan",
+      "slug": "kilcolgan",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 17,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 380,
+      "coordinates": {
+        "latitude": 53.2000,
+        "longitude": -8.8833
+      }
+    },
+    {
+      "id": "mountbellew",
+      "name": "Mountbellew",
+      "slug": "mountbellew",
+      "type": "town",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 41,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 1076,
+      "coordinates": {
+        "latitude": 53.4667,
+        "longitude": -8.5000
+      }
+    },
+    {
+      "id": "dunmore",
+      "name": "Dunmore",
+      "slug": "dunmore",
+      "type": "town",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 40,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 385,
+      "coordinates": {
+        "latitude": 53.6167,
+        "longitude": -8.7500
+      }
+    },
+    {
+      "id": "glenamaddy",
+      "name": "Glenamaddy",
+      "slug": "glenamaddy",
+      "type": "town",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 47,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 845,
+      "coordinates": {
+        "latitude": 53.5833,
+        "longitude": -8.5833
+      }
+    },
+    {
+      "id": "eyrecourt",
+      "name": "Eyrecourt",
+      "slug": "eyrecourt",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 43,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 458,
+      "coordinates": {
+        "latitude": 53.1833,
+        "longitude": -8.2833
+      }
+    },
+    {
+      "id": "kilronan",
+      "name": "Kilronan",
+      "slug": "kilronan",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 44,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 260,
+      "coordinates": {
+        "latitude": 53.1167,
+        "longitude": -9.6667
+      }
+    },
+    {
+      "id": "letterfrack",
+      "name": "Letterfrack",
+      "slug": "letterfrack",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 50,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 200,
+      "coordinates": {
+        "latitude": 53.5500,
+        "longitude": -9.9833
+      }
+    },
+    {
+      "id": "furbo",
+      "name": "Furbo",
+      "slug": "furbo",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 10,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 600,
+      "coordinates": {
+        "latitude": 53.2500,
+        "longitude": -9.2000
+      }
+    },
+    {
+      "id": "corrandulla",
+      "name": "Corrandulla",
+      "slug": "corrandulla",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 16,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 450,
+      "coordinates": {
+        "latitude": 53.3333,
+        "longitude": -8.9000
+      }
+    },
+    {
+      "id": "carnmore",
+      "name": "Carnmore",
+      "slug": "carnmore",
+      "type": "suburb",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 7,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 1500,
+      "coordinates": {
+        "latitude": 53.2833,
+        "longitude": -8.9167
+      }
+    },
+    {
+      "id": "monivea",
+      "name": "Monivea",
+      "slug": "monivea",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 28,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 315,
+      "coordinates": {
+        "latitude": 53.3667,
+        "longitude": -8.7000
+      }
+    },
+    {
+      "id": "inverin",
+      "name": "Inverin",
+      "slug": "inverin",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 31,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 1200,
+      "coordinates": {
+        "latitude": 53.2667,
+        "longitude": -9.4667
+      }
+    },
+    {
+      "id": "ballygar",
+      "name": "Ballygar",
+      "slug": "ballygar",
+      "type": "town",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 44,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 450,
+      "coordinates": {
+        "latitude": 53.5167,
+        "longitude": -8.4000
+      }
+    },
+    {
+      "id": "woodford",
+      "name": "Woodford",
+      "slug": "woodford",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 45,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 387,
+      "coordinates": {
+        "latitude": 53.0667,
+        "longitude": -8.4333
+      }
+    },
+    {
+      "id": "killimor",
+      "name": "Killimor",
+      "slug": "killimor",
+      "type": "village",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 40,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 320,
+      "coordinates": {
+        "latitude": 53.1500,
+        "longitude": -8.4667
+      }
+    },
+    {
+      "id": "taylors-hill",
+      "name": "Taylor's Hill",
+      "slug": "taylors-hill",
+      "type": "suburb",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 2,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 2000,
+      "coordinates": {
+        "latitude": 53.2722,
+        "longitude": -9.0778
+      }
+    },
+    {
+      "id": "westside",
+      "name": "Westside",
+      "slug": "westside",
+      "type": "suburb",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 3,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 3000,
+      "coordinates": {
+        "latitude": 53.2722,
+        "longitude": -9.0833
+      }
+    },
+    {
+      "id": "newcastle",
+      "name": "Newcastle",
+      "slug": "newcastle",
+      "type": "suburb",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 4,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 1800,
+      "coordinates": {
+        "latitude": 53.2889,
+        "longitude": -9.0972
+      }
+    },
+    {
+      "id": "shantalla",
+      "name": "Shantalla",
+      "slug": "shantalla",
+      "type": "suburb",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 2,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 1500,
+      "coordinates": {
+        "latitude": 53.2750,
+        "longitude": -9.0694
+      }
+    },
+    {
+      "id": "terryland",
+      "name": "Terryland",
+      "slug": "terryland",
+      "type": "suburb",
+      "isMainLocation": false,
+      "distanceFromMain": {
+        "value": 3,
+        "unit": "km"
+      },
+      "county": "County Galway",
+      "population": 2200,
+      "coordinates": {
+        "latitude": 53.2889,
+        "longitude": -9.0583
+      }
+    }
+  ]
+}

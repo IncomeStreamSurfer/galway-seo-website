@@ -1,0 +1,208 @@
+{
+  "id": "web-design-development-woodford",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Woodford",
+  "locationSlug": "woodford",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Woodford - High-Performance Websites | Kraft Agency",
+  "metaDescription": "Transform your Woodford business with professional web design. Kraft Agency creates high-performance, conversion-focused websites. Free consultation available today!",
+  "heroHeadline": "High-Performance Web Design in Woodford",
+  "heroSubheadline": "Websites Built for Speed, Conversions, and Growth",
+
+  "description": "Need professional web design in Woodford? Kraft Agency specializes in creating high-performance, conversion-focused websites that help Woodford businesses thrive in the competitive digital landscape. Serving Woodford and the south Galway region, we understand the challenges facing local businesses and we're committed to creating digital solutions that deliver measurable results. Our web design services go beyond creating attractive websites—we build strategic business tools that work relentlessly to attract customers, establish credibility, and generate revenue for your business.\n\nYour Woodford business deserves a website that performs as hard as you do. Our comprehensive web design approach begins with understanding your business goals, your target customers, and what differentiates your business from competitors. We then create a custom website that authentically communicates your brand while incorporating proven conversion optimization principles. Every element—from color psychology and typography to navigation structure and call-to-action placement—is carefully crafted to guide visitors toward becoming paying customers. We don't guess; we use data, research, and best practices to make strategic design decisions.\n\nKraft Agency builds websites for Woodford businesses using cutting-edge technologies that ensure blazing-fast performance, rock-solid security, and seamless scalability. Every website is fully responsive across all devices, optimized for search engines from launch, and built with accessibility standards in mind. We provide comprehensive training so you can manage your website confidently, and we offer ongoing support and optimization to ensure your digital presence continues delivering results. With transparent pricing and dedicated local service, Kraft Agency is the web design partner Woodford businesses trust for digital excellence.",
+
+  "shortDescription": "High-performance web design in Woodford. Fast, conversion-focused websites with cutting-edge technology and ongoing support. Free consultation available.",
+
+  "benefits": [
+    "Custom high-performance design for your Woodford business",
+    "Fully responsive across all devices and platforms",
+    "Local SEO optimization for Woodford area visibility",
+    "Ultra-fast loading speeds under 3 seconds",
+    "AI-powered conversion rate optimization",
+    "Dedicated support and training included",
+    "South Galway expertise with proven results",
+    "Transparent fixed pricing with no hidden fees"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Strategic Discovery Session",
+      "description": "We begin with a comprehensive discovery session to understand your Woodford business, your customers, your competitive position, and your growth objectives. This strategic foundation ensures every design decision aligns with your business goals and market realities."
+    },
+    {
+      "step": 2,
+      "title": "Creative Design & Prototyping",
+      "description": "Our design team creates custom visual concepts and interactive prototypes specifically for your brand. You'll see detailed mockups and interact with prototypes before development begins, providing feedback through collaborative revisions until the design perfectly represents your vision."
+    },
+    {
+      "step": 3,
+      "title": "Expert Development & Build",
+      "description": "Our development team builds your website using modern technologies and industry best practices. We write clean, maintainable code and integrate all necessary features—forms, analytics, CRM systems, payment gateways—ensuring seamless functionality and optimal performance."
+    },
+    {
+      "step": 4,
+      "title": "Comprehensive Testing & QA",
+      "description": "Before launch, we rigorously test every aspect of your website across devices, browsers, and real-world scenarios. We optimize for speed, security, accessibility, and user experience, ensuring flawless performance and maximum effectiveness from day one."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Training Sessions",
+      "description": "We manage the complete launch process and provide hands-on training so you can confidently manage your website. You'll receive comprehensive documentation, video tutorials, and ongoing access to our support team for questions and assistance."
+    },
+    {
+      "step": 6,
+      "title": "Optimization & Growth",
+      "description": "After launch, we continuously monitor performance, analyze user data, and implement strategic improvements. Your website evolves with your Woodford business through ongoing optimization, security updates, and feature enhancements that maintain your competitive edge."
+    }
+  ],
+
+  "pricingInfo": "Web design services for Woodford businesses typically range from €2,500 for professional small business websites to €15,000+ for advanced e-commerce platforms or custom web applications. We offer flexible payment plans and completely transparent pricing. Schedule a free consultation to receive a customized quote tailored to your business needs.",
+
+  "serviceArea": "Woodford and surrounding areas including Loughrea, Gort, Portumna, Ballinasloe, and all of south County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Priority support for existing clients.",
+
+  "qualifications": [
+    "Award-winning design professionals",
+    "Certified full-stack developers",
+    "Google Partner certified",
+    "AI and automation experts",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive design guaranteed",
+    "SEO-optimized from launch",
+    "90-day post-launch support included",
+    "Secure hosting and SSL certificates"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "High-performance web design workspace in Woodford",
+      "caption": "Professional Web Design Services in Woodford",
+      "credit": {
+        "photographer": "Eftakher Alam",
+        "unsplashUrl": "https://unsplash.com/photos/i1VQZsU86ok"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Web development coding workspace",
+        "caption": "Expert development for Woodford businesses",
+        "credit": {
+          "photographer": "Christopher Gower",
+          "unsplashUrl": "https://unsplash.com/photos/m_HRfLhgABo"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Responsive design on multiple devices",
+        "caption": "Optimized for all devices",
+        "credit": {
+          "photographer": "Edho Pratama",
+          "unsplashUrl": "https://unsplash.com/photos/T6fDN60bMWY"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Website performance analytics dashboard",
+        "caption": "Performance tracking and optimization",
+        "credit": {
+          "photographer": "Carlos Muza",
+          "unsplashUrl": "https://unsplash.com/photos/hpjSkU2UYSU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Creative web design elements",
+        "caption": "Beautiful and functional",
+        "credit": {
+          "photographer": "Hal Gatewood",
+          "unsplashUrl": "https://unsplash.com/photos/tZc3vjPCk-Q"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Woodford Businesses Choose Kraft Agency for Web Design",
+    "Our Proven Process for High-Performance Websites",
+    "Key Features Every Woodford Business Website Needs",
+    "Success Stories from South Galway Businesses",
+    "Frequently Asked Questions About Web Design in Woodford",
+    "Ready to Launch Your High-Performance Website?"
+  ],
+
+  "faq": [
+    {
+      "question": "How long does it take to build a website for my Woodford business?",
+      "answer": "Most website projects for Woodford businesses take 4-8 weeks from initial consultation to launch. Timeline varies based on project complexity, custom features, and content readiness. We provide a detailed schedule with clear milestones during our planning phase so you know exactly what to expect throughout the process."
+    },
+    {
+      "question": "What ongoing support do you offer after my website launches?",
+      "answer": "Every Woodford business website includes 90 days of comprehensive post-launch support covering any technical issues, minor updates, and questions. We also offer ongoing maintenance packages that include secure hosting, regular backups, security updates, performance optimization, content updates, and priority technical support."
+    },
+    {
+      "question": "Will my website work properly on mobile devices?",
+      "answer": "Absolutely! Every website we create is built with a mobile-first approach and is fully responsive across all devices. We thoroughly test on various smartphones, tablets, and desktop computers to ensure your Woodford business looks professional and functions flawlessly on every screen size and platform."
+    },
+    {
+      "question": "Can you help with content creation for my website?",
+      "answer": "Yes! We offer complete content creation services including professional copywriting, custom graphics, image sourcing, and video integration. Our team creates engaging, SEO-optimized content that resonates with your audience, communicates your value proposition clearly, and drives conversions for your Woodford business."
+    },
+    {
+      "question": "What is the cost for a professional website?",
+      "answer": "Website investment varies based on your specific requirements and business goals. Professional small business websites typically start from €2,500, mid-range business sites range from €5,000-€8,000, and complex e-commerce or custom applications range from €10,000-€15,000+. We provide detailed, transparent quotes with no hidden fees after our initial consultation."
+    },
+    {
+      "question": "Do you provide website hosting and security?",
+      "answer": "Yes! We offer premium website hosting optimized for speed and security. Our hosting includes SSL certificates, automated daily backups, security monitoring, malware scanning, DDoS protection, and 99.9% uptime guarantee. Your Woodford business website will be fast, secure, and always accessible to your customers."
+    },
+    {
+      "question": "Will my website be optimized for search engines?",
+      "answer": "Yes! Every website includes comprehensive foundational SEO including clean code structure, fast loading speeds, mobile optimization, proper meta tags, schema markup, optimized images, and XML sitemaps. We can also provide advanced ongoing SEO services to help your Woodford business achieve higher rankings and attract more organic traffic."
+    },
+    {
+      "question": "Can you redesign my existing outdated website?",
+      "answer": "Absolutely! We specialize in website redesigns for Woodford businesses. We'll conduct a thorough audit of your current site, identify what's working well and what needs improvement, then create a strategic redesign that modernizes your online presence, enhances user experience, and delivers significantly better business results."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "custom website",
+    "web designer",
+    "responsive design",
+    "business website",
+    "e-commerce website",
+    "website redesign",
+    "web development",
+    "digital agency"
+  ],
+  "localKeywords": [
+    "web design Woodford",
+    "website design Woodford",
+    "Woodford web designer",
+    "web development Woodford",
+    "Woodford website company",
+    "digital agency Woodford",
+    "website builder Woodford",
+    "web designer near Woodford",
+    "Woodford web development",
+    "Galway web design"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Woodford Website Consultation",
+  "ctaSecondary": "View Portfolio"
+}

@@ -1,0 +1,188 @@
+{
+  "id": "web-design-development-loughrea",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Loughrea",
+  "locationSlug": "loughrea",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Loughrea - Professional Business Websites | Kraft Agency",
+  "metaDescription": "Loughrea's trusted web design agency. Professional websites for local businesses that drive growth and customer engagement. Kraft Agency delivers. Call +353 86 153 0832!",
+  "heroHeadline": "Professional Web Design in Loughrea",
+  "heroSubheadline": "Helping Loughrea Businesses Succeed Online",
+
+  "description": "Loughrea is a thriving market town with a diverse business community, and Kraft Agency is here to help local businesses establish a powerful online presence. We create professional, effective websites for Loughrea businesses of all types – from retail and hospitality to professional services and manufacturing. Our goal is to build you a website that attracts customers and drives real business growth.\n\nWe understand the Loughrea market and what local customers expect from businesses online. That's why we focus on creating clean, professional designs with intuitive navigation and clear calls-to-action. Whether you're a new Loughrea business launching your first website or an established company ready to modernize your online presence, we have the expertise and local knowledge to deliver results that matter.\n\nAs your local digital partner serving Loughrea, we provide personalized service with ongoing support. We're never more than a phone call away and can meet with you locally to discuss your project in person. From initial consultation to launch and beyond, Kraft Agency is committed to helping your Loughrea business thrive in the digital age.",
+
+  "shortDescription": "Professional web design for Loughrea businesses. Custom websites that attract customers and drive growth. Contact Kraft Agency: +353 86 153 0832 or hello@kraftagency.ie.",
+
+  "benefits": [
+    "Local Loughrea expertise and personalized service",
+    "Professional designs that build customer trust",
+    "Mobile-optimized for today's on-the-go customers",
+    "SEO-optimized for Loughrea local searches",
+    "E-commerce capabilities for retail businesses",
+    "Fast, reliable hosting and maintenance",
+    "Easy content management systems",
+    "Transparent pricing with flexible payment options"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Initial Consultation",
+      "description": "We meet with you in Loughrea to learn about your business, your customers, and your goals. This personal approach ensures we understand exactly what your business needs."
+    },
+    {
+      "step": 2,
+      "title": "Custom Design",
+      "description": "Our designers create mockups tailored specifically to your Loughrea business and target audience. You'll see the design before development and can request changes until it's perfect."
+    },
+    {
+      "step": 3,
+      "title": "Development & Setup",
+      "description": "We build your website using modern, reliable technology. All features are set up and thoroughly tested to ensure everything works flawlessly for your Loughrea customers."
+    },
+    {
+      "step": 4,
+      "title": "Content & Optimization",
+      "description": "We optimize your content for search engines so Loughrea customers can find you easily online. If you need help with content writing or photography, we can assist with that too."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Training",
+      "description": "We handle the technical aspects of launching your website and provide hands-on training. You'll learn how to manage content, update information, and use all features with confidence."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Support",
+      "description": "We're here whenever you need us. From technical support to strategic advice, Kraft Agency remains your partner in helping your Loughrea business succeed online."
+    }
+  ],
+
+  "pricingInfo": "Our web design packages start from €2,500 for small business websites, with custom solutions available for larger Loughrea enterprises. We offer flexible payment terms and transparent pricing with no hidden costs. Contact us for a personalized quote.",
+
+  "serviceArea": "Loughrea and surrounding areas including Athenry, Gort, Portumna, Ballinasloe, and County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Available for local meetings in Loughrea. Email: hello@kraftagency.ie",
+
+  "qualifications": [
+    "Experienced professional web design team",
+    "Serving Loughrea businesses with pride",
+    "Full-service digital agency capabilities",
+    "E-commerce and custom development expertise",
+    "Committed to customer success"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive design",
+    "SEO-optimized from launch",
+    "Easy content management",
+    "90-day support included"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1603985585179-3d71c35a537c?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "Professional web design for Loughrea businesses",
+      "caption": "Expert Web Design Services in Loughrea"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1627599936744-51d288f89af4?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Team collaboration on web project",
+        "caption": "Collaborative web design process"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Professional web development coding",
+        "caption": "Professional development standards"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Responsive design on multiple devices",
+        "caption": "Beautiful on every device"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1691050769649-390293697deb?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Clean website design mockup",
+        "caption": "Professional, modern designs"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Loughrea Businesses Trust Kraft Agency",
+    "Our Proven Web Design Process",
+    "Features That Make Your Loughrea Website Effective",
+    "Success Stories from Loughrea Companies",
+    "Common Questions About Web Design",
+    "Start Your Web Design Project Today"
+  ],
+
+  "faq": [
+    {
+      "question": "How long does it take to build a website for my Loughrea business?",
+      "answer": "Most small to medium business websites take 4-6 weeks from initial consultation to launch. The exact timeline depends on the complexity of your site and how quickly you can provide content and feedback. We'll provide a detailed schedule during our consultation."
+    },
+    {
+      "question": "Can I update my Loughrea business website myself?",
+      "answer": "Yes! We build websites on user-friendly platforms like WordPress and provide comprehensive training. You'll be able to update text, images, prices, and other content without needing technical skills. And we're always available if you need help."
+    },
+    {
+      "question": "Do I need a website if I'm a small Loughrea business?",
+      "answer": "Absolutely! Even small businesses benefit enormously from a professional website. It builds credibility, makes it easier for Loughrea customers to find you online, and can significantly increase inquiries and sales."
+    },
+    {
+      "question": "Will my website work on smartphones and tablets?",
+      "answer": "Yes, every website we create is fully responsive and looks great on all devices – smartphones, tablets, and desktop computers. This is essential since many Loughrea customers browse on mobile."
+    },
+    {
+      "question": "How much does a professional website cost?",
+      "answer": "Our packages start from €2,500 for small business websites. The final cost depends on features you need like e-commerce, booking systems, or custom functionality. We provide transparent quotes with no hidden fees."
+    },
+    {
+      "question": "Will my Loughrea business website show up on Google?",
+      "answer": "Yes! We optimize every website for search engines so local Loughrea customers can find you when they search online. We can also provide additional SEO services to help you rank even higher for important keywords."
+    },
+    {
+      "question": "Do you provide website hosting and technical support?",
+      "answer": "Yes, we offer secure, reliable hosting for your website and ongoing technical support. We handle all the technical details so you can focus on running your Loughrea business."
+    },
+    {
+      "question": "What if I need changes after my website goes live?",
+      "answer": "We provide 90 days of support after launch for any issues or minor changes. After that, we offer maintenance packages or can make updates on an hourly basis. We're committed to supporting your Loughrea business long-term."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "business website",
+    "web designer",
+    "responsive design",
+    "custom website",
+    "e-commerce website",
+    "website builder",
+    "professional website",
+    "web development"
+  ],
+  "localKeywords": [
+    "web design Loughrea",
+    "website design Loughrea",
+    "Loughrea web designer",
+    "web development Loughrea",
+    "Loughrea website company",
+    "local web designer Loughrea",
+    "website builder Loughrea",
+    "Galway web design",
+    "web designer near me Loughrea",
+    "Loughrea digital services"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "View Our Portfolio"
+}

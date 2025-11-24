@@ -1,0 +1,189 @@
+{
+  "id": "marketing-automation-athenry",
+  "service": "Marketing Automation",
+  "serviceSlug": "marketing-automation",
+  "location": "Athenry",
+  "locationSlug": "athenry",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Marketing Automation Athenry - Scale Your Marketing Effortlessly",
+  "metaDescription": "Power up your Athenry business with marketing automation. Automate lead nurturing, boost sales & maximize ROI with Kraft Agency's intelligent automation systems.",
+
+  "heroHeadline": "Scale Your Marketing in Athenry with Automation",
+  "heroSubheadline": "Work Smarter, Not Harder with AI-Powered Marketing",
+
+  "description": "Ready to transform your marketing in Athenry? Kraft Agency's marketing automation solutions help businesses automate repetitive tasks, nurture leads intelligently, and deliver personalized customer experiences at scale. Our proven automation systems free up your team to focus on strategy while technology handles the execution—resulting in more leads, higher conversion rates, and measurable ROI.\n\nServing businesses throughout Athenry and County Galway, we specialize in building marketing automation that drives real results. Whether you're looking to automate email campaigns, score and prioritize leads, or create sophisticated customer journeys, our team has the expertise to make it happen. We combine strategic thinking with technical excellence to ensure your automation feels personal, not robotic, to your Athenry customers.\n\nWhat makes our approach unique is our focus on your entire customer lifecycle. We don't just automate emails—we design complete journeys from first touch to loyal advocate. With advanced segmentation, behavioral triggers, and AI-powered personalization, every prospect receives exactly the right message at precisely the right moment. Plus, with comprehensive analytics and ongoing optimization, your automation continuously improves over time.",
+
+  "shortDescription": "Transform your Athenry business with expert marketing automation. Save time, nurture leads automatically, and boost conversions with intelligent systems.",
+
+  "benefits": [
+    "Automate repetitive marketing tasks and save hours weekly",
+    "Nurture leads 24/7 with personalized email sequences",
+    "Boost conversion rates by up to 40% with smart triggers",
+    "Score and prioritize leads automatically",
+    "Deliver personalized experiences at scale",
+    "Integrate seamlessly with your CRM and tools",
+    "Track ROI with detailed analytics and reporting",
+    "Continuous optimization for maximum performance"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Automation Strategy Workshop",
+      "description": "We start with a comprehensive workshop to understand your business goals, customer journey, and current marketing processes. This ensures we design automation that delivers maximum impact for your Athenry business."
+    },
+    {
+      "step": 2,
+      "title": "Journey Design & Workflow Mapping",
+      "description": "Our team maps your customer journey and designs automated workflows for each stage. We identify key touchpoints, create trigger logic, and plan personalized messaging that guides prospects toward conversion."
+    },
+    {
+      "step": 3,
+      "title": "Platform Configuration & Technical Setup",
+      "description": "We configure your chosen marketing automation platform, set up integrations with your CRM and other tools, implement tracking, and ensure everything is technically sound before building workflows."
+    },
+    {
+      "step": 4,
+      "title": "Content Creation & Workflow Build",
+      "description": "Our team creates email sequences, develops personalized content, and builds automated workflows. Every message is crafted to engage your specific audience segments and drive desired actions."
+    },
+    {
+      "step": 5,
+      "title": "Quality Assurance & Phased Launch",
+      "description": "We thoroughly test every workflow, trigger, and integration before launch. We deploy in phases, monitoring performance closely and making real-time adjustments to optimize results."
+    },
+    {
+      "step": 6,
+      "title": "Performance Monitoring & Optimization",
+      "description": "Marketing automation requires ongoing refinement. We continuously monitor metrics, A/B test elements, and optimize workflows to improve engagement, conversion rates, and ROI for your Athenry business."
+    }
+  ],
+
+  "pricingInfo": "Marketing automation services range from €1,200 per month for small business solutions to €5,000+ per month for enterprise implementations with complex workflows and multiple integrations. Investment depends on your lead volume, customer journey complexity, and platform requirements. Contact us for a complimentary automation assessment and tailored proposal.",
+
+  "serviceArea": "Athenry and surrounding areas including Galway City, Oranmore, Craughwell, Loughrea, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Dedicated automation strategist available.",
+
+  "qualifications": [
+    "Certified in HubSpot, Marketo, and ActiveCampaign",
+    "Marketing automation strategy specialists",
+    "AI and personalization experts",
+    "CRM integration certified professionals",
+    "15+ years combined martech experience"
+  ],
+  "yearsExperience": "15+ years combined marketing automation expertise",
+  "guarantees": [
+    "Customized automation strategy aligned with your goals",
+    "Seamless integration with existing marketing stack",
+    "Monthly performance reports and insights",
+    "Regular optimization to improve results",
+    "Dedicated support from automation specialists"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Marketing automation analytics dashboard with performance graphs",
+      "caption": "Powerful Marketing Automation for Athenry Businesses"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1533750349088-cd871a92f312?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing strategy planning with automation tools",
+        "caption": "Strategic automation planning and execution"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Digital marketing automation platform on laptop",
+        "caption": "Advanced automation platforms configured for success"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1542744094-24638eff58bb?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Team planning marketing automation workflows",
+        "caption": "Collaborative automation strategy development"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1518734549841-b417d28c22aa?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing performance metrics on screen",
+        "caption": "Track and optimize automation performance"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Athenry Businesses Choose Kraft Agency for Marketing Automation",
+    "Our Proven Marketing Automation Implementation Process",
+    "The Power of Intelligent Marketing Automation",
+    "Marketing Automation Success Stories from County Galway",
+    "Your Marketing Automation Questions Answered",
+    "Start Automating Your Marketing in Athenry Today"
+  ],
+
+  "faq": [
+    {
+      "question": "How can marketing automation benefit my Athenry business?",
+      "answer": "Marketing automation helps Athenry businesses save time, nurture leads more effectively, and increase conversions. By automating repetitive tasks like email follow-ups and lead scoring, you free up your team to focus on strategy and closing deals. Most clients see 30-40% improvements in conversion rates."
+    },
+    {
+      "question": "What marketing tasks can be automated?",
+      "answer": "We can automate email campaigns, lead nurturing, lead scoring, social media scheduling, customer segmentation, personalized content delivery, abandoned cart sequences, welcome series, re-engagement campaigns, customer onboarding, and comprehensive reporting."
+    },
+    {
+      "question": "Which marketing automation platform is best for my business?",
+      "answer": "The best platform depends on your specific needs, budget, and technical requirements. We're experts in HubSpot, Marketo, ActiveCampaign, Mailchimp, and Pardot. During our strategy session, we'll recommend the ideal solution for your Athenry business."
+    },
+    {
+      "question": "Can you integrate marketing automation with our CRM system?",
+      "answer": "Absolutely! We specialize in CRM integrations with platforms like Salesforce, HubSpot CRM, Pipedrive, Zoho, and others. Seamless integration ensures your marketing and sales teams have unified customer data and can work together more effectively."
+    },
+    {
+      "question": "How long does marketing automation take to implement?",
+      "answer": "Implementation typically takes 4-8 weeks depending on complexity. We start delivering value quickly with basic workflows, then progressively build more sophisticated automation. You'll start seeing results within the first month."
+    },
+    {
+      "question": "Will automation make our marketing feel less personal?",
+      "answer": "Not at all! When done correctly, automation enables MORE personalization. We use advanced segmentation, behavioral triggers, and AI to deliver highly relevant, timely messages that resonate with each prospect. The result is marketing that feels personal, not robotic."
+    },
+    {
+      "question": "How much does marketing automation cost?",
+      "answer": "Investment varies based on platform, workflow complexity, and scale. Small business automation typically starts at €1,200/month, while enterprise solutions range from €3,000-€5,000/month. We provide custom quotes based on your specific requirements."
+    },
+    {
+      "question": "How do you measure automation success?",
+      "answer": "We track email engagement rates, conversion rates, lead velocity, customer lifetime value, marketing ROI, and time saved. You'll receive comprehensive monthly reports showing exactly how automation is impacting your Athenry business's bottom line."
+    }
+  ],
+
+  "keywords": [
+    "marketing automation",
+    "automated marketing",
+    "lead nurturing automation",
+    "email automation software",
+    "marketing workflows",
+    "CRM automation",
+    "customer journey automation",
+    "marketing technology",
+    "automated email campaigns",
+    "lead scoring automation"
+  ],
+  "localKeywords": [
+    "marketing automation Athenry",
+    "marketing automation County Galway",
+    "email automation Athenry",
+    "Athenry marketing automation services",
+    "automated marketing Galway",
+    "marketing automation Ireland",
+    "CRM automation Athenry",
+    "marketing automation agency Galway",
+    "HubSpot automation Athenry",
+    "marketing automation consultant Athenry"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Schedule Your Free Automation Consultation",
+  "ctaSecondary": "Download Automation Guide"
+}

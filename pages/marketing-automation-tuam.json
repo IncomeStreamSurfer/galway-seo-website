@@ -1,0 +1,189 @@
+{
+  "id": "marketing-automation-tuam",
+  "service": "Marketing Automation",
+  "serviceSlug": "marketing-automation",
+  "location": "Tuam",
+  "locationSlug": "tuam",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Marketing Automation Tuam - Automate, Scale & Grow | Kraft Agency",
+  "metaDescription": "Transform your Tuam business with marketing automation. Automate lead nurturing, boost conversions & save time. Expert automation solutions from Kraft Agency.",
+
+  "heroHeadline": "Powerful Marketing Automation for Tuam Businesses",
+  "heroSubheadline": "Automate Your Marketing, Accelerate Your Growth",
+
+  "description": "Looking to scale your marketing efforts in Tuam without burning out your team? Kraft Agency delivers sophisticated marketing automation solutions that transform how businesses engage with customers. Our intelligent automation systems handle everything from lead nurturing and email campaigns to customer segmentation and personalized messaging—freeing your team to focus on strategy, creativity, and closing deals. With automation working 24/7, you'll never miss an opportunity to engage a prospect or delight a customer.\n\nServing businesses throughout Tuam and North Galway, we bring deep expertise in marketing automation strategy and implementation. We don't just set up software—we design complete customer experiences that guide prospects through their journey from awareness to advocacy. Our approach combines behavioral psychology, data analytics, and AI-powered personalization to create automation that feels human, not robotic. Whether you're nurturing B2B leads or engaging e-commerce customers in Tuam, we build systems that deliver measurable results.\n\nWhat makes our service exceptional is our commitment to continuous improvement. Marketing automation isn't a 'set it and forget it' solution—it requires ongoing optimization, testing, and refinement. We monitor your automation performance daily, conduct regular A/B tests, and make data-driven adjustments to improve conversion rates and ROI. With comprehensive analytics, seamless CRM integration, and strategic support from our expert team, you'll have everything needed to dominate your market in Tuam.",
+
+  "shortDescription": "Scale your Tuam business with expert marketing automation. Automate workflows, nurture leads 24/7, and boost conversions with AI-powered systems.",
+
+  "benefits": [
+    "Automate repetitive marketing tasks and reclaim your time",
+    "Nurture leads automatically with personalized sequences",
+    "Increase conversion rates by 35-50% with behavioral triggers",
+    "Deliver the right message at the right time, every time",
+    "Score leads automatically to prioritize sales efforts",
+    "Seamless integration with CRM and marketing tools",
+    "Comprehensive analytics and ROI tracking",
+    "Expert ongoing optimization and strategic support"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Strategy & Discovery Session",
+      "description": "We start with an in-depth consultation to understand your business goals, customer personas, sales process, and current marketing challenges. This foundation ensures we build automation that drives real business outcomes for your Tuam operation."
+    },
+    {
+      "step": 2,
+      "title": "Customer Journey Design",
+      "description": "Our team maps your complete customer journey and identifies high-impact automation opportunities. We design intelligent workflows for lead capture, nurturing, conversion, onboarding, and retention stages."
+    },
+    {
+      "step": 3,
+      "title": "Platform Setup & Integration",
+      "description": "We configure your marketing automation platform (HubSpot, Marketo, ActiveCampaign, or your preferred solution), integrate with your CRM and other tools, and implement comprehensive tracking and analytics."
+    },
+    {
+      "step": 4,
+      "title": "Content & Workflow Creation",
+      "description": "Our team develops email sequences, creates personalized content for each segment, builds automated workflows, and implements lead scoring rules. Every element is optimized for engagement and conversion."
+    },
+    {
+      "step": 5,
+      "title": "Testing & Phased Rollout",
+      "description": "Before full deployment, we rigorously test every workflow, trigger, and integration. We launch in phases to ensure optimal performance and make adjustments based on initial results from your Tuam audience."
+    },
+    {
+      "step": 6,
+      "title": "Monitoring & Continuous Improvement",
+      "description": "Our work doesn't stop at launch. We continuously monitor performance metrics, conduct A/B tests, refine messaging, and optimize workflows to maximize engagement, conversions, and ROI for your Tuam business."
+    }
+  ],
+
+  "pricingInfo": "Marketing automation services range from €1,200 per month for small business implementations with essential workflows to €5,000+ per month for enterprise solutions with advanced multi-channel automation and extensive integrations. Investment varies based on your customer journey complexity, lead volume, platform requirements, and level of ongoing support needed. Contact us for a complimentary automation assessment and tailored proposal.",
+
+  "serviceArea": "Tuam and surrounding areas including Galway City, Headford, Athenry, Claregalway, and all of North County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Dedicated automation team support.",
+
+  "qualifications": [
+    "Certified in major automation platforms (HubSpot, Marketo, ActiveCampaign)",
+    "Marketing automation strategy experts",
+    "AI and personalization specialists",
+    "CRM and martech integration professionals",
+    "15+ years combined automation experience"
+  ],
+  "yearsExperience": "15+ years combined marketing automation and technology expertise",
+  "guarantees": [
+    "Custom automation strategy aligned with your business goals",
+    "Seamless integration with your existing marketing stack",
+    "Monthly performance reporting with actionable insights",
+    "Ongoing testing and optimization",
+    "Responsive support from dedicated specialists"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Marketing automation performance analytics dashboard",
+      "caption": "Advanced Marketing Automation for Tuam Businesses"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1542744173-05336fcc7ad4?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing professional working on automation strategy",
+        "caption": "Expert automation strategy and implementation"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533750349088-cd871a92f312?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing strategy planning materials",
+        "caption": "Strategic planning for automation success"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Mobile email marketing automation",
+        "caption": "Automated campaigns optimized for all devices"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1518734549841-b417d28c22aa?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing analytics and performance data",
+        "caption": "Real-time analytics and performance tracking"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Tuam Businesses Choose Kraft Agency for Marketing Automation",
+    "Our Proven Marketing Automation Implementation Process",
+    "Transform Your Business with Intelligent Automation",
+    "Success Stories: Marketing Automation Results from Irish Businesses",
+    "Common Questions About Marketing Automation in Tuam",
+    "Get Started with Marketing Automation in Tuam Today"
+  ],
+
+  "faq": [
+    {
+      "question": "How can marketing automation help my Tuam business grow?",
+      "answer": "Marketing automation helps Tuam businesses scale their marketing without scaling their team. By automating repetitive tasks like email follow-ups, lead scoring, and customer segmentation, you save significant time while improving engagement and conversion rates. Most clients see 35-50% improvements in lead conversion within 3-6 months."
+    },
+    {
+      "question": "What marketing activities can be automated?",
+      "answer": "We can automate email campaigns, lead nurturing sequences, lead scoring and prioritization, social media scheduling, customer segmentation, personalized content delivery, abandoned cart recovery, welcome series, customer onboarding, re-engagement campaigns, event follow-ups, and detailed performance reporting."
+    },
+    {
+      "question": "Which marketing automation platform should we use?",
+      "answer": "The best platform depends on your specific needs, budget, and technical environment. We're experts in HubSpot (excellent all-in-one solution), ActiveCampaign (powerful mid-market option), Marketo (enterprise-grade), and Mailchimp (small business friendly). We'll recommend the ideal fit for your Tuam business during our strategy session."
+    },
+    {
+      "question": "Will automation integrate with our current CRM system?",
+      "answer": "Absolutely! We specialize in integrating marketing automation with all major CRM platforms including Salesforce, HubSpot CRM, Pipedrive, Zoho, and Microsoft Dynamics. This integration ensures your marketing and sales teams work from unified customer data and insights."
+    },
+    {
+      "question": "How long does it take to implement marketing automation?",
+      "answer": "Typical implementation takes 4-8 weeks from strategy to launch, depending on complexity and the number of workflows required. We work in phases, so you'll start seeing results from basic automation within the first few weeks while we build out more sophisticated workflows."
+    },
+    {
+      "question": "Won't automated marketing feel impersonal to our customers?",
+      "answer": "Not when executed properly! Modern marketing automation enables hyper-personalization through behavioral triggers, dynamic content, and AI. We create automation that delivers the perfect message to each prospect at exactly the right moment—making it feel more personal, not less."
+    },
+    {
+      "question": "What's the investment required for marketing automation?",
+      "answer": "Investment varies based on platform choice, workflow complexity, and your specific requirements. Small business automation typically starts at €1,200/month (including platform and management), while enterprise solutions range €3,000-€5,000/month. We provide custom quotes after understanding your needs."
+    },
+    {
+      "question": "How do you measure and report on automation success?",
+      "answer": "We track comprehensive metrics including email open/click rates, conversion rates by campaign, lead nurturing velocity, marketing-influenced pipeline, customer lifetime value, time saved, and overall ROI. You receive detailed monthly reports showing exactly how automation impacts your Tuam business's bottom line."
+    }
+  ],
+
+  "keywords": [
+    "marketing automation",
+    "automated marketing",
+    "lead nurturing",
+    "email automation",
+    "marketing workflows",
+    "customer journey automation",
+    "marketing efficiency",
+    "automated campaigns",
+    "lead scoring",
+    "marketing technology"
+  ],
+  "localKeywords": [
+    "marketing automation Tuam",
+    "marketing automation North Galway",
+    "email automation Tuam",
+    "automated marketing Tuam",
+    "marketing automation services Ireland",
+    "Tuam marketing automation agency",
+    "HubSpot automation Tuam",
+    "CRM automation Tuam",
+    "marketing automation consultant Galway",
+    "marketing automation near me"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Book Your Free Automation Strategy Call",
+  "ctaSecondary": "View Automation Case Studies"
+}

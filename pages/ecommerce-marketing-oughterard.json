@@ -1,0 +1,188 @@
+{
+  "id": "ecommerce-marketing-oughterard",
+  "service": "E-commerce Marketing & Development",
+  "serviceSlug": "ecommerce-marketing",
+  "location": "Oughterard",
+  "locationSlug": "oughterard",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "E-commerce Marketing Oughterard - Double Your Online Revenue | Kraft",
+  "metaDescription": "Transform your Oughterard online store with Kraft Agency's e-commerce marketing expertise. Data-driven strategies that double revenue. Free consultation available!",
+  "heroHeadline": "E-commerce Marketing That Delivers Results in Oughterard",
+  "heroSubheadline": "Turn Your Online Store Into a Revenue-Generating Machine",
+
+  "description": "Want to take your e-commerce business in Oughterard to new heights? Kraft Agency delivers comprehensive e-commerce marketing solutions that combine proven strategies with innovative AI technology to drive sustainable online sales growth. Whether you're based in Oughterard or targeting customers throughout Connemara and beyond, we have the expertise to scale your online retail business profitably.\n\nOur approach to e-commerce marketing is built on three pillars: driving qualified traffic, optimizing conversions, and maximizing customer lifetime value. We don't believe in vanity metrics – every campaign we run, every optimization we make, is focused on increasing your revenue and profitability. From technical SEO that ensures your products rank on Google to persuasive product pages that convert visitors into customers, from abandoned cart recovery systems to retention marketing that turns one-time buyers into loyal fans, we handle every aspect of your e-commerce growth.\n\nServing businesses in Oughterard and County Galway, Kraft Agency stands out through our integration of artificial intelligence and marketing automation. We use predictive analytics to forecast trends, AI-powered tools to personalize the shopping experience for each customer, and automated systems that nurture leads and recover lost sales 24/7. The result? More revenue, better margins, and a scalable e-commerce business that grows consistently month after month without requiring more of your time.",
+
+  "shortDescription": "Professional e-commerce marketing in Oughterard. Increase online sales through conversion optimization, multi-channel campaigns, and AI-powered strategies.",
+
+  "benefits": [
+    "Dramatic increase in online revenue and profitability",
+    "Professional e-commerce platform setup and optimization",
+    "Multi-channel marketing strategies across SEO, PPC, and social",
+    "Advanced conversion rate optimization techniques",
+    "AI-powered personalization and product recommendations",
+    "Automated email marketing and cart recovery systems",
+    "Comprehensive analytics with clear ROI tracking",
+    "Dedicated support from Galway-based e-commerce experts"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "E-commerce Discovery & Audit",
+      "description": "We begin with a comprehensive analysis of your current e-commerce operation, examining your platform, product catalog, traffic sources, conversion funnel, and competitive position in the Oughterard and wider Galway market. This reveals your biggest opportunities for growth."
+    },
+    {
+      "step": 2,
+      "title": "Custom Growth Strategy Development",
+      "description": "Our team creates a tailored e-commerce marketing strategy based on your specific products, target customers, and business goals. We prioritize high-impact tactics that deliver quick wins while building sustainable long-term growth."
+    },
+    {
+      "step": 3,
+      "title": "Store Optimization & Technical Setup",
+      "description": "We optimize every element of your online store for conversions – site speed, mobile experience, product pages, checkout process, and trust signals. We also integrate essential marketing tools and analytics to track performance."
+    },
+    {
+      "step": 4,
+      "title": "Integrated Campaign Execution",
+      "description": "We launch coordinated marketing campaigns across multiple channels including organic search, paid advertising, email marketing, and social media. Each channel works together to drive traffic and conversions."
+    },
+    {
+      "step": 5,
+      "title": "Continuous Testing & Optimization",
+      "description": "Using AI-powered tools and rigorous A/B testing, we continuously optimize your marketing campaigns, product pages, and conversion funnel. We identify what works and double down on successful strategies."
+    },
+    {
+      "step": 6,
+      "title": "Scaling & Long-term Growth",
+      "description": "As we prove what drives results, we systematically scale your marketing investment to accelerate growth. You receive monthly reports and strategy sessions to ensure we're always moving toward your revenue goals."
+    }
+  ],
+
+  "pricingInfo": "E-commerce marketing investment starts from €2,000 per month for focused optimization and campaigns, scaling to €8,000-€15,000+ per month for comprehensive multi-channel strategies with advanced automation and aggressive growth targets. We customize our services based on your current revenue, product catalog, market opportunity, and growth ambitions. Every package includes transparent reporting and no long-term contracts. Contact us for a free e-commerce audit and custom proposal.",
+
+  "serviceArea": "Oughterard and surrounding areas including Moycullen, Maam Cross, Clifden, Galway City, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Extended support available for critical e-commerce issues.",
+
+  "qualifications": [
+    "Certified Shopify Partners and Experts",
+    "Google Partner and Google Shopping certified",
+    "Meta Business Partner for social commerce",
+    "WooCommerce and BigCommerce specialists",
+    "Conversion optimization certified professionals",
+    "15+ years combined e-commerce marketing experience"
+  ],
+  "yearsExperience": "15+ years combined e-commerce expertise",
+  "guarantees": [
+    "Transparent monthly reporting with revenue metrics",
+    "Data-backed strategies focused on ROI",
+    "No long-term contracts or commitments",
+    "Direct access to experienced e-commerce strategists",
+    "100% commitment to your online success"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "E-commerce packages and online retail business in Oughterard",
+      "caption": "E-commerce Marketing Excellence in Oughterard"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1688561808434-886a6dd97b8c?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Digital marketing and e-commerce strategy session",
+        "caption": "Strategic e-commerce planning"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556742111-a301076d9d18?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "E-commerce store dashboard and analytics",
+        "caption": "Performance tracking and optimization"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Mobile shopping experience optimization",
+        "caption": "Mobile-first e-commerce design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Online shopping cart and e-commerce checkout",
+        "caption": "Conversion-optimized shopping experience"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Oughterard Businesses Trust Kraft Agency for E-commerce",
+    "Our Comprehensive E-commerce Marketing Services",
+    "The Power of AI in E-commerce Marketing",
+    "E-commerce Platforms We Specialize In",
+    "Frequently Asked Questions About E-commerce Marketing",
+    "Ready to Transform Your Online Store?"
+  ],
+
+  "faq": [
+    {
+      "question": "How much can I expect my online sales to increase?",
+      "answer": "Results vary based on your starting point, products, and market, but our clients typically see 50-200% revenue growth within the first year. We focus on sustainable, profitable growth through conversion optimization, traffic generation, and customer retention strategies."
+    },
+    {
+      "question": "Do I need a large advertising budget to work with you?",
+      "answer": "Not necessarily. While advertising budget helps accelerate growth, we also excel at organic strategies like SEO and conversion optimization that don't require large ad spend. We'll work with your budget and recommend the most cost-effective strategies for your situation."
+    },
+    {
+      "question": "Can you help with both B2C and B2B e-commerce?",
+      "answer": "Yes! We work with both consumer-facing stores and B2B e-commerce businesses. Our strategies are adapted to your specific sales cycle, customer behavior, and business model for maximum effectiveness."
+    },
+    {
+      "question": "What if I'm just starting my e-commerce business?",
+      "answer": "Perfect! We love working with new e-commerce ventures. We'll help you choose the right platform, set up your store properly from day one, develop your product strategy, and launch with effective marketing that drives early sales and momentum."
+    },
+    {
+      "question": "How do you handle inventory management and logistics?",
+      "answer": "While we focus on marketing and sales, we integrate with inventory management systems and can recommend logistics partners. We ensure your marketing campaigns align with inventory levels to prevent overselling and optimize for profitable products."
+    },
+    {
+      "question": "What's your approach to email marketing for e-commerce?",
+      "answer": "We develop comprehensive email strategies including welcome sequences, abandoned cart recovery, post-purchase follow-ups, product recommendations, and retention campaigns. Our automated email systems typically generate 20-30% of total revenue for e-commerce clients."
+    },
+    {
+      "question": "Do you offer e-commerce photography and content creation?",
+      "answer": "Yes! We provide professional product photography, lifestyle imagery, compelling product descriptions, and category page content. High-quality visuals and persuasive copy are crucial for e-commerce conversions."
+    },
+    {
+      "question": "How do you stay updated with e-commerce trends?",
+      "answer": "Our team continuously studies e-commerce trends, platform updates, algorithm changes, and consumer behavior shifts. We're active in industry communities, hold certifications with major platforms, and test new strategies regularly to keep our clients ahead of the curve."
+    }
+  ],
+
+  "keywords": [
+    "e-commerce marketing",
+    "online store development",
+    "e-commerce SEO",
+    "Shopify marketing",
+    "online sales growth",
+    "conversion rate optimization",
+    "e-commerce advertising",
+    "digital retail",
+    "online store optimization",
+    "e-commerce strategy"
+  ],
+  "localKeywords": [
+    "e-commerce marketing Oughterard",
+    "online store Connemara",
+    "e-commerce agency Galway",
+    "Shopify expert Oughterard",
+    "e-commerce consultant Ireland",
+    "online business Oughterard",
+    "digital store Galway",
+    "e-commerce development Connemara",
+    "online sales Oughterard",
+    "e-commerce services near me"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Claim Your Free E-commerce Audit",
+  "ctaSecondary": "View Our Success Stories"
+}

@@ -1,0 +1,188 @@
+{
+  "id": "web-design-development-tuam",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Tuam",
+  "locationSlug": "tuam",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Tuam - Cathedral Town Business Websites | Kraft Agency",
+  "metaDescription": "Tuam web design specialists. Professional websites for cathedral town businesses. Retail, services, and tourism. Kraft Agency delivers quality. Call +353 86 153 0832!",
+  "heroHeadline": "Professional Web Design in Tuam",
+  "heroSubheadline": "Digital Solutions for Tuam's Growing Business Community",
+
+  "description": "Tuam is a historic cathedral town with a dynamic business environment, and Kraft Agency is proud to serve local businesses with professional web design services. Whether you're a retail business on Shop Street, a professional service provider, or showcasing Tuam's rich heritage, we create websites that help your business stand out and succeed online.\n\nWe understand what makes Tuam special – its cathedral heritage, market town character, and strong community spirit. Your website should reflect that same quality and professionalism while meeting modern digital standards. Our web designs are clean, user-friendly, and optimized for conversions, ensuring visitors can easily find what they need and take action. Every website we create is fully responsive, working beautifully on smartphones, tablets, and desktop computers.\n\nAs a digital agency serving Tuam businesses, we provide personalized local service with a focus on delivering measurable results. We've worked with diverse businesses across Tuam – from retail shops and restaurants to professional services and tourism operators. Let Kraft Agency help your Tuam business establish a powerful online presence that drives customer engagement and business growth.",
+
+  "shortDescription": "Professional web design for Tuam businesses. Custom websites that attract customers and drive results. Contact Kraft Agency: +353 86 153 0832 or hello@kraftagency.ie.",
+
+  "benefits": [
+    "Professional designs for Tuam's diverse business community",
+    "Local expertise and personalized service",
+    "Mobile-optimized for today's connected customers",
+    "SEO-optimized for Tuam and North Galway searches",
+    "E-commerce solutions for retail businesses",
+    "Fast loading speeds and reliable performance",
+    "Easy content management and updates",
+    "Transparent pricing with flexible payment plans"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Consultation",
+      "description": "We meet with you in Tuam to understand your business, your target market, and your goals. This foundation ensures we create a website tailored to your specific needs."
+    },
+    {
+      "step": 2,
+      "title": "Design & Branding",
+      "description": "Our designers create custom mockups that reflect your brand and appeal to your Tuam customers. We incorporate your feedback throughout the design process until it's perfect."
+    },
+    {
+      "step": 3,
+      "title": "Development & Features",
+      "description": "We build your website using modern, reliable technology. All features are integrated and tested – from contact forms to e-commerce to booking systems – ensuring everything works flawlessly."
+    },
+    {
+      "step": 4,
+      "title": "Content & SEO",
+      "description": "We optimize your content for search engines so Tuam customers can find you easily. If you need help with content writing or professional photography, we can assist with that too."
+    },
+    {
+      "step": 5,
+      "title": "Testing & Launch",
+      "description": "Before launch, we thoroughly test your website across all devices and browsers, ensuring perfect performance for every visitor to your Tuam business website."
+    },
+    {
+      "step": 6,
+      "title": "Training & Support",
+      "description": "We provide comprehensive training and 90 days of support after launch. You'll feel confident managing your website, with our team always available when you need help."
+    }
+  ],
+
+  "pricingInfo": "Web design packages for Tuam businesses start from €2,500 for small business websites up to €12,000+ for complex e-commerce or custom solutions. We offer flexible payment plans and transparent pricing with no hidden costs. Contact us for a free consultation.",
+
+  "serviceArea": "Tuam and surrounding areas including Galway City, Athenry, Headford, Dunmore, and County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Available for meetings in Tuam. Email: hello@kraftagency.ie",
+
+  "qualifications": [
+    "Experienced professional web design team",
+    "Local knowledge of Tuam market",
+    "Full-service digital agency capabilities",
+    "E-commerce and custom development specialists",
+    "Committed to quality and customer success"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive on all devices",
+    "SEO-optimized structure",
+    "90-day post-launch support",
+    "Professional training included"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1603985585179-3d71c35a537c?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "Professional web design for Tuam businesses",
+      "caption": "Expert Web Design Services in Tuam"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1666698809123-44e998e93f23?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Web design collaboration",
+        "caption": "Collaborative approach to web design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1593720213681-e9a8778330a7?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Professional web development",
+        "caption": "Expert development for Tuam businesses"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1541462608143-67571c6738dd?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Responsive website design",
+        "caption": "Mobile-optimized responsive design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1691050769649-390293697deb?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Modern website mockup",
+        "caption": "Professional website designs"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Tuam Businesses Choose Kraft Agency",
+    "Our Web Design Process for Tuam Companies",
+    "Essential Features for Tuam Business Websites",
+    "Success Stories from Tuam Businesses",
+    "Frequently Asked Questions",
+    "Ready to Launch Your Tuam Business Online?"
+  ],
+
+  "faq": [
+    {
+      "question": "How long does it take to build a website for my Tuam business?",
+      "answer": "Most websites take 4-8 weeks from initial consultation to launch. The timeline depends on the complexity of your site and how quickly we receive content. We'll provide a detailed schedule during our first meeting in Tuam."
+    },
+    {
+      "question": "Can you help my Tuam retail shop sell products online?",
+      "answer": "Absolutely! We build complete e-commerce websites with product catalogs, shopping carts, and secure payment processing. This allows your Tuam shop to reach customers across Ireland and beyond."
+    },
+    {
+      "question": "Will my website be mobile-friendly?",
+      "answer": "Yes, every website we create is fully responsive and optimized for smartphones, tablets, and desktop computers. This is essential as more Tuam customers browse and shop on mobile devices."
+    },
+    {
+      "question": "Do you provide website hosting and maintenance?",
+      "answer": "Yes, we offer secure, reliable hosting and comprehensive maintenance packages. This includes regular backups, security updates, and technical support for your Tuam business website."
+    },
+    {
+      "question": "Can I update my website content myself?",
+      "answer": "Yes! We build websites on user-friendly platforms and provide full training. You'll be able to update text, images, prices, and more without technical skills. And we're always here if you need help."
+    },
+    {
+      "question": "Will my website show up on Google for Tuam searches?",
+      "answer": "Yes! Every website includes SEO optimization to help you rank for searches related to your business and Tuam. We can also provide ongoing SEO services for even better search visibility."
+    },
+    {
+      "question": "How much does a website cost for a Tuam business?",
+      "answer": "Prices start from €2,500 for small business websites. E-commerce and more complex sites typically range from €4,000 to €12,000 depending on features. We provide transparent quotes with no hidden fees."
+    },
+    {
+      "question": "What if I need changes after my website launches?",
+      "answer": "We include 90 days of support after launch for any issues or minor changes. After that, we offer maintenance packages or can make updates on an hourly basis. We're committed to supporting your Tuam business long-term."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "business website",
+    "web designer",
+    "responsive design",
+    "e-commerce website",
+    "custom website",
+    "website builder",
+    "professional website",
+    "web development"
+  ],
+  "localKeywords": [
+    "web design Tuam",
+    "website design Tuam",
+    "Tuam web designer",
+    "web development Tuam",
+    "Tuam website company",
+    "local web designer Tuam",
+    "website builder Tuam",
+    "North Galway web design",
+    "web designer near me Tuam",
+    "Tuam digital agency"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "View Our Portfolio"
+}

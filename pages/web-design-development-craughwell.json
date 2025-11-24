@@ -1,0 +1,187 @@
+{
+  "id": "web-design-development-craughwell",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Craughwell",
+  "locationSlug": "craughwell",
+  "serviceNiche": "Full-Service Digital Agency",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Craughwell - Professional Websites That Work | Kraft",
+  "metaDescription": "Expert web design in Craughwell. Kraft Agency creates professional, mobile-friendly websites for local businesses. SEO-optimized and conversion-focused. Call today!",
+  "heroHeadline": "Custom Web Design for Craughwell Businesses",
+  "heroSubheadline": "Professional Websites That Drive Real Business Growth",
+
+  "description": "Need professional web design in Craughwell? Kraft Agency delivers custom websites that combine stunning design with powerful functionality to help your business grow. Serving Craughwell and the surrounding County Galway areas, we specialize in creating websites that work as hard as you do – attracting visitors, engaging customers, and driving conversions.\n\nOur web design philosophy is simple: your website should be your hardest-working employee. We build sites that are beautiful, fast, and optimized to turn visitors into customers. Whether you're a local business in Craughwell village, an agricultural service provider, or a company looking to expand your digital presence, we create tailored solutions that match your goals and budget.\n\nEvery website we create is fully responsive, search engine optimized, and built with modern web technologies for exceptional performance. We understand the unique needs of Craughwell businesses and create websites that resonate with your local community while reaching customers across Galway and beyond. From concept to launch and ongoing support, Kraft Agency is your trusted partner for web design excellence in Craughwell.",
+
+  "shortDescription": "Professional web design and development in Craughwell. Custom websites optimized for conversions, mobile devices, and search engines.",
+
+  "benefits": [
+    "Custom web design tailored to Craughwell businesses",
+    "Mobile-responsive design that works on all devices",
+    "SEO-optimized to attract local Galway customers",
+    "Fast-loading performance for excellent user experience",
+    "Conversion-focused layouts that drive results",
+    "Complete training and ongoing technical support",
+    "Experience across multiple industries and sectors",
+    "Transparent pricing with flexible payment options"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery Session",
+      "description": "We start with an in-depth discussion about your Craughwell business, your target audience, and your online goals. This strategic foundation guides all our design and development decisions."
+    },
+    {
+      "step": 2,
+      "title": "Custom Design Creation",
+      "description": "Our designers create custom mockups that reflect your brand identity and appeal to your target customers. We iterate based on your feedback until the design perfectly captures your vision."
+    },
+    {
+      "step": 3,
+      "title": "Expert Development",
+      "description": "Our development team transforms the design into a fully functional website using modern, reliable technologies. We ensure clean code, fast performance, and seamless integration with essential business tools."
+    },
+    {
+      "step": 4,
+      "title": "Comprehensive Testing",
+      "description": "Before launch, we rigorously test your website across devices, browsers, and connection speeds. Every element is optimized to ensure flawless performance for Craughwell customers and beyond."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Training",
+      "description": "We handle all technical aspects of launching your website and provide thorough training on managing your content. You'll have the confidence to update your site whenever needed."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Partnership",
+      "description": "We're here for the long term. Our maintenance and support services ensure your Craughwell website stays secure, fast, and effective as your business grows."
+    }
+  ],
+
+  "pricingInfo": "Web design projects for Craughwell businesses typically start from €2,500 for professional small business websites up to €12,000+ for advanced e-commerce or custom functionality. We offer payment plans and transparent pricing. Contact us for a personalized quote.",
+
+  "serviceArea": "Craughwell and surrounding areas including Athenry, Loughrea, Clarinbridge, Ardrahan, and all of South Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Flexible consultation times for Craughwell clients.",
+
+  "qualifications": [
+    "Professional web design team",
+    "Full-stack development expertise",
+    "Google Partner certified",
+    "Conversion optimization specialists",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive design guaranteed",
+    "SEO-optimized from launch",
+    "90-day post-launch support",
+    "Secure SSL certificates included"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "Web development code on monitor in Craughwell office",
+      "caption": "Professional Web Design Services in Craughwell"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Responsive web design displayed on multiple devices",
+        "caption": "Mobile-first design for Craughwell businesses"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "MacBook with web design code on busy desk",
+        "caption": "Expert web development for South Galway"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Dual monitor web development workspace",
+        "caption": "Professional development environment"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "MacBook and iMac web design setup",
+        "caption": "Quality tools for quality websites"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Craughwell Businesses Trust Kraft Agency",
+    "Our Web Design Process: Strategy to Launch",
+    "Essential Website Features for Modern Businesses",
+    "Web Design Success Stories from South Galway",
+    "Frequently Asked Questions About Web Design",
+    "Ready to Build Your Craughwell Website?"
+  ],
+
+  "faq": [
+    {
+      "question": "Do you work with businesses in Craughwell?",
+      "answer": "Yes! We work with businesses throughout Craughwell and the wider South Galway region. Whether you're based in Craughwell village or the surrounding rural areas, we provide full web design and development services."
+    },
+    {
+      "question": "How long does it take to build a website?",
+      "answer": "Most website projects take 4-8 weeks from initial consultation to launch. The exact timeline depends on the complexity of your site and how quickly we receive content and feedback. We'll provide a clear timeline during our discovery session."
+    },
+    {
+      "question": "Will my website work on smartphones and tablets?",
+      "answer": "Absolutely! Every website we build is fully responsive, meaning it automatically adapts to look and function perfectly on desktops, tablets, and smartphones. Mobile optimization is essential for reaching Craughwell customers."
+    },
+    {
+      "question": "Can you help with website content and copywriting?",
+      "answer": "Yes! We offer professional copywriting and content creation services. Our team can craft compelling website copy that resonates with your Craughwell audience and supports your SEO goals."
+    },
+    {
+      "question": "What does web design cost for a Craughwell business?",
+      "answer": "Website costs vary based on your specific needs. Professional small business websites typically start from €2,500, while e-commerce sites or custom applications range from €5,000-€15,000+. We provide detailed, transparent quotes."
+    },
+    {
+      "question": "Do you provide website hosting and maintenance?",
+      "answer": "Yes, we offer reliable hosting and comprehensive maintenance packages for Craughwell businesses. This includes security monitoring, regular backups, software updates, and technical support."
+    },
+    {
+      "question": "Will my website be optimized for Google?",
+      "answer": "Every website we build includes foundational SEO optimization – clean code, fast loading, proper meta tags, and mobile responsiveness. We can also provide ongoing SEO services to help you rank for Craughwell and Galway searches."
+    },
+    {
+      "question": "What happens after my website launches?",
+      "answer": "All websites include 90 days of post-launch support. We monitor performance, fix any issues, and help you get comfortable managing your site. We also offer ongoing maintenance packages for long-term peace of mind."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "custom website",
+    "responsive web design",
+    "business website",
+    "professional web design",
+    "website redesign",
+    "mobile website",
+    "e-commerce website",
+    "web development agency"
+  ],
+  "localKeywords": [
+    "web design Craughwell",
+    "website design South Galway",
+    "Craughwell web developer",
+    "web development Craughwell",
+    "Craughwell website company",
+    "web design County Galway",
+    "Craughwell digital agency",
+    "website builder Craughwell",
+    "local web design Craughwell",
+    "Craughwell web services"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "Email Us: hello@kraftagency.ie"
+}

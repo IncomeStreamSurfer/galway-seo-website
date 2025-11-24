@@ -1,0 +1,64 @@
+{
+  "id": "ai-marketing-tuam",
+  "service": "AI-Powered Marketing Solutions",
+  "serviceSlug": "ai-marketing",
+  "location": "Tuam",
+  "locationSlug": "tuam",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+  "pageTitle": "AI Marketing Tuam - Automate & Scale Your Growth | Kraft Agency",
+  "metaDescription": "Empower your Tuam business with AI marketing automation, intelligent analytics, and cutting-edge tools from Kraft Agency. Drive real results with AI technology today!",
+  "heroHeadline": "AI-Powered Marketing Excellence in Tuam",
+  "heroSubheadline": "Leverage Artificial Intelligence to Transform Your Marketing Performance",
+  "description": "Step into the future of marketing with Kraft Agency's AI-powered solutions designed specifically for Tuam businesses. Artificial intelligence is revolutionizing how companies market themselves, and businesses in Tuam are discovering how AI automation, machine learning, and intelligent optimization can drive growth that seemed impossible just years ago. From automated content creation to predictive customer analytics, AI marketing opens doors to enterprise-level capabilities at accessible costs.\n\nOur AI marketing services help Tuam businesses work smarter, not harder. We implement intelligent automation that handles repetitive tasks, AI-powered personalization that increases conversions, predictive analytics that guide strategic decisions, and machine learning optimization that continuously improves campaign performance. Whether you're a local Tuam retailer looking to compete online or a growing B2B company seeking to scale efficiently, our AI solutions are tailored to your specific challenges and opportunities.\n\nWhat makes Kraft Agency different in Tuam is our commitment to practical, results-driven AI implementation. We don't chase hype – we deploy AI technologies that solve real business problems and deliver measurable ROI. Our team combines deep AI expertise with marketing experience, ensuring every solution we implement serves your business goals. Serving Tuam and the wider Galway area, we're your trusted partner for navigating the AI marketing revolution.",
+  "shortDescription": "Transform your Tuam business with AI marketing automation, predictive insights, and intelligent tools. Scale your growth with cutting-edge AI solutions.",
+  "benefits": [
+    "Intelligent automation saves 15-20 hours weekly on marketing tasks",
+    "AI-powered analytics reveal customer insights for Tuam market",
+    "Automated personalization at scale increases conversions",
+    "Predictive modeling forecasts campaign performance accurately",
+    "24/7 AI chatbots provide instant customer service",
+    "Machine learning continuously optimizes your campaigns",
+    "Content generation AI produces quality at speed",
+    "Enterprise AI capabilities at small business prices"
+  ],
+  "process": [
+    {"step": 1, "title": "AI Opportunity Analysis", "description": "We conduct a thorough analysis of your Tuam business's marketing operations, identifying high-impact opportunities where AI can deliver immediate value and long-term competitive advantage."},
+    {"step": 2, "title": "Strategic AI Roadmap", "description": "Our experts create a customized AI implementation roadmap aligned with your business objectives in Tuam, prioritizing quick wins while building toward comprehensive AI marketing capabilities."},
+    {"step": 3, "title": "AI Tool Deployment", "description": "We handle end-to-end implementation of your AI marketing stack, integrating platforms, configuring workflows, training models on your data, and ensuring everything operates flawlessly."},
+    {"step": 4, "title": "Knowledge Transfer", "description": "Your Tuam team receives comprehensive training on leveraging AI tools effectively, understanding outputs, and incorporating AI into daily workflows for maximum productivity and results."},
+    {"step": 5, "title": "Ongoing Innovation", "description": "AI technology advances rapidly. We continuously enhance your systems, test emerging capabilities, optimize performance, and ensure your Tuam business maintains its competitive edge."}
+  ],
+  "pricingInfo": "AI marketing investment varies based on your specific needs and scale. Entry-level AI automation starts at €1,500/month for small businesses, mid-range solutions for growing companies range €3,500-€9,000/month, while comprehensive enterprise AI marketing spans €10,000-€25,000+/month. All packages include strategy, setup, training, and ongoing optimization. Schedule a free consultation to discuss your Tuam business needs and receive a custom proposal.",
+  "serviceArea": "Tuam and surrounding areas including Galway City, Headford, Dunmore, Mountbellew, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Dedicated AI marketing consultants available.",
+  "qualifications": ["AI & Machine Learning specialists", "Advanced automation certified", "ChatGPT & Claude integration experts", "Marketing analytics professionals", "11+ years combined marketing experience"],
+  "yearsExperience": "11+ years marketing expertise, 3+ years AI focus",
+  "guarantees": ["Transparent ROI measurement and reporting", "Ethical AI and data privacy compliance", "Custom solutions for your Tuam business", "Continuous optimization and support", "Flexible engagement options"],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {"url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&w=1920&q=80", "alt": "AI marketing analytics dashboard in Tuam office", "caption": "AI-Powered Marketing in Tuam"},
+    "gallery": [
+      {"url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80", "alt": "Marketing data visualization and analytics", "caption": "Intelligent data insights"},
+      {"url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?ixlib=rb-4.0.3&w=1200&q=80", "alt": "AI technology digital network", "caption": "Advanced AI technology"},
+      {"url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixlib=rb-4.0.3&w=1200&q=80", "alt": "Marketing analytics on laptop", "caption": "Real-time optimization"},
+      {"url": "https://images.unsplash.com/photo-1542744173-05336fcc7ad4?ixlib=rb-4.0.3&w=1200&q=80", "alt": "Professional using AI marketing tools", "caption": "Expert implementation"}
+    ]
+  },
+  "h2Headings": ["Why Tuam Companies Choose Kraft Agency for AI Marketing", "Our Complete AI Marketing Implementation Process", "Real Business Results from AI Marketing in Tuam", "Leading AI Marketing Technologies We Use", "Your AI Marketing Questions Answered", "Begin Your AI Marketing Transformation in Tuam"],
+  "faq": [
+    {"question": "What is AI marketing and how does it work?", "answer": "AI marketing uses artificial intelligence technologies like machine learning, natural language processing, and predictive analytics to automate tasks, analyze data, personalize experiences, and optimize campaigns. For Tuam businesses, this means better results with less manual effort through intelligent automation and data-driven decision making."},
+    {"question": "How long before we see ROI from AI marketing?", "answer": "Timeline varies by implementation scope. Basic automation typically shows time savings within 2-3 weeks. More substantial ROI from improved campaign performance usually appears within 2-4 months as AI learns and optimizes. Most Tuam clients achieve full ROI within 6-9 months."},
+    {"question": "Is AI marketing only for large companies?", "answer": "Not at all! AI marketing is particularly valuable for small and medium businesses in Tuam because it provides enterprise-level capabilities at accessible costs. AI lets smaller teams compete effectively with larger competitors through automation and intelligent optimization."},
+    {"question": "What AI tools do you use for marketing?", "answer": "We leverage leading AI platforms including ChatGPT and Claude for content, specialized AI for email optimization, predictive analytics tools, marketing automation platforms with AI capabilities, and custom integrations tailored to each Tuam client's specific needs."},
+    {"question": "Can AI maintain our brand voice?", "answer": "Yes, through proper training and oversight. We train AI models on your existing content and brand guidelines, then implement review processes to ensure consistency. The result is AI that accelerates content creation while maintaining your unique Tuam brand identity."},
+    {"question": "Is our data secure with AI marketing?", "answer": "Absolutely. We use enterprise-grade AI platforms with robust security, GDPR compliance, and strict data governance. Your Tuam business data is encrypted and protected, never used to train public models, and you maintain complete control."},
+    {"question": "Do you provide training for our team?", "answer": "Yes, comprehensive training is included in all packages. We ensure your Tuam team understands how to use AI tools effectively, interpret results, and incorporate AI into workflows. We provide ongoing support as your team grows their AI capabilities."},
+    {"question": "What happens as AI technology evolves?", "answer": "That's the advantage of working with Kraft Agency – we continuously monitor AI developments, test new capabilities, and enhance your systems. Your Tuam business benefits from the latest AI innovations without needing to manage the complexity yourself."}
+  ],
+  "keywords": ["AI marketing", "marketing automation", "artificial intelligence", "machine learning", "AI tools", "predictive analytics", "intelligent automation", "ChatGPT marketing", "AI optimization", "marketing AI"],
+  "localKeywords": ["AI marketing Tuam", "marketing automation Tuam", "AI agency Tuam", "AI marketing Galway", "artificial intelligence Tuam", "marketing automation Ireland", "AI solutions Tuam", "Tuam digital marketing AI", "intelligent marketing Tuam", "AI marketing County Galway"],
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Schedule Free AI Consultation",
+  "ctaSecondary": "Learn About AI Marketing"
+}

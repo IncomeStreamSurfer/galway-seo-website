@@ -1,0 +1,192 @@
+{
+  "id": "web-design-development-renmore",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Renmore",
+  "locationSlug": "renmore",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Renmore - Conversion-Focused Websites | Kraft Agency",
+  "metaDescription": "Professional web design in Renmore. Custom websites that drive conversions and revenue. Responsive, SEO-optimized, built with cutting-edge tech. Free consultation!",
+
+  "heroHeadline": "Professional Web Design & Development in Renmore",
+  "heroSubheadline": "Custom Websites That Convert Visitors Into Customers",
+
+  "description": "Looking for expert web design in Renmore? Kraft Agency creates powerful, conversion-focused websites that don't just look beautiful – they drive real business results. As a full-service digital agency based in Galway with extensive experience serving Renmore businesses, we combine stunning design with strategic thinking to build websites that engage visitors and maximize conversions. Whether you're a local Renmore shop, service provider, or established business ready to modernize your online presence, we deliver custom websites that work as hard as you do.\n\nOur web design process in Renmore goes far beyond aesthetics. We start by understanding your business goals, target customers, and competitive landscape. Then we craft a website strategy that positions you for success. Every design decision is purposeful – from navigation structure and page layouts to color psychology and call-to-action placement. We create user experiences that guide visitors seamlessly from landing page to conversion, whether that's making a purchase, booking a service, or requesting a quote. Our websites are fully responsive across all devices, lightning-fast, and optimized for search engines from day one.\n\nWhat makes Kraft Agency different is our investment in AI-powered web optimization. We use advanced analytics and machine learning to continuously improve your website's performance, from loading speeds to conversion rates. Our Renmore clients benefit from local, personalized service combined with enterprise-level expertise. We build websites using modern technologies like React, Next.js, and WordPress, ensuring your site is secure, scalable, and easy to manage. From initial consultation through launch and beyond, we're your trusted partner for web design excellence in Renmore.",
+
+  "shortDescription": "Expert web design and development in Renmore. Custom, conversion-optimized websites built with cutting-edge technology. SEO-friendly, mobile-responsive, and designed for growth.",
+
+  "benefits": [
+    "Custom, conversion-focused web design",
+    "Fully responsive on all devices (mobile, tablet, desktop)",
+    "SEO-optimized for better search rankings",
+    "Lightning-fast loading speeds for great UX",
+    "AI-powered optimization for maximum conversions",
+    "Secure hosting and SSL certificates included",
+    "Easy-to-use content management systems",
+    "E-commerce solutions with payment integration",
+    "Ongoing support and maintenance available",
+    "Local Renmore service with fast response times"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Strategy",
+      "description": "We meet with you to understand your business goals, target audience, and competitive position in Renmore. Through detailed consultation, we develop a website strategy that aligns with your objectives and sets the foundation for conversion-focused design."
+    },
+    {
+      "step": 2,
+      "title": "Design & User Experience",
+      "description": "Our designers create custom mockups and interactive prototypes that bring your brand to life online. We focus on user experience, creating intuitive navigation and clear conversion paths. You'll see and approve designs before development begins."
+    },
+    {
+      "step": 3,
+      "title": "Development & Integration",
+      "description": "Our development team builds your website using modern, secure technologies. We integrate all necessary tools – from analytics and CRM systems to payment processors and booking platforms – ensuring everything works seamlessly together."
+    },
+    {
+      "step": 4,
+      "title": "Content & SEO Optimization",
+      "description": "We optimize your website content for search engines and user engagement. This includes keyword research, meta tag optimization, page speed improvements, mobile optimization, and technical SEO to ensure your Renmore business ranks well on Google."
+    },
+    {
+      "step": 5,
+      "title": "Testing & Quality Assurance",
+      "description": "Before launch, we rigorously test your website across all devices, browsers, and screen sizes. We check functionality, speed, security, and user experience to ensure everything performs flawlessly when your customers visit."
+    },
+    {
+      "step": 6,
+      "title": "Launch & Ongoing Support",
+      "description": "We handle the launch process and provide comprehensive training so you can manage your website confidently. We offer ongoing support, maintenance, and optimization services to keep your site performing at its best as your Renmore business grows."
+    }
+  ],
+
+  "pricingInfo": "Web design projects in Renmore typically start from €2,500 for small business websites and range up to €15,000+ for complex e-commerce platforms or custom web applications. Pricing depends on features, functionality, and scope. We offer flexible payment plans and transparent pricing with no hidden costs. Contact us for a custom quote based on your specific needs.",
+
+  "serviceArea": "Renmore and surrounding areas including Galway City, Mervue, Doughiska, Ballybane, Oranmore, and all of East Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Emergency support available for existing website clients.",
+
+  "qualifications": [
+    "Award-winning design team",
+    "Full-stack development expertise",
+    "Google Partner certified",
+    "AI and automation specialists",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive on all devices",
+    "SEO-optimized from day one",
+    "90-day post-launch support included",
+    "Secure hosting and SSL certificates",
+    "GDPR compliant websites"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Modern web design workspace in Renmore",
+      "caption": "Professional Web Design Services in Renmore"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1559028012-481c04fa702d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Responsive web design on multiple devices",
+        "caption": "Mobile-optimized responsive design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Web development team collaborating",
+        "caption": "Expert development team"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Web design analytics and data",
+        "caption": "Data-driven design decisions"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558655146-d09347e92766?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Custom web development coding",
+        "caption": "Custom development solutions"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Renmore Businesses Choose Kraft Agency for Web Design",
+    "Our Proven Web Design Process",
+    "Custom Website Features That Drive Conversions",
+    "Responsive Design: Perfect on Every Device",
+    "Web Design FAQs for Renmore Businesses",
+    "Ready to Transform Your Online Presence?"
+  ],
+
+  "faq": [
+    {
+      "question": "How long does it take to design and build a website?",
+      "answer": "Most website projects take 4-8 weeks from initial consultation to launch, depending on complexity and features required. Simple business websites can be completed in 3-4 weeks, while e-commerce sites or custom applications may take 8-12 weeks. We provide a detailed timeline during the planning phase."
+    },
+    {
+      "question": "Do you provide website hosting and maintenance?",
+      "answer": "Yes! We offer secure, fast website hosting and comprehensive maintenance packages. This includes regular backups, security updates, performance optimization, uptime monitoring, and technical support. We handle all the technical details so you can focus on running your Renmore business."
+    },
+    {
+      "question": "Will my website be mobile-friendly and responsive?",
+      "answer": "Absolutely. Every website we design is fully responsive and optimized for mobile, tablet, and desktop devices. With over 60% of web traffic now coming from mobile devices, mobile optimization is critical for user experience and Google rankings. Your site will look and perform beautifully on every screen size."
+    },
+    {
+      "question": "Can you help with website content and copywriting?",
+      "answer": "Yes! We offer professional content writing and copywriting services. Our team creates compelling website copy, product descriptions, blog posts, and other content that engages visitors and supports your SEO goals. We can handle all content creation or work with your existing materials."
+    },
+    {
+      "question": "How much does a website cost?",
+      "answer": "Website costs vary based on your specific requirements and features. Small business websites typically start from €2,500, while e-commerce sites or custom web applications range from €5,000-€15,000+. We provide transparent, detailed quotes with no hidden fees. Contact us for a custom proposal based on your needs."
+    },
+    {
+      "question": "Will my website be optimized for Google and search engines?",
+      "answer": "Yes! Every website we build includes foundational SEO optimization – clean code, fast loading speeds, mobile responsiveness, proper meta tags, XML sitemaps, and more. We can also provide ongoing SEO services for competitive rankings in Renmore and broader geographic areas."
+    },
+    {
+      "question": "Can you integrate e-commerce and payment systems?",
+      "answer": "Absolutely! We build full-featured e-commerce websites with secure payment processing, inventory management, shipping integration, and customer accounts. We work with platforms like WooCommerce, Shopify, and custom solutions depending on your specific e-commerce needs."
+    },
+    {
+      "question": "What happens after the website launches?",
+      "answer": "After launch, we provide 90 days of post-launch support to address any issues or questions. We also offer ongoing website maintenance, updates, security monitoring, and optimization services. We're here for the long term as your business grows and your website evolves."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "web designer",
+    "website builder",
+    "custom website",
+    "responsive design",
+    "e-commerce website",
+    "business website",
+    "website redesign",
+    "web development agency"
+  ],
+  "localKeywords": [
+    "web design Renmore",
+    "website design Renmore",
+    "Renmore web designer",
+    "web development Renmore",
+    "website builder Renmore",
+    "Renmore digital agency",
+    "web design Galway",
+    "Renmore website company",
+    "web designer near me",
+    "website development East Galway"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "View Our Web Design Portfolio"
+}

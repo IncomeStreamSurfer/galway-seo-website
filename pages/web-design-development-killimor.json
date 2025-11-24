@@ -1,0 +1,208 @@
+{
+  "id": "web-design-development-killimor",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Killimor",
+  "locationSlug": "killimor",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Killimor - Custom Websites for Local Businesses | Kraft Agency",
+  "metaDescription": "Professional web design for Killimor businesses. Kraft Agency creates custom, high-converting websites with modern technology. Get your free quote today!",
+  "heroHeadline": "Custom Web Design in Killimor",
+  "heroSubheadline": "Websites Tailored to Your Business and Your Customers",
+
+  "description": "Looking for expert web design in Killimor? Kraft Agency creates custom, high-converting websites specifically tailored to help Killimor businesses succeed online. We understand that every business in Killimor is unique, and your website should reflect that uniqueness while effectively serving your business goals. Our web design services combine strategic thinking, creative excellence, and technical expertise to deliver websites that not only look professional but also drive real, measurable business results.\n\nServing Killimor and throughout south County Galway, we've helped numerous local businesses establish powerful online presences that attract customers and generate revenue. Our web design process starts with understanding what makes your Killimor business special—your values, your unique selling points, your target audience, and your competitive advantages. We then create a custom website that authentically communicates your brand story while incorporating proven conversion optimization principles. Every design element, from layout and color scheme to navigation and calls-to-action, is strategically crafted to guide visitors toward becoming customers.\n\nAt Kraft Agency, we build websites for Killimor businesses using reliable, modern technologies that ensure fast performance, strong security, and easy scalability as you grow. Every website is fully responsive across smartphones, tablets, and desktops, optimized for search engines to help local customers find you, and built with user experience as the highest priority. We provide comprehensive training so you can confidently manage your website, plus ongoing support and optimization to ensure continued success. With honest pricing and dedicated local service, Kraft Agency is your trusted partner for web design excellence in Killimor.",
+
+  "shortDescription": "Custom web design for Killimor businesses. Professional, high-converting websites with modern technology and dedicated support. Free consultation available.",
+
+  "benefits": [
+    "Custom design perfectly tailored to your Killimor business",
+    "Mobile-responsive design for flawless performance on all devices",
+    "Local SEO optimization to attract Killimor area customers",
+    "Fast-loading websites that engage visitors",
+    "AI-powered conversion optimization tools",
+    "Comprehensive training and ongoing support",
+    "Local south Galway expertise and service",
+    "Honest, transparent pricing with no surprises"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Strategic Planning",
+      "description": "We start with an in-depth discovery session to understand your Killimor business, your customers, your goals, and your market position. This strategic planning creates the foundation for a website that truly works for your business and serves your customers effectively."
+    },
+    {
+      "step": 2,
+      "title": "Custom Design Development",
+      "description": "Our talented designers create custom visual concepts and interactive prototypes specifically for your brand. You'll review detailed mockups and provide feedback through collaborative iterations until we achieve a design that perfectly represents your business and appeals to your audience."
+    },
+    {
+      "step": 3,
+      "title": "Professional Development & Integration",
+      "description": "Our experienced developers build your website using clean, modern code and best-practice methodologies. We integrate all necessary features and systems—contact forms, booking tools, payment processing, analytics platforms—ensuring everything works seamlessly together."
+    },
+    {
+      "step": 4,
+      "title": "Testing & Quality Assurance",
+      "description": "Before launch, we conduct rigorous testing across devices, browsers, and real-world usage scenarios. We verify functionality, optimize performance, ensure security, and refine user experience until everything meets our high standards and exceeds your expectations."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Training",
+      "description": "We handle all technical aspects of launching your website and provide hands-on training sessions so you can confidently manage content and updates. You'll receive clear documentation and ongoing access to our support team for questions and assistance."
+    },
+    {
+      "step": 6,
+      "title": "Optimization & Ongoing Support",
+      "description": "After launch, we monitor performance metrics, analyze visitor behavior, and implement strategic improvements. Your website evolves with your Killimor business through continuous optimization, security updates, and enhancements that maintain your competitive advantage."
+    }
+  ],
+
+  "pricingInfo": "Web design services for Killimor businesses typically start from €2,500 for professional small business websites and range up to €15,000+ for advanced e-commerce platforms or custom web applications. We offer flexible payment options and provide completely transparent pricing. Contact us for a personalized quote based on your specific business needs.",
+
+  "serviceArea": "Killimor and surrounding areas including Loughrea, Gort, Portumna, Ballinasloe, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Dedicated client support available.",
+
+  "qualifications": [
+    "Professional certified design team",
+    "Expert full-stack developers",
+    "Google Partner certification",
+    "AI and automation specialists",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive across all devices",
+    "SEO-optimized from day one",
+    "90-day comprehensive post-launch support",
+    "Secure SSL certificates and hosting"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Custom web design workspace in Killimor",
+      "caption": "Professional Web Design Services in Killimor",
+      "credit": {
+        "photographer": "Christopher Gower",
+        "unsplashUrl": "https://unsplash.com/photos/m_HRfLhgABo"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Creative web design UI elements",
+        "caption": "Beautiful custom design",
+        "credit": {
+          "photographer": "Hal Gatewood",
+          "unsplashUrl": "https://unsplash.com/photos/tZc3vjPCk-Q"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558655146-d09347e92766?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Web development and programming",
+        "caption": "Expert development services",
+        "credit": {
+          "photographer": "Florian Olivo",
+          "unsplashUrl": "https://unsplash.com/photos/4hbJ-eymZ1o"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Responsive design across devices",
+        "caption": "Mobile-optimized responsive design",
+        "credit": {
+          "photographer": "Edho Pratama",
+          "unsplashUrl": "https://unsplash.com/photos/T6fDN60bMWY"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1555421689-d68471e189f2?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Team collaboration on web design",
+        "caption": "Collaborative approach",
+        "credit": {
+          "photographer": "Arlington Research",
+          "unsplashUrl": "https://unsplash.com/photos/kN_kViDchA0"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Killimor Businesses Choose Kraft Agency for Web Design",
+    "Our Custom Web Design Process for Killimor Businesses",
+    "Essential Website Features That Drive Business Growth",
+    "Success Stories from South Galway Business Websites",
+    "Frequently Asked Questions About Web Design",
+    "Start Your Killimor Business Website Journey Today"
+  ],
+
+  "faq": [
+    {
+      "question": "How long does it take to create a website for my Killimor business?",
+      "answer": "Most website projects for Killimor businesses take 4-8 weeks from kickoff to launch. Timeline depends on project scope, complexity, custom features, and content readiness. We provide a detailed project schedule with clear milestones during our planning phase so you understand the entire process."
+    },
+    {
+      "question": "What support do you provide after my website launches?",
+      "answer": "Every Killimor business website includes 90 days of comprehensive post-launch support covering technical issues, updates, and any questions. We also offer ongoing maintenance packages that include hosting, security updates, regular backups, performance optimization, content updates, and priority technical support."
+    },
+    {
+      "question": "Will my website work on mobile phones and tablets?",
+      "answer": "Yes, absolutely! Every website we create is fully responsive and mobile-friendly. We thoroughly test across various smartphones, tablets, and desktop computers to ensure your Killimor business looks professional and functions flawlessly on every device your customers use."
+    },
+    {
+      "question": "Can you create content for my Killimor business website?",
+      "answer": "Yes! We offer complete content creation services including professional copywriting, custom graphics, image sourcing, and video integration. Our team creates engaging, SEO-optimized content that connects with your audience, communicates your value effectively, and drives conversions."
+    },
+    {
+      "question": "What is the investment for a professional website?",
+      "answer": "Investment varies based on your specific needs and business objectives. Professional small business websites typically start from €2,500, mid-range sites with more features range from €5,000-€8,000, and complex e-commerce or custom applications range from €10,000-€15,000+. We provide transparent, detailed quotes with no hidden costs."
+    },
+    {
+      "question": "Do you provide website hosting and security services?",
+      "answer": "Yes! We offer premium website hosting optimized for speed and security. Our hosting includes SSL certificates, automated daily backups, security monitoring, malware protection, and 99.9% uptime guarantee. Your Killimor business website will be fast, secure, and always accessible."
+    },
+    {
+      "question": "Will my website be optimized for Google search?",
+      "answer": "Yes! Every website includes foundational SEO optimization including clean code structure, fast loading speeds, mobile responsiveness, proper meta tags, schema markup, optimized images, and XML sitemaps. We can also provide advanced ongoing SEO services to help your Killimor business rank higher and attract more organic traffic."
+    },
+    {
+      "question": "Can you redesign my existing website?",
+      "answer": "Absolutely! We specialize in website redesigns for Killimor businesses. We'll analyze your current website, identify what's working and what needs improvement, then create a strategic redesign that modernizes your presence, improves user experience, and delivers significantly better business results."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "custom website",
+    "web designer",
+    "responsive design",
+    "business website",
+    "website redesign",
+    "e-commerce website",
+    "web development",
+    "digital agency"
+  ],
+  "localKeywords": [
+    "web design Killimor",
+    "website design Killimor",
+    "Killimor web designer",
+    "web development Killimor",
+    "Killimor website company",
+    "digital agency Killimor",
+    "website builder Killimor",
+    "web designer near Killimor",
+    "Killimor web development",
+    "Galway web design"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Killimor Website Consultation",
+  "ctaSecondary": "See Our Work"
+}

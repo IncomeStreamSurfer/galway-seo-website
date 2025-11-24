@@ -1,0 +1,192 @@
+{
+  "id": "web-design-development-doughiska",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Doughiska",
+  "locationSlug": "doughiska",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Doughiska - Modern Websites That Drive Sales | Kraft Agency",
+  "metaDescription": "Expert web design in Doughiska. Build a modern, high-converting website for your business. SEO-optimized, mobile-responsive, AI-powered. Free quote available!",
+
+  "heroHeadline": "Expert Web Design & Development in Doughiska",
+  "heroSubheadline": "Modern Websites That Turn Visitors Into Paying Customers",
+
+  "description": "Ready to elevate your Doughiska business with a professional website? Kraft Agency delivers custom web design that combines stunning aesthetics with powerful functionality. We create websites that don't just showcase your business – they actively work to convert visitors into customers and drive revenue growth. As a leading digital agency serving Doughiska and East Galway, we understand the local market and know exactly what it takes to help your business succeed online.\n\nOur web design approach in Doughiska is strategic and results-driven. We begin by understanding your business objectives, target customers, and what sets you apart from competitors. Then we craft a website that positions you as the obvious choice in your market. From intuitive navigation and persuasive copywriting to strategic call-to-action placement and conversion optimization, every element is designed with purpose. We create fast-loading, mobile-responsive websites that provide exceptional user experiences on every device. Whether you need a professional business site, an e-commerce store, or a custom web application, we build solutions that scale with your growth.\n\nWhat sets Kraft Agency apart is our use of cutting-edge technology and AI-powered optimization. We build websites using modern frameworks like React and Next.js for superior performance and security. Our AI tools continuously analyze user behavior and website performance, allowing us to optimize conversion rates and maximize ROI. We also prioritize search engine optimization, ensuring your Doughiska business ranks well on Google from day one. With transparent pricing, clear timelines, and ongoing support, we make professional web design accessible for businesses throughout Doughiska and beyond.",
+
+  "shortDescription": "Professional web design in Doughiska. Custom websites that convert visitors into customers. Mobile-responsive, SEO-optimized, built with modern technology for growth.",
+
+  "benefits": [
+    "Custom web design tailored to your Doughiska business",
+    "Conversion-optimized layouts and user journeys",
+    "Fully responsive design for all devices",
+    "Fast loading speeds (critical for conversions)",
+    "SEO-optimized for Google rankings",
+    "AI-powered performance optimization",
+    "Secure, modern technology stack",
+    "Easy content management systems",
+    "E-commerce capabilities with payment integration",
+    "Local support with fast response times"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Strategic Discovery",
+      "description": "We start with in-depth discovery to understand your Doughiska business, competitors, target customers, and goals. This strategic foundation ensures every design decision supports your business objectives and delivers measurable results."
+    },
+    {
+      "step": 2,
+      "title": "Custom Design & Prototyping",
+      "description": "Our designers create custom mockups and interactive prototypes that reflect your brand and engage your audience. We focus on conversion-optimized layouts, clear messaging, and intuitive user experiences. You approve designs before development begins."
+    },
+    {
+      "step": 3,
+      "title": "Modern Development",
+      "description": "Our development team builds your website using secure, cutting-edge technologies. We integrate all necessary systems – analytics, CRM, e-commerce, booking systems, and more – ensuring seamless functionality and easy management."
+    },
+    {
+      "step": 4,
+      "title": "SEO & Performance Optimization",
+      "description": "We optimize every aspect of your website for search engines and performance. This includes technical SEO, keyword optimization, speed improvements, mobile optimization, and structured data to help your Doughiska business rank well on Google."
+    },
+    {
+      "step": 5,
+      "title": "Rigorous Testing",
+      "description": "Before launch, we test your website thoroughly across all devices, browsers, and screen sizes. We verify functionality, security, loading speeds, and user experience to ensure flawless performance for your customers."
+    },
+    {
+      "step": 6,
+      "title": "Launch & Growth Support",
+      "description": "We manage the launch process and provide comprehensive training on managing your website. We offer ongoing support, maintenance, updates, and AI-powered optimization to continuously improve performance as your business grows."
+    }
+  ],
+
+  "pricingInfo": "Web design in Doughiska typically ranges from €2,500 for professional business websites to €15,000+ for advanced e-commerce platforms or custom applications. Pricing depends on features, integrations, and complexity. We offer flexible payment plans and transparent pricing. Contact us for a detailed proposal based on your specific needs and budget.",
+
+  "serviceArea": "Doughiska and surrounding areas including Oranmore, Galway City, Renmore, Mervue, Carnmore, and all of East County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Emergency support available for existing clients.",
+
+  "qualifications": [
+    "Award-winning web design team",
+    "Full-stack development expertise (React, Next.js, WordPress)",
+    "Google Partner certified",
+    "AI and optimization specialists",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive across all devices",
+    "SEO-optimized from launch",
+    "90-day post-launch support",
+    "Secure hosting with SSL certificates",
+    "GDPR compliant development"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1542744095-0d53267d353e?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Modern web design in Doughiska",
+      "caption": "Expert Web Design & Development in Doughiska"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Responsive website design on multiple devices",
+        "caption": "Perfect on every device"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1542744094-3a31f272c490?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Web development team working together",
+        "caption": "Collaborative development process"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1678565202049-9e37b2da8060?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Web design UI/UX planning",
+        "caption": "Strategic user experience design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Website analytics and performance data",
+        "caption": "Data-driven optimization"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Doughiska Businesses Trust Kraft Agency for Web Design",
+    "Our Complete Web Design & Development Process",
+    "Modern Website Features That Drive Business Growth",
+    "E-Commerce Solutions for Doughiska Retailers",
+    "Web Design FAQs for Doughiska Business Owners",
+    "Get Started with Your New Website Today"
+  ],
+
+  "faq": [
+    {
+      "question": "How much does a professional website cost in Doughiska?",
+      "answer": "Professional website costs vary based on features and complexity. Small business websites typically start from €2,500, while e-commerce sites range from €5,000-€10,000. Complex custom applications may be €10,000-€15,000+. We provide detailed, transparent quotes with no hidden fees. Contact us for a custom proposal."
+    },
+    {
+      "question": "How long does it take to build a website?",
+      "answer": "Most websites take 4-8 weeks from consultation to launch. Simple business sites can be completed in 3-4 weeks, while e-commerce or custom platforms may take 8-12 weeks. We provide detailed timelines and keep you updated throughout the process so you always know where we stand."
+    },
+    {
+      "question": "Will you design my website to work on mobile phones?",
+      "answer": "Absolutely! Mobile responsiveness is non-negotiable in today's digital landscape. Every website we design is fully responsive and optimized for mobile, tablet, and desktop. We test extensively across devices to ensure your site looks perfect and functions flawlessly on every screen size."
+    },
+    {
+      "question": "Can you redesign my existing website?",
+      "answer": "Yes! We specialize in website redesigns that modernize your online presence while preserving what's working well. We analyze your current site's performance, identify areas for improvement, and create a redesign strategy that enhances user experience, improves conversions, and drives better results."
+    },
+    {
+      "question": "Do you offer website hosting and ongoing maintenance?",
+      "answer": "Yes, we provide secure, fast website hosting and comprehensive maintenance packages. This includes regular backups, security updates, performance monitoring, technical support, and content updates. We handle all technical aspects so you can focus on your business."
+    },
+    {
+      "question": "Will my website be optimized for Google search?",
+      "answer": "Yes! SEO optimization is built into every website we create. This includes technical SEO (fast loading, mobile-friendly, clean code), on-page SEO (keywords, meta tags, headers), and structured data. We can also provide ongoing SEO services for competitive rankings in Doughiska and beyond."
+    },
+    {
+      "question": "Can you build an online store for my business?",
+      "answer": "Absolutely! We build full-featured e-commerce websites with secure payment processing, inventory management, order tracking, customer accounts, shipping integration, and more. Whether you're selling products or services online, we create e-commerce solutions that drive sales and are easy to manage."
+    },
+    {
+      "question": "What happens after my website launches?",
+      "answer": "After launch, we provide 90 days of support to address any questions or adjustments. We also offer ongoing services including maintenance, updates, security monitoring, performance optimization, and digital marketing. We're committed to your long-term success, not just a one-time project."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "web designer",
+    "custom website",
+    "responsive web design",
+    "e-commerce website",
+    "business website",
+    "website builder",
+    "web development",
+    "website redesign"
+  ],
+  "localKeywords": [
+    "web design Doughiska",
+    "website design Doughiska",
+    "Doughiska web designer",
+    "web development Doughiska",
+    "website builder Doughiska",
+    "web design East Galway",
+    "Doughiska website company",
+    "web designer near me",
+    "website development Galway",
+    "Doughiska digital agency"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Website Quote",
+  "ctaSecondary": "View Our Portfolio"
+}

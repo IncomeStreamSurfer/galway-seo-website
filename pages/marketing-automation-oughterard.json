@@ -1,0 +1,189 @@
+{
+  "id": "marketing-automation-oughterard",
+  "service": "Marketing Automation",
+  "serviceSlug": "marketing-automation",
+  "location": "Oughterard",
+  "locationSlug": "oughterard",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Marketing Automation Oughterard - Streamline & Scale | Kraft",
+  "metaDescription": "Transform your Oughterard business with marketing automation. Automate lead nurturing, boost efficiency & drive conversions. Expert solutions from Kraft Agency.",
+
+  "heroHeadline": "Intelligent Marketing Automation in Oughterard",
+  "heroSubheadline": "Automate Your Growth, Maximize Your Impact",
+
+  "description": "Looking to scale your marketing in Oughterard without the overhead? Kraft Agency delivers sophisticated marketing automation solutions that help businesses work smarter, not harder. Our intelligent automation systems handle repetitive marketing tasks, nurture leads around the clock, and deliver personalized experiences that convert—giving you more time to focus on strategic initiatives and business growth in Oughterard and beyond.\n\nServing businesses throughout Oughterard and West Galway, we bring deep expertise in marketing automation strategy and execution. We don't just implement tools—we design complete customer experiences that guide prospects through every stage of their journey. Our automated workflows leverage behavioral psychology, data-driven insights, and AI-powered personalization to ensure every message resonates with your audience at exactly the right moment. Whether you're nurturing B2B leads or engaging consumers, we build systems that deliver measurable results for your Oughterard business.\n\nWhat makes our service exceptional is our commitment to continuous improvement and optimization. Marketing automation isn't a one-time setup—it requires ongoing testing, refinement, and enhancement. We monitor your automation performance daily, conduct systematic A/B testing, and make data-driven adjustments to improve engagement and conversion rates. With comprehensive analytics, seamless CRM integration, and strategic support from our expert team, you'll have everything needed to outperform competitors and dominate your market.",
+
+  "shortDescription": "Scale your Oughterard business with expert marketing automation. Automate workflows, nurture leads 24/7, and boost conversions with intelligent systems.",
+
+  "benefits": [
+    "Save 10-20 hours per week automating repetitive marketing tasks",
+    "Nurture leads automatically with personalized email journeys",
+    "Increase conversion rates by 35-50% with behavioral triggers",
+    "Deliver the right message at the perfect time, every time",
+    "Automatically score and prioritize high-value leads",
+    "Integrate seamlessly with your CRM and marketing stack",
+    "Track ROI with comprehensive analytics dashboards",
+    "Benefit from expert ongoing optimization and support"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Strategic Discovery & Planning",
+      "description": "We start with an in-depth consultation to understand your business goals, customer journey, and marketing challenges specific to Oughterard. This strategic foundation ensures we build automation that drives real business outcomes."
+    },
+    {
+      "step": 2,
+      "title": "Customer Journey Mapping & Design",
+      "description": "Our team maps your complete customer journey and identifies high-leverage automation opportunities. We design intelligent workflows for lead capture, nurturing, conversion, onboarding, and retention that align with your business model."
+    },
+    {
+      "step": 3,
+      "title": "Platform Setup & Technical Integration",
+      "description": "We configure your chosen marketing automation platform, integrate with your CRM and other marketing tools, implement comprehensive tracking, and ensure all technical foundations are solid before workflow development."
+    },
+    {
+      "step": 4,
+      "title": "Workflow Build & Content Development",
+      "description": "Our team creates automated workflows, develops email sequences, crafts personalized content for each segment, and implements lead scoring rules. Every element is optimized for engagement and conversion with your specific audience."
+    },
+    {
+      "step": 5,
+      "title": "Quality Testing & Phased Launch",
+      "description": "We thoroughly test every workflow, trigger, and integration before going live. Deployment is phased and closely monitored, with real-time adjustments based on performance data from your Oughterard audience."
+    },
+    {
+      "step": 6,
+      "title": "Performance Monitoring & Optimization",
+      "description": "Our work continues post-launch with continuous monitoring, A/B testing, and workflow optimization. We refine messaging and automation logic to maximize engagement, conversion rates, and ROI for your Oughterard business."
+    }
+  ],
+
+  "pricingInfo": "Marketing automation services range from €1,200 per month for small business implementations with essential workflows to €5,000+ per month for enterprise solutions with sophisticated multi-channel automation and extensive integrations. Investment depends on your customer journey complexity, lead volume, platform requirements, and level of ongoing support. Contact us for a complimentary automation assessment and tailored proposal.",
+
+  "serviceArea": "Oughterard and surrounding areas including Galway City, Moycullen, Clifden, Roundstone, and all of Connemara and West Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Dedicated automation team available.",
+
+  "qualifications": [
+    "Certified in major automation platforms (HubSpot, Marketo, ActiveCampaign)",
+    "Marketing automation strategy experts",
+    "AI and personalization specialists",
+    "CRM and martech integration professionals",
+    "15+ years combined marketing automation experience"
+  ],
+  "yearsExperience": "15+ years combined marketing automation and digital marketing expertise",
+  "guarantees": [
+    "Custom automation strategy for your business",
+    "Seamless integration with existing tools",
+    "Monthly performance reports and insights",
+    "Continuous testing and optimization",
+    "Dedicated support from automation specialists"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Marketing automation performance dashboard with analytics",
+      "caption": "Advanced Marketing Automation for Oughterard Businesses"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing analytics dashboard showing automation metrics",
+        "caption": "Comprehensive automation analytics and tracking"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1542744173-05336fcc7ad4?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing professional working on automation strategy",
+        "caption": "Expert automation strategy and implementation"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing automation platform on laptop",
+        "caption": "Powerful automation platforms configured for success"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1518734549841-b417d28c22aa?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing performance metrics and analytics",
+        "caption": "Real-time performance monitoring and optimization"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Oughterard Businesses Choose Kraft Agency for Marketing Automation",
+    "Our Proven Marketing Automation Implementation Process",
+    "Transform Your Business with Intelligent Automation",
+    "Marketing Automation Success Stories from West Galway",
+    "Your Marketing Automation Questions Answered",
+    "Start Your Automation Journey in Oughterard Today"
+  ],
+
+  "faq": [
+    {
+      "question": "How can marketing automation benefit my Oughterard business?",
+      "answer": "Marketing automation helps Oughterard businesses save significant time, improve lead quality, and increase conversions. By automating repetitive tasks like email follow-ups and lead scoring, you free up your team to focus on strategy and high-value activities. Most clients see 35-50% improvements in conversion rates within 3-6 months."
+    },
+    {
+      "question": "What marketing activities can be automated?",
+      "answer": "We can automate email campaigns, lead nurturing sequences, lead scoring and prioritization, social media scheduling, customer segmentation, personalized content delivery, abandoned cart recovery, welcome series, customer onboarding, re-engagement campaigns, and comprehensive performance reporting."
+    },
+    {
+      "question": "Which marketing automation platform should we use?",
+      "answer": "The best platform depends on your specific needs, budget, and technical requirements. We're experts in HubSpot (comprehensive solution), ActiveCampaign (powerful mid-market option), Marketo (enterprise-grade), and Mailchimp (small business). We'll recommend the ideal fit for your Oughterard business during our strategy session."
+    },
+    {
+      "question": "Can you integrate automation with our CRM system?",
+      "answer": "Absolutely! We specialize in CRM integrations with all major platforms including Salesforce, HubSpot CRM, Pipedrive, Zoho, and Microsoft Dynamics. This integration ensures your marketing and sales teams work from unified, real-time customer data for maximum effectiveness."
+    },
+    {
+      "question": "How long does marketing automation take to implement?",
+      "answer": "Typical implementation takes 4-8 weeks from strategy to launch, depending on complexity and the number of workflows required. We work in phases, so you'll start seeing results from basic automation within the first few weeks while we build more sophisticated workflows."
+    },
+    {
+      "question": "Will automation make our marketing feel impersonal?",
+      "answer": "Not when done correctly! Modern automation enables greater personalization through behavioral triggers, dynamic content, and AI. We create automation that delivers highly relevant, timely messages to each prospect—making your marketing feel more personal and engaging, not robotic."
+    },
+    {
+      "question": "What's the investment required for marketing automation?",
+      "answer": "Investment varies based on platform, workflow complexity, and your specific requirements. Small business automation typically starts at €1,200/month (including platform and management), while enterprise solutions range from €3,000-€5,000/month. We provide custom quotes after understanding your needs."
+    },
+    {
+      "question": "How do you measure and report on automation success?",
+      "answer": "We track comprehensive metrics including email engagement rates, conversion rates, lead velocity, pipeline contribution, customer lifetime value, time saved, and overall ROI. You'll receive detailed monthly reports showing exactly how automation impacts your Oughterard business's bottom line."
+    }
+  ],
+
+  "keywords": [
+    "marketing automation",
+    "automated marketing",
+    "lead nurturing",
+    "email automation",
+    "marketing workflows",
+    "customer journey automation",
+    "marketing efficiency",
+    "automated campaigns",
+    "lead scoring automation",
+    "marketing technology"
+  ],
+  "localKeywords": [
+    "marketing automation Oughterard",
+    "marketing automation Connemara",
+    "email automation Oughterard",
+    "automated marketing West Galway",
+    "marketing automation services Ireland",
+    "Oughterard marketing automation",
+    "HubSpot automation Oughterard",
+    "marketing automation agency Galway",
+    "CRM automation Oughterard",
+    "marketing automation consultant Galway"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Book Your Free Automation Strategy Call",
+  "ctaSecondary": "Download Automation Guide"
+}

@@ -1,0 +1,191 @@
+{
+  "id": "video-production-kinvara",
+  "service": "Video Production & Marketing",
+  "serviceSlug": "video-production",
+  "location": "Kinvara",
+  "locationSlug": "kinvara",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Video Production Kinvara - Stunning Brand Videos | Kraft Agency",
+  "metaDescription": "Create captivating video content in Kinvara with Kraft Agency. Professional filming, AI editing, social media optimization. Transform your brand story today!",
+
+  "heroHeadline": "Award-Winning Video Production in Kinvara",
+  "heroSubheadline": "Transform Your Brand Story Into Captivating Video Content",
+
+  "description": "Ready to elevate your brand with professional video production in Kinvara? Kraft Agency specializes in creating high-impact video content that tells your story and drives meaningful engagement. Whether you're a local Kinvara business, tourism operator showcasing the stunning Wild Atlantic Way, or a regional company looking to expand your reach, our expert video team delivers cinematic quality that sets you apart from the competition.\n\nOur approach to video production in Kinvara goes beyond simply pointing a camera and hitting record. We're storytellers who understand the power of visual narrative. Every video we create is carefully crafted to connect emotionally with your audience while driving specific business outcomes – whether that's brand awareness, lead generation, or direct sales. From initial concept and scriptwriting through filming, editing, and optimization, we handle every detail with precision and creativity.\n\nWhat makes Kraft Agency different? We combine traditional cinematography expertise with cutting-edge AI-powered editing tools that analyze viewer engagement patterns and optimize your content for maximum impact. We understand the unique landscape and business environment of Kinvara and South Galway, allowing us to create authentic, location-specific content that resonates with your audience. Plus, our flexible production packages mean professional video is accessible for businesses of all sizes in the Kinvara area.",
+
+  "shortDescription": "Professional video production in Kinvara. Cinematic brand videos, social content, and marketing films that drive results. AI-powered editing and optimization included.",
+
+  "benefits": [
+    "Stunning cinematic video production in Kinvara",
+    "Full-service video marketing and strategy",
+    "AI-optimized editing for higher engagement",
+    "Experienced crew with professional cinema equipment",
+    "Fast local service throughout South Galway",
+    "Multi-platform optimization (all social channels)",
+    "Professional scriptwriting and creative direction",
+    "Drone footage and aerial cinematography available",
+    "Flexible packages for every budget",
+    "Performance analytics and ROI tracking"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Strategic Consultation",
+      "description": "We meet with you (in person or virtually) to understand your business, goals, target audience, and vision. We discuss your video objectives and develop a strategic approach that aligns with your marketing goals and budget."
+    },
+    {
+      "step": 2,
+      "title": "Creative Development",
+      "description": "Our creative team develops concepts, scripts, and storyboards that bring your vision to life. We present ideas and refine them based on your feedback until we have a blueprint that excites everyone."
+    },
+    {
+      "step": 3,
+      "title": "Pre-Production & Planning",
+      "description": "We handle all logistics including location scouting around Kinvara, talent casting, equipment preparation, and scheduling. Our detailed planning ensures filming day runs smoothly and efficiently."
+    },
+    {
+      "step": 4,
+      "title": "Professional Production",
+      "description": "Our experienced crew arrives with cinema-grade cameras, professional lighting, audio equipment, and drones. We capture stunning footage with precision direction, ensuring we get every shot needed to tell your story perfectly."
+    },
+    {
+      "step": 5,
+      "title": "Post-Production Excellence",
+      "description": "Using industry-leading software enhanced with AI tools, we edit your video with professional color grading, motion graphics, sound design, music, and visual effects. Every detail is polished to perfection."
+    },
+    {
+      "step": 6,
+      "title": "Delivery & Marketing",
+      "description": "We deliver your video in all required formats optimized for each platform. We also provide marketing strategy recommendations and track performance metrics to ensure your video achieves maximum impact."
+    }
+  ],
+
+  "pricingInfo": "Video production packages start from €1,500 for social media content and range up to €10,000+ for comprehensive commercial productions. We offer customized packages based on your specific needs, timeline, and budget. Contact us for a detailed quote tailored to your Kinvara video project.",
+
+  "serviceArea": "Kinvara and surrounding areas including Gort, Clarinbridge, Kilcolgan, Ardrahan, and all of South County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Flexible scheduling available for weekend and evening filming.",
+
+  "qualifications": [
+    "Award-winning video production specialists",
+    "Professional drone pilot certification",
+    "Cinema-grade equipment (RED, Sony FX, Blackmagic)",
+    "15+ years combined production experience",
+    "Full liability and equipment insurance"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guaranteed",
+    "Unlimited revisions during editing",
+    "Multi-format delivery for all platforms",
+    "Full copyright and usage rights",
+    "Performance tracking and reporting included"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1682146720153-4d5bdf56f143?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional video production in Kinvara with cinema equipment",
+      "caption": "Award-Winning Video Production Services in Kinvara"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1612548403247-aa2873e9422d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Video filming with professional lighting setup",
+        "caption": "Professional production quality every time"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1579109652910-99b9be06aaec?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Video editing suite with multiple monitors",
+        "caption": "State-of-the-art post-production facilities"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1625690303837-654c9666d2d0?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Cinematographer operating professional camera",
+        "caption": "Experienced crew with cinema-grade equipment"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1490971688337-f2c79913ea7d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Video production planning and storyboarding",
+        "caption": "Meticulous planning for perfect execution"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Kinvara Businesses Choose Kraft Agency for Video Production",
+    "Our Complete Video Production Process",
+    "Video Types Perfect for Kinvara Tourism and Business",
+    "The Power of AI-Enhanced Video Marketing",
+    "Common Questions About Video Production in Kinvara",
+    "Start Your Video Production Journey Today"
+  ],
+
+  "faq": [
+    {
+      "question": "Can you showcase Kinvara's beautiful coastal locations in our video?",
+      "answer": "Absolutely! Kinvara's stunning coastal scenery, historic Dunguaire Castle, and vibrant harbor make for incredible video backdrops. We're experienced in capturing the natural beauty of the Wild Atlantic Way and can incorporate local landmarks into your brand story to create authentic, location-specific content."
+    },
+    {
+      "question": "How quickly can you produce a video for our Kinvara business?",
+      "answer": "Timeline depends on project complexity, but we can typically deliver social media videos within 1-2 weeks and comprehensive brand films within 3-4 weeks. For rush projects, we offer expedited production services. We'll provide a detailed timeline during your consultation."
+    },
+    {
+      "question": "Do you offer drone filming for aerial shots?",
+      "answer": "Yes! We have certified drone pilots and professional aerial cinematography equipment. Drone footage is perfect for showcasing Kinvara's coastal beauty, property tours, tourism content, and establishing shots that give viewers a stunning perspective of your business and location."
+    },
+    {
+      "question": "What's the difference between a brand video and a social media video?",
+      "answer": "Brand videos are typically longer (2-5 minutes), tell your complete brand story, and live on your website or YouTube. Social media videos are shorter (15-60 seconds), optimized for specific platforms like Instagram or TikTok, and designed for quick engagement. We create both types based on your goals."
+    },
+    {
+      "question": "Can you help with tourism and hospitality video content?",
+      "answer": "Definitely! Kinvara's tourism industry is thriving, and we specialize in creating compelling hospitality videos. From accommodation walkthroughs and restaurant showcases to activity highlights and destination marketing, we know how to create content that attracts visitors and drives bookings."
+    },
+    {
+      "question": "How much input do we have in the creative process?",
+      "answer": "You're involved every step of the way! We start with your vision and goals, present creative concepts for your approval, share storyboards before filming, and provide draft edits for your feedback. It's a collaborative process ensuring the final video perfectly represents your brand."
+    },
+    {
+      "question": "Will you help us use the video effectively in our marketing?",
+      "answer": "Yes! We don't just hand you a video and disappear. We provide guidance on distribution strategy, platform optimization, posting schedules, and paid promotion options. We can also track performance metrics to measure ROI and refine your video marketing strategy over time."
+    },
+    {
+      "question": "What happens if weather affects our outdoor filming in Kinvara?",
+      "answer": "Irish weather can be unpredictable! We always have backup dates scheduled for outdoor shoots and can be flexible with timing. We also monitor weather forecasts closely and communicate proactively about any necessary schedule adjustments to ensure we capture perfect footage."
+    }
+  ],
+
+  "keywords": [
+    "video production",
+    "video marketing",
+    "corporate video",
+    "brand video",
+    "promotional video",
+    "social media video",
+    "video content creation",
+    "commercial video",
+    "tourism video",
+    "drone video"
+  ],
+  "localKeywords": [
+    "video production Kinvara",
+    "Kinvara videographer",
+    "video marketing South Galway",
+    "Kinvara video company",
+    "video producer near Kinvara",
+    "Wild Atlantic Way video",
+    "tourism video Kinvara",
+    "video production County Galway",
+    "videographer near me",
+    "professional video Ireland"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Video Consultation",
+  "ctaSecondary": "See Our Video Work"
+}

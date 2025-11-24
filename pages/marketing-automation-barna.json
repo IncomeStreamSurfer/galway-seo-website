@@ -1,0 +1,189 @@
+{
+  "id": "marketing-automation-barna",
+  "service": "Marketing Automation",
+  "serviceSlug": "marketing-automation",
+  "location": "Barna",
+  "locationSlug": "barna",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Marketing Automation Barna - Streamline Your Marketing | Kraft Agency",
+  "metaDescription": "Transform your marketing in Barna with intelligent automation. Nurture leads, boost conversions & save time with Kraft Agency's expert marketing automation solutions.",
+
+  "heroHeadline": "Intelligent Marketing Automation in Barna",
+  "heroSubheadline": "Automate Your Marketing, Amplify Your Results",
+
+  "description": "Looking to scale your marketing efforts in Barna without scaling your team? Kraft Agency delivers cutting-edge marketing automation solutions that transform how businesses in Barna engage with customers. Our intelligent automation systems handle repetitive marketing tasks, nurture leads automatically, and deliver personalized experiences at scale—giving you more time to focus on strategy and growth.\n\nAs a full-service digital agency based in Galway and serving businesses throughout Barna, we understand the unique challenges local businesses face. Our marketing automation expertise combines sophisticated workflows with AI-powered personalization to ensure every prospect receives the right message at the right time. From email sequences that convert to behavioral triggers that engage, we build automation systems that feel personal, not robotic.\n\nWhat sets our approach apart is our focus on strategy first, technology second. We don't just set up tools—we design complete customer journeys that guide prospects from awareness to advocacy. With seamless CRM integration, advanced segmentation, and detailed analytics, you'll have complete visibility into what's working and continuous optimization to improve results. Whether you're nurturing leads, onboarding customers, or re-engaging dormant prospects in Barna, our marketing automation solutions deliver measurable ROI.",
+
+  "shortDescription": "Expert marketing automation services in Barna. Streamline workflows, nurture leads automatically, and boost conversions with intelligent automation.",
+
+  "benefits": [
+    "Save 10+ hours per week with automated marketing workflows",
+    "Nurture leads automatically with personalized email sequences",
+    "Increase conversion rates by 35% with behavioral triggers",
+    "AI-powered personalization for every customer interaction",
+    "Seamless CRM integration with your existing tools",
+    "Advanced segmentation for targeted messaging",
+    "Detailed analytics and ROI tracking",
+    "Ongoing optimization and strategic support"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Strategy Session",
+      "description": "We begin with an in-depth consultation to understand your marketing goals, customer journey, and current processes. This foundation ensures we design automation that aligns with your business objectives in Barna."
+    },
+    {
+      "step": 2,
+      "title": "Customer Journey Mapping",
+      "description": "Our team maps your complete customer journey, identifying key touchpoints and opportunities for automation. We design workflows that nurture prospects through awareness, consideration, and decision stages."
+    },
+    {
+      "step": 3,
+      "title": "Platform Setup & Integration",
+      "description": "We configure your marketing automation platform, integrate with your CRM and other tools, and set up advanced tracking. Everything is customized to your specific needs and technical environment."
+    },
+    {
+      "step": 4,
+      "title": "Workflow Development & Content Creation",
+      "description": "Our team builds automated workflows, creates email sequences, and develops personalized content for each segment. We ensure every automated touchpoint delivers value and drives engagement."
+    },
+    {
+      "step": 5,
+      "title": "Testing & Launch",
+      "description": "Before going live, we rigorously test every workflow, trigger, and integration. We launch in phases to ensure smooth operation and make adjustments based on initial performance data."
+    },
+    {
+      "step": 6,
+      "title": "Monitoring & Continuous Optimization",
+      "description": "Marketing automation is never 'set and forget.' We continuously monitor performance, A/B test messaging, and optimize workflows to improve conversion rates and ROI for your Barna business."
+    }
+  ],
+
+  "pricingInfo": "Marketing automation services typically range from €1,200 per month for small business automation to €5,000+ per month for enterprise-level systems with complex workflows and integrations. We customize our approach based on your customer journey complexity, lead volume, and business goals. Contact us for a free automation strategy session and custom proposal.",
+
+  "serviceArea": "Barna and surrounding areas including Galway City, Salthill, Knocknacarra, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Dedicated automation specialist available.",
+
+  "qualifications": [
+    "Certified marketing automation specialists",
+    "HubSpot, Marketo, and ActiveCampaign experts",
+    "AI and machine learning certified",
+    "CRM integration specialists",
+    "15+ years combined marketing technology experience"
+  ],
+  "yearsExperience": "15+ years combined marketing automation experience",
+  "guarantees": [
+    "Seamless integration with existing systems",
+    "Transparent monthly reporting and analytics",
+    "Personalized automation strategy for your business",
+    "Regular optimization and performance reviews",
+    "Dedicated automation specialist support"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Marketing analytics dashboard showing automation metrics",
+      "caption": "Intelligent Marketing Automation Solutions in Barna"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1542744173-05336fcc7ad4?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional working on marketing automation strategy",
+        "caption": "Strategic automation planning and implementation"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing automation analytics and performance tracking",
+        "caption": "Data-driven automation optimization"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Email marketing automation on mobile device",
+        "caption": "Automated email campaigns that convert"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Performance analytics dashboard for marketing automation",
+        "caption": "Real-time automation performance tracking"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Kraft Agency is Barna's Leading Marketing Automation Partner",
+    "Our Marketing Automation Process: From Strategy to Success",
+    "Transform Your Marketing with Intelligent Automation",
+    "Marketing Automation Success Stories from Irish Businesses",
+    "Common Marketing Automation Questions Answered",
+    "Ready to Automate Your Marketing in Barna?"
+  ],
+
+  "faq": [
+    {
+      "question": "What is marketing automation and how can it help my Barna business?",
+      "answer": "Marketing automation uses software to automate repetitive marketing tasks like email campaigns, social media posting, and lead nurturing. For businesses in Barna, this means you can deliver personalized marketing at scale, save significant time, and improve conversion rates—often by 35% or more."
+    },
+    {
+      "question": "How long does it take to implement marketing automation?",
+      "answer": "Most marketing automation implementations take 4-8 weeks from strategy to launch, depending on complexity and the number of workflows. We work in phases to get you seeing results quickly while building out more sophisticated automation over time."
+    },
+    {
+      "question": "What marketing automation platforms do you work with?",
+      "answer": "We're experts in all major platforms including HubSpot, Marketo, ActiveCampaign, Mailchimp, and Pardot. We'll recommend the best platform for your specific needs, budget, and technical requirements, or work with your existing system."
+    },
+    {
+      "question": "Can you integrate marketing automation with our existing CRM?",
+      "answer": "Absolutely! CRM integration is crucial for effective marketing automation. We have extensive experience integrating with Salesforce, HubSpot CRM, Pipedrive, Zoho, and other popular CRM systems to ensure seamless data flow and unified customer insights."
+    },
+    {
+      "question": "How much does marketing automation cost?",
+      "answer": "Marketing automation investment varies based on platform choice, workflow complexity, and lead volume. Small business automation typically starts from €1,200/month, while enterprise solutions may be €3,000-€5,000/month. We provide custom quotes after understanding your specific needs."
+    },
+    {
+      "question": "What types of marketing can be automated?",
+      "answer": "We can automate email campaigns, lead nurturing sequences, social media posting, lead scoring, customer segmentation, personalized content delivery, abandoned cart recovery, customer onboarding, re-engagement campaigns, and much more."
+    },
+    {
+      "question": "Will automated marketing feel impersonal to our customers?",
+      "answer": "Not when done right! Our automation uses advanced personalization, behavioral triggers, and AI to deliver highly relevant, timely messages that feel personal. The key is strategic segmentation and thoughtful content—which is exactly what we specialize in."
+    },
+    {
+      "question": "How do you measure marketing automation success?",
+      "answer": "We track comprehensive metrics including email open and click rates, conversion rates, lead nurturing velocity, customer lifetime value, time saved, and overall ROI. You'll receive detailed monthly reports showing exactly how automation is impacting your bottom line."
+    }
+  ],
+
+  "keywords": [
+    "marketing automation",
+    "email automation",
+    "lead nurturing",
+    "marketing workflows",
+    "CRM automation",
+    "automated marketing",
+    "marketing technology",
+    "email sequences",
+    "customer journey automation",
+    "marketing efficiency"
+  ],
+  "localKeywords": [
+    "marketing automation Barna",
+    "marketing automation Galway",
+    "email automation Barna",
+    "marketing automation services Ireland",
+    "Barna digital marketing automation",
+    "automated marketing Galway",
+    "CRM automation Barna",
+    "marketing automation agency Ireland",
+    "HubSpot automation Barna",
+    "marketing automation near me"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Automation Strategy Session",
+  "ctaSecondary": "View Automation Case Studies"
+}

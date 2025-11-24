@@ -1,0 +1,187 @@
+{
+  "id": "web-design-development-dunmore",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Dunmore",
+  "locationSlug": "dunmore",
+  "serviceNiche": "Full-Service Digital Agency",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Dunmore - Custom Websites for North Galway | Kraft",
+  "metaDescription": "Professional web design in Dunmore. Kraft Agency creates high-quality, conversion-focused websites for North Galway businesses. Mobile-optimized. Free quote!",
+  "heroHeadline": "Expert Web Design Services in Dunmore",
+  "heroSubheadline": "Professional Websites for North Galway Businesses",
+
+  "description": "Looking for professional web design in Dunmore? Kraft Agency creates custom websites that help North Galway businesses stand out online and attract more customers. Whether you're a local business in Dunmore town, a service provider, or a company serving the wider North Galway region, we build websites designed to deliver measurable results.\n\nOur web design approach is focused on creating digital experiences that work for your Dunmore business around the clock. We don't just build websites – we create powerful marketing tools that attract visitors, engage them with compelling content, and convert them into customers. Every element is strategically designed to support your business goals, from intuitive navigation to persuasive calls-to-action.\n\nEvery website we deliver is fully responsive, optimized for search engines, and built with modern web technologies that ensure exceptional performance. We understand the local market in Dunmore and North Galway, creating websites that resonate with your community while expanding your reach across the region and beyond. With Kraft Agency, you get more than a website – you get a partner committed to your online success.",
+
+  "shortDescription": "Expert web design and development in Dunmore. Custom, high-performing websites built for North Galway businesses with proven track record.",
+
+  "benefits": [
+    "Custom web design for Dunmore businesses",
+    "Fully responsive design for all devices",
+    "SEO-optimized for North Galway searches",
+    "Fast-loading, high-performance websites",
+    "Conversion-focused user experience",
+    "Comprehensive training and support",
+    "Local expertise with modern web standards",
+    "Transparent pricing with no hidden fees"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Strategic Discovery",
+      "description": "We begin by understanding your Dunmore business – your goals, your target customers, your competition, and what makes you unique. This strategic foundation informs every design decision."
+    },
+    {
+      "step": 2,
+      "title": "Design & Prototyping",
+      "description": "Our designers create custom mockups tailored to your brand and business objectives. We present interactive prototypes and refine the design based on your feedback until it's perfect."
+    },
+    {
+      "step": 3,
+      "title": "Professional Development",
+      "description": "Our developers bring the design to life using modern, reliable technologies. We ensure clean code, fast performance, and seamless integration with the tools your Dunmore business needs."
+    },
+    {
+      "step": 4,
+      "title": "Quality Assurance",
+      "description": "We thoroughly test your website across devices, browsers, and scenarios. Performance, security, and user experience are all optimized to ensure excellent results for Dunmore customers."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Training",
+      "description": "We handle the technical launch process and provide comprehensive training so you can confidently manage your website. We're available for support whenever you need us."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Excellence",
+      "description": "Your website evolves with your business. We provide ongoing maintenance, updates, and optimization to ensure your Dunmore website continues to perform at its best."
+    }
+  ],
+
+  "pricingInfo": "Web design projects for Dunmore businesses typically start from €2,500 for small business websites and range up to €12,000+ for e-commerce or advanced functionality. We offer flexible payment plans and transparent pricing. Contact us for a custom quote.",
+
+  "serviceArea": "Dunmore and surrounding North Galway areas including Tuam, Glenamaddy, Headford, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Flexible meeting times for Dunmore business owners.",
+
+  "qualifications": [
+    "Award-winning web design team",
+    "Full-stack development expertise",
+    "Google Partner certification",
+    "Conversion optimization specialists",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive on all devices",
+    "SEO-optimized from day one",
+    "90-day post-launch support",
+    "Secure hosting with SSL"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1585247226801-bc613c441316?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "MacBook Pro web design workspace in Dunmore",
+      "caption": "Professional Web Design Services in Dunmore"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Responsive web design on multiple devices",
+        "caption": "Mobile-optimized for North Galway"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "MacBook with code on busy desk",
+        "caption": "Expert development services"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "MacBook and iMac web design workspace",
+        "caption": "Professional design environment"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Code editor displaying web development",
+        "caption": "Modern web technologies for Dunmore"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Dunmore Businesses Trust Kraft Agency",
+    "Our Proven Web Design Process",
+    "Essential Features for Successful Websites",
+    "Success Stories from North Galway Businesses",
+    "Web Design FAQs for Dunmore Business Owners",
+    "Ready to Build Your Dunmore Website?"
+  ],
+
+  "faq": [
+    {
+      "question": "Do you work with businesses in Dunmore and North Galway?",
+      "answer": "Yes! We work with businesses throughout Dunmore and the wider North Galway region. We understand the local market and create websites that connect with your community while reaching customers across Galway and beyond."
+    },
+    {
+      "question": "How long does a website project take?",
+      "answer": "Most website projects are completed within 4-8 weeks from kickoff to launch. The exact timeline depends on the complexity of your requirements and how quickly we can gather content and feedback. We provide a detailed timeline during our discovery session."
+    },
+    {
+      "question": "Will my website be mobile-friendly?",
+      "answer": "Absolutely! Every website we create is fully responsive and optimized for mobile devices, tablets, and desktops. With most web traffic coming from mobile, this is essential for reaching Dunmore customers effectively."
+    },
+    {
+      "question": "Can you integrate e-commerce functionality?",
+      "answer": "Yes! We specialize in building e-commerce websites with secure payment processing, inventory management, and user-friendly shopping experiences. Whether you need online sales or booking systems, we can build it."
+    },
+    {
+      "question": "How much does a website cost for a Dunmore business?",
+      "answer": "Website costs vary based on your specific needs. Small business websites typically start from €2,500, while e-commerce sites or custom applications range from €5,000-€15,000+. We provide clear, detailed quotes with no hidden fees."
+    },
+    {
+      "question": "Do you offer website maintenance and hosting?",
+      "answer": "Yes, we provide secure website hosting and comprehensive maintenance packages. This includes regular backups, security monitoring, software updates, performance optimization, and technical support for Dunmore businesses."
+    },
+    {
+      "question": "Will my website be optimized for Google?",
+      "answer": "Every website we build includes foundational SEO optimization – clean, fast code, proper meta tags, and mobile responsiveness. We can also provide ongoing SEO services to help you rank higher for Dunmore and North Galway searches."
+    },
+    {
+      "question": "What kind of support do you provide?",
+      "answer": "All websites include 90 days of post-launch support. We monitor your site, fix any issues, and help you become comfortable managing your content. We also offer ongoing maintenance packages for continued support."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "custom website",
+    "responsive design",
+    "business website",
+    "professional web design",
+    "website redesign",
+    "mobile-friendly website",
+    "e-commerce website",
+    "web development services"
+  ],
+  "localKeywords": [
+    "web design Dunmore",
+    "website design North Galway",
+    "Dunmore web developer",
+    "web development Dunmore",
+    "Dunmore website company",
+    "North Galway digital agency",
+    "web design County Galway",
+    "website builder Dunmore",
+    "Dunmore web services",
+    "local web design Dunmore"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "Email Us: hello@kraftagency.ie"
+}

@@ -1,0 +1,209 @@
+{
+  "id": "ecommerce-marketing-tuam",
+  "service": "E-commerce Marketing & Development",
+  "serviceSlug": "ecommerce-marketing",
+  "location": "Tuam",
+  "locationSlug": "tuam",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "E-commerce Marketing Tuam - Grow Your Online Business | Kraft Agency",
+  "metaDescription": "Scale your Tuam business online with Kraft Agency's e-commerce solutions. Expert Shopify development, marketing, and optimization. Free consultation available!",
+
+  "heroHeadline": "Scale Your Tuam Business with E-commerce Marketing",
+  "heroSubheadline": "Complete Online Store Solutions That Drive Revenue Growth",
+
+  "description": "Looking to expand your Tuam business online and reach customers beyond North Galway? Kraft Agency specializes in comprehensive e-commerce marketing and development solutions for businesses throughout Tuam and the surrounding region. Whether you're a local retailer, agricultural business, artisan producer, or service provider wanting to sell products online, we transform your vision into a profitable e-commerce business. From building professional Shopify stores to managing high-performing marketing campaigns, we handle every aspect of your online retail success.\n\nOur proven e-commerce approach delivers sustainable growth. We begin by building your online store with conversion-optimized design, mobile-first user experience, fast performance, and streamlined checkout processes. Then we drive qualified customers through strategic multi-channel marketing: Google Shopping ads to capture high-intent shoppers, Facebook and Instagram advertising to build brand awareness and drive conversions, SEO to rank for product keywords and capture organic traffic, and email marketing automation to maximize customer lifetime value. Every element is continuously optimized using AI-powered tools and data analytics to ensure maximum return on your investment.\n\nWhat makes Kraft Agency the ideal e-commerce partner for Tuam businesses is our combination of local market expertise and global e-commerce best practices. We understand the Tuam and North Galway markets, the unique needs of businesses in the region, and how to position your products for success locally and internationally. Our use of cutting-edge AI technology and data-driven optimization ensures your e-commerce strategy consistently outperforms competitors and drives profitable growth year after year.",
+
+  "shortDescription": "Complete e-commerce solutions for Tuam businesses. Professional Shopify development, strategic marketing, and conversion optimization for online success.",
+
+  "benefits": [
+    "Complete e-commerce solutions from strategy to execution",
+    "Professional Shopify or WooCommerce store development",
+    "Conversion-optimized design that drives sales",
+    "Multi-channel marketing across Google, Facebook, Instagram",
+    "AI-powered optimization for maximum performance",
+    "Email marketing automation for repeat customers",
+    "Local North Galway expertise with proven results",
+    "Transparent reporting and dedicated support"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "E-commerce Strategy & Planning",
+      "description": "We start with comprehensive analysis of your Tuam business, products, target customers, competitive landscape, and revenue goals. We develop a customized e-commerce strategy designed to achieve your specific objectives."
+    },
+    {
+      "step": 2,
+      "title": "Online Store Development",
+      "description": "We build your e-commerce store on the best platform for your needs (typically Shopify) with professional design, mobile optimization, fast performance, intuitive navigation, secure payments, and conversion-focused product pages."
+    },
+    {
+      "step": 3,
+      "title": "Product Content & SEO",
+      "description": "We create compelling product descriptions, optimize images, set up logical product categories, implement SEO best practices, and add structured data so your Tuam products rank well in search engines and Google Shopping results."
+    },
+    {
+      "step": 4,
+      "title": "Marketing Campaign Launch",
+      "description": "We launch integrated campaigns across Google Shopping ads for immediate product visibility, Facebook/Instagram advertising for brand building and sales, and email marketing for customer retention. Each channel is optimized for your target audience."
+    },
+    {
+      "step": 5,
+      "title": "Conversion Optimization",
+      "description": "Using AI-powered A/B testing tools, we continuously test and improve every element of your store. We optimize checkout flows, product page layouts, mobile experience, calls-to-action, and user journeys to maximize sales from every visitor."
+    },
+    {
+      "step": 6,
+      "title": "Scaling & Growth",
+      "description": "As your Tuam e-commerce business grows, we help you scale successfully. This includes expanding product lines, entering new markets, optimizing operations and fulfillment, and increasing marketing investment profitably for sustainable growth."
+    }
+  ],
+
+  "pricingInfo": "E-commerce store development starts from €5,000 for professional Shopify stores with custom design. Ongoing e-commerce marketing ranges from €2,500/month for essential management and advertising to €8,000+/month for comprehensive solutions including SEO, paid ads, email marketing, and continuous optimization. Custom packages available for Tuam businesses based on goals and budget.",
+
+  "serviceArea": "Tuam and surrounding areas including Headford, Dunmore, Mountbellew, Claregalway, and all of North County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Available for in-person meetings in Tuam and North Galway.",
+
+  "qualifications": [
+    "Certified Shopify Partner agency",
+    "Google Ads & Shopping specialists",
+    "Facebook Marketing certified",
+    "E-commerce conversion experts",
+    "15+ years combined e-commerce experience"
+  ],
+  "yearsExperience": "15+ years combined e-commerce experience",
+  "guarantees": [
+    "Professional e-commerce store guarantee",
+    "Mobile-optimized design included",
+    "Transparent monthly reporting",
+    "Conversion improvement commitment",
+    "Flexible monthly contracts"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1688561808434-886a6dd97b8c?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "E-commerce marketing solutions for Tuam businesses",
+      "caption": "E-commerce Solutions in Tuam",
+      "credit": {
+        "photographer": "Unsplash",
+        "unsplashUrl": "https://unsplash.com/photos/slLo94wES2M"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1664455340023-214c33a9d0bd?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "E-commerce shopping cart",
+        "caption": "Conversion-optimized e-commerce",
+        "credit": {
+          "photographer": "Shutter Speed",
+          "unsplashUrl": "https://unsplash.com/photos/BQ9usyzHx_w"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Secure online shopping",
+        "caption": "Secure, seamless shopping experiences",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/Q59HmzK38eQ"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Mobile e-commerce",
+        "caption": "Mobile-first e-commerce design",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/pwxESDWRwDE"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1599658880436-c61792e70672?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "E-commerce analytics",
+        "caption": "Data-driven optimization",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/eveI7MOcSmw"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Tuam Businesses Choose Kraft Agency for E-commerce",
+    "Our Proven E-commerce Development & Marketing Process",
+    "E-commerce Platforms: Shopify vs WooCommerce for Tuam",
+    "Success Stories: Tuam Businesses Growing Online",
+    "E-commerce Marketing FAQs for Tuam Businesses",
+    "Ready to Launch Your Tuam Online Store?"
+  ],
+
+  "faq": [
+    {
+      "question": "How can e-commerce benefit my Tuam business?",
+      "answer": "E-commerce allows you to sell 24/7, reach customers across Ireland and internationally, capture online product searches, reduce dependence on local foot traffic, and significantly grow revenue. Many Tuam businesses see 50-100% revenue increases by launching online stores."
+    },
+    {
+      "question": "What e-commerce platform do you recommend for Tuam businesses?",
+      "answer": "We typically recommend Shopify for most Tuam businesses due to its reliability, ease of use, mobile optimization, comprehensive features, and excellent support. WooCommerce is a good option if you're already using WordPress. We'll recommend the best platform based on your specific products, budget, and technical needs."
+    },
+    {
+      "question": "How long does it take to build and launch an e-commerce store?",
+      "answer": "Most Shopify stores take 4-6 weeks from initial consultation to launch, including strategy, design, development, product setup, payment integration, and testing. More complex stores with custom features may take 8-10 weeks. We can work with accelerated timelines for urgent Tuam launches."
+    },
+    {
+      "question": "Do you provide product photography in Tuam?",
+      "answer": "Yes! We offer professional product photography services. We can photograph products at our studio or your Tuam location. High-quality product photos are essential for e-commerce success and dramatically improve conversion rates and sales."
+    },
+    {
+      "question": "How much should I invest in e-commerce marketing?",
+      "answer": "Most successful Tuam e-commerce businesses invest €2,500-€7,000/month in marketing services plus advertising budget (typically €1,000-€3,000/month to start). Investment depends on your revenue goals, products, competition, and target markets. We create custom strategies for your specific business."
+    },
+    {
+      "question": "Can you help with shipping and international sales?",
+      "answer": "Absolutely! We help you set up shipping options, integrate with carriers (An Post, DPD, etc.), configure international shipping, set up multi-currency support, and create localized checkout experiences. We can help your Tuam business sell across Ireland, EU, or worldwide."
+    },
+    {
+      "question": "What results can I expect from e-commerce?",
+      "answer": "Results vary by industry and competition, but our Tuam e-commerce clients typically see 20-40% increases in conversion rates, 50-100%+ increases in organic traffic within 6-12 months, and 3-5X return on ad spend. We focus on sustainable, profitable growth for long-term success."
+    },
+    {
+      "question": "Do you provide ongoing e-commerce support?",
+      "answer": "Yes! We offer comprehensive ongoing support including store maintenance, product updates, marketing campaign management, conversion optimization, technical support, and strategic guidance. Most Tuam clients work with us on monthly retainers for continuous optimization and growth."
+    }
+  ],
+
+  "keywords": [
+    "e-commerce marketing",
+    "online store development",
+    "Shopify store",
+    "e-commerce SEO",
+    "Google Shopping ads",
+    "online retail",
+    "e-commerce optimization",
+    "online sales",
+    "e-commerce website",
+    "digital commerce"
+  ],
+  "localKeywords": [
+    "e-commerce marketing Tuam",
+    "online store Tuam",
+    "Shopify developer Tuam",
+    "e-commerce North Galway",
+    "web shop Tuam",
+    "e-commerce agency Galway",
+    "online sales Tuam",
+    "e-commerce consultant Ireland",
+    "Shopify expert Tuam",
+    "e-commerce near me"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free E-commerce Consultation",
+  "ctaSecondary": "View E-commerce Success Stories"
+}

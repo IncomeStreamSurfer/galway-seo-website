@@ -1,0 +1,505 @@
+{
+  "schemaVersion": "1.0",
+  "businessName": "Kraft Agency",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "serviceArea": {
+    "mainCity": "Galway",
+    "region": "County Galway",
+    "country": "Ireland"
+  },
+  "totalServices": 10,
+  "lastUpdated": "2025-11-24",
+  "dataSource": "Jina AI research from competitor digital agency websites and industry analysis",
+
+  "services": [
+    {
+      "name": "Web Design & Development",
+      "slug": "web-design-development",
+      "category": "design",
+      "description": "Custom, conversion-focused website design and development that drives revenue growth"
+    },
+    {
+      "name": "Search Engine Optimization (SEO)",
+      "slug": "seo-services",
+      "category": "marketing",
+      "description": "Data-driven SEO strategies to dominate search rankings and increase organic traffic"
+    },
+    {
+      "name": "AI-Powered Marketing Solutions",
+      "slug": "ai-marketing",
+      "category": "ai",
+      "description": "Cutting-edge AI tools and automation to supercharge your marketing performance"
+    },
+    {
+      "name": "Content Marketing & Creation",
+      "slug": "content-marketing",
+      "category": "marketing",
+      "description": "Strategic content that engages your audience and drives conversions"
+    },
+    {
+      "name": "PPC & Google Ads Management",
+      "slug": "ppc-google-ads",
+      "category": "advertising",
+      "description": "ROI-focused paid advertising campaigns that maximize your ad spend"
+    },
+    {
+      "name": "Social Media Marketing",
+      "slug": "social-media-marketing",
+      "category": "marketing",
+      "description": "Build engaged communities and drive brand awareness across social platforms"
+    },
+    {
+      "name": "Brand Identity & Strategy",
+      "slug": "brand-identity",
+      "category": "branding",
+      "description": "Create powerful brand identities that resonate with your target audience"
+    },
+    {
+      "name": "E-commerce Marketing & Development",
+      "slug": "ecommerce-marketing",
+      "category": "ecommerce",
+      "description": "Complete e-commerce solutions to drive online sales and revenue growth"
+    },
+    {
+      "name": "Marketing Automation",
+      "slug": "marketing-automation",
+      "category": "automation",
+      "description": "Streamline marketing workflows and nurture leads with intelligent automation"
+    },
+    {
+      "name": "Video Production & Marketing",
+      "slug": "video-production",
+      "category": "creative",
+      "description": "Engaging video content that captures attention and drives engagement"
+    }
+  ],
+
+  "examples": [
+    {
+      "id": "web-design-development-galway-city",
+      "service": "Web Design & Development",
+      "serviceSlug": "web-design-development",
+      "location": "Galway City",
+      "locationSlug": "galway-city",
+      "serviceNiche": "Full-Service Digital Agency",
+      "businessName": "Kraft Agency",
+
+      "pageTitle": "Web Design Galway - Award-Winning Agency | Kraft Agency",
+      "metaDescription": "Transform your online presence with Kraft Agency's expert web design in Galway. Custom websites that drive conversions and revenue. Free consultation available now!",
+      "heroHeadline": "Award-Winning Web Design in Galway",
+      "heroSubheadline": "Custom Websites That Convert Visitors Into Customers",
+
+      "description": "Looking for exceptional web design in Galway? Kraft Agency delivers custom, conversion-focused websites that don't just look stunning – they drive real business results. As a full-service digital agency based in Galway and Oranmore, we combine cutting-edge design with powerful AI technology to create websites that engage visitors and maximize conversions.\n\nOur web design process is rooted in data and user experience. We don't just build websites; we craft digital experiences that tell your brand story, showcase your unique value proposition, and guide visitors seamlessly toward taking action. Whether you're a startup looking to make a splash or an established business ready to modernize your online presence, our team of expert designers and developers in Galway are ready to bring your vision to life.\n\nEvery website we create is fully responsive, optimized for search engines, and built with the latest web technologies. We specialize in creating fast-loading, accessible websites that perform beautifully on every device. From initial concept to launch and beyond, Kraft Agency is your trusted partner for web design excellence in Galway.",
+
+      "shortDescription": "Expert web design and development in Galway. Custom, conversion-optimized websites built with cutting-edge technology. Free consultation available.",
+
+      "benefits": [
+        "Custom, conversion-focused design that drives revenue",
+        "Fully responsive and mobile-optimized across all devices",
+        "SEO-friendly architecture for better search rankings",
+        "Fast-loading performance for superior user experience",
+        "AI-powered optimization for maximum conversions",
+        "Ongoing support and maintenance included",
+        "Local Galway team with global expertise",
+        "Transparent pricing with no hidden fees"
+      ],
+
+      "process": [
+        {
+          "step": 1,
+          "title": "Discovery & Strategy",
+          "description": "We begin with an in-depth consultation to understand your business goals, target audience, and competitive landscape. This foundation ensures every design decision aligns with your objectives."
+        },
+        {
+          "step": 2,
+          "title": "Design & Prototyping",
+          "description": "Our designers create custom mockups and interactive prototypes, giving you a clear vision of your new website before development begins. We iterate based on your feedback until it's perfect."
+        },
+        {
+          "step": 3,
+          "title": "Development & Integration",
+          "description": "Our development team brings the design to life using modern technologies and best practices. We integrate all necessary tools, from analytics to CRM systems, ensuring everything works seamlessly."
+        },
+        {
+          "step": 4,
+          "title": "Testing & Optimization",
+          "description": "Before launch, we rigorously test your website across devices and browsers, optimizing performance, speed, and user experience to ensure flawless functionality."
+        },
+        {
+          "step": 5,
+          "title": "Launch & Training",
+          "description": "We handle the launch process and provide comprehensive training so you can easily manage your new website. We're here for ongoing support whenever you need us."
+        },
+        {
+          "step": 6,
+          "title": "Ongoing Support",
+          "description": "Your website continues to evolve with your business. We provide ongoing maintenance, updates, and optimization to ensure peak performance and security."
+        }
+      ],
+
+      "pricingInfo": "Website design projects typically start from €2,500 for small business websites up to €15,000+ for complex e-commerce or enterprise solutions. We offer flexible payment plans and transparent pricing with no hidden costs. Contact us for a custom quote based on your specific needs.",
+
+      "serviceArea": "Galway City and surrounding areas including Oranmore, Salthill, and all of County Galway",
+      "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Emergency support available for existing clients.",
+
+      "qualifications": [
+        "Award-winning design team",
+        "Full-stack development expertise",
+        "Google Partner certified",
+        "AI and automation specialists",
+        "15+ years combined experience"
+      ],
+      "yearsExperience": "15+ years combined team experience",
+      "guarantees": [
+        "100% satisfaction guarantee",
+        "Mobile-responsive on all devices",
+        "SEO-optimized from day one",
+        "90-day post-launch support included",
+        "Secure hosting and SSL certificates"
+      ],
+      "emergencyAvailable": false,
+
+      "images": {
+        "heroImage": {
+          "url": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d",
+          "alt": "Modern web design workspace in Galway",
+          "caption": "Professional Web Design Services in Galway"
+        },
+        "gallery": [
+          {
+            "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+            "alt": "Web design analytics dashboard",
+            "caption": "Data-driven design decisions"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1555421689-d68471e189f2",
+            "alt": "Team collaboration on web design",
+            "caption": "Collaborative design process"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1547658719-da2b51169166",
+            "alt": "Responsive web design on multiple devices",
+            "caption": "Mobile-optimized responsive design"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1558655146-d09347e92766",
+            "alt": "Web development coding",
+            "caption": "Custom development solutions"
+          }
+        ]
+      },
+
+      "h2Headings": [
+        "Why Choose Kraft Agency for Web Design in Galway?",
+        "Our Web Design Process: From Concept to Launch",
+        "Custom Website Features That Drive Results",
+        "Web Design Portfolio: Success Stories from Galway Businesses",
+        "Frequently Asked Questions About Web Design",
+        "Ready to Transform Your Online Presence?"
+      ],
+
+      "faq": [
+        {
+          "question": "How long does it take to design and build a website?",
+          "answer": "Most website projects take 4-8 weeks from initial consultation to launch, depending on complexity and features. We provide a detailed timeline during our discovery phase and keep you updated throughout the process."
+        },
+        {
+          "question": "Do you provide ongoing support after the website launches?",
+          "answer": "Yes! All our web design projects include 90 days of post-launch support. We also offer ongoing maintenance packages to keep your website secure, updated, and performing at its best."
+        },
+        {
+          "question": "Will my website be mobile-friendly?",
+          "answer": "Absolutely. Every website we design is fully responsive and optimized for mobile, tablet, and desktop devices. With over 60% of web traffic coming from mobile devices, this is non-negotiable."
+        },
+        {
+          "question": "Can you help with content creation for my website?",
+          "answer": "Yes, we offer professional content writing and creation services. Our team can craft compelling copy, source imagery, and create engaging content that resonates with your target audience and supports your SEO goals."
+        },
+        {
+          "question": "How much does a website cost with Kraft Agency?",
+          "answer": "Website costs vary based on your specific requirements. Small business websites typically start from €2,500, while complex e-commerce or custom applications can range from €8,000-€15,000+. We provide transparent quotes with no hidden fees."
+        },
+        {
+          "question": "Do you offer website hosting and maintenance?",
+          "answer": "Yes, we offer secure, fast website hosting and comprehensive maintenance packages. This includes regular backups, security updates, performance optimization, and technical support."
+        },
+        {
+          "question": "Will my website be optimized for search engines (SEO)?",
+          "answer": "Every website we build includes foundational SEO optimization – from clean code and fast loading speeds to proper meta tags and mobile responsiveness. We can also provide ongoing SEO services for more competitive rankings."
+        },
+        {
+          "question": "Can you redesign my existing website?",
+          "answer": "Absolutely! We specialize in website redesigns that modernize your online presence while preserving what's working well. We'll analyze your current site's performance and create a strategy to improve conversions and user experience."
+        }
+      ],
+
+      "keywords": [
+        "web design",
+        "website development",
+        "web designer",
+        "website builder",
+        "custom website",
+        "responsive design",
+        "e-commerce website",
+        "business website",
+        "website redesign",
+        "web development agency"
+      ],
+      "localKeywords": [
+        "web design Galway",
+        "website design Galway City",
+        "Galway web designer",
+        "web development Galway",
+        "website builder Galway",
+        "Galway digital agency",
+        "web design County Galway",
+        "Galway website company",
+        "Irish web design",
+        "web designer near me"
+      ],
+
+      "ctaPhone": "+353 91 123 456",
+      "ctaText": "Get Your Free Website Consultation",
+      "ctaSecondary": "View Our Portfolio"
+    },
+    {
+      "id": "seo-services-oranmore",
+      "service": "Search Engine Optimization (SEO)",
+      "serviceSlug": "seo-services",
+      "location": "Oranmore",
+      "locationSlug": "oranmore",
+      "serviceNiche": "Full-Service Digital Agency",
+      "businessName": "Kraft Agency",
+
+      "pageTitle": "SEO Oranmore - Dominate Search Rankings | Kraft Agency",
+      "metaDescription": "Rank #1 on Google with Kraft Agency's expert SEO services in Oranmore. Data-driven strategies that drive organic traffic and revenue. Free SEO audit available!",
+      "heroHeadline": "Dominate Search Rankings in Oranmore",
+      "heroSubheadline": "Data-Driven SEO That Delivers Real Results",
+
+      "description": "Want to dominate search rankings in Oranmore and beyond? Kraft Agency's expert SEO services combine technical excellence with strategic content to drive sustainable organic growth. As a leading digital agency based in Oranmore, we understand the local market and know exactly what it takes to outrank your competition on Google.\n\nOur comprehensive SEO approach goes far beyond basic keyword optimization. We conduct in-depth technical audits, competitor analysis, and market research to identify the opportunities that will drive the biggest impact for your business. From local SEO strategies that put you in front of Oranmore customers to national campaigns that expand your reach, we tailor our approach to your specific goals and budget.\n\nWhat sets Kraft Agency apart is our use of AI-powered tools and data analytics to constantly optimize your SEO performance. We don't just set and forget – we continuously monitor, test, and refine our strategies to ensure you're always ahead of the competition and algorithm updates. With transparent reporting and regular strategy sessions, you'll always know exactly how your SEO investment is performing.",
+
+      "shortDescription": "Expert SEO services in Oranmore. Drive organic traffic, dominate search rankings, and grow revenue with data-driven strategies. Free audit available.",
+
+      "benefits": [
+        "Increase organic traffic and qualified leads",
+        "Dominate local search results in Oranmore",
+        "Higher search rankings for revenue-driving keywords",
+        "AI-powered optimization for competitive advantage",
+        "Comprehensive technical and content SEO",
+        "Transparent reporting and regular updates",
+        "Proven track record across 100+ industries",
+        "Ongoing optimization and strategic support"
+      ],
+
+      "process": [
+        {
+          "step": 1,
+          "title": "Comprehensive SEO Audit",
+          "description": "We start with a deep-dive audit of your website's technical SEO, content, backlink profile, and competitive landscape. This reveals opportunities and creates our strategic roadmap."
+        },
+        {
+          "step": 2,
+          "title": "Keyword & Market Research",
+          "description": "Our team identifies high-value keywords your target customers are searching for, analyzing search volume, competition, and commercial intent to prioritize the biggest opportunities."
+        },
+        {
+          "step": 3,
+          "title": "Technical Optimization",
+          "description": "We fix technical issues that hold your site back – from site speed and mobile optimization to crawlability and schema markup. This foundation is critical for SEO success."
+        },
+        {
+          "step": 4,
+          "title": "Content Strategy & Creation",
+          "description": "Our content team creates SEO-optimized content that serves both search engines and your audience. We focus on creating valuable content that ranks and converts."
+        },
+        {
+          "step": 5,
+          "title": "Link Building & Authority",
+          "description": "We build high-quality backlinks from authoritative websites in your industry, strengthening your domain authority and improving rankings for competitive keywords."
+        },
+        {
+          "step": 6,
+          "title": "Monitoring & Continuous Optimization",
+          "description": "SEO is never 'done'. We continuously monitor performance, test new strategies, and optimize based on data to ensure sustained growth in rankings and traffic."
+        }
+      ],
+
+      "pricingInfo": "SEO services typically range from €1,500 per month for local SEO campaigns to €15,000+ per month for enterprise-level national or international campaigns. We customize our approach based on your goals, competition, and budget. Contact us for a free SEO audit and custom proposal.",
+
+      "serviceArea": "Oranmore and surrounding areas including Galway City, Athenry, Clarinbridge, and all of County Galway",
+      "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Dedicated account manager available.",
+
+      "qualifications": [
+        "Google Partner certified",
+        "15+ years SEO expertise",
+        "Technical SEO specialists",
+        "Content marketing experts",
+        "AI and automation certified"
+      ],
+      "yearsExperience": "15+ years combined SEO experience",
+      "guarantees": [
+        "Transparent monthly reporting",
+        "White-hat SEO practices only",
+        "Customized strategy for your business",
+        "Regular strategy calls and updates",
+        "No long-term contracts required"
+      ],
+      "emergencyAvailable": false,
+
+      "images": {
+        "heroImage": {
+          "url": "https://images.unsplash.com/photo-1562577309-4932fdd64cd1",
+          "alt": "SEO analytics and search rankings dashboard",
+          "caption": "Data-Driven SEO Services in Oranmore"
+        },
+        "gallery": [
+          {
+            "url": "https://images.unsplash.com/photo-1553877522-43269d4ea984",
+            "alt": "SEO strategy planning session",
+            "caption": "Strategic SEO planning"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1555421689-d68471e189f2",
+            "alt": "Digital marketing analytics",
+            "caption": "Performance tracking and optimization"
+          },
+          {
+            "url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3",
+            "alt": "Keyword research and analysis",
+            "caption": "Comprehensive keyword research"
+          }
+        ]
+      },
+
+      "h2Headings": [
+        "Why Kraft Agency is Oranmore's Leading SEO Agency",
+        "Our Proven SEO Process: From Audit to Rankings",
+        "Local SEO vs National SEO: Which is Right for You?",
+        "SEO Success Stories: Real Results from Irish Businesses",
+        "Common SEO Questions Answered",
+        "Start Your SEO Journey Today"
+      ],
+
+      "faq": [
+        {
+          "question": "How long does it take to see SEO results?",
+          "answer": "Most clients start seeing improved rankings within 3-6 months, with significant traffic increases by 6-12 months. SEO is a long-term investment, but the sustainable results are worth it. We provide regular progress reports so you can track improvements."
+        },
+        {
+          "question": "What's the difference between local and national SEO?",
+          "answer": "Local SEO focuses on ranking for location-specific searches (like 'plumber Oranmore'), ideal for businesses serving specific areas. National SEO targets broader keywords across the country. We can help you determine the right strategy for your business goals."
+        },
+        {
+          "question": "Do you guarantee first page rankings?",
+          "answer": "While we can't ethically guarantee specific rankings (Google's algorithm changes constantly), we do guarantee our commitment to best practices and continuous optimization. Our track record speaks for itself – most clients achieve first-page rankings for their target keywords."
+        },
+        {
+          "question": "How much does SEO cost?",
+          "answer": "SEO investment varies based on your goals, industry competition, and current website status. Local SEO campaigns typically start from €1,500/month, while competitive national campaigns may be €5,000-€15,000/month. We provide custom quotes after our initial audit."
+        },
+        {
+          "question": "What's included in your SEO services?",
+          "answer": "Our comprehensive SEO includes technical optimization, keyword research, content strategy and creation, on-page optimization, link building, local SEO, competitor analysis, and detailed monthly reporting with strategy calls."
+        },
+        {
+          "question": "Can you help with content creation for SEO?",
+          "answer": "Absolutely! Content is a crucial part of SEO success. Our content team creates SEO-optimized blog posts, landing pages, and website copy that ranks well and converts visitors into customers."
+        },
+        {
+          "question": "How do you measure SEO success?",
+          "answer": "We track multiple metrics including keyword rankings, organic traffic growth, click-through rates, conversion rates, and ultimately revenue impact. You'll receive detailed monthly reports and regular strategy sessions to review performance."
+        },
+        {
+          "question": "Do you only use white-hat SEO techniques?",
+          "answer": "Yes, we exclusively use white-hat, Google-approved SEO techniques. Black-hat tactics might offer short-term gains but risk penalties that can devastate your online presence. We build sustainable, long-term SEO success."
+        }
+      ],
+
+      "keywords": [
+        "SEO services",
+        "search engine optimization",
+        "SEO agency",
+        "SEO expert",
+        "organic search",
+        "Google rankings",
+        "local SEO",
+        "technical SEO",
+        "SEO consultant",
+        "search marketing"
+      ],
+      "localKeywords": [
+        "SEO Oranmore",
+        "SEO services Galway",
+        "SEO agency Ireland",
+        "Oranmore SEO company",
+        "local SEO Oranmore",
+        "SEO consultant Galway",
+        "search engine optimization Ireland",
+        "Galway SEO expert",
+        "Irish SEO services",
+        "SEO near me"
+      ],
+
+      "ctaPhone": "+353 91 123 456",
+      "ctaText": "Get Your Free SEO Audit",
+      "ctaSecondary": "View SEO Case Studies"
+    }
+  ],
+
+  "schemaTemplate": {
+    "id": "string (service-slug-location-slug)",
+    "service": "string",
+    "serviceSlug": "string",
+    "location": "string",
+    "locationSlug": "string",
+    "serviceNiche": "string",
+    "businessName": "string",
+    "pageTitle": "string (50-60 chars, SEO-optimized with location)",
+    "metaDescription": "string (150-160 chars, compelling with CTA)",
+    "heroHeadline": "string",
+    "heroSubheadline": "string",
+    "description": "string (200-400 words, location-specific)",
+    "shortDescription": "string (50-100 words)",
+    "benefits": ["array of 6-8 benefit strings"],
+    "process": [
+      {
+        "step": "number",
+        "title": "string",
+        "description": "string"
+      }
+    ],
+    "pricingInfo": "string (guidance, not exact prices)",
+    "serviceArea": "string (location + surrounding areas)",
+    "availability": "string (hours/days available)",
+    "qualifications": ["array of certification/qualification strings"],
+    "yearsExperience": "string",
+    "guarantees": ["array of guarantee strings"],
+    "emergencyAvailable": "boolean",
+    "images": {
+      "heroImage": {
+        "url": "string (Unsplash URL)",
+        "alt": "string (descriptive alt text)",
+        "caption": "string"
+      },
+      "gallery": [
+        {
+          "url": "string (Unsplash URL)",
+          "alt": "string (descriptive alt text)",
+          "caption": "string"
+        }
+      ]
+    },
+    "h2Headings": ["array of 5-6 H2 heading strings"],
+    "faq": [
+      {
+        "question": "string",
+        "answer": "string"
+      }
+    ],
+    "keywords": ["array of general keyword strings"],
+    "localKeywords": ["array of location-specific keyword strings"],
+    "ctaPhone": "string (phone number)",
+    "ctaText": "string (primary CTA)",
+    "ctaSecondary": "string (secondary CTA option)"
+  }
+}

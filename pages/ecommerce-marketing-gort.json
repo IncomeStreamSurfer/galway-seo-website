@@ -1,0 +1,188 @@
+{
+  "id": "ecommerce-marketing-gort",
+  "service": "E-commerce Marketing & Development",
+  "serviceSlug": "ecommerce-marketing",
+  "location": "Gort",
+  "locationSlug": "gort",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "E-commerce Marketing Gort - Grow Your Online Business | Kraft Agency",
+  "metaDescription": "Explosive e-commerce growth for Gort businesses! Kraft Agency's proven marketing strategies drive online sales and revenue. Free store audit - get yours today!",
+  "heroHeadline": "Grow Your E-commerce Business from Gort to the World",
+  "heroSubheadline": "Proven Marketing Strategies That Transform Online Stores Into Profit Centers",
+
+  "description": "Ready to unlock the full potential of your e-commerce business in Gort? Kraft Agency specializes in helping online retailers across Gort and South Galway build thriving e-commerce operations through strategic marketing, conversion optimization, and AI-powered automation. Whether you're selling local products globally or serving the Gort community with online convenience, we have the expertise to scale your revenue profitably.\n\nOur e-commerce marketing methodology is built on real-world results, not theory. We've helped dozens of Irish e-commerce businesses multiply their online revenue by focusing on three core areas: attracting qualified traffic through multi-channel marketing, converting that traffic through optimized shopping experiences, and retaining customers through sophisticated email marketing and loyalty programs. Every strategy we implement is tracked, measured, and optimized based on actual performance data from your store.\n\nWhat sets Kraft Agency apart for Gort e-commerce businesses is our combination of local expertise and global best practices. We understand the South Galway market while leveraging cutting-edge AI tools, marketing automation platforms, and conversion optimization techniques used by the world's most successful online retailers. From Shopify stores selling to international markets to WooCommerce sites serving local customers in Gort, we deliver customized strategies that drive measurable growth without the complexity or jargon.",
+
+  "shortDescription": "Expert e-commerce marketing in Gort. Grow online sales with data-driven campaigns, AI optimization, and proven conversion strategies. Free consultation.",
+
+  "benefits": [
+    "Significant increase in online revenue and sales volume",
+    "Complete e-commerce store setup and professional optimization",
+    "Strategic multi-channel marketing across all platforms",
+    "AI-powered customer targeting and personalized experiences",
+    "Advanced cart abandonment recovery and email automation",
+    "Conversion-focused product page and checkout optimization",
+    "Clear analytics and ROI reporting you can understand",
+    "Experienced team serving Gort and South Galway businesses"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Store Performance Assessment",
+      "description": "We start by analyzing your current e-commerce performance, examining traffic patterns, conversion rates, customer behavior, and revenue metrics. This assessment identifies immediate opportunities and informs our strategic direction for the Gort market and beyond."
+    },
+    {
+      "step": 2,
+      "title": "Customized Marketing Blueprint",
+      "description": "Based on our assessment, we create a detailed marketing plan tailored to your products, target customers, and growth objectives. This blueprint balances quick-win tactics with strategies for sustainable long-term growth."
+    },
+    {
+      "step": 3,
+      "title": "Technical Foundation & Optimization",
+      "description": "We ensure your e-commerce platform is optimized for performance, mobile experience, and conversions. This includes site speed improvements, checkout streamlining, trust signal integration, and implementation of essential marketing technologies."
+    },
+    {
+      "step": 4,
+      "title": "Multi-Channel Campaign Deployment",
+      "description": "We execute coordinated marketing campaigns across search engines, social media, email, and display advertising. Each channel is carefully managed to drive qualified traffic and nurture prospects toward purchase."
+    },
+    {
+      "step": 5,
+      "title": "AI-Enhanced Personalization & Testing",
+      "description": "Using machine learning and continuous experimentation, we personalize the shopping experience for each customer segment and optimize every element of your sales funnel for maximum conversions and revenue."
+    },
+    {
+      "step": 6,
+      "title": "Performance Monitoring & Growth Scaling",
+      "description": "We provide detailed monthly reporting on all key metrics and hold regular strategy sessions. As successful campaigns prove their value, we scale investment strategically to accelerate your growth trajectory."
+    }
+  ],
+
+  "pricingInfo": "Our e-commerce marketing services range from €2,000 per month for targeted campaigns and optimization to €12,000+ per month for comprehensive growth programs with full-service management and advanced automation. Pricing is customized based on your store's current revenue, product complexity, competitive landscape, and growth goals. We offer transparent pricing with flexible terms and no hidden fees. Contact us for a complimentary store audit and tailored proposal.",
+
+  "serviceArea": "Gort and surrounding areas including Loughrea, Kinvara, Ardrahan, Kilcolgan, and all of South County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Priority support for established e-commerce clients.",
+
+  "qualifications": [
+    "Shopify Partner and Expert certified",
+    "Google Partner with Shopping ads specialty",
+    "Meta Business Partner for e-commerce",
+    "Certified in WooCommerce and Magento platforms",
+    "AI and marketing automation specialists",
+    "15+ years combined e-commerce marketing experience"
+  ],
+  "yearsExperience": "15+ years combined e-commerce expertise",
+  "guarantees": [
+    "Complete transparency with detailed performance reporting",
+    "Data-driven decisions backed by real analytics",
+    "Flexible engagement with no long-term lock-in",
+    "Responsive communication and dedicated support",
+    "100% focus on growing your online revenue"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "E-commerce business growth and online store management in Gort",
+      "caption": "Professional E-commerce Marketing Services in Gort"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1664455340023-214c33a9d0bd?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Shopping cart representing e-commerce sales growth",
+        "caption": "Drive consistent e-commerce revenue growth"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "E-commerce analytics and performance metrics",
+        "caption": "Data-driven e-commerce optimization"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1556742111-a301076d9d18?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional e-commerce store design and development",
+        "caption": "Beautiful, conversion-focused store design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Mobile e-commerce shopping experience",
+        "caption": "Optimized for mobile shoppers"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Gort E-commerce Businesses Choose Kraft Agency",
+    "Our Proven E-commerce Growth Process",
+    "E-commerce Marketing Services We Provide",
+    "Success Stories from South Galway Online Retailers",
+    "Common E-commerce Marketing Questions for Gort Businesses",
+    "Start Growing Your Online Store Today"
+  ],
+
+  "faq": [
+    {
+      "question": "What's the first step to growing my e-commerce business?",
+      "answer": "The first step is understanding where you are now. We conduct a comprehensive audit of your store to identify quick wins and strategic opportunities. This includes analyzing your traffic sources, conversion funnel, product performance, and competitive position. From there, we build a customized growth plan."
+    },
+    {
+      "question": "How long before I see return on my e-commerce marketing investment?",
+      "answer": "Most clients see positive ROI within 60-90 days. Quick wins like cart recovery emails and conversion optimization can show results within weeks. Building sustainable growth through SEO and content marketing takes 3-6 months. We focus on both short-term wins and long-term growth."
+    },
+    {
+      "question": "Can you help me sell internationally from Gort?",
+      "answer": "Absolutely! We specialize in helping Irish businesses reach international markets. This includes multi-currency setup, international shipping optimization, global advertising campaigns, and market-specific strategies. Many of our Gort clients successfully sell throughout Europe, the UK, and North America."
+    },
+    {
+      "question": "What if my products are seasonal?",
+      "answer": "We excel at seasonal e-commerce marketing. We'll create campaigns that maximize your peak season while maintaining visibility year-round. We also implement strategies to extend your selling season, build your email list during off-peak times, and prepare for seasonal surges."
+    },
+    {
+      "question": "Do you work with specific e-commerce platforms?",
+      "answer": "We work with all major platforms including Shopify, WooCommerce, Magento, BigCommerce, and custom solutions. We're platform-agnostic and will recommend the best solution for your specific needs, or optimize whichever platform you're currently using."
+    },
+    {
+      "question": "How do you approach product pricing and positioning?",
+      "answer": "We analyze your market, competition, and customer perception to recommend optimal pricing strategies. This includes competitive analysis, A/B testing different price points, bundling strategies, and promotional tactics that maximize revenue without devaluing your brand."
+    },
+    {
+      "question": "Can you help with product launches?",
+      "answer": "Yes! We create comprehensive launch campaigns that build anticipation, drive initial sales, and gather early reviews. This includes pre-launch email sequences, social media buzz creation, influencer outreach, and coordinated advertising to ensure a successful product launch."
+    },
+    {
+      "question": "What makes Kraft Agency different from other e-commerce agencies?",
+      "answer": "We combine local service from our Galway-based team with world-class e-commerce expertise and AI-powered tools. We're not just marketers – we understand e-commerce operations, platforms, and the unique challenges of running an online business. Every strategy we recommend is focused on profitable growth, not vanity metrics."
+    }
+  ],
+
+  "keywords": [
+    "e-commerce marketing",
+    "online store growth",
+    "e-commerce SEO",
+    "Shopify marketing",
+    "online business development",
+    "conversion optimization",
+    "e-commerce advertising",
+    "digital retail marketing",
+    "online sales strategy",
+    "e-commerce automation"
+  ],
+  "localKeywords": [
+    "e-commerce marketing Gort",
+    "online store South Galway",
+    "e-commerce agency Ireland",
+    "Shopify expert Gort",
+    "e-commerce consultant Galway",
+    "online business Gort",
+    "digital store South Galway",
+    "e-commerce development Ireland",
+    "online sales Gort",
+    "e-commerce services near me"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Get Your Free E-commerce Consultation",
+  "ctaSecondary": "Download Our E-commerce Growth Guide"
+}

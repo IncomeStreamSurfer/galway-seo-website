@@ -1,0 +1,187 @@
+{
+  "id": "seo-services-roundstone",
+  "service": "Search Engine Optimization (SEO)",
+  "serviceSlug": "seo-services",
+  "location": "Roundstone",
+  "locationSlug": "roundstone",
+  "serviceNiche": "Full-Service Digital Agency",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "SEO Roundstone - Attract More Customers | Expert SEO",
+  "metaDescription": "Grow your Roundstone business with expert SEO from Kraft Agency. Dominate local search, increase traffic, and attract more tourists and customers. Free consultation!",
+  "heroHeadline": "Expert SEO for Roundstone Businesses",
+  "heroSubheadline": "Attract More Visitors & Customers Through Google Search",
+
+  "description": "Want to attract more visitors and customers to your Roundstone business? Kraft Agency delivers specialized SEO services designed for businesses in Roundstone and throughout Connemara's scenic coastline. Our proven strategies help tourism businesses, shops, restaurants, and service providers dominate local search results and attract customers who are actively searching for experiences and services in Roundstone and the Wild Atlantic Way.\n\nWith over 15 years of experience serving businesses across County Galway including the tourism-rich areas of Connemara, we understand what it takes to succeed in this competitive market. Our SEO specialists conduct in-depth research into tourism search patterns, local competition, and seasonal trends to develop customized strategies that maximize your visibility during peak seasons while maintaining strong year-round performance. From Google Maps optimization to content that showcases the beauty of Roundstone, we cover every aspect of SEO.\n\nKraft Agency combines proven SEO best practices with innovative AI technology to deliver superior results for Roundstone businesses. We provide complete transparency through detailed monthly reporting, regular strategy consultations, and dedicated support. Our goal isn't just to improve your rankings - we help you capture the attention of travelers planning their Connemara adventures and convert that attention into bookings, visits, and revenue for your Roundstone business.",
+
+  "shortDescription": "Professional SEO services for Roundstone. Attract tourists and locals, dominate search results, and grow your business.",
+
+  "benefits": [
+    "Dominate search results for Roundstone and Connemara",
+    "Attract tourists planning Wild Atlantic Way trips",
+    "Capture local customer searches year-round",
+    "AI-powered seasonal optimization strategies",
+    "Complete technical and tourism content SEO",
+    "Track bookings and ROI with transparent reporting",
+    "Proven success with Connemara tourism businesses",
+    "Dedicated support with flexible service"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Tourism SEO Audit & Analysis",
+      "description": "We conduct a comprehensive audit of your website's SEO performance, focusing on tourism-specific factors, seasonal trends, and competitive positioning in Roundstone. This analysis reveals opportunities to capture tourist and local searches."
+    },
+    {
+      "step": 2,
+      "title": "Tourism Keyword Research",
+      "description": "Our team identifies high-value keywords that travelers and locals use when searching for services in Roundstone. We analyze tourism search patterns, Wild Atlantic Way queries, and local intent searches to maximize your visibility."
+    },
+    {
+      "step": 3,
+      "title": "Technical & Mobile Optimization",
+      "description": "We optimize your website for mobile devices (critical for travelers), improve loading speed, enhance site structure, implement local business schema, and ensure excellent user experience for visitors researching Roundstone."
+    },
+    {
+      "step": 4,
+      "title": "Tourism Content Creation",
+      "description": "Our content specialists create compelling, SEO-optimized content about Roundstone, Connemara attractions, your business offerings, and local experiences. We develop content that ranks well and inspires visitors to choose your business."
+    },
+    {
+      "step": 5,
+      "title": "Authority Building & Local Citations",
+      "description": "We build high-quality backlinks from Irish tourism websites, travel blogs, local directories, and industry sources. We also optimize your presence on TripAdvisor, Google Maps, and other platforms tourists use."
+    },
+    {
+      "step": 6,
+      "title": "Seasonal Optimization & Monitoring",
+      "description": "We continuously monitor and optimize your SEO performance, adjusting strategies for seasonal trends, updating content for events, and ensuring maximum visibility during peak tourist seasons in Roundstone."
+    }
+  ],
+
+  "pricingInfo": "SEO services for Roundstone tourism businesses start from €1,200 per month for local campaigns targeting Connemara and Wild Atlantic Way searches, ranging to €5,000+ for competitive national tourism campaigns. Investment depends on your business type, competition, and goals. We offer free audits and customized proposals.",
+
+  "serviceArea": "Roundstone and surrounding areas including Clifden, Ballyconneely, Cashel, Letterfrack, and throughout Connemara and County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Dedicated account management for all tourism clients.",
+
+  "qualifications": [
+    "Google Partner certified agency",
+    "15+ years SEO expertise",
+    "Tourism marketing specialists",
+    "Local business SEO experts",
+    "Content creation for Irish tourism"
+  ],
+  "yearsExperience": "15+ years combined experience",
+  "guarantees": [
+    "Detailed monthly performance reports",
+    "Ethical white-hat SEO methods only",
+    "Custom tourism-focused strategy",
+    "Seasonal optimization included",
+    "Flexible month-to-month service"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1709281847980-2b34c28853c0?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "SEO services for tourism businesses in Roundstone",
+      "caption": "Expert SEO for Roundstone Businesses"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1674027326476-3ea3cbf7b9be?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "SEO optimization tools and analytics",
+        "caption": "Advanced SEO tools for tourism success"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Digital marketing analytics dashboard",
+        "caption": "Track tourist inquiries and bookings"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1477013743164-ffc3a5e556da?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Mobile phone showing Google search results",
+        "caption": "Capture mobile searches from travelers"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "SEO performance monitoring",
+        "caption": "Real-time SEO performance tracking"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Roundstone Tourism Businesses Choose Kraft Agency",
+    "Our Tourism-Focused SEO Process",
+    "Seasonal SEO Strategies for Roundstone Businesses",
+    "Success Stories from Connemara Tourism Clients",
+    "Common SEO Questions from Roundstone Business Owners",
+    "Ready to Attract More Visitors to Roundstone?"
+  ],
+
+  "faq": [
+    {
+      "question": "How can SEO help my Roundstone tourism business?",
+      "answer": "SEO helps your business appear when travelers search for Roundstone accommodations, activities, restaurants, and attractions. By optimizing for keywords like 'hotels in Roundstone', 'things to do Connemara', or 'Wild Atlantic Way stops', you'll attract more tourists during their trip planning phase. Good SEO drives bookings, not just traffic."
+    },
+    {
+      "question": "How long until I see results from SEO?",
+      "answer": "Most Roundstone tourism businesses start seeing improved rankings within 3-6 months, with substantial traffic increases by the following tourist season. SEO builds momentum over time. We recommend starting SEO before peak season to maximize visibility when tourist searches spike. Monthly reports track your progress."
+    },
+    {
+      "question": "Can you optimize for seasonal tourism searches?",
+      "answer": "Absolutely! We specialize in seasonal SEO for tourism businesses. We optimize your content calendar around peak seasons, create targeted landing pages for summer activities, and adjust strategies based on search trends. This ensures maximum visibility when tourists are planning Connemara trips."
+    },
+    {
+      "question": "What does tourism SEO cost for Roundstone?",
+      "answer": "SEO investment for Roundstone tourism businesses typically starts at €1,200 per month for local campaigns targeting Connemara visitors. More competitive campaigns for national or international tourist searches may be €2,500-€5,000+ monthly. We provide free audits and custom proposals."
+    },
+    {
+      "question": "What's included in your tourism SEO service?",
+      "answer": "Our tourism SEO includes website audits, keyword research (tourism-focused), technical optimization, content creation about Roundstone and Connemara, on-page SEO, link building from travel sites, Google My Business optimization, TripAdvisor integration, monthly reports, and seasonal strategy consultations."
+    },
+    {
+      "question": "Can you create content about Roundstone attractions?",
+      "answer": "Yes! Our content team creates engaging, SEO-optimized content about Roundstone, Connemara attractions, the Wild Atlantic Way, local activities, and your business offerings. This content ranks well on Google and helps convert travelers into customers."
+    },
+    {
+      "question": "How do you track tourism SEO performance?",
+      "answer": "We track keyword rankings for tourism terms, organic traffic volume, geographic source of visitors, booking inquiries, conversion rates, and seasonal performance patterns. You receive detailed monthly reports showing how SEO translates into tourist inquiries and bookings."
+    },
+    {
+      "question": "Are your SEO methods safe for tourism websites?",
+      "answer": "Absolutely. We use only white-hat SEO techniques that comply with Google's guidelines and tourism industry standards. We never use spam or risky tactics. Our focus is building sustainable, penalty-free SEO success that protects your Roundstone business's online reputation."
+    }
+  ],
+
+  "keywords": [
+    "tourism SEO",
+    "SEO services",
+    "search engine optimization",
+    "local SEO",
+    "travel SEO",
+    "Google rankings",
+    "organic search",
+    "destination marketing",
+    "hospitality SEO",
+    "Wild Atlantic Way SEO"
+  ],
+  "localKeywords": [
+    "SEO Roundstone",
+    "SEO services Roundstone",
+    "Roundstone tourism SEO",
+    "SEO Connemara",
+    "Wild Atlantic Way SEO",
+    "tourism marketing Roundstone",
+    "SEO expert Galway",
+    "Roundstone business marketing",
+    "Google rankings Roundstone",
+    "SEO near me"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Get Your Free Tourism SEO Audit",
+  "ctaSecondary": "See Tourism Success Stories"
+}

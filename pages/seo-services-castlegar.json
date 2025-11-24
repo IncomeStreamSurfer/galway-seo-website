@@ -1,0 +1,187 @@
+{
+  "id": "seo-services-castlegar",
+  "service": "Search Engine Optimization (SEO)",
+  "serviceSlug": "seo-services",
+  "location": "Castlegar",
+  "locationSlug": "castlegar",
+  "serviceNiche": "Full-Service Digital Agency",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "SEO Castlegar - Rank Higher on Google | Kraft Agency",
+  "metaDescription": "Grow your Castlegar business with expert SEO services from Kraft Agency. More visibility, more traffic, more customers. Get your free SEO consultation today!",
+  "heroHeadline": "Dominate Google Search in Castlegar",
+  "heroSubheadline": "Expert SEO Services That Drive Traffic, Leads & Revenue",
+
+  "description": "Want your Castlegar business to appear at the top of Google search results? Kraft Agency specializes in delivering high-impact SEO strategies that help local businesses dominate search rankings and attract more customers. Our proven approach combines technical excellence, strategic content development, and local SEO expertise to put your business in front of customers actively searching for your services in Castlegar and throughout County Galway.\n\nWith over 15 years of experience serving businesses in Castlegar and the wider Galway region, we understand the local market dynamics and what it takes to succeed online. Our SEO team conducts thorough competitive research, identifies high-value opportunities, and implements customized strategies designed to deliver sustainable growth. Whether you're a retail business, professional service provider, or B2B company in Castlegar, we tailor our SEO services to match your specific goals and budget.\n\nWhat makes Kraft Agency the preferred SEO partner for Castlegar businesses? We combine time-tested SEO methodologies with innovative AI-powered tools to maximize results. Our transparent approach includes comprehensive monthly reporting, regular strategy consultations, and dedicated account management, ensuring you always know how your SEO investment is performing and driving business growth.",
+
+  "shortDescription": "Professional SEO services in Castlegar. Improve search rankings, increase website traffic, and generate more leads with expert strategies.",
+
+  "benefits": [
+    "Dominate local search results in Castlegar and Galway",
+    "Increase qualified organic traffic to your website",
+    "Generate more leads and sales through SEO",
+    "Advanced AI tools for competitive advantage",
+    "Complete SEO service - technical and content",
+    "Clear reporting with measurable ROI",
+    "Proven success across multiple industries",
+    "Dedicated support with no long-term contracts"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "SEO Audit & Opportunity Assessment",
+      "description": "We start with a comprehensive analysis of your website's current SEO performance, technical health, content quality, and competitive positioning in Castlegar. This audit identifies immediate opportunities and long-term strategy."
+    },
+    {
+      "step": 2,
+      "title": "Target Keyword Research",
+      "description": "Our team conducts extensive keyword research to identify the most valuable search terms for your Castlegar business. We focus on keywords with strong commercial intent that drive actual customers, not just traffic."
+    },
+    {
+      "step": 3,
+      "title": "Technical SEO Implementation",
+      "description": "We optimize all technical aspects of your website including page speed, mobile optimization, site structure, crawlability, schema markup, and core web vitals to ensure Google can properly index and rank your pages."
+    },
+    {
+      "step": 4,
+      "title": "Content Development & Optimization",
+      "description": "Our content specialists create high-quality, SEO-optimized content that resonates with your Castlegar audience while meeting Google's quality standards. We focus on content that educates, engages, and converts."
+    },
+    {
+      "step": 5,
+      "title": "Link Building & Authority Growth",
+      "description": "We develop authoritative backlinks from quality Irish and international sources relevant to your industry, building trust signals that improve your rankings for competitive keywords."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Monitoring & Optimization",
+      "description": "SEO is never 'set and forget'. We continuously monitor rankings, traffic, and conversions, making data-driven optimizations to maximize results and adapt to algorithm changes and market evolution."
+    }
+  ],
+
+  "pricingInfo": "SEO services for Castlegar businesses start from €1,200 per month for focused local campaigns to €5,000+ monthly for competitive regional or national campaigns. Pricing depends on your industry, competition level, current website status, and growth goals. Contact us for a free SEO audit and personalized proposal.",
+
+  "serviceArea": "Castlegar and surrounding areas including Galway City, Oranmore, Doughiska, Carnmore, and throughout County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. All clients receive dedicated account management.",
+
+  "qualifications": [
+    "Google Partner certified",
+    "15+ years SEO experience in Ireland",
+    "Technical SEO specialists",
+    "Expert content creators",
+    "AI and automation certified"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "Transparent monthly reporting",
+    "Ethical white-hat SEO only",
+    "Custom strategy for your business",
+    "Regular performance reviews",
+    "Flexible month-to-month service"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1686061594225-3e92c0cd51b0?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "SEO analytics and optimization for Castlegar businesses",
+      "caption": "Professional SEO Services in Castlegar"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1637606346315-d23ed32a6cfc?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "SEO strategy and keyword research",
+        "caption": "Strategic approach to SEO success"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1674027001834-719c347d1eca?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Digital marketing growth and SEO results",
+        "caption": "Accelerate your business growth"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1726066012699-1c843dad5fd8?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional SEO specialist at work",
+        "caption": "Expert team managing your SEO"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1686061593213-98dad7c599b9?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "SEO performance dashboard and analytics",
+        "caption": "Track your success with detailed reporting"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Castlegar Businesses Trust Kraft Agency for SEO",
+    "Our Proven SEO Methodology",
+    "Choosing the Right SEO Strategy for Castlegar",
+    "Real Results: SEO Success Stories from Galway",
+    "Frequently Asked Questions About SEO",
+    "Start Your SEO Journey in Castlegar Today"
+  ],
+
+  "faq": [
+    {
+      "question": "How long will it take to see SEO results for my Castlegar business?",
+      "answer": "Most businesses in Castlegar begin seeing ranking improvements within 3-6 months, with significant traffic growth typically occurring by 6-12 months. SEO builds sustainable, long-term value rather than quick temporary gains. We provide monthly updates showing your progress including ranking improvements, traffic growth, and lead generation metrics."
+    },
+    {
+      "question": "What's the difference between local and national SEO?",
+      "answer": "Local SEO targets location-specific searches like 'services in Castlegar' or 'near me' queries, focusing on Google Maps and local pack rankings. National SEO targets broader keywords across Ireland. For most Castlegar businesses serving the local area, we recommend local SEO. We'll analyze your business model and recommend the optimal approach."
+    },
+    {
+      "question": "Do you guarantee first page rankings?",
+      "answer": "We can't ethically guarantee specific rankings as Google's algorithm constantly evolves. However, we guarantee our dedication to proven strategies, transparent reporting, and continuous optimization. Our track record demonstrates that most Castlegar clients achieve first-page rankings for their target keywords within their first year of service."
+    },
+    {
+      "question": "What does SEO cost for a Castlegar business?",
+      "answer": "SEO investment varies based on your competition, goals, and current website condition. Local campaigns for Castlegar businesses typically start at €1,200 per month. More competitive regional or national campaigns may range from €2,500-€5,000 monthly. We provide a free audit and customized quote after analyzing your specific situation."
+    },
+    {
+      "question": "What services are included in your SEO packages?",
+      "answer": "Our comprehensive SEO service includes website audits, keyword research and planning, technical optimization, content strategy and creation, on-page SEO, strategic link building, local SEO management, competitor analysis, detailed monthly reporting, and regular strategy consultations with your dedicated account manager."
+    },
+    {
+      "question": "Can you create content for my Castlegar business website?",
+      "answer": "Absolutely! Content creation is a core component of our SEO service. Our experienced content writers produce SEO-optimized blog posts, service pages, landing pages, and other content that ranks well on Google while engaging your Castlegar audience and driving conversions."
+    },
+    {
+      "question": "How do you measure SEO performance?",
+      "answer": "We track comprehensive metrics including keyword rankings on Google, organic traffic volume, user engagement, bounce rates, conversion rates, lead generation, and revenue impact where possible. You receive detailed monthly reports plus regular strategy calls to review performance and discuss optimization opportunities."
+    },
+    {
+      "question": "Are your SEO techniques safe and ethical?",
+      "answer": "Yes, absolutely. We exclusively use white-hat SEO techniques that fully comply with Google's guidelines. We never use spam, link schemes, keyword stuffing, or other risky tactics that could result in penalties. Our focus is building sustainable, penalty-free SEO success for your Castlegar business."
+    }
+  ],
+
+  "keywords": [
+    "SEO services",
+    "search engine optimization",
+    "SEO agency",
+    "SEO expert",
+    "organic search",
+    "Google rankings",
+    "local SEO",
+    "technical SEO",
+    "SEO consultant",
+    "digital marketing"
+  ],
+  "localKeywords": [
+    "SEO Castlegar",
+    "SEO services Castlegar",
+    "Castlegar SEO agency",
+    "SEO company Galway",
+    "local SEO Castlegar",
+    "SEO expert Galway",
+    "search optimization Castlegar",
+    "Castlegar digital marketing",
+    "Google rankings Castlegar",
+    "SEO near me"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Get Your Free SEO Audit Now",
+  "ctaSecondary": "View Our Results"
+}

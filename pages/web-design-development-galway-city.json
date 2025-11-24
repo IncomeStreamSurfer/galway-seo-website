@@ -1,0 +1,188 @@
+{
+  "id": "web-design-development-galway-city",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Galway City",
+  "locationSlug": "galway-city",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Galway City - Award-Winning Agency | Kraft Agency",
+  "metaDescription": "Transform your Galway City business online with Kraft Agency's expert web design. Custom, conversion-focused websites that drive results. Call +353 86 153 0832 today!",
+  "heroHeadline": "Award-Winning Web Design in Galway City",
+  "heroSubheadline": "Custom Websites That Convert Visitors Into Customers",
+
+  "description": "Looking for exceptional web design in Galway City? Kraft Agency delivers custom, conversion-focused websites that don't just look stunning – they drive real business results for companies across Galway City and beyond. As a full-service digital agency with deep roots in Galway, we combine cutting-edge design with powerful AI technology to create websites that engage visitors and maximize conversions.\n\nOur web design process is rooted in data and user experience. We don't just build websites; we craft digital experiences that tell your Galway City brand story, showcase your unique value proposition, and guide visitors seamlessly toward taking action. Whether you're a Galway City startup looking to make a splash or an established business ready to modernize your online presence, our team of expert designers and developers are ready to bring your vision to life.\n\nEvery website we create is fully responsive, optimized for search engines, and built with the latest web technologies. We specialize in creating fast-loading, accessible websites that perform beautifully on every device. From initial concept to launch and beyond, Kraft Agency is your trusted partner for web design excellence in Galway City.",
+
+  "shortDescription": "Expert web design and development in Galway City. Custom, conversion-optimized websites built with cutting-edge technology. Call Kraft Agency today at +353 86 153 0832.",
+
+  "benefits": [
+    "Custom, conversion-focused design that drives revenue for Galway City businesses",
+    "Fully responsive and mobile-optimized across all devices",
+    "SEO-friendly architecture for better search rankings in Galway",
+    "Fast-loading performance for superior user experience",
+    "AI-powered optimization for maximum conversions",
+    "Ongoing support and maintenance included",
+    "Local Galway City team with global expertise",
+    "Transparent pricing with no hidden fees"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Strategy",
+      "description": "We begin with an in-depth consultation to understand your Galway City business goals, target audience, and competitive landscape. This foundation ensures every design decision aligns with your objectives."
+    },
+    {
+      "step": 2,
+      "title": "Design & Prototyping",
+      "description": "Our designers create custom mockups and interactive prototypes, giving you a clear vision of your new website before development begins. We iterate based on your feedback until it's perfect."
+    },
+    {
+      "step": 3,
+      "title": "Development & Integration",
+      "description": "Our development team brings the design to life using modern technologies and best practices. We integrate all necessary tools, from analytics to CRM systems, ensuring everything works seamlessly."
+    },
+    {
+      "step": 4,
+      "title": "Testing & Optimization",
+      "description": "Before launch, we rigorously test your website across devices and browsers, optimizing performance, speed, and user experience to ensure flawless functionality for your Galway City customers."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Training",
+      "description": "We handle the launch process and provide comprehensive training so you can easily manage your new website. We're here for ongoing support whenever you need us."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Support",
+      "description": "Your website continues to evolve with your Galway City business. We provide ongoing maintenance, updates, and optimization to ensure peak performance and security."
+    }
+  ],
+
+  "pricingInfo": "Website design projects typically start from €2,500 for small business websites up to €15,000+ for complex e-commerce or enterprise solutions. We offer flexible payment plans and transparent pricing with no hidden costs. Contact Kraft Agency for a custom quote based on your specific needs.",
+
+  "serviceArea": "Galway City and surrounding areas including Salthill, Knocknacarra, Oranmore, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Email us anytime at hello@kraftagency.ie",
+
+  "qualifications": [
+    "Award-winning design team",
+    "Full-stack development expertise",
+    "AI and automation specialists",
+    "15+ years combined experience",
+    "Serving Galway City businesses since 2010"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive on all devices",
+    "SEO-optimized from day one",
+    "90-day post-launch support included",
+    "Secure hosting and SSL certificates"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1603985585179-3d71c35a537c?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "Modern web design workspace in Galway City",
+      "caption": "Professional Web Design Services in Galway City"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1627599936744-51d288f89af4?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Team collaboration on web design project",
+        "caption": "Collaborative design process in Galway City"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Web development coding on screen",
+        "caption": "Custom development solutions"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1688733720228-4f7a18681c4f?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Responsive web design on multiple devices",
+        "caption": "Mobile-optimized responsive design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1707836868495-3307d371aba4?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Website design mockup on devices",
+        "caption": "Professional website mockups and prototypes"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Choose Kraft Agency for Web Design in Galway City?",
+    "Our Web Design Process: From Concept to Launch",
+    "Custom Website Features That Drive Results",
+    "Web Design Success Stories from Galway City Businesses",
+    "Frequently Asked Questions About Web Design",
+    "Ready to Transform Your Galway City Business Online?"
+  ],
+
+  "faq": [
+    {
+      "question": "How long does it take to design and build a website in Galway City?",
+      "answer": "Most website projects take 4-8 weeks from initial consultation to launch, depending on complexity and features. We provide a detailed timeline during our discovery phase and keep you updated throughout the process. Rush projects can be accommodated for Galway City businesses with urgent needs."
+    },
+    {
+      "question": "Do you provide ongoing support after the website launches?",
+      "answer": "Absolutely! All our web design projects include 90 days of post-launch support. We also offer ongoing maintenance packages to keep your Galway City website secure, updated, and performing at its best."
+    },
+    {
+      "question": "Will my website be mobile-friendly?",
+      "answer": "Yes, every website we design is fully responsive and optimized for mobile, tablet, and desktop devices. With over 60% of web traffic coming from mobile devices, this is non-negotiable for Galway City businesses."
+    },
+    {
+      "question": "Can you help with content creation for my Galway City website?",
+      "answer": "Yes, we offer professional content writing and creation services. Our team can craft compelling copy, source imagery, and create engaging content that resonates with your Galway City target audience and supports your SEO goals."
+    },
+    {
+      "question": "How much does a website cost with Kraft Agency?",
+      "answer": "Website costs vary based on your specific requirements. Small business websites typically start from €2,500, while complex e-commerce or custom applications can range from €8,000-€15,000+. We provide transparent quotes with no hidden fees for all Galway City projects."
+    },
+    {
+      "question": "Do you offer website hosting and maintenance?",
+      "answer": "Yes, we offer secure, fast website hosting and comprehensive maintenance packages. This includes regular backups, security updates, performance optimization, and technical support for your Galway City business."
+    },
+    {
+      "question": "Will my website be optimized for search engines (SEO)?",
+      "answer": "Every website we build includes foundational SEO optimization – from clean code and fast loading speeds to proper meta tags and mobile responsiveness. We can also provide ongoing SEO services for more competitive rankings in Galway City and beyond."
+    },
+    {
+      "question": "Can you redesign my existing Galway City website?",
+      "answer": "Absolutely! We specialize in website redesigns that modernize your online presence while preserving what's working well. We'll analyze your current site's performance and create a strategy to improve conversions and user experience for your Galway City customers."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "web designer",
+    "website builder",
+    "custom website",
+    "responsive design",
+    "e-commerce website",
+    "business website",
+    "website redesign",
+    "web development agency"
+  ],
+  "localKeywords": [
+    "web design Galway City",
+    "website design Galway",
+    "Galway City web designer",
+    "web development Galway City",
+    "website builder Galway",
+    "Galway digital agency",
+    "web design County Galway",
+    "Galway City website company",
+    "Irish web design",
+    "web designer near me Galway"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "View Our Portfolio"
+}

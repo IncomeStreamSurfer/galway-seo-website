@@ -1,0 +1,209 @@
+{
+  "id": "ecommerce-marketing-salthill",
+  "service": "E-commerce Marketing & Development",
+  "serviceSlug": "ecommerce-marketing",
+  "location": "Salthill",
+  "locationSlug": "salthill",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "E-commerce Marketing Salthill - Boost Online Revenue | Kraft Agency",
+  "metaDescription": "Transform your Salthill business with e-commerce marketing from Kraft Agency. Expert store development, advertising, and optimization. Free e-commerce audit!",
+
+  "heroHeadline": "Boost Your Salthill Business with E-commerce Marketing",
+  "heroSubheadline": "Turn Your Salthill Shop Into a Thriving Online Business",
+
+  "description": "Ready to take your Salthill business online and reach customers beyond the promenade? Kraft Agency delivers complete e-commerce marketing and development solutions tailored for Salthill businesses. Whether you're a boutique retailer, hospitality business, or service provider looking to sell products online, we have the expertise to build and grow your online store. From stunning Shopify development to strategic advertising campaigns, we handle everything needed to drive online revenue growth.\n\nOur e-commerce approach is designed for Salthill businesses looking to maximize both local and tourist markets. We build beautiful, mobile-optimized online stores that work seamlessly on any device – crucial for capturing tourist sales. Then we drive qualified traffic through multiple channels: Google Shopping ads to capture purchase-intent customers, Facebook and Instagram advertising to build brand awareness, SEO to rank for product searches, and email marketing to turn one-time buyers into loyal customers. Every element is optimized using AI-powered tools to maximize your return on investment.\n\nWhat makes Kraft Agency perfect for Salthill e-commerce businesses is our understanding of the local market dynamics. We know how to balance serving local Galway customers with attracting tourists and international buyers. We help you manage seasonal fluctuations, optimize for mobile shoppers, and create e-commerce experiences that reflect Salthill's vibrant character while driving serious revenue growth year-round.",
+
+  "shortDescription": "Complete e-commerce solutions for Salthill businesses. Professional store development, multi-channel marketing, and conversion optimization.",
+
+  "benefits": [
+    "E-commerce stores optimized for tourist and local markets",
+    "Mobile-first design perfect for on-the-go shoppers",
+    "Multi-channel marketing across Google, social media, email",
+    "AI-powered conversion optimization for higher sales",
+    "Seasonal campaign strategies for Salthill businesses",
+    "Payment solutions for international customers",
+    "Comprehensive analytics and revenue tracking",
+    "Ongoing support from local Galway team"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "E-commerce Discovery & Planning",
+      "description": "We analyze your Salthill business, products, target customers (locals, tourists, online), and competitive landscape. We develop a customized e-commerce strategy that accounts for seasonal patterns and market opportunities."
+    },
+    {
+      "step": 2,
+      "title": "Online Store Development",
+      "description": "We build your e-commerce store on Shopify or WooCommerce with mobile-optimized design, fast loading speeds, intuitive navigation, secure payment processing, and conversion-focused product pages that sell."
+    },
+    {
+      "step": 3,
+      "title": "Product Optimization & Content",
+      "description": "We create compelling product descriptions, optimize images for fast loading and SEO, set up product categories, and implement structured data so your Salthill products appear in Google Shopping results."
+    },
+    {
+      "step": 4,
+      "title": "Marketing Campaign Launch",
+      "description": "We launch targeted campaigns across multiple channels – Google Shopping ads for product discovery, Facebook/Instagram ads for brand building, and email marketing for customer retention. Each campaign targets your specific audience mix."
+    },
+    {
+      "step": 5,
+      "title": "Conversion Rate Optimization",
+      "description": "Using AI-powered testing tools, we continuously optimize your store to increase conversion rates. We test checkout flows, product page layouts, mobile experience, and calls-to-action to maximize sales from every visitor."
+    },
+    {
+      "step": 6,
+      "title": "Scaling & Growth Strategy",
+      "description": "As your Salthill e-commerce business grows, we help you scale successfully. This includes expanding product lines, entering new markets, optimizing for repeat purchases, and increasing profitable customer acquisition."
+    }
+  ],
+
+  "pricingInfo": "E-commerce store development starts from €5,500 for Shopify stores with custom design. Ongoing e-commerce marketing ranges from €2,500/month for basic management and advertising to €8,000+/month for comprehensive marketing including SEO, paid ads, email automation, and continuous optimization. Custom packages for Salthill businesses available.",
+
+  "serviceArea": "Salthill and surrounding areas including Galway City, Knocknacarra, Barna, Taylor's Hill, and Westside",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Available for in-person meetings at your Salthill location.",
+
+  "qualifications": [
+    "Certified Shopify Partner agency",
+    "Google Ads & Shopping specialists",
+    "Facebook Marketing certified",
+    "Conversion optimization experts",
+    "Tourism & retail e-commerce expertise"
+  ],
+  "yearsExperience": "15+ years combined e-commerce experience",
+  "guarantees": [
+    "Mobile-optimized stores guaranteed",
+    "Transparent monthly reporting",
+    "Conversion improvement guarantee",
+    "ROI-focused advertising strategy",
+    "No long-term contract lock-ins"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1664455340023-214c33a9d0bd?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "E-commerce solutions for Salthill businesses",
+      "caption": "E-commerce Marketing & Development in Salthill",
+      "credit": {
+        "photographer": "Shutter Speed",
+        "unsplashUrl": "https://unsplash.com/photos/BQ9usyzHx_w"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Online shopping experience",
+        "caption": "Seamless online shopping experiences",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/Q59HmzK38eQ"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Mobile e-commerce shopping",
+        "caption": "Mobile-first e-commerce design",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/pwxESDWRwDE"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1599658880436-c61792e70672?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "E-commerce website analytics",
+        "caption": "Data-driven e-commerce optimization",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/eveI7MOcSmw"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1449247666642-264389f5f5b1?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "E-commerce order fulfillment",
+        "caption": "Complete e-commerce solutions",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/MGaFENpDCsw"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Salthill Businesses Choose Kraft Agency for E-commerce",
+    "Our Proven E-commerce Marketing Process",
+    "E-commerce Solutions for Tourism & Retail in Salthill",
+    "Success Stories: Salthill Businesses Growing Online",
+    "E-commerce FAQs for Salthill Retailers",
+    "Ready to Launch Your Salthill Online Store?"
+  ],
+
+  "faq": [
+    {
+      "question": "How can e-commerce help my Salthill business?",
+      "answer": "E-commerce allows you to reach customers 24/7, sell to tourists before they visit Salthill, capture online searches for products you sell, reduce dependence on seasonal foot traffic, and grow revenue beyond your physical location. Many Salthill businesses see 30-50% revenue growth by adding e-commerce."
+    },
+    {
+      "question": "Can you optimize my store for mobile shoppers?",
+      "answer": "Absolutely! Mobile optimization is critical for Salthill businesses since many tourists and local shoppers browse on phones. Every store we build is mobile-first, with fast loading, easy navigation, and seamless checkout on smartphones and tablets."
+    },
+    {
+      "question": "How long does it take to launch an online store?",
+      "answer": "Most Shopify stores launch in 4-6 weeks including design, development, product setup, payment integration, and testing. If you need to launch before tourist season or for a specific event in Salthill, we can work with accelerated timelines."
+    },
+    {
+      "question": "What's the best e-commerce platform for Salthill businesses?",
+      "answer": "We typically recommend Shopify for most Salthill retail and hospitality businesses due to its ease of use, mobile optimization, reliable hosting, and extensive features. It's perfect for businesses that need to focus on sales rather than technical management."
+    },
+    {
+      "question": "Can you help with international sales and shipping?",
+      "answer": "Yes! Many Salthill businesses want to sell to international tourists who visit and then order products online. We set up multi-currency support, international shipping options, and localized checkout experiences to make international sales seamless."
+    },
+    {
+      "question": "How much should I invest in e-commerce marketing?",
+      "answer": "Most successful Salthill e-commerce businesses invest €2,500-€6,000/month in marketing services plus €1,000-€3,000/month in advertising budget. We create custom strategies based on your revenue goals, products, and target markets."
+    },
+    {
+      "question": "Do you offer product photography in Salthill?",
+      "answer": "Yes! We provide professional product photography services. We can photograph products at our studio, your Salthill location, or even outdoors along the promenade if that suits your brand. High-quality product photos significantly increase e-commerce conversion rates."
+    },
+    {
+      "question": "Can you help manage seasonal fluctuations?",
+      "answer": "Absolutely! We understand Salthill's seasonal tourism patterns. We help you maximize summer tourist sales while building year-round online revenue through strategic marketing, seasonal campaigns, and customer retention programs that keep sales steady in quieter months."
+    }
+  ],
+
+  "keywords": [
+    "e-commerce marketing",
+    "online store",
+    "Shopify development",
+    "e-commerce SEO",
+    "Google Shopping ads",
+    "online retail",
+    "e-commerce optimization",
+    "mobile commerce",
+    "e-commerce website",
+    "online sales"
+  ],
+  "localKeywords": [
+    "e-commerce marketing Salthill",
+    "online store Salthill",
+    "Shopify developer Galway",
+    "e-commerce Salthill",
+    "online shop Galway",
+    "e-commerce agency Salthill",
+    "web shop Salthill",
+    "online sales Galway",
+    "e-commerce consultant Ireland",
+    "Shopify expert near me"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free E-commerce Audit",
+  "ctaSecondary": "View E-commerce Success Stories"
+}

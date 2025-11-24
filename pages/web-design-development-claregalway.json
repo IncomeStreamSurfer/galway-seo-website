@@ -1,0 +1,193 @@
+{
+  "id": "web-design-development-claregalway",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Claregalway",
+  "locationSlug": "claregalway",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Claregalway - Grow Your Business Online | Kraft Agency",
+  "metaDescription": "Professional web design in Claregalway. Custom websites that grow your business and attract customers. SEO-optimized, mobile-responsive. Free consultation!",
+
+  "heroHeadline": "Professional Web Design & Development in Claregalway",
+  "heroSubheadline": "Grow Your Business with a Website That Works 24/7",
+
+  "description": "Want to grow your Claregalway business with a professional website that works around the clock? Kraft Agency creates custom websites that act as your best salesperson – attracting customers, generating leads, and driving sales 24 hours a day, 7 days a week. As a full-service digital agency serving Claregalway and surrounding areas, we understand the challenges local businesses face online. We build websites that not only look professional but also deliver measurable results, helping your business compete effectively in today's digital marketplace.\n\nOur web design service in Claregalway goes far beyond creating pretty pages. We focus on building digital assets that generate real business value. Through strategic planning, user-focused design, and conversion optimization, we create websites that turn visitors into customers. Every element is purposefully designed – from compelling headlines and trust-building testimonials to clear navigation and strategic calls-to-action. We ensure your website communicates your value proposition clearly, addresses customer concerns, and makes it easy for people to do business with you. Whether you're a retailer, service provider, manufacturer, or professional service, we build websites that drive growth for Claregalway businesses.\n\nWhat makes Kraft Agency different is our commitment to long-term success, not just website delivery. We use AI-powered analytics and optimization tools to continuously improve your website's performance. Our websites are built on modern, secure platforms that are easy to manage and scale as your business grows. We also ensure your site is fully responsive on all devices and optimized for search engines so Claregalway customers can find you on Google. With transparent pricing, local support, and ongoing partnership, we're invested in your success from day one through years of growth ahead.",
+
+  "shortDescription": "Professional web design in Claregalway. Custom websites that work 24/7 to grow your business. Mobile-responsive, SEO-optimized, conversion-focused.",
+
+  "benefits": [
+    "Custom web design for Claregalway businesses",
+    "24/7 lead generation and sales",
+    "Conversion-optimized for maximum ROI",
+    "Fully mobile-responsive design",
+    "Fast-loading for better engagement",
+    "SEO-optimized for Google rankings",
+    "AI-powered continuous optimization",
+    "Easy content management",
+    "E-commerce and booking capabilities",
+    "Local Galway-based support team"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Business Strategy Session",
+      "description": "We start with in-depth discovery to understand your Claregalway business, target customers, competitive position, and growth goals. This strategic foundation ensures your website is designed to achieve specific business objectives, not just look good."
+    },
+    {
+      "step": 2,
+      "title": "Conversion-Focused Design",
+      "description": "Our designers create custom mockups focused on user experience and conversion optimization. We design clear visual hierarchies, compelling messaging, strategic calls-to-action, and intuitive navigation that guides visitors toward taking action with your business."
+    },
+    {
+      "step": 3,
+      "title": "Robust Development",
+      "description": "Our developers build your website using modern, secure technologies that ensure fast performance, mobile responsiveness, and scalability. We integrate necessary tools like analytics, CRM systems, payment processors, booking systems, and more."
+    },
+    {
+      "step": 4,
+      "title": "SEO & Content Optimization",
+      "description": "We optimize your website for search engines with keyword research targeting Claregalway and surrounding areas, compelling copywriting, meta tag optimization, speed improvements, and technical SEO to maximize your online visibility."
+    },
+    {
+      "step": 5,
+      "title": "Quality Assurance Testing",
+      "description": "We rigorously test your website across all devices, browsers, and screen sizes. We verify functionality, security, loading speeds, forms, links, and overall user experience to ensure everything performs flawlessly before launch."
+    },
+    {
+      "step": 6,
+      "title": "Launch & Growth Partnership",
+      "description": "We launch your website and provide training on content management. We include 90 days of support and offer ongoing services including maintenance, optimization, SEO, and digital marketing to help your Claregalway business grow continuously online."
+    }
+  ],
+
+  "pricingInfo": "Web design in Claregalway starts from €2,500 for professional business websites and ranges to €15,000+ for comprehensive e-commerce or custom applications. Pricing varies based on features, pages, and integrations. We provide transparent quotes with flexible payment options. Contact us for a detailed proposal based on your specific business needs.",
+
+  "serviceArea": "Claregalway and surrounding areas including Galway City, Oranmore, Tuam, Athenry, Headford, and all of North and East County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Flexible meeting times available for busy business owners.",
+
+  "qualifications": [
+    "Award-winning web design team",
+    "Full-stack development expertise",
+    "Google Partner certified",
+    "AI and conversion optimization specialists",
+    "15+ years combined experience",
+    "Modern technologies (React, Next.js, WordPress, Shopify)"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive on all devices",
+    "SEO-optimized from day one",
+    "90-day post-launch support",
+    "Secure hosting and SSL included",
+    "GDPR compliant websites"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional web design in Claregalway",
+      "caption": "Professional Web Design Services in Claregalway"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1559028012-481c04fa702d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Responsive web design showcase",
+        "caption": "Beautiful on every device"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1542744094-3a31f272c490?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Web design team collaboration",
+        "caption": "Expert team delivering results"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1678565202049-9e37b2da8060?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Website user experience design",
+        "caption": "Conversion-focused UX design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Web analytics and growth metrics",
+        "caption": "Data-driven optimization"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Claregalway Businesses Choose Kraft Agency",
+    "Our Proven Web Design Process for Growth",
+    "Key Website Features That Drive Business Results",
+    "Growing Your Claregalway Business Online",
+    "Web Design FAQs for Claregalway Businesses",
+    "Ready to Grow Your Business Online?"
+  ],
+
+  "faq": [
+    {
+      "question": "How can a website help grow my Claregalway business?",
+      "answer": "A professional website works 24/7 to attract new customers through Google search, showcase your products or services, build credibility and trust, generate leads automatically, and provide information when customers need it. It's your most valuable marketing asset, working around the clock to grow your business."
+    },
+    {
+      "question": "How much does web design cost for Claregalway businesses?",
+      "answer": "Professional web design starts from €2,500 for business websites. E-commerce sites typically range from €5,000-€10,000, while custom applications can be €10,000-€15,000+. The investment depends on features, complexity, and your specific needs. We provide transparent quotes and flexible payment options."
+    },
+    {
+      "question": "How long will it take to build my website?",
+      "answer": "Most business websites take 4-8 weeks from initial consultation to launch. Simple sites can be completed in 3-4 weeks, while e-commerce or complex sites may take 8-12 weeks. The timeline depends on scope, content readiness, and feedback response. We provide clear schedules and communicate regularly."
+    },
+    {
+      "question": "Will my website work on smartphones and tablets?",
+      "answer": "Yes! Every website we design is fully responsive and optimized for all devices – smartphones, tablets, and desktop computers. With most web traffic coming from mobile devices, mobile optimization is essential. Your site will look perfect and perform flawlessly on every screen size."
+    },
+    {
+      "question": "Can you help with website content and copywriting?",
+      "answer": "Absolutely! Professional copywriting is available for all clients. Our writers create compelling website content that engages visitors, communicates your value clearly, and drives conversions. We can handle all content creation or refine your existing materials for maximum impact."
+    },
+    {
+      "question": "Will people in Claregalway find my website on Google?",
+      "answer": "Yes! We optimize every website for local search with foundational SEO including keyword targeting for Claregalway and surrounding areas, meta tag optimization, fast loading, mobile responsiveness, and technical SEO. For competitive rankings, we also offer ongoing SEO services to continuously improve your visibility."
+    },
+    {
+      "question": "Can you add e-commerce to my website so I can sell online?",
+      "answer": "Yes! We build complete e-commerce solutions with product catalogs, shopping carts, secure payment processing (Stripe, PayPal, etc.), inventory management, order tracking, and customer accounts. Whether selling physical products, digital goods, or services, we create e-commerce sites that drive online revenue."
+    },
+    {
+      "question": "What support do you provide after my website goes live?",
+      "answer": "All websites include 90 days of post-launch support for questions and adjustments. We also offer ongoing maintenance packages covering updates, security monitoring, backups, performance optimization, and technical support. We're here for long-term partnership as your business grows and your website evolves."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "business website",
+    "web designer",
+    "custom website",
+    "responsive design",
+    "e-commerce website",
+    "professional website",
+    "website builder",
+    "web development"
+  ],
+  "localKeywords": [
+    "web design Claregalway",
+    "website design Claregalway",
+    "Claregalway web designer",
+    "web development Claregalway",
+    "website builder Claregalway",
+    "web design North Galway",
+    "Claregalway website company",
+    "web designer near me",
+    "website development County Galway",
+    "Claregalway digital agency"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "View Success Stories"
+}

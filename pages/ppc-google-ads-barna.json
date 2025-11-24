@@ -1,0 +1,188 @@
+{
+  "id": "ppc-google-ads-barna",
+  "service": "PPC & Google Ads Management",
+  "serviceSlug": "ppc-google-ads",
+  "location": "Barna",
+  "locationSlug": "barna",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Google Ads Barna - Coastal Community PPC Experts | Kraft Agency",
+  "metaDescription": "Drive customers to your Barna business with expert Google Ads. Local PPC specialists delivering leads and sales in West Galway. Free audit available!",
+
+  "heroHeadline": "Google Ads Management for Barna Businesses",
+  "heroSubheadline": "Coastal Expertise • Local Leads • Real Growth",
+
+  "description": "Looking to grow your Barna business through targeted Google Ads? Kraft Agency delivers PPC management tailored for this vibrant coastal village and the surrounding West Galway area. Whether you're a local business serving Barna residents, a coastal hospitality venue attracting visitors, or a service provider covering the greater Galway Bay region, we create Google Ads campaigns that put you in front of customers actively searching for exactly what you offer.\n\nOur Google Ads strategies understand Barna's unique character—a thriving coastal community with strong local identity and significant tourism appeal. We create campaigns that balance reaching local residents with capturing the tourism market exploring the Wild Atlantic Way. From restaurants and pubs welcoming locals and visitors alike, to retail businesses serving the community, to service providers covering West Galway, we build PPC campaigns optimized for your specific business model and customer base along the Galway Bay coast.\n\nWhat makes our PPC service exceptional is combining certified Google Partner expertise with intimate knowledge of the West Galway market. We use advanced location targeting to ensure your ads reach the right customers—whether that's Barna residents, nearby communities, or tourists planning coastal experiences. With AI-powered optimization, strategic keyword selection, compelling ad copy, and comprehensive conversion tracking, your Google Ads budget works efficiently to drive qualified traffic, generate leads, and increase revenue for your Barna business.",
+
+  "shortDescription": "Expert Google Ads management for Barna businesses. Coastal PPC specialists delivering local and tourism-focused campaigns with measurable ROI.",
+
+  "benefits": [
+    "Targeted campaigns for Barna and West Galway",
+    "Balance local and tourism customer targeting",
+    "Certified Google Partner management",
+    "Coastal market expertise and insights",
+    "Mobile-first optimization for travelers",
+    "Seasonal campaign adjustments included",
+    "Complete lead and booking tracking",
+    "Transparent ROI reporting monthly"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Barna Market Analysis",
+      "description": "We analyze your business, target customers (local residents vs. tourists), competitive landscape in Barna and West Galway, and specific goals. This shapes campaigns perfectly suited to the coastal market."
+    },
+    {
+      "step": 2,
+      "title": "Dual-Audience Campaign Strategy",
+      "description": "For businesses serving both locals and tourists, we create separate campaign strategies—one targeting Barna residents with relevant local messaging, another capturing tourists searching for coastal Galway experiences."
+    },
+    {
+      "step": 3,
+      "title": "Keyword & Location Targeting",
+      "description": "We select high-intent keywords relevant to Barna searches ('restaurants Barna', 'Barna pubs', 'services near Barna') with precise geographic targeting to reach customers in your exact service area."
+    },
+    {
+      "step": 4,
+      "title": "Mobile & Desktop Optimization",
+      "description": "Campaigns are optimized for both desktop users (planning ahead) and mobile searchers (on-the-go tourists and locals), with mobile-specific ads featuring click-to-call and directions functionality."
+    },
+    {
+      "step": 5,
+      "title": "Comprehensive Conversion Setup",
+      "description": "We track all valuable actions—phone calls, reservations, form submissions, directions requests—across devices so you can see exactly how Google Ads drives business for your Barna location."
+    },
+    {
+      "step": 6,
+      "title": "Seasonal & Continuous Optimization",
+      "description": "We adjust campaigns for seasonal patterns (summer tourism peaks, quieter winters) while continuously testing and refining to improve performance and ROI throughout the year."
+    }
+  ],
+
+  "pricingInfo": "Google Ads management for Barna businesses starts from €450 monthly management fee for smaller campaigns (€900-€1,500 ad spend) up to €2,000+ for comprehensive campaigns (€10,000+ ad spend), plus your Google Ads budget. Tourism-focused businesses typically need €1,200-€3,000+ monthly ad spend during peak season. Local service businesses can start with €800-€1,500/month. We create custom packages based on your business model and goals. Contact us for a free PPC audit.",
+
+  "serviceArea": "Barna and West Galway coastal region including Salthill, Knocknacarra, Furbo, Spiddal, and Galway Bay area",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Support for coastal and tourism businesses.",
+
+  "qualifications": [
+    "Certified Google Partner agency",
+    "Tourism and local market expertise",
+    "Google Ads certified specialists",
+    "Coastal Galway knowledge",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined Google Ads expertise",
+  "guarantees": [
+    "Barna and coastal market focus",
+    "Seasonal optimization included",
+    "Transparent monthly reporting",
+    "Flexible contract terms",
+    "Dedicated account management"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1599658880436-c61792e70672?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Google Ads management for Barna coastal businesses",
+      "caption": "Coastal PPC Experts in Barna"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1593437955835-fc8c51725430?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Google Ads campaign performance",
+        "caption": "Data-driven PPC management"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1628320281190-89b24da58b0f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Mobile Google Ads optimization",
+        "caption": "Mobile-optimized campaigns"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "PPC analytics dashboard",
+        "caption": "Real-time campaign tracking"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1616499370260-485b3e5ed653?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Google Ads optimization",
+        "caption": "Continuous performance optimization"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Barna Businesses Trust Kraft Agency for Google Ads",
+    "Our Coastal-Focused PPC Process",
+    "Google Ads Strategies for West Galway",
+    "Success Stories from Galway Bay Businesses",
+    "Google Ads Questions from Barna Business Owners",
+    "Start Growing Your Barna Business Today"
+  ],
+
+  "faq": [
+    {
+      "question": "Can Google Ads help my Barna business reach both locals and tourists?",
+      "answer": "Absolutely! We create dual-targeted campaigns—one focusing on local Barna residents searching for services, another targeting tourists searching for 'restaurants Barna', 'things to do Barna', or 'Galway Bay experiences'. Each has tailored messaging for maximum relevance."
+    },
+    {
+      "question": "What budget works for businesses in Barna?",
+      "answer": "It depends on your business type. Local service providers serving Barna residents can start with €800-€1,500/month. Tourism-focused businesses (restaurants, pubs, accommodations) typically need €1,200-€3,000+ monthly, especially during peak summer season. We'll recommend appropriate budgets during your free audit."
+    },
+    {
+      "question": "Do you adjust campaigns for tourism seasonality?",
+      "answer": "Yes! Seasonal optimization is included. We increase budgets during peak tourism months (May-September), major events, and weekends when coastal traffic is high. During quieter winter months, we focus more on local resident targeting to maintain year-round business."
+    },
+    {
+      "question": "Can you target people traveling along the Wild Atlantic Way?",
+      "answer": "Yes! We target keywords like 'restaurants Wild Atlantic Way', 'things to do Galway Bay', and location-based searches from tourists traveling the coastal route. Mobile optimization captures travelers searching on-the-go for nearby options in Barna."
+    },
+    {
+      "question": "How do you optimize for mobile searchers?",
+      "answer": "Mobile optimization is crucial for coastal businesses! We create mobile-specific ads with click-to-call buttons, location extensions showing your Barna address, and fast-loading mobile landing pages. This captures tourists and locals searching 'near me' on their phones."
+    },
+    {
+      "question": "What if my business is new in Barna?",
+      "answer": "Google Ads is perfect for new businesses! Unlike SEO which takes months, PPC delivers immediate visibility. We can have your new Barna business appearing at the top of relevant searches within days, driving customers while you build your reputation and organic presence."
+    },
+    {
+      "question": "Can you target specific times of day or days of week?",
+      "answer": "Yes! Ad scheduling lets us increase bids during your busiest/most profitable times (weekend evenings for restaurants, weekday mornings for services, etc.) and reduce spend during quiet periods. This maximizes ROI by focusing budget when conversion rates are highest."
+    },
+    {
+      "question": "How do you measure success for Barna businesses?",
+      "answer": "We track all key metrics: clicks, impressions, conversions (calls, reservations, form submissions, directions requests), cost per conversion, and ROI. For coastal businesses, we also track seasonal performance patterns. You'll receive detailed monthly reports showing exactly what Google Ads delivers."
+    }
+  ],
+
+  "keywords": [
+    "Google Ads",
+    "coastal PPC",
+    "local advertising",
+    "PPC management",
+    "Google advertising",
+    "tourism PPC",
+    "local search ads",
+    "pay per click",
+    "search advertising",
+    "PPC services"
+  ],
+  "localKeywords": [
+    "Google Ads Barna",
+    "PPC Barna",
+    "Google Ads West Galway",
+    "Barna digital marketing",
+    "Google advertising Barna",
+    "PPC Galway Bay",
+    "Barna business advertising",
+    "Google Ads coastal Galway",
+    "PPC management Barna",
+    "local ads Barna"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Get Your Free PPC Audit",
+  "ctaSecondary": "View Case Studies"
+}

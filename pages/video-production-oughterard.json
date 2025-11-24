@@ -1,0 +1,189 @@
+{
+  "id": "video-production-oughterard",
+  "service": "Video Production & Marketing",
+  "serviceSlug": "video-production",
+  "location": "Oughterard",
+  "locationSlug": "oughterard",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Video Production Oughterard - Gateway to Connemara | Kraft",
+  "metaDescription": "Expert video production in Oughterard, Gateway to Connemara. Create stunning videos with spectacular scenery. Professional filming & editing. Free quote today!",
+
+  "heroHeadline": "Video Production in Oughterard",
+  "heroSubheadline": "Professional Video Content in the Gateway to Connemara",
+
+  "description": "Searching for professional video production in Oughterard? Kraft Agency brings expert video services to Oughterard and the stunning Connemara gateway region. We create compelling video content that leverages the area's spectacular natural beauty while delivering professional results that drive your business forward. From tourism and hospitality videos to corporate content, social media campaigns, and promotional videos, our experienced team combines technical excellence with creative storytelling to showcase your brand brilliantly.\n\nOur video production services in Oughterard encompass the complete creative journey. We start by understanding your business objectives, brand identity, and target audience, then develop creative concepts that resonate. Using professional cinema cameras, specialized lenses, lighting equipment, and drones, we capture stunning footage that tells your story against Oughterard's breathtaking backdrop. Our expert post-production team then elevates your content with professional color grading, sound design, motion graphics, and visual effects that make your videos unforgettable.\n\nAt Kraft Agency, we understand that great video production balances artistic vision with business strategy. Every video we create in Oughterard is designed to achieve specific marketing objectives – building brand awareness, generating qualified leads, driving bookings, or strengthening customer relationships. We optimize content for maximum engagement across all platforms, from YouTube and social media to websites and advertising campaigns. With professional equipment, creative expertise, and experience serving Oughterard and Connemara businesses, we're your trusted video production partner.",
+
+  "shortDescription": "Professional video production in Oughterard. Strategic video services leveraging Connemara's spectacular scenery.",
+
+  "benefits": [
+    "Leverage Oughterard's stunning Connemara location",
+    "Professional cinema-grade equipment",
+    "Tourism and hospitality video specialists",
+    "Drone footage for spectacular aerials",
+    "Complete production from concept to delivery",
+    "Expert editing and post-production",
+    "Strategic video marketing approach",
+    "Local knowledge and expertise"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Strategy",
+      "description": "We meet to understand your business, goals, and vision. Together we develop a creative strategy that showcases Oughterard's unique character while achieving your marketing objectives."
+    },
+    {
+      "step": 2,
+      "title": "Pre-Production Planning",
+      "description": "Our team handles scriptwriting, storyboarding, location scouting around Oughterard and Connemara, talent coordination, permits, and all production logistics."
+    },
+    {
+      "step": 3,
+      "title": "Professional Filming",
+      "description": "Using cinema cameras, professional lighting, stabilization systems, and drones, we capture stunning footage that showcases your business and the beautiful Connemara landscape."
+    },
+    {
+      "step": 4,
+      "title": "Post-Production",
+      "description": "Our skilled editors transform raw footage into polished videos with professional color grading, audio enhancement, motion graphics, music licensing, and visual effects."
+    },
+    {
+      "step": 5,
+      "title": "Review Process",
+      "description": "We share preview versions for your detailed feedback and make unlimited revisions until the final video perfectly aligns with your vision and business requirements."
+    },
+    {
+      "step": 6,
+      "title": "Delivery & Distribution",
+      "description": "Receive your videos optimized for all platforms in multiple formats, plus strategic guidance on distribution, marketing, and promotion to maximize reach and results."
+    }
+  ],
+
+  "pricingInfo": "Video production in Oughterard ranges from €1,500 for social media content to €12,000+ for comprehensive tourism and commercial productions. Pricing varies based on filming locations, number of shoot days, drone footage requirements, talent needs, and post-production complexity. We provide transparent, detailed quotes tailored to your project.",
+
+  "serviceArea": "Oughterard and surrounding areas including Moycullen, Maam Cross, Recess, Galway City, and the Connemara region",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Flexible scheduling for outdoor and weather-dependent filming.",
+
+  "qualifications": [
+    "Professional cinematography team",
+    "Licensed drone pilots",
+    "Tourism and destination video experts",
+    "Advanced editing specialists",
+    "10+ years combined experience"
+  ],
+  "yearsExperience": "10+ years combined video production experience",
+  "guarantees": [
+    "Cinema-quality production standards",
+    "Unlimited revision rounds",
+    "Weather-flexible scheduling",
+    "Multi-platform optimization",
+    "Full copyright ownership"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1497015289639-54688650d173?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional video interview setup in Oughterard",
+      "caption": "Expert Video Production in Oughterard"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1595292340185-f8a3c5e8b593?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Female videographer with professional camera in Connemara",
+        "caption": "Professional on-location filming"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1628017974670-846f66fc7671?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional video camera ready for filming",
+        "caption": "Cinema-quality equipment"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1579109652910-99b9be06aaec?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Video editing workstation",
+        "caption": "Expert editing and post-production"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1603126004372-e63e3b53934b?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Video production crew on location",
+        "caption": "Experienced production team"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Choose Kraft Agency for Video Production in Oughterard?",
+    "Our Complete Video Production Process",
+    "Tourism & Hospitality Video Excellence",
+    "Showcasing Connemara's Beauty Through Video",
+    "Video Production Questions Answered",
+    "Begin Your Video Project Today"
+  ],
+
+  "faq": [
+    {
+      "question": "Can you film throughout Oughterard and the Connemara region?",
+      "answer": "Absolutely! We regularly film throughout Oughterard, along Lough Corrib, in the mountains, and across Connemara. We handle all location logistics, permits, and coordinate with local authorities to access the best filming locations."
+    },
+    {
+      "question": "Do you provide aerial drone videography?",
+      "answer": "Yes! We have licensed drone pilots and professional drones to capture spectacular aerial footage of Oughterard, Lough Corrib, and the Connemara landscape. Aerial shots add incredible production value and showcase the area's beauty."
+    },
+    {
+      "question": "What experience do you have with tourism videos?",
+      "answer": "We specialize in tourism and hospitality video production, creating content that inspires bookings and visits. We understand how to showcase amenities, capture atmosphere, and tell stories that resonate with travelers and drive conversions."
+    },
+    {
+      "question": "How do you manage weather for outdoor filming?",
+      "answer": "We build flexibility into filming schedules, monitor weather forecasts closely, and maintain backup plans. Oughterard's location offers diverse filming options in various conditions, and our experience ensures we capture stunning footage regardless of weather."
+    },
+    {
+      "question": "What does video production cost in Oughterard?",
+      "answer": "Costs range from €1,500 for social media content to €12,000+ for comprehensive tourism productions. Pricing depends on filming locations, shoot days, drone footage, talent requirements, and post-production. We provide detailed, transparent quotes."
+    },
+    {
+      "question": "Can you create videos for multiple platforms?",
+      "answer": "Yes! We deliver platform-optimized versions for Instagram, Facebook, YouTube, LinkedIn, TikTok, websites, and presentations. Each version is formatted with the correct aspect ratio, length, and style for that specific platform."
+    },
+    {
+      "question": "What's the typical production timeline?",
+      "answer": "Simple videos can be completed in 1-2 weeks, while comprehensive productions with multiple locations and drone footage typically take 3-6 weeks. Weather-dependent outdoor filming may require additional scheduling flexibility."
+    },
+    {
+      "question": "Do you offer video marketing services?",
+      "answer": "Yes! Beyond production, we provide complete video marketing including distribution strategy, YouTube optimization, social media advertising, email campaigns, and analytics tracking to ensure your videos generate measurable business results."
+    }
+  ],
+
+  "keywords": [
+    "video production",
+    "tourism videography",
+    "destination video",
+    "drone videography",
+    "hospitality video",
+    "commercial video production",
+    "video marketing",
+    "professional filming",
+    "video content creation",
+    "landscape videography"
+  ],
+  "localKeywords": [
+    "video production Oughterard",
+    "videographer Oughterard",
+    "video services Oughterard",
+    "Connemara video production",
+    "video marketing Oughterard",
+    "tourism video Oughterard",
+    "drone footage Oughterard",
+    "Lough Corrib videography",
+    "video company Oughterard",
+    "professional video Connemara"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Video Consultation",
+  "ctaSecondary": "View Our Portfolio"
+}

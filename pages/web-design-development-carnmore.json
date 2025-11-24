@@ -1,0 +1,208 @@
+{
+  "id": "web-design-development-carnmore",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Carnmore",
+  "locationSlug": "carnmore",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Carnmore - Modern Websites That Drive Sales | Kraft Agency",
+  "metaDescription": "Elevate your Carnmore business with cutting-edge web design. Kraft Agency builds conversion-focused websites with AI optimization. Get your free quote now!",
+  "heroHeadline": "Award-Winning Web Design in Carnmore",
+  "heroSubheadline": "Transform Visitors Into Customers With Strategic Design",
+
+  "description": "Searching for professional web design in Carnmore? Kraft Agency creates modern, high-performance websites that elevate your brand and drive sustainable business growth. Based near Carnmore in Oranmore, we understand the local market and know exactly what it takes to help Carnmore businesses succeed online. Our comprehensive web design services combine strategic thinking, beautiful design, and powerful technology to deliver websites that generate real results.\n\nYour Carnmore business deserves more than just a pretty website—you need a strategic digital asset that works around the clock to attract customers, build trust, and drive conversions. Our web design process starts with understanding your target audience in Carnmore and the surrounding areas, then we craft user experiences that guide visitors naturally toward taking action. From initial wireframes to final launch, we obsess over every detail to ensure your website not only looks stunning but performs exceptionally.\n\nAt Kraft Agency, we build websites for Carnmore businesses using the latest web technologies and frameworks, ensuring fast loading speeds, rock-solid security, and seamless scalability as your business grows. Every website is fully responsive across all devices, optimized for search engines, and built with conversion optimization in mind. With ongoing support, maintenance, and strategic guidance, we're not just your web design agency—we're your long-term digital growth partner serving Carnmore and throughout County Galway.",
+
+  "shortDescription": "Professional web design in Carnmore. Create stunning, high-converting websites with modern technology and AI-powered optimization. Free consultation for Carnmore businesses.",
+
+  "benefits": [
+    "Custom design tailored to your Carnmore business and target audience",
+    "Mobile-first responsive design that works flawlessly on all devices",
+    "Advanced SEO optimization for higher visibility in local Carnmore searches",
+    "Ultra-fast performance with optimized loading speeds under 3 seconds",
+    "AI-powered conversion rate optimization technology",
+    "Comprehensive training and ongoing technical support",
+    "Local expertise combined with international best practices",
+    "Fixed pricing with no surprise costs or hidden fees"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Strategy & Discovery Workshop",
+      "description": "We start by deeply understanding your Carnmore business, your goals, your customers, and your competitive landscape. This strategic foundation guides every decision throughout the design and development process, ensuring alignment with your business objectives."
+    },
+    {
+      "step": 2,
+      "title": "UX Design & Visual Mockups",
+      "description": "Our design team creates detailed user experience flows and stunning visual mockups tailored to your brand. You'll see interactive prototypes that demonstrate exactly how your website will look, feel, and function before we begin development."
+    },
+    {
+      "step": 3,
+      "title": "Development & Technical Integration",
+      "description": "Using cutting-edge technologies and best practices, our developers build your website with clean, maintainable code. We integrate all necessary systems—CRM, analytics, payment processing, booking systems—ensuring seamless operation across your entire digital ecosystem."
+    },
+    {
+      "step": 4,
+      "title": "Quality Assurance & Testing",
+      "description": "Every website undergoes rigorous testing across multiple devices, browsers, and scenarios. We test functionality, performance, security, accessibility, and user experience to ensure everything works perfectly before launch."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Client Training",
+      "description": "We manage the entire launch process and provide hands-on training so you can confidently update and manage your website. Our comprehensive documentation and video tutorials ensure you have everything needed to succeed."
+    },
+    {
+      "step": 6,
+      "title": "Optimization & Ongoing Support",
+      "description": "After launch, we continuously monitor performance, gather user data, and implement improvements. Your website evolves with your Carnmore business through ongoing optimization, updates, and strategic enhancements."
+    }
+  ],
+
+  "pricingInfo": "Web design projects for Carnmore businesses start from €2,500 for professional small business websites up to €15,000+ for advanced e-commerce platforms or custom web applications. We offer flexible payment options and transparent pricing. Schedule a free consultation to receive a detailed quote customized for your specific business needs.",
+
+  "serviceArea": "Carnmore and surrounding areas including Galway City, Oranmore, Doughiska, Castlegar, Mervue, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Priority support available for existing clients.",
+
+  "qualifications": [
+    "Award-winning design and development team",
+    "Certified full-stack developers",
+    "Google Partner for digital excellence",
+    "Certified AI and automation specialists",
+    "15+ years combined industry experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive across all devices",
+    "SEO-optimized architecture",
+    "90-day comprehensive post-launch support",
+    "Secure SSL certificates and hosting"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Modern web design workspace in Carnmore with multiple screens",
+      "caption": "Professional Web Design Services in Carnmore",
+      "credit": {
+        "photographer": "Eftakher Alam",
+        "unsplashUrl": "https://unsplash.com/photos/i1VQZsU86ok"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1558655146-d09347e92766?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Web developer coding custom website",
+        "caption": "Expert custom development for Carnmore businesses",
+        "credit": {
+          "photographer": "Florian Olivo",
+          "unsplashUrl": "https://unsplash.com/photos/4hbJ-eymZ1o"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Creative web design UI elements",
+        "caption": "Beautiful and functional design",
+        "credit": {
+          "photographer": "Hal Gatewood",
+          "unsplashUrl": "https://unsplash.com/photos/tZc3vjPCk-Q"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559028012-481c04fa702d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Team collaborating on website design project",
+        "caption": "Collaborative design process",
+        "credit": {
+          "photographer": "Smartworks Coworking",
+          "unsplashUrl": "https://unsplash.com/photos/cW4lLTavU80"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Website analytics and performance metrics",
+        "caption": "Data-driven optimization",
+        "credit": {
+          "photographer": "Carlos Muza",
+          "unsplashUrl": "https://unsplash.com/photos/hpjSkU2UYSU"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Carnmore Businesses Choose Kraft Agency for Web Design",
+    "Our Comprehensive Web Design Process for Maximum Results",
+    "Essential Website Features for Growing Carnmore Businesses",
+    "Success Stories: Web Design Projects That Delivered Results",
+    "Common Questions About Web Design in Carnmore",
+    "Start Your Web Design Journey in Carnmore Today"
+  ],
+
+  "faq": [
+    {
+      "question": "How long will it take to complete my Carnmore business website?",
+      "answer": "Typical website projects for Carnmore businesses take 4-8 weeks from kickoff to launch, depending on scope and complexity. Simple brochure websites may be completed faster, while complex e-commerce platforms or custom applications may take longer. We provide a detailed timeline with milestones during our initial planning phase."
+    },
+    {
+      "question": "What kind of support do you provide after launching my website?",
+      "answer": "Every Carnmore business website includes 90 days of comprehensive post-launch support covering technical issues, updates, and questions. We also offer ongoing maintenance plans that include hosting, security updates, performance monitoring, content updates, and technical support to keep your website running smoothly."
+    },
+    {
+      "question": "Will my website work on mobile phones and tablets?",
+      "answer": "Absolutely! Every website we create is built with a mobile-first approach and is fully responsive across all devices and screen sizes. We test extensively on smartphones, tablets, and desktops to ensure flawless functionality and beautiful presentation everywhere your customers browse."
+    },
+    {
+      "question": "Can you help create content and images for my Carnmore business website?",
+      "answer": "Yes! We offer complete content creation services including professional copywriting, photography coordination, custom graphics, and video integration. Our team understands how to create compelling content that engages your Carnmore audience and supports strong search engine rankings."
+    },
+    {
+      "question": "What is the investment required for a professional website?",
+      "answer": "Investment varies based on your specific needs, features, and business goals. Professional small business websites start from €2,500, mid-range business websites range from €5,000-€8,000, and complex e-commerce or custom solutions range from €10,000-€15,000+. We provide transparent, fixed-price quotes with no hidden surprises."
+    },
+    {
+      "question": "Do you provide website hosting and security services?",
+      "answer": "Yes, we offer premium website hosting with enterprise-grade security, regular backups, SSL certificates, and 99.9% uptime guarantee. Our hosting is optimized for speed and includes proactive monitoring, security updates, and expert technical support for complete peace of mind."
+    },
+    {
+      "question": "Will my website be optimized for Google and search engines?",
+      "answer": "Yes! Every website includes foundational SEO optimization including clean code structure, fast loading speeds, mobile optimization, proper heading hierarchy, optimized meta tags, schema markup, and XML sitemaps. We can also provide advanced ongoing SEO services to achieve higher rankings and drive more organic traffic to your Carnmore business."
+    },
+    {
+      "question": "Can you improve or redesign my existing outdated website?",
+      "answer": "Definitely! We specialize in website redesigns and improvements. We'll conduct a thorough audit of your current website, identify what's working and what needs improvement, and create a strategic redesign that modernizes your online presence, improves user experience, and drives better business results for your Carnmore company."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "web designer",
+    "custom website",
+    "responsive design",
+    "e-commerce website",
+    "business website",
+    "website redesign",
+    "web development",
+    "digital agency"
+  ],
+  "localKeywords": [
+    "web design Carnmore",
+    "website design Carnmore",
+    "Carnmore web designer",
+    "web development Carnmore",
+    "Carnmore website company",
+    "digital agency Carnmore",
+    "website builder Carnmore",
+    "Carnmore web development",
+    "web designer near Carnmore",
+    "Galway web design"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Carnmore Website Consultation",
+  "ctaSecondary": "See Our Work"
+}

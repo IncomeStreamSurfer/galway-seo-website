@@ -1,0 +1,188 @@
+{
+  "id": "web-design-development-barna",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Barna",
+  "locationSlug": "barna",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Barna - Coastal Business Websites | Kraft Agency",
+  "metaDescription": "Barna web design specialists. Beautiful, effective websites for coastal businesses. Tourism, retail, and professional services. Kraft Agency delivers. Call +353 86 153 0832!",
+  "heroHeadline": "Professional Web Design in Barna",
+  "heroSubheadline": "Websites as Beautiful as Barna's Coastline",
+
+  "description": "Barna is a beautiful coastal village with a vibrant business community, and Kraft Agency is proud to serve local businesses with professional web design services. Whether you run a restaurant with views of Galway Bay, a retail shop in Barna village, or provide professional services to the community, we create websites that showcase what makes your Barna business special.\n\nWe understand the unique character of Barna – a village that attracts both locals and tourists seeking quality experiences. Your website needs to reflect that same quality and appeal. Our designs are clean, modern, and professional, with beautiful imagery that captures the essence of your business and the stunning Barna location. Every website is optimized to convert visitors into customers, whether through online bookings, e-commerce, or clear calls-to-action.\n\nAs a local digital agency serving Barna businesses, we provide personalized service and ongoing support. We take the time to understand your business and create a website that truly represents your brand. From restaurants and cafes to shops and service providers, we've helped numerous Barna businesses establish a strong online presence that drives real results.",
+
+  "shortDescription": "Web design services for Barna coastal businesses. Beautiful websites that attract customers and drive growth. Contact Kraft Agency: +353 86 153 0832 or hello@kraftagency.ie.",
+
+  "benefits": [
+    "Beautiful designs that reflect Barna's coastal charm",
+    "Specialized in tourism, hospitality, and retail websites",
+    "Mobile-optimized for tourists and locals alike",
+    "Professional photography options for Barna locations",
+    "SEO-optimized for Barna and Galway Bay searches",
+    "Online booking and e-commerce capabilities",
+    "Fast loading speeds and reliable performance",
+    "Local support from a Galway-based team"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Consultation",
+      "description": "We meet with you in Barna to learn about your business, your customers, and your vision. We'll discuss features you need and how to best showcase your location."
+    },
+    {
+      "step": 2,
+      "title": "Design & Visual Identity",
+      "description": "Our designers create beautiful mockups that capture your brand and the Barna coastal aesthetic. We focus on clean, modern designs that appeal to your target customers."
+    },
+    {
+      "step": 3,
+      "title": "Development & Features",
+      "description": "We build your website with modern technology and integrate all necessary features – booking systems, menus, galleries, e-commerce, or whatever your Barna business needs."
+    },
+    {
+      "step": 4,
+      "title": "Content & Photography",
+      "description": "We can help with professional photography of your Barna location and write compelling content that attracts both search engines and customers."
+    },
+    {
+      "step": 5,
+      "title": "Testing & Launch",
+      "description": "We thoroughly test your website across all devices before launch, ensuring it performs flawlessly for every visitor to your Barna business website."
+    },
+    {
+      "step": 6,
+      "title": "Training & Support",
+      "description": "We provide comprehensive training and ongoing support. You'll feel confident managing your website, and we're always here when you need assistance."
+    }
+  ],
+
+  "pricingInfo": "Web design for Barna businesses typically ranges from €2,500 to €10,000 depending on features and complexity. We offer payment plans and transparent pricing with no hidden costs. Contact us for a personalized quote for your Barna project.",
+
+  "serviceArea": "Barna and surrounding areas including Salthill, Knocknacarra, Galway City, Spiddal, and the Wild Atlantic Way",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Happy to meet in Barna. Email: hello@kraftagency.ie",
+
+  "qualifications": [
+    "Experienced in coastal and tourism websites",
+    "Professional web design and development team",
+    "Local knowledge of Barna market",
+    "E-commerce and booking system specialists",
+    "Committed to quality and results"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "Mobile-responsive design guaranteed",
+    "SEO-optimized for local searches",
+    "Professional, modern aesthetic",
+    "90-day post-launch support",
+    "Transparent pricing and timelines"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1603985585179-3d71c35a537c?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "Beautiful web design for Barna businesses",
+      "caption": "Professional Web Design Services in Barna"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1627599936744-51d288f89af4?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Website design collaboration",
+        "caption": "Collaborative approach to web design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Professional web development",
+        "caption": "Expert development for Barna businesses"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Responsive design on devices",
+        "caption": "Beautiful on every device"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1707836868495-3307d371aba4?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Website mockup design",
+        "caption": "Professional mockups and planning"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Barna Businesses Trust Kraft Agency",
+    "Our Proven Web Design Process",
+    "Essential Features for Barna Business Websites",
+    "Success Stories from Barna Companies",
+    "Common Questions About Web Design in Barna",
+    "Ready to Launch Your Barna Business Online?"
+  ],
+
+  "faq": [
+    {
+      "question": "Can you showcase my Barna location effectively on my website?",
+      "answer": "Absolutely! We specialize in creating visually stunning websites that highlight your location. We can arrange professional photography of your Barna business and the beautiful coastal setting, incorporating imagery that attracts both locals and tourists."
+    },
+    {
+      "question": "Do you build websites for Barna restaurants and cafes?",
+      "answer": "Yes! We create beautiful restaurant websites with integrated menus, online reservations, photo galleries, and even online ordering systems. We know how to showcase Barna's excellent dining scene."
+    },
+    {
+      "question": "How long does it take to build a website?",
+      "answer": "Most projects take 4-8 weeks from start to finish. If you need a website ready for peak tourist season or a special event, we can often accommodate faster timelines for Barna businesses."
+    },
+    {
+      "question": "Will my website attract tourists to my Barna business?",
+      "answer": "Yes! We optimize your website for searches related to Barna, Galway Bay, and the Wild Atlantic Way. Combined with beautiful imagery and compelling content, your website will attract visitors planning their trip to the area."
+    },
+    {
+      "question": "Can you add online booking to my Barna B&B or guesthouse website?",
+      "answer": "Absolutely! We can integrate booking systems that show availability, accept reservations, and process payments – perfect for Barna accommodation providers."
+    },
+    {
+      "question": "Do you offer e-commerce for Barna retail shops?",
+      "answer": "Yes! We build complete e-commerce websites where you can sell products online. This is perfect for Barna shops wanting to reach customers beyond the local area."
+    },
+    {
+      "question": "How much does a website cost for a Barna business?",
+      "answer": "Prices start from €2,500 for small business websites. Tourism and hospitality sites with booking features typically range from €3,500 to €10,000. We provide transparent quotes and flexible payment options."
+    },
+    {
+      "question": "Will you help with ongoing updates and changes?",
+      "answer": "Yes! We provide training so you can make basic updates yourself, plus 90 days of support after launch. We also offer ongoing maintenance packages for Barna businesses who prefer us to handle updates."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "coastal business website",
+    "tourism website",
+    "restaurant website",
+    "hotel website",
+    "responsive design",
+    "e-commerce website",
+    "web designer",
+    "booking system"
+  ],
+  "localKeywords": [
+    "web design Barna",
+    "website design Barna",
+    "Barna web designer",
+    "web development Barna",
+    "Barna website company",
+    "coastal website design Galway",
+    "Barna digital agency",
+    "Wild Atlantic Way web design",
+    "Galway Bay website design",
+    "local web designer Barna"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "View Our Portfolio"
+}

@@ -1,0 +1,209 @@
+{
+  "id": "ecommerce-marketing-athenry",
+  "service": "E-commerce Marketing & Development",
+  "serviceSlug": "ecommerce-marketing",
+  "location": "Athenry",
+  "locationSlug": "athenry",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "E-commerce Marketing Athenry - Online Store Experts | Kraft Agency",
+  "metaDescription": "Launch your online store in Athenry with Kraft Agency. Professional Shopify development, strategic marketing, and optimization. Grow your business online today!",
+
+  "heroHeadline": "Launch Your Athenry Business Online with E-commerce",
+  "heroSubheadline": "Complete Online Store Solutions That Drive Sales and Growth",
+
+  "description": "Ready to take your Athenry business online and reach customers beyond the medieval town? Kraft Agency delivers comprehensive e-commerce marketing and development solutions for businesses throughout Athenry and East Galway. Whether you're a local retailer, agricultural business, artisan producer, or service provider looking to sell products online, we have the expertise to build and grow your online store. From professional Shopify development to strategic multi-channel marketing, we handle everything needed to drive online revenue growth.\n\nOur e-commerce approach is built for sustainable success. We start by creating your online store with conversion-optimized design, fast performance, mobile optimization, and seamless checkout experience. Then we drive qualified customers through strategic marketing channels: Google Shopping ads to capture purchase-intent searches, Facebook and Instagram advertising to build brand awareness, SEO to rank for product keywords, and email marketing automation to maximize customer lifetime value. Every element is continuously tested and optimized using AI-powered tools to ensure maximum return on your investment.\n\nWhat makes Kraft Agency the perfect e-commerce partner for Athenry businesses is our local expertise combined with cutting-edge technology. We understand the Athenry and East Galway markets, we're available for in-person consultations, and we're committed to your long-term success. Our use of AI-driven optimization and data analytics ensures your e-commerce strategy is always performing at its peak, helping you compete effectively with larger national and international retailers.",
+
+  "shortDescription": "Complete e-commerce solutions for Athenry businesses. Professional store development, strategic marketing, and conversion optimization for online growth.",
+
+  "benefits": [
+    "Complete e-commerce solutions from strategy to execution",
+    "Professional online store development on Shopify or WooCommerce",
+    "Conversion-optimized design that drives sales",
+    "Multi-channel marketing across Google, Facebook, Instagram",
+    "AI-powered optimization for continuous improvement",
+    "Email marketing automation for customer retention",
+    "Local East Galway expertise with global reach",
+    "Transparent reporting and dedicated support"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "E-commerce Strategy Development",
+      "description": "We start with comprehensive analysis of your Athenry business, products, target customers, competitors, and revenue goals. We develop a customized e-commerce roadmap designed for your specific market position."
+    },
+    {
+      "step": 2,
+      "title": "Online Store Build",
+      "description": "We build your e-commerce store with professional design, mobile optimization, fast loading speeds, intuitive navigation, secure payment processing, and all the features needed to convert visitors into customers."
+    },
+    {
+      "step": 3,
+      "title": "Product Setup & SEO Optimization",
+      "description": "We create compelling product descriptions, optimize images, set up product categories, implement SEO best practices, and add structured data so your Athenry products rank well in search engines and Google Shopping."
+    },
+    {
+      "step": 4,
+      "title": "Marketing Campaign Launch",
+      "description": "We launch targeted campaigns across Google Shopping ads for immediate product visibility, Facebook/Instagram advertising for brand building and sales, and email marketing for customer retention. Each channel is optimized for your audience."
+    },
+    {
+      "step": 5,
+      "title": "Conversion Rate Optimization",
+      "description": "Using AI-powered A/B testing tools, we continuously optimize your store to increase conversion rates. We test checkout flows, product page layouts, mobile experience, and calls-to-action to maximize sales from every visitor."
+    },
+    {
+      "step": 6,
+      "title": "Scaling & Growth Strategy",
+      "description": "As your Athenry e-commerce business grows, we help you scale successfully. This includes expanding product lines, entering new markets, optimizing operations and fulfillment, and increasing marketing investment profitably."
+    }
+  ],
+
+  "pricingInfo": "E-commerce store development starts from €5,000 for professional Shopify stores. Ongoing e-commerce marketing services range from €2,500/month for essential store management and advertising to €8,000+/month for comprehensive solutions including SEO, paid ads, email marketing, and continuous optimization. Custom packages available for Athenry businesses.",
+
+  "serviceArea": "Athenry and surrounding areas including Oranmore, Loughrea, Craughwell, Monivea, and all of East County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Available for in-person meetings in Athenry and East Galway.",
+
+  "qualifications": [
+    "Certified Shopify Partner agency",
+    "Google Ads & Shopping certified",
+    "Facebook Marketing certified",
+    "E-commerce optimization specialists",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined e-commerce experience",
+  "guarantees": [
+    "Professional e-commerce store guarantee",
+    "Mobile-optimized design included",
+    "Transparent monthly reporting",
+    "Conversion improvement commitment",
+    "Flexible monthly service contracts"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1688561808434-886a6dd97b8c?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "E-commerce marketing services for Athenry businesses",
+      "caption": "E-commerce Solutions in Athenry",
+      "credit": {
+        "photographer": "Unsplash",
+        "unsplashUrl": "https://unsplash.com/photos/slLo94wES2M"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1664455340023-214c33a9d0bd?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "E-commerce shopping cart optimization",
+        "caption": "Conversion-optimized online stores",
+        "credit": {
+          "photographer": "Shutter Speed",
+          "unsplashUrl": "https://unsplash.com/photos/BQ9usyzHx_w"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Secure online shopping experience",
+        "caption": "Secure, seamless checkout flows",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/Q59HmzK38eQ"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1586880244406-556ebe35f282?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "E-commerce analytics dashboard",
+        "caption": "Data-driven e-commerce optimization",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/ejhjSZKTeeg"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1449247666642-264389f5f5b1?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "E-commerce order fulfillment",
+        "caption": "Complete e-commerce operations",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/MGaFENpDCsw"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Athenry Businesses Choose Kraft Agency for E-commerce",
+    "Our Complete E-commerce Development & Marketing Process",
+    "Choosing the Right E-commerce Platform for Athenry",
+    "E-commerce Success Stories from East Galway",
+    "E-commerce Marketing FAQs for Athenry Businesses",
+    "Ready to Launch Your Athenry Online Store?"
+  ],
+
+  "faq": [
+    {
+      "question": "Why should my Athenry business invest in e-commerce?",
+      "answer": "E-commerce allows you to reach customers 24/7, sell beyond Athenry and East Galway, capture online searches for products you sell, grow revenue significantly, and compete with larger retailers. Many Athenry businesses see 40-70% revenue increases by launching online stores."
+    },
+    {
+      "question": "What's the best e-commerce platform for Athenry businesses?",
+      "answer": "We typically recommend Shopify for most Athenry businesses due to its reliability, ease of use, mobile optimization, comprehensive features, and excellent support. WooCommerce is a good option if you're already using WordPress. We'll recommend the best platform for your specific needs."
+    },
+    {
+      "question": "How long does it take to launch an e-commerce store?",
+      "answer": "Most e-commerce stores take 4-6 weeks from initial consultation to launch, including strategy, design, development, product setup, payment integration, and testing. More complex stores with custom features may take 8-10 weeks. Rush timelines available for urgent Athenry launches."
+    },
+    {
+      "question": "Do you provide product photography and content creation?",
+      "answer": "Yes! We offer professional product photography and copywriting services. We can photograph products at our studio or your Athenry location. High-quality product photos and compelling descriptions are crucial for e-commerce conversion rates."
+    },
+    {
+      "question": "How much should I budget for e-commerce marketing?",
+      "answer": "Most successful Athenry e-commerce businesses invest €2,500-€7,000/month in marketing services plus advertising budget (typically €1,000-€3,000/month to start). We create custom strategies based on your revenue goals, products, and target markets."
+    },
+    {
+      "question": "Can you help with shipping and fulfillment?",
+      "answer": "Absolutely! We help you set up shipping options, integrate with shipping carriers (An Post, DPD, etc.), configure shipping zones and rates, and can connect you with fulfillment services if needed. We ensure your Athenry e-commerce operations run efficiently."
+    },
+    {
+      "question": "What kind of results can I expect?",
+      "answer": "Results vary by industry and competition, but our Athenry e-commerce clients typically see 20-40% increases in conversion rates, 50-100%+ increases in organic traffic within 6-12 months, and 3-5X return on ad spend. We focus on sustainable, profitable growth."
+    },
+    {
+      "question": "Do you provide ongoing e-commerce support?",
+      "answer": "Yes! We offer comprehensive ongoing support including store maintenance, product updates, marketing campaign management, conversion optimization, technical support, and strategic guidance. Most Athenry clients work with us on monthly retainers for continuous growth."
+    }
+  ],
+
+  "keywords": [
+    "e-commerce marketing",
+    "online store development",
+    "Shopify store",
+    "e-commerce SEO",
+    "Google Shopping ads",
+    "online retail",
+    "e-commerce optimization",
+    "online sales",
+    "e-commerce website",
+    "digital commerce"
+  ],
+  "localKeywords": [
+    "e-commerce marketing Athenry",
+    "online store Athenry",
+    "Shopify developer East Galway",
+    "e-commerce Athenry",
+    "web shop Athenry",
+    "e-commerce agency Galway",
+    "online sales Athenry",
+    "e-commerce consultant Ireland",
+    "Shopify expert Athenry",
+    "e-commerce near me"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free E-commerce Audit",
+  "ctaSecondary": "View E-commerce Case Studies"
+}

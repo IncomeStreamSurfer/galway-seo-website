@@ -1,0 +1,209 @@
+{
+  "id": "web-design-development-ballinasloe",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Ballinasloe",
+  "locationSlug": "ballinasloe",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Ballinasloe - Custom Websites That Convert | Kraft Agency",
+  "metaDescription": "Transform your Ballinasloe business with expert web design from Kraft Agency. Custom, conversion-focused websites that drive real results. Free consultation available!",
+
+  "heroHeadline": "Professional Web Design in Ballinasloe",
+  "heroSubheadline": "Custom Websites That Turn Visitors Into Customers",
+
+  "description": "Looking for exceptional web design in Ballinasloe? Kraft Agency delivers custom, conversion-focused websites that don't just look stunning – they drive real business results. As a leading digital agency serving Ballinasloe and County Galway, we combine cutting-edge design with powerful AI technology to create websites that engage visitors and maximize conversions.\n\nOur web design process for Ballinasloe businesses is rooted in data and user experience. We don't just build websites; we craft digital experiences that tell your brand story, showcase your unique value proposition, and guide visitors seamlessly toward taking action. Whether you're a Ballinasloe startup looking to make a splash or an established business ready to modernize your online presence, our team of expert designers and developers are ready to bring your vision to life.\n\nEvery website we create for Ballinasloe clients is fully responsive, optimized for search engines, and built with the latest web technologies. We specialize in creating fast-loading, accessible websites that perform beautifully on every device. From initial concept to launch and beyond, Kraft Agency is your trusted partner for web design excellence in Ballinasloe and throughout County Galway.",
+
+  "shortDescription": "Expert web design and development in Ballinasloe. Custom, conversion-optimized websites built with cutting-edge technology. Transform your online presence today.",
+
+  "benefits": [
+    "Custom, conversion-focused design tailored for Ballinasloe businesses",
+    "Fully responsive and mobile-optimized across all devices",
+    "SEO-friendly architecture for better local search rankings",
+    "Fast-loading performance for superior user experience",
+    "AI-powered optimization for maximum conversions",
+    "Ongoing support and maintenance included",
+    "Local County Galway team with global expertise",
+    "Transparent pricing with no hidden fees"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Strategy",
+      "description": "We begin with an in-depth consultation to understand your Ballinasloe business goals, target audience, and competitive landscape. This foundation ensures every design decision aligns with your objectives."
+    },
+    {
+      "step": 2,
+      "title": "Design & Prototyping",
+      "description": "Our designers create custom mockups and interactive prototypes, giving you a clear vision of your new website before development begins. We iterate based on your feedback until it's perfect."
+    },
+    {
+      "step": 3,
+      "title": "Development & Integration",
+      "description": "Our development team brings the design to life using modern technologies and best practices. We integrate all necessary tools, from analytics to CRM systems, ensuring everything works seamlessly."
+    },
+    {
+      "step": 4,
+      "title": "Testing & Optimization",
+      "description": "Before launch, we rigorously test your website across devices and browsers, optimizing performance, speed, and user experience to ensure flawless functionality."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Training",
+      "description": "We handle the launch process and provide comprehensive training so you can easily manage your new website. We're here for ongoing support whenever you need us."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Support",
+      "description": "Your website continues to evolve with your business. We provide ongoing maintenance, updates, and optimization to ensure peak performance and security."
+    }
+  ],
+
+  "pricingInfo": "Website design projects typically start from €2,500 for small business websites up to €15,000+ for complex e-commerce or enterprise solutions. We offer flexible payment plans and transparent pricing with no hidden costs. Contact us for a custom quote based on your specific Ballinasloe business needs.",
+
+  "serviceArea": "Ballinasloe and surrounding areas including Athenry, Loughrea, Portumna, and all of East County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Remote consultations available for Ballinasloe clients.",
+
+  "qualifications": [
+    "Award-winning design team",
+    "Full-stack development expertise",
+    "Google Partner certified",
+    "AI and automation specialists",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive on all devices",
+    "SEO-optimized from day one",
+    "90-day post-launch support included",
+    "Secure hosting and SSL certificates"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Modern web design workspace showcasing Ballinasloe web development",
+      "caption": "Professional Web Design Services in Ballinasloe",
+      "credit": {
+        "photographer": "Lee Campbell",
+        "unsplashUrl": "https://unsplash.com/photos/DtDlVpy-vvQ"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Responsive web design displayed on multiple devices",
+        "caption": "Mobile-optimized responsive design for Ballinasloe businesses",
+        "credit": {
+          "photographer": "Daniel Korpai",
+          "unsplashUrl": "https://unsplash.com/photos/pKRNxEguRgM"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional web development setup with MacBook and iMac",
+        "caption": "Cutting-edge web development technology",
+        "credit": {
+          "photographer": "Domenico Loia",
+          "unsplashUrl": "https://unsplash.com/photos/hGV2TfOh0ns"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558655146-d09347e92766?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Custom web design color palette on iMac",
+        "caption": "Custom design solutions for every business",
+        "credit": {
+          "photographer": "Balázs Kétyi",
+          "unsplashUrl": "https://unsplash.com/photos/_x335IZXxfc"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1542744094-3a31f272c490?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Web designer working on conversion-focused website",
+        "caption": "Conversion-focused design that drives results",
+        "credit": {
+          "photographer": "Campaign Creators",
+          "unsplashUrl": "https://unsplash.com/photos/iEiUITs149M"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Choose Kraft Agency for Web Design in Ballinasloe?",
+    "Our Web Design Process: From Concept to Launch",
+    "Custom Website Features That Drive Results",
+    "Web Design Portfolio: Success Stories from Ballinasloe",
+    "Frequently Asked Questions About Web Design",
+    "Ready to Transform Your Online Presence in Ballinasloe?"
+  ],
+
+  "faq": [
+    {
+      "question": "How long does it take to design and build a website in Ballinasloe?",
+      "answer": "Most website projects take 4-8 weeks from initial consultation to launch, depending on complexity and features. We work efficiently with Ballinasloe businesses through remote consultations and provide a detailed timeline during our discovery phase."
+    },
+    {
+      "question": "Do you provide ongoing support after the website launches?",
+      "answer": "Yes! All our web design projects include 90 days of post-launch support. We also offer ongoing maintenance packages to keep your Ballinasloe business website secure, updated, and performing at its best."
+    },
+    {
+      "question": "Will my website be mobile-friendly?",
+      "answer": "Absolutely. Every website we design is fully responsive and optimized for mobile, tablet, and desktop devices. With over 60% of web traffic coming from mobile devices, mobile optimization is essential for Ballinasloe businesses."
+    },
+    {
+      "question": "Can you help with content creation for my website?",
+      "answer": "Yes, we offer professional content writing and creation services. Our team can craft compelling copy that resonates with your Ballinasloe target audience and supports your local SEO goals."
+    },
+    {
+      "question": "How much does a website cost for a Ballinasloe business?",
+      "answer": "Website costs vary based on your specific requirements. Small business websites typically start from €2,500, while complex e-commerce or custom applications can range from €8,000-€15,000+. We provide transparent quotes with no hidden fees."
+    },
+    {
+      "question": "Do you offer website hosting and maintenance?",
+      "answer": "Yes, we offer secure, fast website hosting and comprehensive maintenance packages. This includes regular backups, security updates, performance optimization, and technical support for all Ballinasloe clients."
+    },
+    {
+      "question": "Will my website be optimized for search engines (SEO)?",
+      "answer": "Every website we build includes foundational SEO optimization – from clean code and fast loading speeds to proper meta tags and mobile responsiveness. We can also provide ongoing SEO services to help your Ballinasloe business rank higher in local search results."
+    },
+    {
+      "question": "Can you redesign my existing Ballinasloe business website?",
+      "answer": "Absolutely! We specialize in website redesigns that modernize your online presence while preserving what's working well. We'll analyze your current site's performance and create a strategy to improve conversions and user experience."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "web designer",
+    "website builder",
+    "custom website",
+    "responsive design",
+    "e-commerce website",
+    "business website",
+    "website redesign",
+    "web development agency"
+  ],
+  "localKeywords": [
+    "web design Ballinasloe",
+    "website design Ballinasloe",
+    "Ballinasloe web designer",
+    "web development Ballinasloe",
+    "website builder Ballinasloe",
+    "Ballinasloe digital agency",
+    "web design East Galway",
+    "Ballinasloe website company",
+    "Irish web design",
+    "web designer near me"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "View Our Portfolio"
+}

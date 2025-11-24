@@ -1,0 +1,209 @@
+{
+  "id": "seo-services-moycullen",
+  "service": "Search Engine Optimization (SEO)",
+  "serviceSlug": "seo-services",
+  "location": "Moycullen",
+  "locationSlug": "moycullen",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "SEO Moycullen - Rank #1 on Google | Kraft Agency",
+  "metaDescription": "Expert SEO services in Moycullen. Kraft Agency's data-driven strategies boost rankings, traffic & sales. Local SEO specialists. Free audit today!",
+
+  "heroHeadline": "Professional SEO Services in Moycullen",
+  "heroSubheadline": "AI-Powered SEO That Delivers Measurable Results",
+
+  "description": "Ready to dominate Google search results in Moycullen? Kraft Agency provides expert SEO services that combine proven strategies with cutting-edge AI technology to deliver real, measurable results for businesses in Moycullen and throughout County Galway. Our data-driven approach ensures your website ranks higher, attracts more qualified traffic, and converts visitors into customers.\n\nAt Kraft Agency, we understand that Moycullen businesses face unique challenges in the digital marketplace. Whether you're a local retailer, service provider, or professional practice, our comprehensive SEO strategies are tailored to your specific goals and target audience. We go beyond basic optimization to deliver technical excellence, compelling content, and strategic link building that puts your Moycullen business on the map.\n\nWhat sets us apart is our commitment to transparency and results. Every month, you'll receive detailed reports showing exactly how your SEO investment is performing – from keyword rankings and traffic growth to conversion metrics and ROI. Our team uses AI-powered tools to stay ahead of Google's algorithm changes, ensuring your Moycullen business maintains its competitive edge in search results.",
+
+  "shortDescription": "Professional SEO services in Moycullen. Increase visibility, drive qualified traffic, and grow revenue with expert optimization strategies.",
+
+  "benefits": [
+    "Dominate local search results in Moycullen and Galway",
+    "Increase qualified organic traffic and leads",
+    "Higher Google rankings for profitable keywords",
+    "AI-powered optimization for maximum ROI",
+    "Expert technical and content SEO implementation",
+    "Transparent reporting with real business metrics",
+    "Proven success with Irish businesses across industries",
+    "Dedicated support from experienced SEO specialists"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Comprehensive SEO Audit",
+      "description": "We begin with an in-depth audit of your website's SEO health, analyzing technical issues, content quality, backlinks, and competitive positioning specific to Moycullen and your target markets. This reveals critical opportunities for improvement."
+    },
+    {
+      "step": 2,
+      "title": "Keyword & Competitor Research",
+      "description": "Our team conducts extensive research to identify the exact keywords your Moycullen customers use when searching for your services. We analyze search volume, competition, and commercial intent to focus on terms that drive actual business results."
+    },
+    {
+      "step": 3,
+      "title": "Technical SEO Optimization",
+      "description": "We resolve technical issues that prevent search engines from properly crawling and ranking your site. This includes optimizing site speed, mobile responsiveness, site architecture, structured data, and Core Web Vitals – the foundation of successful SEO."
+    },
+    {
+      "step": 4,
+      "title": "Content Strategy & Development",
+      "description": "Our content experts create SEO-optimized content that resonates with your Moycullen audience while satisfying search engine requirements. Every piece is designed to rank well, engage readers, and drive conversions."
+    },
+    {
+      "step": 5,
+      "title": "Link Building Campaign",
+      "description": "We execute strategic link building to strengthen your website's authority. By earning high-quality backlinks from reputable Irish and international sources, we improve your ability to rank for competitive keywords in Moycullen and beyond."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Monitoring & Optimization",
+      "description": "SEO requires continuous attention. We monitor your Moycullen rankings daily, track performance metrics, and continuously optimize strategies based on data. Regular testing and refinement ensure you stay ahead of competitors and algorithm updates."
+    }
+  ],
+
+  "pricingInfo": "SEO services for Moycullen businesses start from €1,500 per month for targeted local campaigns, with comprehensive regional and national campaigns ranging from €3,000-€7,000+ per month depending on competition and scope. We create custom strategies aligned with your budget and growth goals. Contact us for a complimentary SEO audit and personalized proposal for your Moycullen business.",
+
+  "serviceArea": "Moycullen and surrounding areas including Galway City, Oughterard, Spiddal, Barna, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Dedicated SEO specialist assigned to your account.",
+
+  "qualifications": [
+    "Google Partner certified",
+    "15+ years SEO expertise",
+    "Technical SEO specialists",
+    "Content marketing experts",
+    "AI and automation certified"
+  ],
+  "yearsExperience": "15+ years combined SEO experience",
+  "guarantees": [
+    "Detailed monthly reporting with actionable insights",
+    "Ethical white-hat SEO practices exclusively",
+    "Custom strategy designed for your Moycullen business",
+    "Regular performance reviews and strategy updates",
+    "Flexible agreements - no lengthy contracts required"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1542744173-05336fcc7ad4?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "SEO specialist analyzing search rankings and marketing analytics in Moycullen",
+      "caption": "Professional SEO Services in Moycullen",
+      "credit": {
+        "photographer": "Campaign Creators",
+        "unsplashUrl": "https://unsplash.com/photos/pypeCEaJeZY"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1726066012699-1c843dad5fd8?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Digital marketer working on SEO strategy with laptop",
+        "caption": "Expert SEO optimization for Moycullen businesses",
+        "credit": {
+          "photographer": "SumUp",
+          "unsplashUrl": "https://unsplash.com/photos/KqiykWgHBtQ"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Analytics dashboard showing website traffic and SEO performance",
+        "caption": "Data-driven SEO performance tracking",
+        "credit": {
+          "photographer": "Carlos Muza",
+          "unsplashUrl": "https://unsplash.com/photos/hpjSkU2UYSU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1553877522-43269d4ea984?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "SEO team meeting discussing keyword strategy",
+        "caption": "Strategic keyword research and planning",
+        "credit": {
+          "photographer": "Mimi Thian",
+          "unsplashUrl": "https://unsplash.com/photos/ZKBzlifgkgw"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533750349088-cd871a92f312?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing strategy document with planning notes",
+        "caption": "Comprehensive SEO strategy development",
+        "credit": {
+          "photographer": "Campaign Creators",
+          "unsplashUrl": "https://unsplash.com/photos/yktK2qaiVHI"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Moycullen Businesses Choose Kraft Agency for SEO",
+    "Our Proven SEO Process: From Audit to Page One Rankings",
+    "Understanding Local SEO for Moycullen Businesses",
+    "SEO Success Stories: Results from Irish Businesses",
+    "Frequently Asked Questions About SEO in Moycullen",
+    "Get Started with Professional SEO in Moycullen"
+  ],
+
+  "faq": [
+    {
+      "question": "How quickly will I see SEO results in Moycullen?",
+      "answer": "Most Moycullen businesses begin seeing ranking improvements within 3-6 months, with substantial traffic increases typically occurring by 6-12 months. Local SEO for Moycullen-specific keywords often shows results faster than competitive national terms. We provide monthly reports so you can track steady progress from day one."
+    },
+    {
+      "question": "Is local SEO important for Moycullen businesses?",
+      "answer": "Absolutely! Local SEO is critical for Moycullen businesses serving the local area. It helps you rank for searches like 'services in Moycullen' or 'near me' queries, which are often high-intent searches from ready-to-buy customers. We optimize your Google Business Profile and local citations to maximize your Moycullen visibility."
+    },
+    {
+      "question": "Can you guarantee first page Google rankings?",
+      "answer": "While ethical SEO agencies cannot guarantee specific rankings due to Google's constantly changing algorithm, we guarantee our commitment to proven best practices and continuous optimization. Our track record shows that most Moycullen clients achieve first-page rankings for their primary keywords within 6-12 months."
+    },
+    {
+      "question": "What does SEO cost for Moycullen businesses?",
+      "answer": "SEO investment depends on your specific goals, competition level, and current website status. For Moycullen businesses, local SEO campaigns typically start at €1,500/month, while more competitive regional or national campaigns range from €3,000-€7,000/month. We provide transparent pricing after conducting your free initial audit."
+    },
+    {
+      "question": "What SEO services are included for Moycullen businesses?",
+      "answer": "Our comprehensive SEO package includes technical website optimization, strategic keyword research, content creation and optimization, on-page SEO, off-page link building, local SEO management, competitor analysis, and detailed monthly reporting with strategy consultations."
+    },
+    {
+      "question": "Will you create content for my Moycullen business?",
+      "answer": "Yes! Content creation is a core component of successful SEO. Our experienced content team produces SEO-optimized blog articles, service pages, and website copy specifically designed to rank well in search results while engaging your Moycullen audience and driving conversions."
+    },
+    {
+      "question": "How do you measure SEO success?",
+      "answer": "We track comprehensive metrics including keyword position changes, organic traffic growth, user engagement metrics, conversion rates, and business impact. Your monthly reports include all key performance indicators with clear explanations of what the data means for your Moycullen business growth."
+    },
+    {
+      "question": "Are your SEO methods safe and ethical?",
+      "answer": "Absolutely. We exclusively use white-hat SEO techniques that comply with Google's guidelines. While black-hat tactics might promise quick results, they risk severe penalties that can permanently damage your online presence. We focus on sustainable, long-term success for your Moycullen business."
+    }
+  ],
+
+  "keywords": [
+    "SEO services",
+    "search engine optimization",
+    "SEO agency",
+    "SEO expert",
+    "organic search",
+    "Google rankings",
+    "local SEO",
+    "technical SEO",
+    "SEO consultant",
+    "search marketing"
+  ],
+  "localKeywords": [
+    "SEO Moycullen",
+    "SEO services Galway",
+    "SEO agency Ireland",
+    "Moycullen SEO company",
+    "local SEO Moycullen",
+    "SEO consultant Galway",
+    "search engine optimization Ireland",
+    "Galway SEO expert",
+    "Irish SEO services",
+    "SEO near Moycullen"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free SEO Audit",
+  "ctaSecondary": "View SEO Case Studies"
+}

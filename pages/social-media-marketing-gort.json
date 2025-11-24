@@ -1,0 +1,188 @@
+{
+  "id": "social-media-marketing-gort",
+  "service": "Social Media Marketing",
+  "serviceSlug": "social-media-marketing",
+  "location": "Gort",
+  "locationSlug": "gort",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Social Media Marketing Gort - Engage Your Audience | Kraft",
+  "metaDescription": "Grow your Gort business with expert social media marketing from Kraft Agency. Build community, increase engagement & drive sales. Free strategy session!",
+  "heroHeadline": "Strategic Social Media Marketing in Gort",
+  "heroSubheadline": "Connect, Engage & Grow Your Business Online",
+
+  "description": "Ready to take your Gort business to the next level with social media? Kraft Agency specializes in creating powerful social media marketing strategies that connect local businesses with their community and drive real, measurable growth. Serving Gort and South Galway, we understand the local market dynamics and create content that resonates authentically with your target audience while showcasing your unique brand personality and business strengths.\n\nOur social media marketing services are designed for Gort businesses that want results, not just activity. We develop comprehensive strategies that increase brand visibility, drive customer engagement, generate quality leads, and convert followers into loyal customers. Whether you're looking to attract more local customers, expand your reach across County Galway, or build an online community around your brand, our team has the expertise and tools to make it happen. From daily content creation to strategic advertising campaigns, we manage every aspect of your social media presence.\n\nAt Kraft Agency, we combine creative storytelling with data-driven optimization to deliver exceptional results for Gort businesses. Every post, story, and campaign is strategically planned and executed to achieve your specific business goals. We track all meaningful metrics – engagement, reach, website traffic, leads, and conversions – and provide transparent monthly reports showing exactly how social media impacts your bottom line. Let us help your Gort business thrive in the digital world.",
+
+  "shortDescription": "Expert social media marketing for Gort businesses. Build engaged communities, increase brand visibility, and drive revenue with strategic social media.",
+
+  "benefits": [
+    "Enhanced brand visibility in Gort community",
+    "Higher engagement and customer interactions",
+    "Professional, consistent content delivery",
+    "Targeted campaigns reaching ideal customers",
+    "Daily monitoring and community management",
+    "AI-powered analytics and optimization",
+    "Multi-platform coverage and expertise",
+    "Detailed monthly performance reporting"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Strategy Development & Goal Setting",
+      "description": "We start with a comprehensive consultation to understand your Gort business, target market, competitive environment, and specific objectives. This discovery process shapes a custom social media strategy designed to achieve your unique business goals."
+    },
+    {
+      "step": 2,
+      "title": "Platform Optimization & Setup",
+      "description": "Our team optimizes your social media profiles across all relevant platforms, ensuring brand consistency, strategic keyword usage, and professional presentation. We set up proper tracking, business tools, and integrations to maximize platform capabilities."
+    },
+    {
+      "step": 3,
+      "title": "Content Planning & Calendar Creation",
+      "description": "We develop detailed monthly content calendars featuring diverse content types aligned with your business goals. Our strategic planning includes promotional campaigns, community engagement posts, educational content, and seasonal initiatives relevant to Gort."
+    },
+    {
+      "step": 4,
+      "title": "Professional Content Creation",
+      "description": "Our creative team produces all content assets including custom graphics, professional videos, photography, and compelling copy. Every piece is designed to stop the scroll, communicate value, and drive action from your Gort audience."
+    },
+    {
+      "step": 5,
+      "title": "Publishing & Community Engagement",
+      "description": "We schedule and publish content at optimal times for maximum reach, then actively engage with your community. Our team responds to comments and messages promptly, fostering relationships that build loyalty and turn followers into customers."
+    },
+    {
+      "step": 6,
+      "title": "Analysis & Continuous Improvement",
+      "description": "We monitor performance metrics daily and provide comprehensive monthly reports. Our data-driven approach ensures continuous optimization, testing new content types and strategies to consistently improve results for your Gort business."
+    }
+  ],
+
+  "pricingInfo": "Social media marketing packages for Gort businesses start from €800 per month for single-platform management with organic content, ranging to €4,000+ per month for comprehensive multi-platform strategies including paid advertising, video production, and advanced content creation. We customize our services to fit your specific needs and budget. Contact us for a free audit and personalized proposal.",
+
+  "serviceArea": "Gort and surrounding areas including Loughrea, Kinvara, Ardrahan, Kilcolgan, and all of South Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Social media monitoring and engagement available daily.",
+
+  "qualifications": [
+    "Meta Business Partner certified",
+    "Google Digital Marketing certified",
+    "HubSpot Social Media certified",
+    "10+ years combined experience",
+    "Award-winning content creators"
+  ],
+  "yearsExperience": "10+ years combined social media marketing experience",
+  "guarantees": [
+    "Custom strategy for your Gort business",
+    "Professional content creation and curation",
+    "Daily community monitoring and engagement",
+    "Transparent monthly reporting with insights",
+    "No long-term contracts required"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1599658880436-c61792e70672?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Social media marketing team working in Gort",
+      "caption": "Expert Social Media Marketing in Gort"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1622549037543-49cf1ca0babc?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Social media strategy development",
+        "caption": "Strategic planning and execution"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1620749423939-59b4a8348d0b?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Content creator producing social media content",
+        "caption": "Professional content creation"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1683977922495-3ab3ce7ba4e6?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Social media analytics and insights",
+        "caption": "Data-driven optimization"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1646446812442-d070b28dcd54?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Social media community engagement",
+        "caption": "Active community management"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Gort Businesses Trust Kraft Agency for Social Media",
+    "Our Comprehensive Social Media Marketing Process",
+    "Choosing the Right Social Platforms for Your Business",
+    "Social Media Success Stories from South Galway",
+    "Frequently Asked Questions About Social Media",
+    "Ready to Grow Your Gort Business on Social Media?"
+  ],
+
+  "faq": [
+    {
+      "question": "How will social media marketing benefit my Gort business?",
+      "answer": "Social media helps Gort businesses build local brand awareness, engage directly with customers, showcase your products or services, drive traffic to your location or website, generate leads, and increase sales. It's particularly effective for reaching younger demographics and building a loyal community around your brand."
+    },
+    {
+      "question": "Which social media platforms should we use?",
+      "answer": "The best platforms depend on your target audience and business type. Most Gort businesses benefit from Facebook for community reach and Instagram for visual storytelling. LinkedIn is essential for B2B and professional services. TikTok works well for reaching younger audiences. We'll assess your specific needs and recommend the optimal platform strategy."
+    },
+    {
+      "question": "How much time will social media marketing take?",
+      "answer": "When you partner with Kraft Agency, social media requires minimal time from you. We handle all strategy, content creation, scheduling, posting, community management, advertising, and reporting. You simply review our monthly content calendar, provide feedback, and share any specific promotions or updates you'd like featured."
+    },
+    {
+      "question": "Do you create all the content for our accounts?",
+      "answer": "Yes! Our team handles complete content creation including copywriting, graphic design, photography, and video production. While we welcome your input and any specific content you'd like to share, we manage all creative production to ensure professional, consistent content that represents your Gort business effectively."
+    },
+    {
+      "question": "How quickly will we see results?",
+      "answer": "You'll typically see increased engagement and follower growth within the first 1-2 months. More significant results like increased website traffic, lead generation, and revenue impact usually develop over 3-6 months as we build your audience, test strategies, and optimize performance. Social media delivers compound returns over time."
+    },
+    {
+      "question": "Should we invest in paid social media advertising?",
+      "answer": "Paid advertising significantly accelerates results and allows precise targeting of your ideal customers in Gort and surrounding areas. While organic content builds community, paid ads drive specific actions like website visits, calls, or purchases. We typically recommend combining organic and paid strategies for optimal results and ROI."
+    },
+    {
+      "question": "How do you measure the success of social media campaigns?",
+      "answer": "We track metrics that matter to your Gort business: engagement rates, reach, follower growth, website traffic from social, lead generation, conversion rates, and ROI. Monthly reports show exactly how social media contributes to your business goals with clear insights and recommendations for continued improvement."
+    },
+    {
+      "question": "Can you take over our existing social media accounts?",
+      "answer": "Absolutely! We can seamlessly assume management of your existing accounts on any platform. We'll conduct a comprehensive audit, optimize your profiles, develop an improved strategy, and begin implementing our approach. Many Gort businesses come to us with underperforming accounts that we transform into powerful growth tools."
+    }
+  ],
+
+  "keywords": [
+    "social media marketing",
+    "social media management",
+    "Instagram marketing",
+    "Facebook marketing",
+    "content creation",
+    "social media advertising",
+    "community management",
+    "social media strategy",
+    "brand awareness",
+    "digital marketing"
+  ],
+  "localKeywords": [
+    "social media marketing Gort",
+    "social media agency Gort",
+    "social media manager Gort",
+    "Facebook marketing Gort",
+    "Instagram marketing South Galway",
+    "social media Gort",
+    "digital marketing Gort",
+    "content marketing Galway",
+    "social media services Gort",
+    "marketing agency near me"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Request Your Free Social Media Audit",
+  "ctaSecondary": "View Our Work"
+}

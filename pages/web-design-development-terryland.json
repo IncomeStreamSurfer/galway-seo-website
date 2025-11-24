@@ -1,0 +1,208 @@
+{
+  "id": "web-design-development-terryland",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Terryland",
+  "locationSlug": "terryland",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Terryland Galway - Expert Website Design | Kraft Agency",
+  "metaDescription": "Expert web design for Terryland businesses. Kraft Agency creates powerful, conversion-optimized websites with proven results. Get your free consultation today!",
+  "heroHeadline": "Expert Web Design in Terryland",
+  "heroSubheadline": "Professional Websites Built for Business Success",
+
+  "description": "Need expert web design in Terryland? Kraft Agency creates powerful, conversion-optimized websites that help Terryland businesses thrive in the digital economy. Serving Terryland and across Galway City, we bring deep expertise in creating websites that don't just look professional—they actively generate leads, build credibility, and drive sales. Our web design services combine strategic thinking, creative excellence, and technical expertise to deliver websites that function as powerful business growth engines.\n\nYour Terryland business deserves a website built by experts who understand what actually works. Our web design approach is grounded in years of experience and proven results. We start by thoroughly understanding your business, your target customers in Terryland and beyond, your competitive landscape, and your specific growth objectives. Then we create a custom website that strategically positions your brand, communicates your unique value proposition, and guides visitors through an optimized conversion journey. Every element is informed by data, best practices, and our extensive experience—from strategic information architecture to persuasive copywriting and conversion-focused design.\n\nAt Kraft Agency, we build websites for Terryland businesses using professional-grade technologies and frameworks that ensure exceptional performance, enterprise security, and reliable scalability. Every website is fully responsive across all devices, comprehensively optimized for search engines, and built to the highest professional standards. We provide thorough training, dedicated ongoing support, and continuous strategic optimization to ensure your website keeps delivering results as your business grows. With expert service, transparent pricing, and a proven track record, Kraft Agency is the web design partner Terryland businesses trust for digital success.",
+
+  "shortDescription": "Expert web design for Terryland businesses. Professional, conversion-optimized websites with proven results and dedicated support. Free consultation available.",
+
+  "benefits": [
+    "Expert custom design backed by years of proven results",
+    "Professionally responsive across all devices and platforms",
+    "Advanced local SEO for maximum Galway City visibility",
+    "Optimized performance with fast loading speeds",
+    "Proven conversion optimization strategies and tactics",
+    "Dedicated expert support and strategic guidance",
+    "Terryland and Galway City expertise you can trust",
+    "Professional transparent pricing with clear value"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Strategic Discovery & Analysis",
+      "description": "We begin with a comprehensive discovery process to deeply understand your Terryland business, analyze your competitive position, identify your target audience, and define clear success metrics. This expert analysis creates the strategic foundation for a high-performing website."
+    },
+    {
+      "step": 2,
+      "title": "Expert Design & User Experience",
+      "description": "Our experienced designers create sophisticated visual concepts and high-fidelity prototypes based on proven UX principles and conversion optimization best practices. You'll review expert designs and provide feedback through professional collaborative iterations until we achieve optimal results."
+    },
+    {
+      "step": 3,
+      "title": "Professional Development & Integration",
+      "description": "Our expert developers build your website using industry-leading technologies and professional-grade methodologies. We integrate all necessary systems and tools—from advanced analytics and CRM platforms to payment gateways and marketing automation—ensuring seamless professional operation."
+    },
+    {
+      "step": 4,
+      "title": "Comprehensive Testing & QA",
+      "description": "Before launch, we conduct rigorous professional testing across all devices, browsers, and usage scenarios. We verify functionality, optimize performance to professional standards, ensure security compliance, and refine user experience based on expert evaluation and testing data."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Professional Training",
+      "description": "We expertly manage the complete launch process and provide comprehensive professional training so you can confidently manage your website. You'll receive detailed documentation, video tutorials, and ongoing access to expert support for questions and strategic guidance."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Optimization & Expert Support",
+      "description": "After launch, we continuously monitor performance metrics, analyze user behavior data, and implement expert strategic improvements. Your website evolves with your Terryland business through professional ongoing optimization, proactive security updates, and strategic enhancements informed by expert analysis."
+    }
+  ],
+
+  "pricingInfo": "Expert web design services for Terryland businesses typically range from €3,500 for professional small business websites to €18,000+ for comprehensive e-commerce platforms or custom enterprise applications. Our pricing reflects genuine expertise, proven results, and professional service quality. We offer flexible payment options and completely transparent pricing. Contact us for a detailed professional proposal.",
+
+  "serviceArea": "Terryland and surrounding areas including Galway City Centre, Doughiska, Ballybane, Renmore, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Expert dedicated support for clients.",
+
+  "qualifications": [
+    "Expert professional design team",
+    "Senior full-stack developers",
+    "Google Partner certified",
+    "Advanced AI and automation specialists",
+    "15+ years combined expert experience"
+  ],
+  "yearsExperience": "15+ years combined expert experience",
+  "guarantees": [
+    "100% satisfaction guarantee with expert review",
+    "Professional responsive design across all platforms",
+    "Expert SEO optimization from launch",
+    "90-day comprehensive expert support",
+    "Professional secure hosting with 99.9% uptime"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Expert web design workspace in Terryland Galway",
+      "caption": "Expert Web Design Services in Terryland",
+      "credit": {
+        "photographer": "Eftakher Alam",
+        "unsplashUrl": "https://unsplash.com/photos/i1VQZsU86ok"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional web development workspace",
+        "caption": "Expert development services",
+        "credit": {
+          "photographer": "Christopher Gower",
+          "unsplashUrl": "https://unsplash.com/photos/m_HRfLhgABo"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Expert web design UI elements",
+        "caption": "Professional design excellence",
+        "credit": {
+          "photographer": "Hal Gatewood",
+          "unsplashUrl": "https://unsplash.com/photos/tZc3vjPCk-Q"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional responsive design display",
+        "caption": "Expert responsive optimization",
+        "credit": {
+          "photographer": "Edho Pratama",
+          "unsplashUrl": "https://unsplash.com/photos/T6fDN60bMWY"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Advanced analytics dashboard",
+        "caption": "Expert data-driven optimization",
+        "credit": {
+          "photographer": "Carlos Muza",
+          "unsplashUrl": "https://unsplash.com/photos/hpjSkU2UYSU"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Terryland Businesses Trust Kraft Agency's Expert Web Design",
+    "Our Expert Web Design Process: Proven Methodology for Success",
+    "Professional Features That Drive Terryland Business Growth",
+    "Success Stories: Expert Websites That Delivered Results",
+    "Expert Answers to Your Web Design Questions",
+    "Partner with Terryland's Trusted Web Design Experts"
+  ],
+
+  "faq": [
+    {
+      "question": "What makes your web design expertise different for Terryland businesses?",
+      "answer": "Our expertise comes from 15+ years of proven results, deep understanding of conversion optimization, strategic approach backed by data and analytics, professional-grade technical execution, and ongoing commitment to staying at the forefront of web design best practices. We don't just build websites—we create strategic digital assets that deliver measurable business results for Terryland businesses."
+    },
+    {
+      "question": "How long does an expert web design project take?",
+      "answer": "Expert website projects for Terryland businesses typically take 4-8 weeks from initial consultation to launch. Timeline reflects our thorough professional process including strategic discovery, comprehensive design, professional development, and rigorous testing. We provide a detailed schedule with clear milestones so you understand our expert process throughout."
+    },
+    {
+      "question": "What level of ongoing support do you provide?",
+      "answer": "Every Terryland website includes 90 days of comprehensive expert support covering technical issues, strategic guidance, and optimization recommendations. We also offer professional ongoing support packages that include expert hosting management, proactive monitoring, security updates, performance optimization, strategic consultation, and priority technical support from our expert team."
+    },
+    {
+      "question": "How do you ensure my website will perform well?",
+      "answer": "We ensure performance through expert technical optimization, comprehensive testing across devices and browsers, performance monitoring and continuous optimization, proven conversion optimization strategies, strategic SEO implementation, and ongoing analysis and improvements based on real performance data. Our expertise ensures your Terryland business website performs at professional standards."
+    },
+    {
+      "question": "What is the investment for expert web design?",
+      "answer": "Expert web design for Terryland businesses typically ranges from €3,500 for professional small business websites to €18,000+ for comprehensive e-commerce or custom solutions. Our pricing reflects genuine professional expertise, proven methodologies, and superior results. We provide detailed transparent proposals that clearly demonstrate the value and expected ROI of our expert services."
+    },
+    {
+      "question": "Do you provide expert SEO services?",
+      "answer": "Yes! Every website includes expert foundational SEO including technical optimization, strategic keyword research, on-page optimization, schema markup, and best practices implementation. We also offer advanced ongoing SEO services with expert strategic consultation, comprehensive competitor analysis, content optimization, link building, and continuous performance monitoring to help your Terryland business dominate local search results."
+    },
+    {
+      "question": "Can you redesign my existing website with expert optimization?",
+      "answer": "Absolutely! We specialize in expert website redesigns for Terryland businesses. We conduct comprehensive audits, develop strategic redesign plans based on data and best practices, create professional new designs, implement expert technical improvements, and optimize every aspect to professional standards. Our expert approach ensures your redesigned website delivers significantly better business results."
+    },
+    {
+      "question": "How do you measure success for Terryland business websites?",
+      "answer": "We measure success through comprehensive professional metrics including conversion rates and lead generation, organic search traffic and rankings, user engagement and behavior patterns, page performance and loading speeds, bounce rates and user flow analysis, and ultimately revenue impact and ROI. Our expert approach focuses on metrics that actually matter for your Terryland business growth and success."
+    }
+  ],
+
+  "keywords": [
+    "expert web design",
+    "professional website",
+    "web design",
+    "website development",
+    "web designer",
+    "custom website",
+    "business website",
+    "responsive design",
+    "web development",
+    "digital agency"
+  ],
+  "localKeywords": [
+    "web design Terryland",
+    "expert web design Galway",
+    "Terryland web designer",
+    "professional website Galway",
+    "web development Terryland",
+    "Galway City web design",
+    "Terryland website company",
+    "expert web designer Galway",
+    "Terryland digital agency",
+    "professional web design Galway"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Expert Consultation in Terryland",
+  "ctaSecondary": "View Expert Portfolio"
+}

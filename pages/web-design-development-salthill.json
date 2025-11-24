@@ -1,0 +1,188 @@
+{
+  "id": "web-design-development-salthill",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Salthill",
+  "locationSlug": "salthill",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Salthill - Tourism & Hospitality Websites | Kraft Agency",
+  "metaDescription": "Salthill web design specialists. Kraft Agency creates stunning websites for tourism, hospitality, and local Salthill businesses. Drive bookings and customers. Call +353 86 153 0832!",
+  "heroHeadline": "Expert Web Design in Salthill",
+  "heroSubheadline": "Websites That Capture Salthill's Vibrant Spirit",
+
+  "description": "Salthill is Galway's premier seaside destination, and your website should reflect the energy and appeal of this vibrant location. Kraft Agency specializes in creating stunning websites for Salthill businesses, particularly in tourism, hospitality, restaurants, and retail. We understand what it takes to attract visitors and convert them into customers for Salthill establishments.\n\nOur web design services are perfect for Salthill hotels, B&Bs, restaurants, cafes, tour operators, and retail shops. We create visually striking websites with integrated booking systems, online menus, photo galleries, and e-commerce capabilities. Each website is designed to showcase what makes your Salthill business special and encourage visitors to take action – whether that's making a reservation, placing an order, or visiting your location.\n\nAs a local agency serving Salthill, we know the area well and understand the seasonal nature of tourism businesses. We build websites that not only look beautiful but also perform exceptionally well in search engines, helping Salthill businesses attract both local customers and tourists throughout the year. Let us help your Salthill business stand out online.",
+
+  "shortDescription": "Web design specialists for Salthill tourism, hospitality, and retail businesses. Beautiful, conversion-focused websites. Contact Kraft Agency: +353 86 153 0832 or hello@kraftagency.ie.",
+
+  "benefits": [
+    "Specialized expertise in Salthill tourism and hospitality websites",
+    "Integrated booking and reservation systems",
+    "Beautiful photo galleries showcasing your Salthill location",
+    "Mobile-optimized for tourists searching on the go",
+    "SEO-optimized to attract visitors to Salthill",
+    "Online ordering and e-commerce capabilities",
+    "Multi-language support for international visitors",
+    "Fast loading for excellent user experience"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Strategy",
+      "description": "We learn about your Salthill business, your target customers, and what makes you unique. We'll discuss features you need like booking systems, menus, or e-commerce capabilities."
+    },
+    {
+      "step": 2,
+      "title": "Design & Prototyping",
+      "description": "Our designers create stunning mockups that capture the essence of your Salthill business. We'll incorporate your branding, beautiful imagery, and intuitive layouts that encourage bookings and purchases."
+    },
+    {
+      "step": 3,
+      "title": "Development & Integration",
+      "description": "We build your website with modern technology and integrate all necessary systems – from booking engines to payment processing. Everything works seamlessly for your Salthill customers."
+    },
+    {
+      "step": 4,
+      "title": "Content & Photography",
+      "description": "We can help with professional photography of your Salthill location and write compelling content that attracts visitors and ranks well in search engines."
+    },
+    {
+      "step": 5,
+      "title": "Testing & Launch",
+      "description": "We thoroughly test all features, booking systems, and forms before launch. Your website will be fast, secure, and ready to attract Salthill customers from day one."
+    },
+    {
+      "step": 6,
+      "title": "Training & Support",
+      "description": "We provide comprehensive training on managing bookings, updating menus, and adding content. Ongoing support ensures your Salthill website continues performing at its best."
+    }
+  ],
+
+  "pricingInfo": "Web design for Salthill tourism and hospitality businesses typically ranges from €3,500 to €12,000, depending on features like booking systems and e-commerce. We offer seasonal payment plans perfect for Salthill businesses. Contact us for a custom quote.",
+
+  "serviceArea": "Salthill and surrounding areas including Galway City, Knocknacarra, Barna, and all of Galway Bay",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Happy to meet at your Salthill location. Email: hello@kraftagency.ie",
+
+  "qualifications": [
+    "Specialists in tourism and hospitality websites",
+    "Experience with booking and reservation systems",
+    "E-commerce and online ordering expertise",
+    "SEO specialists for Salthill businesses",
+    "Local knowledge of Salthill market"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "Mobile-responsive design guaranteed",
+    "Integrated booking system setup",
+    "SEO-optimized for tourism searches",
+    "90-day post-launch support",
+    "Training on all website features"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1603985585179-3d71c35a537c?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "Modern web design for Salthill businesses",
+      "caption": "Beautiful Web Design for Salthill Tourism & Hospitality"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1627599936744-51d288f89af4?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Collaborative website planning",
+        "caption": "Working together on your Salthill website"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1618477388954-7852f32655ec?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Professional web development",
+        "caption": "Expert development for Salthill businesses"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1688733720228-4f7a18681c4f?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Responsive website on multiple devices",
+        "caption": "Perfect on every device"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1707836868495-3307d371aba4?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Website design mockup",
+        "caption": "Professional mockups before development"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Salthill Businesses Trust Kraft Agency",
+    "Web Design Process for Tourism & Hospitality",
+    "Essential Features for Salthill Business Websites",
+    "Success Stories from Salthill Companies",
+    "Salthill Web Design FAQs",
+    "Ready to Boost Your Salthill Business Online?"
+  ],
+
+  "faq": [
+    {
+      "question": "Can you integrate a booking system into my Salthill hotel or B&B website?",
+      "answer": "Absolutely! We specialize in integrating booking and reservation systems for Salthill hospitality businesses. Whether you need a simple contact form or a full booking engine with availability calendars and payment processing, we can implement the perfect solution."
+    },
+    {
+      "question": "How can a website help my Salthill restaurant attract more customers?",
+      "answer": "A professional website with an attractive menu, beautiful photos, online reservations, and even online ordering can significantly increase your Salthill restaurant's visibility and bookings. We'll optimize it for local searches so tourists and locals can easily find you."
+    },
+    {
+      "question": "Will my website attract international tourists to Salthill?",
+      "answer": "Yes! We optimize your website for international search engines and can implement multi-language support. Your Salthill business will be discoverable by tourists planning their Galway Bay visit from anywhere in the world."
+    },
+    {
+      "question": "Can you help with professional photography of my Salthill location?",
+      "answer": "Yes, we work with professional photographers who can capture stunning images of your Salthill property, restaurant, or shop. Beautiful photography is crucial for tourism and hospitality websites."
+    },
+    {
+      "question": "How quickly can you build a website for my Salthill business?",
+      "answer": "Standard websites take 4-8 weeks. If you have an urgent need before peak tourist season, we can often accommodate faster timelines for Salthill businesses."
+    },
+    {
+      "question": "Do you offer e-commerce for Salthill retail shops?",
+      "answer": "Yes! We build complete e-commerce websites with product catalogs, shopping carts, and secure payment processing. Perfect for Salthill shops wanting to sell online to tourists after they return home."
+    },
+    {
+      "question": "What's the cost of a website for a Salthill tourism business?",
+      "answer": "Tourism and hospitality websites typically start from €3,500 depending on features needed. We offer flexible payment plans that work well for seasonal Salthill businesses. Contact us for a personalized quote."
+    },
+    {
+      "question": "Will you help us rank on Google for Salthill searches?",
+      "answer": "Yes! Every website includes SEO optimization to help you rank for searches like 'hotels in Salthill,' 'restaurants Salthill,' or 'things to do in Salthill.' We can also provide ongoing SEO services for even better results."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "tourism website",
+    "hospitality website",
+    "restaurant website",
+    "hotel website",
+    "booking system",
+    "e-commerce website",
+    "responsive design",
+    "web designer"
+  ],
+  "localKeywords": [
+    "web design Salthill",
+    "website design Salthill",
+    "Salthill web designer",
+    "tourism website Salthill",
+    "restaurant website Salthill",
+    "hotel website Salthill Galway",
+    "web development Salthill",
+    "Salthill digital agency",
+    "website builder Salthill",
+    "Galway Bay web design"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "View Tourism Websites We've Built"
+}

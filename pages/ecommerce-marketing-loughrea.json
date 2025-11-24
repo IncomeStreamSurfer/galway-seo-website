@@ -1,0 +1,209 @@
+{
+  "id": "ecommerce-marketing-loughrea",
+  "service": "E-commerce Marketing & Development",
+  "serviceSlug": "ecommerce-marketing",
+  "location": "Loughrea",
+  "locationSlug": "loughrea",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "E-commerce Marketing Loughrea - Drive Online Sales | Kraft Agency",
+  "metaDescription": "Grow your Loughrea business online with Kraft Agency's e-commerce expertise. Professional Shopify development and marketing that drives sales. Free consultation!",
+
+  "heroHeadline": "Drive Online Sales for Your Loughrea Business",
+  "heroSubheadline": "Complete E-commerce Solutions That Deliver Results",
+
+  "description": "Ready to grow your Loughrea business through online sales? Kraft Agency delivers comprehensive e-commerce marketing and development solutions for businesses throughout Loughrea and South East Galway. From local retailers and agricultural businesses to artisan producers and service providers, we help transform traditional businesses into thriving online retailers. Our complete approach covers everything from building conversion-optimized Shopify stores to managing profitable multi-channel marketing campaigns that drive consistent revenue growth.\n\nOur e-commerce methodology is built on proven strategies and cutting-edge technology. We start by creating your online store with professional design, mobile optimization, fast performance, and seamless checkout experience – all optimized to convert visitors into customers. Then we drive qualified traffic through strategic marketing: Google Shopping ads to capture customers actively searching for your products, Facebook and Instagram advertising to build brand awareness and drive sales, SEO to rank for product keywords, and email marketing automation to maximize customer lifetime value. Every element is continuously tested and optimized using AI-powered tools to ensure maximum ROI.\n\nWhat sets Kraft Agency apart as your e-commerce partner for Loughrea businesses is our local presence combined with global e-commerce expertise. We understand the Loughrea and South East Galway markets, we're available for in-person meetings, and we're invested in your long-term success. Our data-driven approach and use of AI optimization ensures your e-commerce strategy consistently outperforms competitors and drives sustainable business growth.",
+
+  "shortDescription": "Complete e-commerce solutions for Loughrea businesses. Expert Shopify development, strategic marketing, and optimization for online revenue growth.",
+
+  "benefits": [
+    "Complete e-commerce solutions from build to growth",
+    "Professional Shopify or WooCommerce store development",
+    "Conversion-optimized design that maximizes sales",
+    "Multi-channel marketing across Google, Facebook, Instagram",
+    "AI-powered optimization for continuous improvement",
+    "Email marketing automation for repeat purchases",
+    "Local Loughrea expertise with proven results",
+    "Transparent reporting and dedicated account management"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "E-commerce Strategy Session",
+      "description": "We begin with comprehensive analysis of your Loughrea business, products, target customers, competitors, and revenue objectives. We develop a customized e-commerce roadmap designed to achieve your specific goals."
+    },
+    {
+      "step": 2,
+      "title": "Online Store Development",
+      "description": "We build your e-commerce store on the optimal platform (typically Shopify) with professional design, mobile optimization, fast loading, intuitive navigation, secure payments, and conversion-focused product pages."
+    },
+    {
+      "step": 3,
+      "title": "Product Setup & SEO",
+      "description": "We create compelling product descriptions, optimize images for web performance, set up logical product categories, implement SEO best practices, and add structured data so your Loughrea products rank in search engines and Google Shopping."
+    },
+    {
+      "step": 4,
+      "title": "Multi-Channel Marketing Launch",
+      "description": "We launch integrated campaigns across Google Shopping ads for immediate visibility, Facebook/Instagram advertising for brand awareness and conversions, and email marketing for customer retention. Each channel is optimized for your specific audience."
+    },
+    {
+      "step": 5,
+      "title": "Conversion Optimization",
+      "description": "Using AI-powered A/B testing, we continuously test and improve your store's conversion rate. We optimize checkout flows, product page layouts, mobile experience, calls-to-action, and user journeys to maximize sales from every visitor."
+    },
+    {
+      "step": 6,
+      "title": "Growth & Scaling",
+      "description": "As your Loughrea e-commerce business grows, we help you scale successfully. This includes expanding product offerings, entering new markets, optimizing operations and fulfillment, and increasing marketing investment profitably."
+    }
+  ],
+
+  "pricingInfo": "E-commerce store development starts from €5,000 for professional Shopify stores with custom design. Ongoing e-commerce marketing services range from €2,500/month for essential management and advertising to €8,000+/month for comprehensive solutions including SEO, paid ads, email marketing, and continuous optimization. Custom packages tailored for Loughrea businesses.",
+
+  "serviceArea": "Loughrea and surrounding areas including Athenry, Ballinasloe, Gort, Portumna, and South East County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Available for in-person consultations in Loughrea and surrounding areas.",
+
+  "qualifications": [
+    "Certified Shopify Partner agency",
+    "Google Ads & Shopping certified",
+    "Facebook Blueprint certified",
+    "E-commerce conversion specialists",
+    "15+ years combined e-commerce experience"
+  ],
+  "yearsExperience": "15+ years combined e-commerce experience",
+  "guarantees": [
+    "Professional e-commerce store guarantee",
+    "Mobile-optimized design included",
+    "Transparent monthly reporting",
+    "Conversion improvement commitment",
+    "Flexible service agreements"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "E-commerce marketing for Loughrea businesses",
+      "caption": "E-commerce Solutions in Loughrea",
+      "credit": {
+        "photographer": "Unsplash",
+        "unsplashUrl": "https://unsplash.com/photos/Q59HmzK38eQ"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1688561808434-886a6dd97b8c?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "E-commerce website development",
+        "caption": "Professional online store development",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/slLo94wES2M"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1664455340023-214c33a9d0bd?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "E-commerce shopping optimization",
+        "caption": "Conversion-optimized shopping experiences",
+        "credit": {
+          "photographer": "Shutter Speed",
+          "unsplashUrl": "https://unsplash.com/photos/BQ9usyzHx_w"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Mobile e-commerce shopping",
+        "caption": "Mobile-optimized e-commerce",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/pwxESDWRwDE"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1586880244406-556ebe35f282?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "E-commerce performance analytics",
+        "caption": "Data-driven e-commerce strategy",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/ejhjSZKTeeg"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Loughrea Businesses Choose Kraft Agency for E-commerce",
+    "Our Complete E-commerce Development & Marketing Process",
+    "E-commerce Platforms: Which is Right for Your Loughrea Business?",
+    "E-commerce Success Stories from South East Galway",
+    "E-commerce Marketing FAQs for Loughrea Businesses",
+    "Ready to Launch Your Loughrea Online Store?"
+  ],
+
+  "faq": [
+    {
+      "question": "How can e-commerce grow my Loughrea business?",
+      "answer": "E-commerce allows you to sell 24/7, reach customers across Ireland and internationally, capture online product searches, reduce dependence on local foot traffic, and significantly increase revenue. Many Loughrea businesses see 40-80% revenue growth by adding e-commerce."
+    },
+    {
+      "question": "What's the best e-commerce platform?",
+      "answer": "We typically recommend Shopify for most Loughrea businesses due to its reliability, ease of use, mobile optimization, comprehensive features, and excellent support. WooCommerce is great if you're already on WordPress. We'll recommend the best platform for your specific products and needs."
+    },
+    {
+      "question": "How long does it take to build an e-commerce store?",
+      "answer": "Most Shopify stores take 4-6 weeks from initial consultation to launch, including design, development, product setup, payment integration, and thorough testing. More complex stores may take 8-10 weeks. We can accommodate accelerated timelines for urgent Loughrea launches."
+    },
+    {
+      "question": "Do you offer product photography services?",
+      "answer": "Yes! We provide professional product photography and copywriting services. We can photograph products at our studio or your Loughrea location. High-quality product photos are crucial for e-commerce success and significantly improve conversion rates."
+    },
+    {
+      "question": "How much should I invest in e-commerce marketing?",
+      "answer": "Most successful Loughrea e-commerce businesses invest €2,500-€7,000/month in marketing services plus advertising budget (typically €1,000-€3,000/month starting out). Investment depends on your revenue goals, products, and competition. We create custom strategies for your business."
+    },
+    {
+      "question": "Can you integrate with my accounting system?",
+      "answer": "Absolutely! We integrate e-commerce stores with popular accounting software like Xero and QuickBooks, inventory management systems, CRM platforms, and shipping providers. This ensures seamless operations as your Loughrea business scales online."
+    },
+    {
+      "question": "What results should I expect?",
+      "answer": "Results vary by industry, but our Loughrea e-commerce clients typically see 20-40% increases in conversion rates, 50-100%+ increases in organic traffic within 6-12 months, and 3-5X return on ad spend. We focus on sustainable, profitable growth for your business."
+    },
+    {
+      "question": "Do you provide ongoing support?",
+      "answer": "Yes! We offer comprehensive ongoing support including store maintenance, product updates, marketing campaign management, conversion optimization, technical support, and strategic guidance. Most Loughrea clients work with us on monthly retainers for continuous growth and success."
+    }
+  ],
+
+  "keywords": [
+    "e-commerce marketing",
+    "online store development",
+    "Shopify store",
+    "e-commerce SEO",
+    "Google Shopping",
+    "online retail",
+    "e-commerce optimization",
+    "online sales growth",
+    "e-commerce website",
+    "digital commerce"
+  ],
+  "localKeywords": [
+    "e-commerce marketing Loughrea",
+    "online store Loughrea",
+    "Shopify developer Loughrea",
+    "e-commerce South East Galway",
+    "web shop Loughrea",
+    "e-commerce agency Galway",
+    "online sales Loughrea",
+    "e-commerce consultant Ireland",
+    "Shopify expert Loughrea",
+    "e-commerce near me"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free E-commerce Audit",
+  "ctaSecondary": "View E-commerce Portfolio"
+}

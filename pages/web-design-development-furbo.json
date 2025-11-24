@@ -1,0 +1,187 @@
+{
+  "id": "web-design-development-furbo",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Furbo",
+  "locationSlug": "furbo",
+  "serviceNiche": "Full-Service Digital Agency",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Furbo - Coastal Websites That Convert | Kraft Agency",
+  "metaDescription": "Professional web design in Furbo. Kraft Agency creates stunning, effective websites for coastal Galway businesses. Mobile-optimized, SEO-ready. Free consultation!",
+  "heroHeadline": "Expert Web Design Services in Furbo",
+  "heroSubheadline": "Custom Websites for Coastal Galway Businesses",
+
+  "description": "Looking for professional web design in Furbo? Kraft Agency creates custom websites that help coastal Galway businesses succeed online. Whether you're a beach-side business in Furbo, a service provider along Galway Bay, or a company serving the Connemara coastline, we build websites designed to attract customers and showcase your unique coastal location.\n\nOur web design approach for Furbo businesses combines coastal aesthetics with strategic functionality. We understand that your website needs to capture the beauty of Galway Bay while providing clear information and easy ways for customers to contact or book your services. Every design element is carefully crafted to reflect the coastal character of Furbo while guiding users toward taking action with your business.\n\nEvery website we create is fully responsive, search engine optimized, and built with modern web technologies that ensure exceptional performance. We understand the unique position of Furbo – close to Galway City yet with its own coastal charm – and create websites that attract both local customers and visitors to the Galway Bay area. From concept to launch and ongoing support, Kraft Agency is your trusted partner for web design excellence in Furbo.",
+
+  "shortDescription": "Expert web design and development in Furbo. Custom websites optimized for coastal businesses, tourism, and Galway Bay enterprises.",
+
+  "benefits": [
+    "Custom web design for Furbo and coastal Galway businesses",
+    "Mobile-responsive design for all screen sizes",
+    "SEO-optimized to attract Galway Bay visitors",
+    "Fast-loading performance for superior user experience",
+    "Conversion-focused layouts that drive results",
+    "Complete training and ongoing support",
+    "Experience with coastal and tourism sectors",
+    "Transparent pricing with flexible payment options"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Coastal Business Discovery",
+      "description": "We begin by understanding your Furbo business – your unique offerings, your coastal location advantages, and your target customers. This strategic foundation guides all our design decisions."
+    },
+    {
+      "step": 2,
+      "title": "Custom Design Creation",
+      "description": "Our design team creates custom mockups that capture the coastal beauty of Furbo and Galway Bay while showcasing your business professionally. We iterate based on your feedback until it's perfect."
+    },
+    {
+      "step": 3,
+      "title": "Professional Development",
+      "description": "Our developers build your website using modern technologies and best practices. We integrate all necessary tools and ensure your Furbo website works flawlessly across all devices."
+    },
+    {
+      "step": 4,
+      "title": "Comprehensive Testing",
+      "description": "We thoroughly test your website across devices, browsers, and connection speeds. Every element is optimized to ensure excellent performance for Furbo customers and Galway Bay visitors."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Training",
+      "description": "We handle all technical aspects of launching your website and provide thorough training so you can confidently manage your content and showcase your Furbo business."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Support",
+      "description": "We're here for the long term. Our maintenance and support services ensure your Furbo website stays secure, fast, and effective as your business grows along the Galway coast."
+    }
+  ],
+
+  "pricingInfo": "Web design projects for Furbo businesses typically start from €2,500 for professional small business websites up to €10,000+ for e-commerce or booking systems. We offer payment plans and transparent pricing. Contact us for a personalized quote.",
+
+  "serviceArea": "Furbo and surrounding coastal areas including Spiddal, Barna, Galway City, Salthill, and all of Galway Bay",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Flexible consultation times for Furbo business owners.",
+
+  "qualifications": [
+    "Professional web design team",
+    "Full-stack development capabilities",
+    "Google Partner certification",
+    "Coastal business specialists",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive design guaranteed",
+    "SEO-optimized from launch",
+    "90-day post-launch support",
+    "Secure SSL certificates"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1583508915901-b5f84c1dcde1?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "Professional web design workspace for Furbo businesses",
+      "caption": "Professional Web Design Services in Furbo"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Responsive web design on multiple devices",
+        "caption": "Mobile-optimized for Galway Bay"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "MacBook and iMac web design workspace",
+        "caption": "Professional tools for coastal businesses"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Code editor on monitor",
+        "caption": "Expert development for Furbo"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "MacBook with code on desk",
+        "caption": "Modern web technologies"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Furbo Businesses Choose Kraft Agency",
+    "Our Web Design Process: From Strategy to Success",
+    "Essential Features for Coastal Business Websites",
+    "Success Stories from Galway Bay Businesses",
+    "Frequently Asked Questions About Web Design",
+    "Ready to Build Your Furbo Website?"
+  ],
+
+  "faq": [
+    {
+      "question": "Do you work with businesses in Furbo and along Galway Bay?",
+      "answer": "Yes! We work with businesses throughout Furbo and the wider coastal Galway area. We understand the unique advantages of coastal locations and create websites that showcase your proximity to Galway Bay."
+    },
+    {
+      "question": "How long does it take to build a website?",
+      "answer": "Most website projects take 4-8 weeks from initial consultation to launch. The exact timeline depends on the complexity of your site and how quickly we receive content and feedback. We'll provide a clear timeline during our discovery session."
+    },
+    {
+      "question": "Will my website work on mobile devices?",
+      "answer": "Absolutely! Every website we build is fully responsive and optimized for mobile devices, tablets, and desktops. Mobile optimization is essential for reaching Furbo customers and visitors to Galway Bay."
+    },
+    {
+      "question": "Can you help showcase our coastal location?",
+      "answer": "Yes! We can recommend photographers familiar with Furbo and Galway Bay, or source stunning coastal imagery that highlights your unique location and attracts customers drawn to the seaside."
+    },
+    {
+      "question": "What does web design cost for a Furbo business?",
+      "answer": "Website costs vary based on your specific needs. Professional small business websites typically start from €2,500, while e-commerce sites or custom applications range from €5,000-€12,000+. We provide detailed, transparent quotes."
+    },
+    {
+      "question": "Do you provide website hosting and maintenance?",
+      "answer": "Yes, we offer reliable hosting and comprehensive maintenance packages for Furbo businesses. This includes security monitoring, regular backups, software updates, and technical support."
+    },
+    {
+      "question": "Will my website be optimized for search engines?",
+      "answer": "Every website we build includes foundational SEO optimization – clean code, fast loading, proper meta tags, and mobile responsiveness. We can also provide ongoing SEO services to help you rank for Furbo and Galway Bay searches."
+    },
+    {
+      "question": "What happens after my website launches?",
+      "answer": "All websites include 90 days of post-launch support. We monitor performance, fix any issues, and help you get comfortable managing your site. We also offer ongoing maintenance packages for continued support."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "custom website",
+    "responsive design",
+    "coastal business website",
+    "business website",
+    "professional web design",
+    "mobile website",
+    "tourism website",
+    "web development services"
+  ],
+  "localKeywords": [
+    "web design Furbo",
+    "website design Galway Bay",
+    "Furbo web developer",
+    "web development Furbo",
+    "Furbo website company",
+    "coastal Galway web design",
+    "Galway Bay digital agency",
+    "website builder Furbo",
+    "Furbo web services",
+    "local web design Furbo"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "Email Us: hello@kraftagency.ie"
+}

@@ -1,0 +1,189 @@
+{
+  "id": "video-production-loughrea",
+  "service": "Video Production & Marketing",
+  "serviceSlug": "video-production",
+  "location": "Loughrea",
+  "locationSlug": "loughrea",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Video Production Loughrea - Quality Video Content | Kraft Agency",
+  "metaDescription": "Professional video production in Loughrea, Co. Galway. Create engaging videos that showcase your business. Expert filming & editing. Get your free consultation!",
+
+  "heroHeadline": "Quality Video Production in Loughrea",
+  "heroSubheadline": "Professional Video Content That Delivers Results",
+
+  "description": "Need professional video production in Loughrea? Kraft Agency provides comprehensive video services to businesses throughout Loughrea and South Galway. We create engaging video content that showcases your business, tells your story, and drives real results. From promotional videos and social media content to corporate communications and training materials, our experienced team delivers professional quality that elevates your brand.\n\nOur video production services in Loughrea cover the complete creative journey. We start by understanding your business objectives and target audience, then develop creative concepts that resonate. Using professional cinema cameras, lighting, and audio equipment, we capture stunning footage that brings your vision to life. Our expert editors then polish your content with professional color grading, sound design, motion graphics, and effects that make your videos stand out in a crowded digital landscape.\n\nWhat sets Kraft Agency apart is our strategic approach to video production. We're not just creating videos – we're developing content assets that work hard to achieve your business goals. Whether you need to increase brand awareness, generate leads, drive sales, or improve customer engagement, every video we produce in Loughrea is designed with measurable objectives in mind. With professional equipment, creative expertise, and a commitment to delivering results for South Galway businesses, we're your trusted video production partner.",
+
+  "shortDescription": "Professional video production in Loughrea and South Galway. Strategic video content that drives business growth.",
+
+  "benefits": [
+    "Serving Loughrea and South Galway region",
+    "Professional cinema-grade equipment",
+    "Full-service production from concept to delivery",
+    "Strategic marketing-focused approach",
+    "Expert editing and post-production",
+    "Multi-platform content optimization",
+    "Competitive pricing for local businesses",
+    "Personal service with quick response"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Strategy Consultation",
+      "description": "We meet to understand your business, objectives, and target audience. Together we develop a video strategy and creative direction that aligns with your marketing goals."
+    },
+    {
+      "step": 2,
+      "title": "Pre-Production Planning",
+      "description": "Our team handles scriptwriting, storyboarding, location planning, talent coordination, and all logistics to ensure your filming day runs smoothly and efficiently."
+    },
+    {
+      "step": 3,
+      "title": "Professional Filming",
+      "description": "Using cinema-quality cameras, professional lighting, and expert audio recording, we capture high-quality footage at your Loughrea location or in our studio facility."
+    },
+    {
+      "step": 4,
+      "title": "Expert Editing",
+      "description": "Our post-production team crafts your raw footage into compelling final videos with color correction, sound design, graphics, animations, and professional finishing touches."
+    },
+    {
+      "step": 5,
+      "title": "Client Feedback",
+      "description": "We share draft versions for your review and incorporate your feedback with revisions until the final video exceeds your expectations and achieves your vision."
+    },
+    {
+      "step": 6,
+      "title": "Delivery & Marketing",
+      "description": "Receive your videos in all required formats, optimized for your target platforms, plus strategic guidance on distribution and promotion for maximum impact."
+    }
+  ],
+
+  "pricingInfo": "Video production in Loughrea starts from €1,500 for social media content, €3,500-€6,000 for professional business videos, and €8,000+ for comprehensive commercial productions. Pricing depends on video complexity, filming requirements, and post-production needs. We provide clear, transparent quotes with no hidden fees.",
+
+  "serviceArea": "Loughrea and surrounding areas including Athenry, Gort, Portumna, Ballinasloe, and South Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Flexible scheduling available.",
+
+  "qualifications": [
+    "Professional cinematography specialists",
+    "Certified video editing experts",
+    "Digital marketing professionals",
+    "Business video specialists",
+    "10+ years combined experience"
+  ],
+  "yearsExperience": "10+ years combined video production experience",
+  "guarantees": [
+    "Broadcast-quality production standards",
+    "Unlimited revisions policy",
+    "On-time delivery guarantee",
+    "Platform-optimized delivery",
+    "Full copyright ownership"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1497015289639-54688650d173?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional video interview setup in Loughrea",
+      "caption": "Professional Video Production in Loughrea"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1601506521937-0121a7fc2a6b?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Videographer filming with professional camera",
+        "caption": "Expert filming services"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1628017974670-846f66fc7671?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional video camera equipment",
+        "caption": "Cinema-quality equipment and technology"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1579109652910-99b9be06aaec?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Video editing workstation",
+        "caption": "Professional editing and post-production"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1490971688337-f2c79913ea7d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional camera operator filming",
+        "caption": "Experienced video production team"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Loughrea Businesses Trust Kraft Agency",
+    "Our Video Production Process Explained",
+    "Types of Business Videos We Create",
+    "Video Marketing: Amplifying Your Message",
+    "Frequently Asked Questions About Video Production",
+    "Get Started with Your Video Project"
+  ],
+
+  "faq": [
+    {
+      "question": "Can you film at our business location in Loughrea?",
+      "answer": "Absolutely! We regularly film on-site at business locations throughout Loughrea and South Galway. We bring all necessary equipment and work professionally to minimize disruption while capturing excellent footage of your operations, team, and facilities."
+    },
+    {
+      "question": "What types of videos do you produce?",
+      "answer": "We create all types of business videos including promotional videos, social media content, customer testimonials, product demonstrations, corporate communications, training videos, event coverage, and commercial advertisements. We'll recommend the best approach for your goals."
+    },
+    {
+      "question": "How long does video production take?",
+      "answer": "Timeline varies by project. Simple videos can be completed in 1-2 weeks, while comprehensive productions typically take 3-6 weeks from concept to final delivery. We provide detailed schedules and maintain clear communication throughout the process."
+    },
+    {
+      "question": "Do you offer scriptwriting services?",
+      "answer": "Yes! Professional scriptwriting is included in our video production service. Our writers can work from your ideas or develop concepts from scratch, ensuring the script effectively communicates your message and resonates with your audience."
+    },
+    {
+      "question": "What's the investment for video production?",
+      "answer": "Costs vary based on requirements. Social media videos start from €1,500, business videos from €3,500-€6,000, and comprehensive productions from €8,000+. We provide transparent quotes tailored to your project scope and budget."
+    },
+    {
+      "question": "Can you optimize videos for social media?",
+      "answer": "Yes! We create and optimize videos specifically for each social platform – Instagram, Facebook, LinkedIn, TikTok, and YouTube. Each version is formatted with the right aspect ratio, length, and style to maximize engagement on that platform."
+    },
+    {
+      "question": "Do you provide video marketing services?",
+      "answer": "Absolutely! We're a full-service digital agency offering complete video marketing including distribution strategy, YouTube SEO, social media advertising, email campaigns, and analytics to ensure your videos generate measurable business results."
+    },
+    {
+      "question": "Will we own the rights to our videos?",
+      "answer": "Yes! You receive complete ownership and unlimited usage rights for all videos we produce. We deliver files in all necessary formats for unrestricted use across any channels, platforms, or purposes you choose."
+    }
+  ],
+
+  "keywords": [
+    "video production",
+    "professional videography",
+    "business video",
+    "corporate video services",
+    "video marketing",
+    "promotional video",
+    "commercial video production",
+    "video content creation",
+    "professional filming",
+    "video editing"
+  ],
+  "localKeywords": [
+    "video production Loughrea",
+    "videographer Loughrea",
+    "video services Loughrea",
+    "Loughrea video production",
+    "video marketing Loughrea",
+    "South Galway video production",
+    "commercial video Loughrea",
+    "business video Loughrea",
+    "video company Loughrea",
+    "professional video Loughrea"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Video Consultation",
+  "ctaSecondary": "View Our Work"
+}

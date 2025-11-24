@@ -1,0 +1,209 @@
+{
+  "id": "ppc-google-ads-headford",
+  "service": "PPC & Google Ads Management",
+  "serviceSlug": "ppc-google-ads",
+  "location": "Headford",
+  "locationSlug": "headford",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Google Ads Headford - Expert PPC for North Galway Businesses",
+  "metaDescription": "Transform your Headford business with Kraft Agency's expert Google Ads. AI-powered PPC campaigns that deliver qualified leads and real ROI. Free audit today!",
+
+  "heroHeadline": "Expert PPC & Google Ads in Headford",
+  "heroSubheadline": "Drive Local Growth with AI-Powered Campaign Management",
+
+  "description": "Ready to dominate search results and attract more customers in Headford? Kraft Agency delivers Google Ads campaigns engineered specifically for North Galway businesses – from local services and retail to hospitality and tourism operators. Our AI-powered PPC strategies ensure every euro of your advertising budget works harder, driving qualified leads and measurable business growth throughout Headford and surrounding areas.\n\nOur Google Ads specialists understand the Headford market and North Galway business landscape. Whether you're targeting local residents, visitors exploring Lough Corrib and Ross Errilly Friary, or customers throughout the region, we craft PPC campaigns that reach your ideal audience at exactly the right moment. Through strategic keyword research, compelling ad copywriting, and conversion-optimized landing pages, we transform searches into customers for Headford businesses across all industries.\n\nWhat makes Kraft Agency the trusted partner for Headford businesses? Proven results and complete transparency. Our detailed monthly reports show exactly how your campaigns perform, which keywords drive conversions, and how our AI optimization continuously improves ROI. With local offices in Galway and Oranmore, we're perfectly positioned to serve Headford businesses with world-class PPC expertise combined with genuine local market understanding.",
+
+  "shortDescription": "Professional Google Ads and PPC management for Headford businesses. AI-optimized campaigns with transparent reporting and measurable ROI. Local expertise.",
+
+  "benefits": [
+    "Deep Headford and North Galway market knowledge",
+    "Google Partner certified with 15+ years PPC experience",
+    "AI-powered optimization for superior performance",
+    "Real-time dashboards with complete transparency",
+    "Custom landing pages optimized for local conversions",
+    "Strategic remarketing to recapture interested visitors",
+    "Month-to-month flexibility with no long-term contracts",
+    "Dedicated account manager for personalized service"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Business Analysis & Market Research",
+      "description": "We analyze your business goals, target customers in Headford and North Galway, and competitive landscape. For existing campaigns, we conduct comprehensive audits to identify improvement opportunities."
+    },
+    {
+      "step": 2,
+      "title": "Strategic Campaign Planning",
+      "description": "Our Google Ads team develops custom strategies for the Headford market, including keyword targeting, audience segmentation, budget allocation, and compelling ad creative designed to resonate with North Galway customers."
+    },
+    {
+      "step": 3,
+      "title": "Conversion Setup & Optimization",
+      "description": "We create or optimize landing pages for maximum conversions, implement comprehensive tracking for calls and form submissions, and set up remarketing campaigns to capture visitors who don't convert immediately."
+    },
+    {
+      "step": 4,
+      "title": "Campaign Launch & Initial Monitoring",
+      "description": "Your campaigns go live with close performance monitoring during the launch phase. We make rapid adjustments based on initial data to ensure strong results from day one."
+    },
+    {
+      "step": 5,
+      "title": "AI-Driven Continuous Optimization",
+      "description": "Using advanced machine learning, we analyze campaign performance daily and implement intelligent optimizations to bidding, targeting, and creative elements that continuously improve ROI."
+    },
+    {
+      "step": 6,
+      "title": "Transparent Reporting & Growth Strategy",
+      "description": "Receive detailed monthly reports showing all performance metrics. We schedule regular strategy sessions to review results, discuss insights, and plan scaling strategies for continued growth."
+    }
+  ],
+
+  "pricingInfo": "Google Ads management for Headford businesses starts from €750 per month (plus your ad spend budget). We recommend minimum monthly ad budgets of €500-€1,000 for effective local reach in Headford and North Galway. Businesses targeting wider regional areas typically invest €1,500-€5,000+ monthly. Contact us for a free audit.",
+
+  "serviceArea": "Headford and surrounding North Galway including Tuam, Corrandulla, Caherlistrane, Shrule, and all areas around Lough Corrib",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Ongoing support for campaign management and optimization.",
+
+  "qualifications": [
+    "Google Partner certified digital agency",
+    "15+ years combined PPC management expertise",
+    "Advanced Google Analytics certified",
+    "AI marketing automation specialists",
+    "Local business marketing experts"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% transparent reporting with full account access",
+    "No hidden fees or long-term contract requirements",
+    "White-hat Google-approved advertising practices",
+    "Free monthly strategy consultations included",
+    "Dedicated support for Headford businesses"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Google Ads performance dashboard with campaign analytics",
+      "caption": "Expert Google Ads Management in Headford",
+      "credit": {
+        "photographer": "Stephen Phillips - Hostreviews.co.uk",
+        "unsplashUrl": "https://unsplash.com/photos/shr_Xn8S8QU"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "PPC specialist optimizing Google Ads campaigns",
+        "caption": "Professional campaign optimization for Headford",
+        "credit": {
+          "photographer": "Firmbee.com",
+          "unsplashUrl": "https://unsplash.com/photos/IrRbSND5EUc"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1518734549841-b417d28c22aa?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Analytics dashboard showing business growth metrics",
+        "caption": "Measurable results for Headford businesses",
+        "credit": {
+          "photographer": "William Iven",
+          "unsplashUrl": "https://unsplash.com/photos/Ah4F6g-OmgI"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1633307057722-a4740ba0c5d0?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing performance metrics and ROI tracking",
+        "caption": "Data-driven strategies for North Galway",
+        "credit": {
+          "photographer": "Austin Distel",
+          "unsplashUrl": "https://unsplash.com/photos/_Lnid7JAWFQ"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Transparent campaign reporting dashboard",
+        "caption": "Complete visibility into campaign performance",
+        "credit": {
+          "photographer": "Carlos Muza",
+          "unsplashUrl": "https://unsplash.com/photos/hpjSkU2UYSU"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Headford Businesses Trust Kraft Agency for Google Ads",
+    "Our Proven PPC Management Process for North Galway",
+    "Google Ads for Local Services vs Tourism in Headford",
+    "AI-Powered Optimization: The Technology Behind Better ROI",
+    "Google Ads FAQs for Headford Business Owners",
+    "Ready to Grow Your Business? Get Your Free PPC Audit"
+  ],
+
+  "faq": [
+    {
+      "question": "What budget should my Headford business allocate for Google Ads?",
+      "answer": "We recommend starting with €500-€1,000 per month in ad spend for local Headford campaigns, plus management fees of €750+. This provides sufficient budget for testing and optimization while reaching qualified customers throughout Headford and North Galway. Businesses can scale as they see results."
+    },
+    {
+      "question": "How quickly will I see results from Google Ads?",
+      "answer": "Your ads can begin appearing within hours of launch. However, optimal performance typically develops over 4-8 weeks as we collect data and refine targeting. Most Headford businesses see positive ROI within 2-3 months as campaigns mature and optimize."
+    },
+    {
+      "question": "Can you help businesses throughout North Galway?",
+      "answer": "Absolutely! While we have expertise in the Headford market, Kraft Agency serves businesses throughout North Galway, County Galway, and across Ireland. Our Google Ads strategies work for local, regional, and national targeting."
+    },
+    {
+      "question": "What industries do you work with in Headford?",
+      "answer": "We work with businesses across all industries – local services, retail shops, hospitality, tourism, professional services, agricultural businesses, and more. Our PPC strategies are customized to each industry's unique dynamics and customer journey."
+    },
+    {
+      "question": "Will I have access to my Google Ads account?",
+      "answer": "Yes, you maintain full ownership and access to your Google Ads account at all times. We manage it on your behalf but you're never locked out. You'll also have 24/7 access to custom dashboards showing real-time performance."
+    },
+    {
+      "question": "Can you create landing pages for my campaigns?",
+      "answer": "Definitely! High-converting landing pages are crucial for Google Ads success. We design and develop custom landing pages optimized specifically for your Headford campaigns, ensuring message consistency and maximum conversion rates."
+    },
+    {
+      "question": "Do you require long-term contracts?",
+      "answer": "No, we operate on flexible month-to-month agreements. While we recommend at least 3-6 months for campaigns to fully optimize, you're never locked into a long-term contract. We earn your business through consistent results."
+    },
+    {
+      "question": "What if my current Google Ads aren't performing well?",
+      "answer": "We offer free PPC audits to identify issues with underperforming campaigns. Common problems include poor keyword targeting, weak ad copy, unoptimized landing pages, or inadequate tracking. We can take over management and typically improve performance within the first month."
+    }
+  ],
+
+  "keywords": [
+    "google ads",
+    "ppc management",
+    "paid search advertising",
+    "google advertising",
+    "ppc campaigns",
+    "search ads",
+    "paid advertising",
+    "google adwords",
+    "local business ads",
+    "ppc optimization"
+  ],
+  "localKeywords": [
+    "google ads Headford",
+    "ppc Headford",
+    "paid advertising North Galway",
+    "Headford google ads agency",
+    "ppc management Headford",
+    "search ads Headford",
+    "google advertising Headford",
+    "paid search Headford",
+    "digital marketing near me",
+    "Headford business advertising"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Google Ads Audit",
+  "ctaSecondary": "Schedule a Strategy Call"
+}

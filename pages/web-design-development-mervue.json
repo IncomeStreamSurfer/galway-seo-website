@@ -1,0 +1,192 @@
+{
+  "id": "web-design-development-mervue",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Mervue",
+  "locationSlug": "mervue",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Mervue - Fast, Professional Websites | Kraft Agency",
+  "metaDescription": "Fast, professional web design in Mervue. Custom websites that attract customers and grow your business. SEO-optimized, mobile-ready. Free consultation available!",
+
+  "heroHeadline": "Fast, Professional Web Design in Mervue",
+  "heroSubheadline": "Launch Your Business Online with a High-Converting Website",
+
+  "description": "Looking for fast, professional web design in Mervue? Kraft Agency delivers custom websites that get your business online quickly without sacrificing quality. As a full-service digital agency serving Mervue and East Galway, we understand that time is money – you need a professional website that attracts customers and drives sales, and you need it fast. Whether you're launching a new business, updating an outdated site, or expanding your online presence, we create websites that deliver results from day one.\n\nOur web design process in Mervue is streamlined and efficient, but never rushed. We combine speed with strategic thinking to build websites that look professional, function flawlessly, and convert visitors into customers. Every website we create is custom-designed to reflect your brand, optimized for your target audience, and built with conversion in mind. From clear navigation and compelling calls-to-action to mobile responsiveness and fast loading speeds, we focus on the elements that drive business growth. Your Mervue customers expect a modern, professional online experience – we deliver exactly that.\n\nWhat sets Kraft Agency apart is our combination of speed, quality, and ongoing value. We use modern web technologies and AI-powered optimization tools to build websites that perform exceptionally well on search engines and convert visitors at higher rates. Our websites are built on platforms that are easy to manage, so you can make updates yourself without needing technical expertise. Plus, with local service from our Galway-based team, you get personalized attention and rapid support whenever you need it. From initial consultation through launch and beyond, we're your trusted partner for web design success in Mervue.",
+
+  "shortDescription": "Fast, professional web design in Mervue. Custom websites that drive business growth. Mobile-responsive, SEO-optimized, and built for conversions.",
+
+  "benefits": [
+    "Fast delivery without compromising quality",
+    "Custom web design for Mervue businesses",
+    "Conversion-optimized layouts and content",
+    "Fully mobile-responsive design",
+    "Lightning-fast loading speeds",
+    "SEO-optimized for Google rankings",
+    "Easy-to-manage content systems",
+    "Local Galway-based support team",
+    "Transparent pricing and timelines",
+    "Ongoing optimization and support"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Rapid Discovery",
+      "description": "We start with a focused consultation to quickly understand your Mervue business, goals, and timeline. We identify your key requirements and develop a strategic plan that delivers maximum impact in minimum time without cutting corners on quality."
+    },
+    {
+      "step": 2,
+      "title": "Efficient Design",
+      "description": "Our designers create custom mockups that capture your brand essence and appeal to your target customers. We present designs for your quick approval, allowing for feedback and refinements. Our streamlined process moves efficiently from concept to finalized design."
+    },
+    {
+      "step": 3,
+      "title": "Agile Development",
+      "description": "Our development team builds your website using proven, modern technologies. We work efficiently while maintaining high quality standards, integrating all necessary features like contact forms, booking systems, e-commerce, and analytics."
+    },
+    {
+      "step": 4,
+      "title": "SEO & Speed Optimization",
+      "description": "We optimize your website for both search engines and performance. This includes keyword optimization, meta tags, image compression, code optimization, and mobile responsiveness – ensuring your Mervue business ranks well and loads fast."
+    },
+    {
+      "step": 5,
+      "title": "Quick Testing & QA",
+      "description": "We conduct thorough but efficient testing across devices and browsers. We verify functionality, loading speeds, forms, links, and user experience. Any issues are addressed immediately to keep your project on schedule."
+    },
+    {
+      "step": 6,
+      "title": "Launch & Handover",
+      "description": "We launch your website and provide clear training on managing content. You'll receive 90 days of post-launch support for any questions or adjustments. We deliver everything you need to confidently manage and grow your online presence."
+    }
+  ],
+
+  "pricingInfo": "Web design in Mervue typically starts from €2,500 for business websites with fast turnaround. E-commerce sites range from €5,000-€10,000 depending on features. Rush services available for urgent projects. We offer transparent pricing with no hidden costs and flexible payment options. Contact us for a detailed quote based on your timeline and requirements.",
+
+  "serviceArea": "Mervue and surrounding areas including Galway City, Renmore, Ballybane, Doughiska, Oranmore, and all of East County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Rush services available for urgent projects.",
+
+  "qualifications": [
+    "Experienced web design team",
+    "Full-stack development expertise",
+    "Google Partner certified",
+    "Modern web technologies (React, Next.js, WordPress)",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "Fast delivery without compromising quality",
+    "100% satisfaction guarantee",
+    "Mobile-responsive on all devices",
+    "SEO-optimized from launch",
+    "90-day post-launch support",
+    "Secure hosting and SSL included"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1661389360947-a4d0f67b2941?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Fast professional web design in Mervue",
+      "caption": "Fast, Professional Web Design Services in Mervue"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1613068687893-5e85b4638b56?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Modern website user interface design",
+        "caption": "Custom designs that convert"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1635405050330-b0824eb1bf26?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Web development team collaboration",
+        "caption": "Efficient, quality-focused development"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1683147638125-fd31a506a429?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Mobile responsive web design",
+        "caption": "Perfect on every device"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1678566153919-86c4ba4216f1?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Website analytics and optimization",
+        "caption": "Data-driven performance optimization"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Mervue Businesses Choose Kraft Agency",
+    "Fast Web Design Without Compromising Quality",
+    "Our Efficient Web Design Process",
+    "Website Features That Drive Business Growth",
+    "Web Design Questions from Mervue Business Owners",
+    "Get Your Website Live Quickly"
+  ],
+
+  "faq": [
+    {
+      "question": "How quickly can you build my website?",
+      "answer": "Most business websites can be completed in 3-5 weeks from consultation to launch. If you have an urgent deadline, we offer rush services that can deliver in 2-3 weeks. The timeline depends on complexity and how quickly you can provide content and feedback. We'll provide a clear schedule during your consultation."
+    },
+    {
+      "question": "What's the difference between your service and website builders like Wix?",
+      "answer": "DIY website builders are cheap but limited and generic. Our custom web design provides professional quality, better SEO, faster loading speeds, custom functionality, and strategic design that converts visitors into customers. You also get expert guidance, optimization, and support – not just a template."
+    },
+    {
+      "question": "How much does web design cost in Mervue?",
+      "answer": "Professional web design starts from €2,500 for business websites. E-commerce sites typically range from €5,000-€10,000. The cost depends on features, pages, and complexity. We provide transparent quotes with no hidden fees. Contact us for a detailed proposal based on your specific needs."
+    },
+    {
+      "question": "Will my website work on mobile phones and tablets?",
+      "answer": "Absolutely! Every website we design is fully responsive and optimized for all devices – smartphones, tablets, and desktop computers. We test extensively to ensure perfect functionality and appearance across all screen sizes. Mobile optimization is standard, not optional."
+    },
+    {
+      "question": "Can I update the website myself after it's built?",
+      "answer": "Yes! We build websites on user-friendly content management systems that let you easily update text, images, and pages without technical knowledge. We provide training so you feel confident managing your site. For complex changes, we're always available to help."
+    },
+    {
+      "question": "Do you provide website hosting?",
+      "answer": "Yes, we offer secure, fast website hosting as part of our service. Hosting includes regular backups, security updates, uptime monitoring, and technical support. We handle all the technical details so you can focus on your business. Hosting can be included in your package or added separately."
+    },
+    {
+      "question": "Will my website rank on Google?",
+      "answer": "We optimize every website for search engines with foundational SEO including keyword optimization, meta tags, fast loading, mobile responsiveness, and clean code. This gives your Mervue business a strong foundation for ranking. For competitive industries, we also offer ongoing SEO services."
+    },
+    {
+      "question": "What happens if I need help after the website launches?",
+      "answer": "We provide 90 days of post-launch support included with every website. After that, we offer ongoing maintenance packages for updates, security, backups, and support. We're here for the long term – not just for the initial build but as your business grows and evolves online."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "fast website",
+    "web designer",
+    "business website",
+    "custom website",
+    "responsive design",
+    "professional website",
+    "website builder",
+    "web development"
+  ],
+  "localKeywords": [
+    "web design Mervue",
+    "website design Mervue",
+    "Mervue web designer",
+    "web development Mervue",
+    "fast website design Mervue",
+    "website builder Mervue",
+    "web design Galway",
+    "Mervue website company",
+    "web designer near me",
+    "professional website East Galway"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "View Our Portfolio"
+}

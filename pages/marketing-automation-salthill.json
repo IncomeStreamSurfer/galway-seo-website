@@ -1,0 +1,188 @@
+{
+  "id": "marketing-automation-salthill",
+  "service": "Marketing Automation",
+  "serviceSlug": "marketing-automation",
+  "location": "Salthill",
+  "locationSlug": "salthill",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Marketing Automation Salthill - Automate Your Growth | Kraft Agency",
+  "metaDescription": "Scale your Salthill business effortlessly with marketing automation from Kraft Agency. AI-powered systems that nurture leads and drive sales. Free assessment!",
+  "heroHeadline": "Marketing Automation Excellence in Salthill",
+  "heroSubheadline": "Automate Lead Generation, Nurturing & Sales for Consistent Growth",
+
+  "description": "Unlock explosive growth for your Salthill business with intelligent marketing automation from Kraft Agency. We help businesses across Salthill and Galway transform their marketing from time-intensive manual work into efficient, scalable systems that run on autopilot. Whether you're in hospitality, retail, professional services, or any other industry, our automation solutions deliver the consistency and efficiency you need to nurture more leads, close more sales, and grow your revenue without burning out your team.\n\nOur marketing automation expertise spans the complete customer lifecycle. We design sophisticated workflows that automatically capture leads through your website and campaigns, nurture them with personalized email sequences based on their behavior and interests, score and qualify them to identify sales-ready prospects, and seamlessly hand them off to your sales team at the perfect moment. Beyond lead generation, we implement customer retention automation that keeps your existing customers engaged, drives repeat purchases, and turns satisfied customers into enthusiastic advocates who refer others to your business.\n\nSalthill businesses choose Kraft Agency because we deliver real results, not just fancy technology. Our team has implemented marketing automation for hundreds of businesses, and we understand what works in the real world versus what sounds good in theory. We're certified experts across all major automation platforms including HubSpot, ActiveCampaign, Klaviyo, and Mailchimp, and we'll recommend the perfect solution for your specific needs and budget. From simple email automation to enterprise-level marketing orchestration, we provide the expertise, implementation, and ongoing support to ensure your automation investment delivers exceptional ROI.",
+
+  "shortDescription": "Marketing automation services in Salthill. Streamline marketing, automate lead nurturing, and scale growth with intelligent AI-powered workflows.",
+
+  "benefits": [
+    "Automate repetitive tasks and reclaim 20+ hours per week",
+    "Nurture leads consistently with personalized automation",
+    "Boost conversion rates by 15-40% with timely follow-ups",
+    "AI-powered systems that optimize themselves over time",
+    "Integrate all your marketing tools into one seamless system",
+    "Identify and prioritize your best sales opportunities",
+    "Comprehensive analytics showing automation impact",
+    "Expert team based in Galway with proven results"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Marketing Process Audit",
+      "description": "We thoroughly analyze your current marketing workflows, identify manual bottlenecks, map your customer journey from awareness to purchase, and evaluate your existing technology. This reveals where automation will deliver the greatest impact for your Salthill business."
+    },
+    {
+      "step": 2,
+      "title": "Automation Strategy Design",
+      "description": "Our strategists develop a comprehensive automation plan customized for your business goals, target audience, and resources. We design workflows that align with your sales process and customer lifecycle, prioritizing high-impact automation first."
+    },
+    {
+      "step": 3,
+      "title": "Technology Selection & Setup",
+      "description": "We recommend the ideal automation platform for your needs and budget, then handle all technical implementation including platform setup, integration with your website, CRM, email, and other tools, and data migration from existing systems."
+    },
+    {
+      "step": 4,
+      "title": "Workflow Building & Launch",
+      "description": "Our automation specialists build your workflows including lead capture forms, nurture sequences, segmentation rules, lead scoring models, and customer retention campaigns. Everything is tested rigorously before launch to ensure flawless execution."
+    },
+    {
+      "step": 5,
+      "title": "AI Optimization & Learning",
+      "description": "We implement artificial intelligence and machine learning that continuously improves your automation performance. This includes predictive send time optimization, dynamic content personalization, behavioral triggers, and automated testing."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Management & Growth",
+      "description": "We provide continuous monitoring, performance analysis, and strategic enhancements to your automation. You receive monthly reports with actionable insights, and we adapt your automation as your business and market evolve."
+    }
+  ],
+
+  "pricingInfo": "Marketing automation packages start from €1,500 per month for core automation setup and management, ranging to €6,000-€10,000+ per month for advanced multi-platform automation with AI optimization and comprehensive support. Investment is tailored to your business size, marketing complexity, platform requirements, and growth goals. All packages include transparent reporting and flexible terms. Contact us for a complimentary automation assessment and custom proposal.",
+
+  "serviceArea": "Salthill and surrounding areas including Galway City, Knocknacarra, Barna, Renmore, and all of West County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Priority support for automation clients.",
+
+  "qualifications": [
+    "HubSpot Partner and certified experts",
+    "ActiveCampaign certified consultants",
+    "Klaviyo email automation specialists",
+    "Zapier and Make.com integration experts",
+    "AI and automation platform certified",
+    "15+ years combined marketing automation experience"
+  ],
+  "yearsExperience": "15+ years combined automation expertise",
+  "guarantees": [
+    "Clear ROI tracking with detailed performance metrics",
+    "Industry-proven automation workflows and templates",
+    "Flexible engagement with no long-term contracts",
+    "Responsive support and technical assistance",
+    "100% dedication to your marketing success"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Marketing automation technology and workflows in Salthill",
+      "caption": "Marketing Automation Services in Salthill"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Email marketing automation campaigns",
+        "caption": "Intelligent email automation"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing analytics and automation metrics",
+        "caption": "Comprehensive performance tracking"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1553877522-43269d4ea984?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing workflow automation tools",
+        "caption": "Advanced automation platforms"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Business process automation and efficiency",
+        "caption": "Streamlined marketing operations"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Salthill Businesses Choose Kraft Agency for Automation",
+    "Complete Marketing Automation Solutions We Offer",
+    "The Transformative Power of Marketing Automation",
+    "Automation Platforms and Tools We Specialize In",
+    "Common Questions About Marketing Automation",
+    "Ready to Automate Your Marketing?"
+  ],
+
+  "faq": [
+    {
+      "question": "What is marketing automation and how does it work?",
+      "answer": "Marketing automation uses software to automatically perform marketing tasks based on predefined triggers and rules. When someone takes an action (like visiting your website or downloading content), the system automatically responds with personalized emails, updates their profile, scores their engagement, and routes hot leads to sales – all without manual intervention."
+    },
+    {
+      "question": "Is marketing automation suitable for small Salthill businesses?",
+      "answer": "Absolutely! Marketing automation is valuable for businesses of all sizes. Small businesses often benefit the most because automation allows them to compete with larger competitors by delivering sophisticated, personalized marketing at scale without requiring a large team."
+    },
+    {
+      "question": "What results can I expect from marketing automation?",
+      "answer": "Typical results include 15-40% increase in qualified leads, 10-30% improvement in conversion rates, 20-30 hours saved per week on manual tasks, and 20-50% reduction in customer acquisition costs. Most businesses achieve positive ROI within 3-6 months."
+    },
+    {
+      "question": "How is AI used in marketing automation?",
+      "answer": "AI powers several aspects of modern automation: predicting the best time to send emails to each person, personalizing content based on behavior patterns, scoring leads by likelihood to convert, optimizing campaign performance automatically, and identifying trends in customer behavior that inform strategy."
+    },
+    {
+      "question": "Can automation integrate with my existing tools?",
+      "answer": "Yes! Modern automation platforms integrate with virtually every marketing and business tool including CRMs, email platforms, websites, e-commerce systems, payment processors, webinar platforms, and more. We handle all technical integration to ensure seamless data flow."
+    },
+    {
+      "question": "Won't automation make my marketing feel robotic and impersonal?",
+      "answer": "The opposite is true. Automation enables better personalization because you can tailor messages based on individual behavior, interests, and lifecycle stage at scale. Your customers receive timely, relevant content that feels personal – because it is personalized to them."
+    },
+    {
+      "question": "How long does it take to set up marketing automation?",
+      "answer": "Basic automation can be operational in 2-3 weeks. More comprehensive automation with multiple workflows and integrations typically takes 4-8 weeks. We focus on quick wins first, then progressively build more sophisticated automation over time."
+    },
+    {
+      "question": "What ongoing support do you provide?",
+      "answer": "We provide continuous monitoring of your automation, monthly performance reporting, regular optimization based on data, technical support for any issues, strategic recommendations for improvements, and ongoing training for your team. We're your long-term automation partner."
+    }
+  ],
+
+  "keywords": [
+    "marketing automation",
+    "email automation",
+    "lead nurturing automation",
+    "workflow automation",
+    "automated marketing",
+    "CRM automation",
+    "marketing automation software",
+    "AI marketing automation",
+    "automation platform",
+    "marketing automation tools"
+  ],
+  "localKeywords": [
+    "marketing automation Salthill",
+    "automation services Galway",
+    "email automation Ireland",
+    "HubSpot partner Salthill",
+    "workflow automation Galway",
+    "marketing automation West Galway",
+    "automation consultant Ireland",
+    "automation agency Salthill",
+    "marketing automation near me",
+    "automation services Galway"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Get Your Free Automation Assessment",
+  "ctaSecondary": "View Automation Case Studies"
+}

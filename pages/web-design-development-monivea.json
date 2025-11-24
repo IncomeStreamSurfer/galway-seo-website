@@ -1,0 +1,208 @@
+{
+  "id": "web-design-development-monivea",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Monivea",
+  "locationSlug": "monivea",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Monivea - Grow Your Business Online | Kraft Agency",
+  "metaDescription": "Professional web design for Monivea businesses. Kraft Agency creates powerful, conversion-focused websites with AI technology. Transform your online presence today!",
+  "heroHeadline": "Expert Web Design Services in Monivea",
+  "heroSubheadline": "Build a Powerful Online Presence That Drives Growth",
+
+  "description": "Need exceptional web design in Monivea? Kraft Agency specializes in creating powerful, professional websites that help Monivea businesses thrive in the digital age. We understand the unique challenges facing local businesses in Monivea and throughout County Galway, and we're passionate about creating digital solutions that deliver measurable results. Our web design services go beyond aesthetics—we create strategic tools that work 24/7 to attract customers, build credibility, and generate revenue for your business.\n\nWorking with businesses throughout Monivea and the surrounding areas, we've perfected a web design process that balances creativity with strategy. We start by understanding your business goals, your target customers, and what makes your Monivea business unique. Then our talented design team creates a custom website that authentically represents your brand while incorporating conversion optimization principles that turn visitors into customers. Every element is carefully crafted with purpose—from the color palette and typography to the navigation structure and call-to-action placement.\n\nWhat sets Kraft Agency apart for Monivea businesses is our commitment to long-term success. We don't just build your website and disappear—we provide ongoing support, optimization, and strategic guidance to ensure your digital presence continues delivering results as your business evolves. With cutting-edge technology, AI-powered optimization, and deep local expertise, we're the web design partner Monivea businesses trust to create exceptional online experiences that drive real business growth.",
+
+  "shortDescription": "Expert web design for Monivea businesses. Custom websites with conversion optimization, AI technology, and ongoing support. Free consultation available.",
+
+  "benefits": [
+    "Custom designs that reflect your unique Monivea business identity",
+    "Fully mobile-responsive across smartphones, tablets, and desktops",
+    "Local SEO optimization to rank higher in Monivea area searches",
+    "Fast-loading websites that keep visitors engaged",
+    "AI-powered tools for conversion rate optimization",
+    "Dedicated project manager and support team",
+    "Serving Monivea with proven digital expertise",
+    "Clear, upfront pricing with no hidden costs"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Initial Consultation & Planning",
+      "description": "We meet with your Monivea business to understand your vision, goals, target audience, and competitive position. This discovery phase creates the strategic foundation for a website that truly works for your business and serves your customers effectively."
+    },
+    {
+      "step": 2,
+      "title": "Strategic Design Development",
+      "description": "Our designers create custom mockups and interactive prototypes that bring your vision to life. You'll review detailed designs and provide feedback through collaborative revision rounds until we achieve the perfect look and feel for your brand."
+    },
+    {
+      "step": 3,
+      "title": "Professional Development & Build",
+      "description": "Our expert developers transform approved designs into a fully functional, high-performance website using modern technologies. We integrate all necessary features, tools, and systems while maintaining clean, efficient code for optimal performance."
+    },
+    {
+      "step": 4,
+      "title": "Comprehensive Testing Phase",
+      "description": "Before launch, we conduct extensive testing across devices, browsers, and real-world scenarios. We verify functionality, optimize performance, ensure accessibility compliance, and refine user experience until everything exceeds expectations."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Training Session",
+      "description": "We handle all technical aspects of launching your website and provide thorough training so you can manage content, update pages, and understand your website's features. You'll receive documentation and ongoing support for confidence and independence."
+    },
+    {
+      "step": 6,
+      "title": "Growth & Optimization",
+      "description": "Post-launch, we monitor performance metrics, gather user insights, and implement ongoing improvements. Your Monivea business website evolves through continuous optimization, security updates, and strategic enhancements that drive better results over time."
+    }
+  ],
+
+  "pricingInfo": "Web design investment for Monivea businesses typically ranges from €2,500 for professional small business websites to €15,000+ for advanced e-commerce or custom web applications. We offer flexible payment plans and provide completely transparent pricing. Contact us for a personalized quote based on your specific business requirements and objectives.",
+
+  "serviceArea": "Monivea and surrounding areas including Galway City, Tuam, Athenry, Headford, Claregalway, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Dedicated support for existing Monivea clients.",
+
+  "qualifications": [
+    "Certified professional design team",
+    "Expert full-stack developers",
+    "Google Partner certification",
+    "AI and automation expertise",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% client satisfaction guarantee",
+    "Responsive design across all devices",
+    "Search engine optimized from launch",
+    "90-day post-launch support included",
+    "Secure hosting with SSL encryption"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional web design and development workspace in Monivea",
+      "caption": "Expert Web Design Services in Monivea",
+      "credit": {
+        "photographer": "Christopher Gower",
+        "unsplashUrl": "https://unsplash.com/photos/m_HRfLhgABo"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1558655146-d09347e92766?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Custom web development and coding",
+        "caption": "Professional development for Monivea businesses",
+        "credit": {
+          "photographer": "Florian Olivo",
+          "unsplashUrl": "https://unsplash.com/photos/4hbJ-eymZ1o"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Responsive website design on multiple devices",
+        "caption": "Mobile-optimized for all devices",
+        "credit": {
+          "photographer": "Edho Pratama",
+          "unsplashUrl": "https://unsplash.com/photos/T6fDN60bMWY"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1555421689-d68471e189f2?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Design team collaborating on website project",
+        "caption": "Collaborative design excellence",
+        "credit": {
+          "photographer": "Arlington Research",
+          "unsplashUrl": "https://unsplash.com/photos/kN_kViDchA0"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Website analytics dashboard showing performance metrics",
+        "caption": "Performance tracking and optimization",
+        "credit": {
+          "photographer": "Carlos Muza",
+          "unsplashUrl": "https://unsplash.com/photos/hpjSkU2UYSU"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Monivea Businesses Trust Kraft Agency for Web Design",
+    "Our Proven Process: Creating Websites That Drive Results",
+    "Essential Features Every Monivea Business Website Needs",
+    "Real Results: Web Design Success Stories from County Galway",
+    "Your Web Design Questions Answered for Monivea Businesses",
+    "Ready to Launch Your Monivea Business Website?"
+  ],
+
+  "faq": [
+    {
+      "question": "How long does it take to design and launch a website for my Monivea business?",
+      "answer": "Most website projects for Monivea businesses take 4-8 weeks from initial consultation to launch. Simpler websites may be completed faster, while more complex projects with custom features or e-commerce functionality may require additional time. We provide a clear timeline with specific milestones during our planning phase."
+    },
+    {
+      "question": "What ongoing support do you provide after my website goes live?",
+      "answer": "All Monivea business websites include 90 days of comprehensive post-launch support covering any technical issues, minor updates, and questions you may have. Beyond that, we offer flexible ongoing maintenance plans that include hosting, security updates, backups, technical support, and optimization services."
+    },
+    {
+      "question": "Will my website work correctly on mobile phones?",
+      "answer": "Absolutely! Every website we create is built to be fully responsive and mobile-friendly from the ground up. We test thoroughly on all popular smartphones, tablets, and desktop devices to ensure your Monivea business looks professional and functions perfectly across every screen size and platform."
+    },
+    {
+      "question": "Can you help with writing content for my Monivea business website?",
+      "answer": "Yes! We offer professional content writing services tailored specifically for Monivea businesses. Our experienced writers create compelling, SEO-optimized copy that engages your audience, communicates your value proposition clearly, and drives conversions while maintaining your brand voice."
+    },
+    {
+      "question": "What does a professional website cost for a Monivea business?",
+      "answer": "Website investment varies based on your specific needs and business goals. Professional small business websites typically start from €2,500, while mid-range business sites with more features range from €5,000-€8,000. Complex e-commerce platforms or custom applications can range from €10,000-€15,000+. We provide detailed, transparent quotes with no hidden fees."
+    },
+    {
+      "question": "Do you provide website hosting and security?",
+      "answer": "Yes! We offer reliable, secure website hosting optimized for speed and performance. Our hosting packages include SSL certificates, regular automated backups, security monitoring, malware protection, and 99.9% uptime guarantee to keep your Monivea business website safe and always accessible."
+    },
+    {
+      "question": "Will my website be optimized for Google search results?",
+      "answer": "Yes! Every website includes comprehensive foundational SEO including optimized site structure, fast loading speeds, mobile responsiveness, proper meta tags, schema markup, and clean code. We can also provide advanced ongoing SEO services to help your Monivea business rank higher and attract more qualified organic traffic."
+    },
+    {
+      "question": "Can you redesign my existing outdated website?",
+      "answer": "Absolutely! We specialize in website redesigns for Monivea businesses. We'll analyze your current website's strengths and weaknesses, preserve what's working well, and create a modernized design that improves user experience, increases conversions, and positions your business for continued growth in the digital marketplace."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "web designer",
+    "custom website",
+    "responsive design",
+    "business website",
+    "website redesign",
+    "e-commerce website",
+    "web development",
+    "digital marketing"
+  ],
+  "localKeywords": [
+    "web design Monivea",
+    "website design Monivea",
+    "Monivea web designer",
+    "web development Monivea",
+    "Monivea website company",
+    "website builder Monivea",
+    "digital agency Monivea",
+    "web designer near Monivea",
+    "Monivea web development",
+    "Galway web design"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Monivea Website Consultation",
+  "ctaSecondary": "View Portfolio"
+}

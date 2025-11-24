@@ -1,0 +1,332 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link "K Kraft Agency" [ref=e5] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e7]: K
+          - generic [ref=e8]: Kraft Agency
+        - button "Toggle menu" [ref=e9]:
+          - img
+  - generic [ref=e12]:
+    - button "Close menu" [ref=e13]:
+      - img
+    - generic [ref=e15]:
+      - link "Services" [ref=e16] [cursor=pointer]:
+        - /url: /services
+      - link "Locations" [ref=e17] [cursor=pointer]:
+        - /url: /locations
+      - link "About" [ref=e18] [cursor=pointer]:
+        - /url: /about
+      - link "Get Started" [ref=e19] [cursor=pointer]:
+        - /url: /contact
+  - main [ref=e20]:
+    - generic [ref=e21]:
+      - generic [ref=e23]:
+        - generic [ref=e25]: Galway's Leading Digital Agency Since 2016
+        - heading "Digital Craftspeople Building Your Future" [level=1] [ref=e26]
+        - paragraph [ref=e27]: We craft exceptional digital experiences through web design, SEO, marketing, and AI-powered solutions. Organic first, results always.
+        - generic [ref=e28]:
+          - link "Start Your Project" [ref=e29] [cursor=pointer]:
+            - /url: /contact
+          - link "View Our Services" [ref=e30] [cursor=pointer]:
+            - /url: /services
+        - generic [ref=e31]:
+          - generic [ref=e32]:
+            - generic [ref=e33]: 9+
+            - generic [ref=e34]: Years Experience
+          - generic [ref=e35]:
+            - generic [ref=e36]: 20+
+            - generic [ref=e37]: Team Members
+          - generic [ref=e38]:
+            - generic [ref=e39]: 200+
+            - generic [ref=e40]: Projects Delivered
+          - generic [ref=e41]:
+            - generic [ref=e42]: 98%
+            - generic [ref=e43]: Client Satisfaction
+      - generic:
+        - img
+    - generic [ref=e46]:
+      - generic [ref=e47]:
+        - heading "Our Services" [level=2] [ref=e48]
+        - paragraph [ref=e49]: Full-service digital solutions crafted to elevate your brand and drive measurable results
+      - generic [ref=e50]:
+        - link "Web Design & Development Custom websites that convert. From concept to launch, we build responsive, fast, and beautiful web experiences. Learn More" [ref=e51] [cursor=pointer]:
+          - /url: /services/web-design-development
+          - generic [ref=e52]:
+            - generic:
+              - img
+          - heading "Web Design & Development" [level=3] [ref=e54]
+          - paragraph [ref=e55]: Custom websites that convert. From concept to launch, we build responsive, fast, and beautiful web experiences.
+          - generic [ref=e56]:
+            - text: Learn More
+            - img [ref=e57]
+        - link "SEO & Organic Growth Organic first, always. We help you rank higher, drive qualified traffic, and dominate your local market. Learn More" [ref=e59] [cursor=pointer]:
+          - /url: /services/seo-services
+          - generic [ref=e60]:
+            - generic:
+              - img
+          - heading "SEO & Organic Growth" [level=3] [ref=e62]
+          - paragraph [ref=e63]: Organic first, always. We help you rank higher, drive qualified traffic, and dominate your local market.
+          - generic [ref=e64]:
+            - text: Learn More
+            - img [ref=e65]
+        - link "AI-Powered Marketing Harness the power of AI to automate, optimize, and innovate. Custom AI integrations for modern businesses. Learn More" [ref=e67] [cursor=pointer]:
+          - /url: /services/ai-marketing
+          - generic [ref=e68]:
+            - generic:
+              - img
+          - heading "AI-Powered Marketing" [level=3] [ref=e70]
+          - paragraph [ref=e71]: Harness the power of AI to automate, optimize, and innovate. Custom AI integrations for modern businesses.
+          - generic [ref=e72]:
+            - text: Learn More
+            - img [ref=e73]
+        - link "Content Marketing Strategic content that engages your audience and drives conversions through storytelling and value. Learn More" [ref=e75] [cursor=pointer]:
+          - /url: /services/content-marketing
+          - generic [ref=e76]:
+            - generic:
+              - img
+          - heading "Content Marketing" [level=3] [ref=e78]
+          - paragraph [ref=e79]: Strategic content that engages your audience and drives conversions through storytelling and value.
+          - generic [ref=e80]:
+            - text: Learn More
+            - img [ref=e81]
+        - link "PPC & Google Ads ROI-focused paid advertising campaigns that maximize your ad spend and drive qualified leads. Learn More" [ref=e83] [cursor=pointer]:
+          - /url: /services/ppc-google-ads
+          - generic [ref=e84]:
+            - generic:
+              - img
+          - heading "PPC & Google Ads" [level=3] [ref=e86]
+          - paragraph [ref=e87]: ROI-focused paid advertising campaigns that maximize your ad spend and drive qualified leads.
+          - generic [ref=e88]:
+            - text: Learn More
+            - img [ref=e89]
+        - link "Social Media Marketing Build engaged communities and drive brand awareness across all major social platforms. Learn More" [ref=e91] [cursor=pointer]:
+          - /url: /services/social-media-marketing
+          - generic [ref=e92]:
+            - generic:
+              - img
+          - heading "Social Media Marketing" [level=3] [ref=e94]
+          - paragraph [ref=e95]: Build engaged communities and drive brand awareness across all major social platforms.
+          - generic [ref=e96]:
+            - text: Learn More
+            - img [ref=e97]
+      - link "View All Services" [ref=e100] [cursor=pointer]:
+        - /url: /services
+    - generic [ref=e103]:
+      - generic [ref=e104]:
+        - heading "Why Choose Kraft Agency" [level=2] [ref=e105]
+        - paragraph [ref=e106]: Since 2016, we've been crafting digital solutions that deliver real results. Based in Galway/Oranmore, Ireland, our team of 20+ specialists brings together creativity, technical expertise, and strategic thinking.
+        - generic [ref=e107]:
+          - generic [ref=e108]:
+            - generic:
+              - img
+            - generic [ref=e110]:
+              - heading "Organic First Approach" [level=3] [ref=e111]
+              - paragraph [ref=e112]: We prioritize sustainable, long-term growth through organic strategies that build lasting value.
+          - generic [ref=e113]:
+            - generic:
+              - img
+            - generic [ref=e115]:
+              - heading "AI-Powered Innovation" [level=3] [ref=e116]
+              - paragraph [ref=e117]: Leverage cutting-edge AI technology to automate processes and gain competitive advantages.
+          - generic [ref=e118]:
+            - generic:
+              - img
+            - generic [ref=e120]:
+              - heading "Full-Service Partner" [level=3] [ref=e121]
+              - paragraph [ref=e122]: One team, complete solutions. From strategy to execution, we handle it all.
+      - generic [ref=e124]:
+        - generic:
+          - img "Team collaboration at Kraft Agency"
+        - generic [ref=e125]:
+          - generic [ref=e126]:
+            - generic [ref=e127]: 200+
+            - generic [ref=e128]: Projects Completed
+          - generic [ref=e129]:
+            - generic [ref=e130]: 9+
+            - generic [ref=e131]: Years Experience
+          - generic [ref=e132]:
+            - generic [ref=e133]: 20+
+            - generic [ref=e134]: Team Members
+          - generic [ref=e135]:
+            - generic [ref=e136]: 98%
+            - generic [ref=e137]: Client Satisfaction
+    - generic [ref=e139]:
+      - generic [ref=e140]:
+        - heading "What Our Clients Say" [level=2] [ref=e141]
+        - paragraph [ref=e142]: Don't just take our word for it. Hear from the businesses we've helped grow.
+      - generic [ref=e143]:
+        - generic [ref=e144]:
+          - generic [ref=e145]:
+            - img [ref=e146]
+            - img [ref=e148]
+            - img [ref=e150]
+            - img [ref=e152]
+            - img [ref=e154]
+          - paragraph [ref=e156]: SEO and digital marketing does not happen overnight. For me I can tell you working with Hamish Davison has been an absolutely great investment into my SEO and online success.
+          - generic [ref=e157]:
+            - generic [ref=e158]: Client Review
+            - generic [ref=e159]: Verified Trustpilot Review
+        - generic [ref=e160]:
+          - generic [ref=e161]:
+            - img [ref=e162]
+            - img [ref=e164]
+            - img [ref=e166]
+            - img [ref=e168]
+            - img [ref=e170]
+          - paragraph [ref=e172]: The website they built for us is absolutely stunning and performs incredibly. Our bounce rate dropped by 50% and conversions are up over 200%. Best investment we've made in our business.
+          - generic [ref=e173]:
+            - generic [ref=e174]: Sarah Murphy
+            - generic [ref=e175]: Founder, Coastal Retail
+        - generic [ref=e176]:
+          - generic [ref=e177]:
+            - img [ref=e178]
+            - img [ref=e180]
+            - img [ref=e182]
+            - img [ref=e184]
+            - img [ref=e186]
+          - paragraph [ref=e188]: Their AI automation solutions saved us 40 hours per week and significantly reduced costs. The team really understands modern technology and how to apply it to solve real business problems.
+          - generic [ref=e189]:
+            - generic [ref=e190]: David Walsh
+            - generic [ref=e191]: Director, TechStart Ireland
+    - generic [ref=e194]:
+      - generic [ref=e195]:
+        - heading "Let's Build Something Amazing" [level=2] [ref=e196]
+        - paragraph [ref=e197]: Ready to transform your digital presence? Get in touch with our team and let's discuss your project.
+      - generic [ref=e198]:
+        - generic [ref=e200]:
+          - generic [ref=e201]:
+            - generic [ref=e202]: Your Name
+            - textbox "Your Name" [ref=e203]:
+              - /placeholder: John Doe
+          - generic [ref=e204]:
+            - generic [ref=e205]: Email Address
+            - textbox "Email Address" [ref=e206]:
+              - /placeholder: john@example.com
+          - generic [ref=e207]:
+            - generic [ref=e208]: Phone Number
+            - textbox "Phone Number" [ref=e209]:
+              - /placeholder: +353 XX XXX XXXX
+          - generic [ref=e210]:
+            - generic [ref=e211]: Service Interested In
+            - combobox "Service Interested In" [ref=e212]:
+              - option "Select a service" [selected]
+              - option "Web Design & Development"
+              - option "SEO & Organic Growth"
+              - option "AI-Powered Marketing"
+              - option "Content Marketing"
+              - option "PPC & Google Ads"
+              - option "Social Media Marketing"
+              - option "Brand Identity"
+              - option "E-commerce Marketing"
+              - option "Other"
+          - generic [ref=e213]:
+            - generic [ref=e214]: Project Details
+            - textbox "Project Details" [ref=e215]:
+              - /placeholder: Tell us about your project...
+          - button "Send Message" [ref=e216]
+        - generic [ref=e217]:
+          - generic [ref=e218]:
+            - generic:
+              - generic:
+                - img
+            - generic [ref=e220]:
+              - heading "Call Us" [level=3] [ref=e221]
+              - link "+353 86 153 0832" [ref=e223] [cursor=pointer]:
+                - /url: tel:+353861530832
+          - generic [ref=e224]:
+            - generic:
+              - generic:
+                - img
+            - generic [ref=e226]:
+              - heading "Email Us" [level=3] [ref=e227]
+              - link "hello@kraftagency.ie" [ref=e229] [cursor=pointer]:
+                - /url: mailto:hello@kraftagency.ie
+          - generic [ref=e230]:
+            - generic:
+              - generic:
+                - img
+            - generic [ref=e233]:
+              - heading "Visit Us" [level=3] [ref=e234]
+              - generic [ref=e235]: Galway/Oranmore, County Galway, Ireland
+          - generic [ref=e236]:
+            - generic:
+              - generic:
+                - img
+            - generic [ref=e238]:
+              - heading "Business Hours" [level=3] [ref=e239]
+              - generic [ref=e240]: "Monday - Friday: 9:00 AM - 6:00 PM GMT"
+  - contentinfo [ref=e241]:
+    - generic [ref=e242]:
+      - generic [ref=e243]:
+        - generic [ref=e244]:
+          - generic [ref=e245]:
+            - generic [ref=e247]: K
+            - generic [ref=e248]: Kraft Agency
+          - paragraph [ref=e249]: Craftspeople in a digital sense. Building exceptional digital experiences since 2016.
+          - generic:
+            - link "Twitter":
+              - /url: "#"
+              - img
+            - link "Facebook":
+              - /url: "#"
+              - img
+            - link "LinkedIn":
+              - /url: "#"
+              - img
+        - generic [ref=e253]:
+          - heading "Services" [level=3] [ref=e254]
+          - list [ref=e255]:
+            - listitem [ref=e256]:
+              - link "Web Design" [ref=e257] [cursor=pointer]:
+                - /url: /services/web-design-development
+            - listitem [ref=e258]:
+              - link "SEO Services" [ref=e259] [cursor=pointer]:
+                - /url: /services/seo-services
+            - listitem [ref=e260]:
+              - link "AI Marketing" [ref=e261] [cursor=pointer]:
+                - /url: /services/ai-marketing
+            - listitem [ref=e262]:
+              - link "Content Marketing" [ref=e263] [cursor=pointer]:
+                - /url: /services/content-marketing
+            - listitem [ref=e264]:
+              - link "PPC & Google Ads" [ref=e265] [cursor=pointer]:
+                - /url: /services/ppc-google-ads
+            - listitem [ref=e266]:
+              - link "Social Media" [ref=e267] [cursor=pointer]:
+                - /url: /services/social-media-marketing
+        - generic [ref=e268]:
+          - heading "Company" [level=3] [ref=e269]
+          - list [ref=e270]:
+            - listitem [ref=e271]:
+              - link "About Us" [ref=e272] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e273]:
+              - link "Locations" [ref=e274] [cursor=pointer]:
+                - /url: /locations
+            - listitem [ref=e275]:
+              - link "Contact" [ref=e276] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=e277]:
+          - heading "Contact" [level=3] [ref=e278]
+          - list [ref=e279]:
+            - listitem [ref=e280]:
+              - link "+353 86 153 0832" [ref=e281] [cursor=pointer]:
+                - /url: tel:+353861530832
+            - listitem [ref=e282]:
+              - link "hello@kraftagency.ie" [ref=e283] [cursor=pointer]:
+                - /url: mailto:hello@kraftagency.ie
+            - listitem [ref=e284]: Galway, Ireland
+      - generic [ref=e286]:
+        - paragraph [ref=e287]: © 2025 Kraft Agency. All rights reserved. Craftspeople in a digital sense.
+        - generic [ref=e288]:
+          - link "Privacy Policy" [ref=e289] [cursor=pointer]:
+            - /url: /privacy
+          - link "Terms of Service" [ref=e290] [cursor=pointer]:
+            - /url: /terms
+  - alert [ref=e291]
+```

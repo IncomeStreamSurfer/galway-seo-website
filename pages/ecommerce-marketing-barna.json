@@ -1,0 +1,209 @@
+{
+  "id": "ecommerce-marketing-barna",
+  "service": "E-commerce Marketing & Development",
+  "serviceSlug": "ecommerce-marketing",
+  "location": "Barna",
+  "locationSlug": "barna",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "E-commerce Marketing Barna - Grow Your Online Business | Kraft Agency",
+  "metaDescription": "Scale your Barna business online with Kraft Agency's e-commerce expertise. Professional store development, marketing, and optimization. Free consultation available!",
+
+  "heroHeadline": "Grow Your Barna Business with E-commerce Marketing",
+  "heroSubheadline": "Professional Online Store Solutions That Drive Revenue",
+
+  "description": "Looking to expand your Barna business into the thriving world of e-commerce? Kraft Agency specializes in complete e-commerce marketing and development solutions for businesses throughout Barna and coastal Galway. Whether you're a local boutique, artisan producer, hospitality business, or service provider wanting to sell products online, we transform your vision into a profitable online store. From building beautiful Shopify websites to managing high-converting advertising campaigns, we handle every aspect of your e-commerce success.\n\nOur comprehensive e-commerce approach is designed for sustainable growth. We start by building your online store with conversion-focused design, mobile optimization, and seamless user experience. Then we drive qualified customers through strategic multi-channel marketing: Google Shopping ads to capture purchase-intent searches, Facebook and Instagram advertising to build brand awareness and drive sales, SEO to rank for product keywords, and email marketing automation to maximize customer lifetime value. Every element is continuously optimized using AI-powered tools and data analytics to ensure maximum ROI for your Barna business.\n\nWhat distinguishes Kraft Agency as your e-commerce partner is our combination of local market knowledge and global e-commerce expertise. We understand the Barna and Galway markets, the seasonal dynamics of coastal businesses, and how to position your products for both local and tourist customers. Plus, our use of cutting-edge AI technology ensures your e-commerce strategy is always ahead of the competition and optimized for peak performance.",
+
+  "shortDescription": "Complete e-commerce solutions for Barna businesses. Expert store development, strategic marketing, and AI-powered optimization for online growth.",
+
+  "benefits": [
+    "Complete e-commerce solutions from build to marketing",
+    "Professional Shopify or WooCommerce development",
+    "Mobile-optimized stores for on-the-go shoppers",
+    "Multi-channel marketing strategy across all platforms",
+    "AI-powered conversion optimization",
+    "Email automation for repeat customer sales",
+    "Local Galway expertise with e-commerce specialization",
+    "Transparent reporting and ongoing support"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "E-commerce Strategy & Planning",
+      "description": "We analyze your Barna business, products, target customers (local, tourist, online), and competitive position. We develop a customized e-commerce strategy designed to achieve your specific revenue goals."
+    },
+    {
+      "step": 2,
+      "title": "Online Store Development",
+      "description": "We build your e-commerce store on the best platform for your needs (typically Shopify). This includes professional design, fast performance, mobile optimization, secure payment processing, and conversion-focused product pages."
+    },
+    {
+      "step": 3,
+      "title": "Product Content & SEO Setup",
+      "description": "We create compelling product descriptions, optimize images, set up product categories, implement SEO best practices, and add structured data so your Barna products appear in Google Shopping and search results."
+    },
+    {
+      "step": 4,
+      "title": "Marketing Campaign Launch",
+      "description": "We launch integrated marketing campaigns across Google Shopping ads for immediate visibility, Facebook/Instagram advertising for brand awareness, and email marketing for customer retention. Each campaign is optimized for your audience."
+    },
+    {
+      "step": 5,
+      "title": "Conversion Optimization",
+      "description": "Using AI-powered testing tools, we continuously optimize your store's conversion rate. We test and improve checkout flows, product page layouts, mobile experience, calls-to-action, and user journeys to maximize sales."
+    },
+    {
+      "step": 6,
+      "title": "Growth & Scaling",
+      "description": "As your Barna e-commerce business grows, we help you scale successfully. This includes expanding to new products, entering new markets, optimizing operations, and increasing marketing investment profitably."
+    }
+  ],
+
+  "pricingInfo": "E-commerce store development starts from €5,000 for professional Shopify stores with custom design. Ongoing e-commerce marketing ranges from €2,500/month for essential management and advertising to €8,000+/month for comprehensive solutions including SEO, paid ads, email marketing, and optimization. Custom packages for Barna businesses available.",
+
+  "serviceArea": "Barna and surrounding areas including Salthill, Knocknacarra, Furbo, Spiddal, and coastal West Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Available for in-person meetings in Barna and surrounding areas.",
+
+  "qualifications": [
+    "Certified Shopify Partner agency",
+    "Google Ads & Shopping specialists",
+    "Facebook Marketing certified",
+    "E-commerce conversion experts",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined e-commerce experience",
+  "guarantees": [
+    "Professional e-commerce store guaranteed",
+    "Mobile-optimized design included",
+    "Transparent monthly reporting",
+    "Conversion improvement commitment",
+    "Flexible service agreements"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "E-commerce marketing for Barna businesses",
+      "caption": "E-commerce Solutions in Barna",
+      "credit": {
+        "photographer": "Unsplash",
+        "unsplashUrl": "https://unsplash.com/photos/Q59HmzK38eQ"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1688561808434-886a6dd97b8c?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "E-commerce website development",
+        "caption": "Professional online store development",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/slLo94wES2M"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1664455340023-214c33a9d0bd?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "E-commerce shopping cart",
+        "caption": "Optimized shopping experiences",
+        "credit": {
+          "photographer": "Shutter Speed",
+          "unsplashUrl": "https://unsplash.com/photos/BQ9usyzHx_w"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1605902711622-cfb43c4437b5?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Mobile shopping experience",
+        "caption": "Mobile-first e-commerce design",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/pwxESDWRwDE"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1599658880436-c61792e70672?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "E-commerce analytics and optimization",
+        "caption": "Data-driven e-commerce strategy",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/eveI7MOcSmw"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Barna Businesses Choose Kraft Agency for E-commerce",
+    "Our Proven E-commerce Development & Marketing Process",
+    "E-commerce Platforms: Finding the Right Fit for Barna",
+    "Success Stories: Barna Businesses Thriving Online",
+    "E-commerce Marketing FAQs for Barna Businesses",
+    "Ready to Launch Your Barna Online Store?"
+  ],
+
+  "faq": [
+    {
+      "question": "How can e-commerce benefit my Barna business?",
+      "answer": "E-commerce allows you to sell 24/7, reach customers beyond Barna and Galway, capture tourist sales year-round, reduce dependence on seasonal traffic, and grow revenue significantly. Many Barna businesses see 30-60% revenue increases by adding e-commerce to their physical locations."
+    },
+    {
+      "question": "What platform is best for my Barna business?",
+      "answer": "We typically recommend Shopify for most Barna businesses due to its reliability, ease of use, mobile optimization, and comprehensive features. It's perfect for retail, hospitality, and artisan producers. We'll recommend the best platform based on your specific products and needs."
+    },
+    {
+      "question": "How long does it take to build an online store?",
+      "answer": "Most Shopify stores take 4-6 weeks from initial consultation to launch, including design, development, product setup, and testing. More complex stores may take 8-10 weeks. If you need to launch before peak season or a specific event, we can work with accelerated timelines for Barna businesses."
+    },
+    {
+      "question": "Can you photograph my products in Barna?",
+      "answer": "Yes! We offer professional product photography services. We can photograph products at our studio, your Barna location, or even outdoors if that suits your brand (great for showcasing Barna's coastal setting). Quality product photos dramatically improve e-commerce conversion rates."
+    },
+    {
+      "question": "How much should I invest in e-commerce marketing?",
+      "answer": "Most successful Barna e-commerce businesses invest €2,500-€7,000/month in marketing services plus €1,000-€3,000/month in advertising budget. Investment depends on your revenue goals, products, and competition. We create custom strategies for your specific business."
+    },
+    {
+      "question": "Can you help with international shipping?",
+      "answer": "Absolutely! We help you set up international shipping options, multi-currency support, and localized checkout experiences. Many Barna businesses want to sell to international tourists who visit and then order products online – we make this seamless."
+    },
+    {
+      "question": "What results can I expect?",
+      "answer": "Results vary by industry, but our Barna e-commerce clients typically see 20-40% increases in conversion rates, 50-100%+ increases in organic traffic within 6-12 months, and 3-5X return on ad spend. We focus on sustainable, profitable growth for your business."
+    },
+    {
+      "question": "Do you provide ongoing e-commerce support?",
+      "answer": "Yes! Most Barna clients work with us on monthly retainers for ongoing store management, marketing optimization, technical support, and strategic guidance. We're committed to your long-term e-commerce success, not just a one-time website build."
+    }
+  ],
+
+  "keywords": [
+    "e-commerce marketing",
+    "online store",
+    "Shopify development",
+    "e-commerce SEO",
+    "Google Shopping",
+    "online retail",
+    "e-commerce website",
+    "conversion optimization",
+    "online sales growth",
+    "digital commerce"
+  ],
+  "localKeywords": [
+    "e-commerce marketing Barna",
+    "online store Barna",
+    "Shopify developer Galway",
+    "e-commerce Barna",
+    "web shop Barna",
+    "e-commerce agency Galway",
+    "online sales Barna",
+    "e-commerce consultant Ireland",
+    "Shopify expert Galway",
+    "e-commerce near me"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free E-commerce Audit",
+  "ctaSecondary": "View E-commerce Success Stories"
+}

@@ -1,0 +1,209 @@
+{
+  "id": "social-media-marketing-galway-city",
+  "service": "Social Media Marketing",
+  "serviceSlug": "social-media-marketing",
+  "location": "Galway City",
+  "locationSlug": "galway-city",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Social Media Marketing Galway - Build Your Brand | Kraft Agency",
+  "metaDescription": "Transform your Galway business with Kraft Agency's expert social media marketing. Build engaged communities on Instagram, Facebook, LinkedIn. Free audit!",
+
+  "heroHeadline": "Social Media Marketing Excellence in Galway City",
+  "heroSubheadline": "Build Engaged Communities That Drive Real Business Growth",
+
+  "description": "Want to build a thriving online community and drive real business growth in Galway City? Kraft Agency delivers social media marketing that goes far beyond posting pretty pictures. We create strategic, data-driven campaigns across Instagram, Facebook, LinkedIn, TikTok, and Twitter that build authentic engagement, grow your following, and convert social media users into loyal customers for your Galway business.\n\nOur social media specialists understand Galway's vibrant business scene and what resonates with local audiences. Whether you're a restaurant in the Latin Quarter, a retail shop on Shop Street, a professional service firm, or a tech startup, we craft content strategies that showcase your brand's unique personality while driving measurable results. From eye-catching creative and compelling copy to strategic hashtag use and community management, we handle every aspect of your social media presence with expertise and authenticity.\n\nWhat sets Kraft Agency apart in Galway City? We combine creative storytelling with AI-powered analytics to ensure your social media investment delivers real ROI. You'll receive detailed monthly reports showing engagement growth, follower demographics, content performance, and most importantly – how social media drives website traffic, leads, and sales. With offices right here in Galway, we're your local partner for social media excellence that transforms followers into customers and customers into brand advocates.",
+
+  "shortDescription": "Expert social media marketing for Galway City businesses. Build engaged communities across Instagram, Facebook, LinkedIn. Strategic content that drives results.",
+
+  "benefits": [
+    "Deep understanding of Galway's local market and culture",
+    "Strategic content creation for Instagram, Facebook, LinkedIn, TikTok",
+    "AI-powered analytics to optimize content performance",
+    "Community management and engagement that builds loyalty",
+    "Influencer partnerships with local Galway creators",
+    "Paid social advertising for amplified reach",
+    "Consistent brand voice across all platforms",
+    "Monthly reporting showing real business impact"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Brand Discovery & Audience Research",
+      "description": "We dive deep into your brand personality, target audience in Galway City, competitors' social presence, and business goals to create a comprehensive social media strategy tailored to your unique position."
+    },
+    {
+      "step": 2,
+      "title": "Content Strategy Development",
+      "description": "Our team creates a custom content calendar including post themes, content pillars, visual style guidelines, and posting schedules optimized for when your Galway audience is most active and engaged."
+    },
+    {
+      "step": 3,
+      "title": "Creative Production & Copywriting",
+      "description": "We produce high-quality visual content (photos, graphics, videos) and write compelling copy that captures attention, communicates your brand message, and encourages engagement from Galway's social media users."
+    },
+    {
+      "step": 4,
+      "title": "Community Management",
+      "description": "We actively engage with your followers, respond to comments and messages, foster discussions, and build genuine relationships that transform casual followers into loyal brand advocates."
+    },
+    {
+      "step": 5,
+      "title": "Paid Social Amplification",
+      "description": "We create targeted social media advertising campaigns to amplify your best content, reach new audiences in Galway and beyond, and drive specific actions like website visits, inquiries, or purchases."
+    },
+    {
+      "step": 6,
+      "title": "Analytics & Optimization",
+      "description": "Using AI-powered analytics tools, we continuously track performance, identify top-performing content, understand audience behavior, and optimize strategy to improve results month over month."
+    }
+  ],
+
+  "pricingInfo": "Social media marketing for Galway City businesses typically starts from €800 per month for basic management (1-2 platforms, 3-5 posts weekly), scaling to €2,500+ for comprehensive packages (multiple platforms, daily posting, community management, paid ads). Custom packages available based on your needs.",
+
+  "serviceArea": "Galway City and surrounding areas including Salthill, Knocknacarra, Renmore, Taylor's Hill, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Community management support 7 days per week.",
+
+  "qualifications": [
+    "Certified Social Media Marketing specialists",
+    "15+ years combined digital marketing experience",
+    "Award-winning content creation team",
+    "AI analytics and optimization experts",
+    "Local Galway market expertise"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "Strategic content calendar planned monthly",
+    "Professional creative production included",
+    "Active community management and engagement",
+    "Transparent monthly performance reporting",
+    "No long-term contracts required"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1622782914767-404fb9ab3f57?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Social media marketing on mobile phone with engagement metrics",
+      "caption": "Expert Social Media Marketing in Galway City",
+      "credit": {
+        "photographer": "Georgia de Lotz",
+        "unsplashUrl": "https://unsplash.com/photos/Ebb8fe-NZtM"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1643503640904-75c1a2093570?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Social media platform icons including Instagram and Facebook",
+        "caption": "Multi-platform social media strategies for Galway",
+        "credit": {
+          "photographer": "Aman Pal",
+          "unsplashUrl": "https://unsplash.com/photos/15r9RAOy38Q"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Instagram social media content on smartphone",
+        "caption": "Engaging content that builds communities",
+        "credit": {
+          "photographer": "NordWood Themes",
+          "unsplashUrl": "https://unsplash.com/photos/3IFYE6UHFBo"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Social media analytics and engagement tracking",
+        "caption": "Data-driven strategies for measurable growth",
+        "credit": {
+          "photographer": "Austin Distel",
+          "unsplashUrl": "https://unsplash.com/photos/sScmok4Iq1o"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1665470909905-129dada26242?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Social media content creation and planning",
+        "caption": "Strategic content that drives business results",
+        "credit": {
+          "photographer": "Firmbee.com",
+          "unsplashUrl": "https://unsplash.com/photos/6AA9MDixOYM"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Galway City Businesses Choose Kraft Agency for Social Media",
+    "Our Strategic Social Media Marketing Process",
+    "Instagram vs Facebook vs LinkedIn: Which Platform for Your Business?",
+    "Building Authentic Engagement in Galway's Social Community",
+    "Social Media Marketing FAQs for Galway Businesses",
+    "Ready to Build Your Social Media Presence? Get Started Today"
+  ],
+
+  "faq": [
+    {
+      "question": "Which social media platforms should my Galway business use?",
+      "answer": "It depends on your target audience and business type. B2C businesses (restaurants, retail, lifestyle) typically excel on Instagram and Facebook. B2B companies and professional services perform well on LinkedIn. We analyze your audience and recommend the optimal platform mix for your Galway business."
+    },
+    {
+      "question": "How often should we post on social media?",
+      "answer": "Consistency matters more than frequency. We typically recommend 3-5 posts per week on Instagram, 5-7 on Facebook, and 2-3 on LinkedIn for Galway businesses. The key is maintaining regular presence with quality content rather than overwhelming followers with quantity."
+    },
+    {
+      "question": "Do you create all the content or do we need to provide it?",
+      "answer": "We handle all content creation – strategy, copywriting, graphic design, and video production. While we may occasionally request photos of your products or team, we manage the creative process end-to-end so you can focus on running your Galway business."
+    },
+    {
+      "question": "How long before we see results from social media marketing?",
+      "answer": "Social media is a long-term strategy. You'll see engagement and follower growth within 1-3 months, but meaningful business impact (website traffic, leads, sales) typically develops over 3-6 months as we build an engaged community around your Galway brand."
+    },
+    {
+      "question": "Should we invest in paid social media advertising?",
+      "answer": "Yes, paid advertising accelerates growth significantly. While organic content builds long-term community, paid campaigns help you reach new Galway audiences faster, promote specific offers, and drive immediate actions like website visits or purchases. We recommend allocating 20-30% of budget to paid social."
+    },
+    {
+      "question": "Can you help with influencer partnerships in Galway?",
+      "answer": "Absolutely! We have relationships with local Galway influencers and content creators across various niches. We can identify relevant influencers for your brand, negotiate partnerships, and manage collaborations that expose your business to engaged local audiences."
+    },
+    {
+      "question": "How do you measure social media success?",
+      "answer": "We track comprehensive metrics: follower growth, engagement rate, reach, impressions, website clicks, lead generation, and conversion tracking. Most importantly, we connect social media activity to real business outcomes like sales and revenue, showing true ROI."
+    },
+    {
+      "question": "What if we have a crisis or negative comments on social media?",
+      "answer": "We monitor your accounts continuously and handle community management professionally. For negative comments, we respond promptly and appropriately, turning potential crises into opportunities to demonstrate excellent customer service. We'll always consult you on sensitive issues."
+    }
+  ],
+
+  "keywords": [
+    "social media marketing",
+    "instagram marketing",
+    "facebook marketing",
+    "linkedin marketing",
+    "social media management",
+    "content marketing",
+    "community management",
+    "social advertising",
+    "influencer marketing",
+    "social media strategy"
+  ],
+  "localKeywords": [
+    "social media marketing Galway",
+    "instagram marketing Galway City",
+    "facebook marketing Galway",
+    "social media agency Galway",
+    "Galway social media management",
+    "content creator Galway",
+    "digital marketing Galway City",
+    "social media Galway business",
+    "Galway influencer marketing",
+    "social media near me"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Social Media Audit",
+  "ctaSecondary": "View Our Social Success Stories"
+}

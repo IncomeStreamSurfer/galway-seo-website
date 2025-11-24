@@ -1,0 +1,64 @@
+{
+  "id": "ai-marketing-gort",
+  "service": "AI-Powered Marketing Solutions",
+  "serviceSlug": "ai-marketing",
+  "location": "Gort",
+  "locationSlug": "gort",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+  "pageTitle": "AI Marketing Gort - Automate & Accelerate Growth | Kraft Agency",
+  "metaDescription": "Power your Gort business with AI marketing automation, intelligent analytics, and cutting-edge tools from Kraft Agency. Transform your marketing today!",
+  "heroHeadline": "Intelligent AI Marketing for Gort Businesses",
+  "heroSubheadline": "Scale Your Growth with AI Automation & Predictive Intelligence",
+  "description": "Transform how you market your Gort business with Kraft Agency's AI-powered solutions that combine cutting-edge artificial intelligence with proven marketing strategies. The AI revolution is here, and businesses in Gort have an unprecedented opportunity to gain competitive advantage through intelligent automation, machine learning optimization, and predictive analytics that deliver results manual marketing cannot achieve.\n\nOur comprehensive AI marketing services help Gort businesses work smarter and achieve more with existing resources. We implement AI-powered content generation that scales quality output, automated campaign optimization that improves performance in real-time, intelligent customer segmentation that increases conversions, predictive analytics that guide strategic decisions, and chatbots that provide 24/7 customer engagement. Whether you're looking to reduce costs, improve results, or scale operations, AI provides the capabilities you need.\n\nKraft Agency brings world-class AI expertise to Gort with a focus on practical implementation and measurable business impact. We understand that AI technology can seem complex and overwhelming, which is why we emphasize accessibility, clear communication, and tangible ROI. Our team handles the technical complexity while you reap the benefits – more leads, better conversions, reduced costs, and the ability to compete with larger competitors. Serving Gort and County Galway, we're your trusted AI marketing partner.",
+  "shortDescription": "AI-powered marketing solutions for Gort businesses. Automate workflows, optimize campaigns, and scale growth with intelligent AI technology.",
+  "benefits": [
+    "Intelligent automation saves 15-22 hours per week",
+    "AI-powered analytics reveal Gort market opportunities",
+    "Predictive modeling improves targeting accuracy",
+    "Automated content maintains brand quality at scale",
+    "24/7 customer service through AI chatbots",
+    "Machine learning optimizes budgets automatically",
+    "Personalization at scale increases revenue",
+    "Enterprise AI tools at SMB pricing"
+  ],
+  "process": [
+    {"step": 1, "title": "AI Discovery Session", "description": "We analyze your Gort business's marketing operations, identify AI opportunities, evaluate data readiness, and determine where intelligent automation can deliver maximum value and fastest ROI."},
+    {"step": 2, "title": "Strategic AI Roadmap", "description": "Our experts design a custom AI implementation plan for your Gort business, selecting optimal technologies, designing workflows, planning integrations, and establishing clear success metrics and timelines."},
+    {"step": 3, "title": "Expert Implementation", "description": "We deploy your AI marketing infrastructure, integrate platforms seamlessly, configure intelligent automations, train AI models on your data, and conduct thorough testing to ensure flawless operation."},
+    {"step": 4, "title": "Comprehensive Training", "description": "Your Gort team receives hands-on training on using AI tools effectively, interpreting AI insights, and incorporating AI capabilities into daily workflows to maximize productivity and results."},
+    {"step": 5, "title": "Ongoing Optimization", "description": "We continuously monitor AI performance, test emerging capabilities, optimize existing systems, implement improvements, and ensure your Gort business stays at the forefront of AI marketing innovation."}
+  ],
+  "pricingInfo": "AI marketing services are customized to your business size and objectives. Entry-level packages for small Gort businesses start at €1,500/month, professional solutions for growing companies range €3,500-€9,000/month, comprehensive enterprise AI marketing spans €10,000-€28,000+/month. All packages include strategy, setup, training, and continuous optimization. Request a free AI consultation for your Gort business.",
+  "serviceArea": "Gort and surrounding areas including Loughrea, Galway City, Kinvara, Ardrahan, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. AI marketing specialists available.",
+  "qualifications": ["AI & Machine Learning certified", "Advanced automation specialists", "OpenAI & Anthropic experts", "Marketing analytics professionals", "15+ years combined experience"],
+  "yearsExperience": "15+ years marketing, 4+ years AI focus",
+  "guarantees": ["Measurable ROI and transparent reporting", "Ethical AI and GDPR compliance", "Custom Gort business solutions", "Ongoing support and enhancement", "Flexible engagement options"],
+  "emergencyAvailable": false,
+  "images": {
+    "heroImage": {"url": "https://images.unsplash.com/photo-1542744173-05336fcc7ad4?ixlib=rb-4.0.3&w=1920&q=80", "alt": "AI marketing professional in Gort office", "caption": "Transform Your Marketing with AI in Gort"},
+    "gallery": [
+      {"url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&w=1200&q=80", "alt": "Analytics graphs and data", "caption": "Intelligent analytics"},
+      {"url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80", "alt": "Marketing data dashboard", "caption": "AI-powered insights"},
+      {"url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixlib=rb-4.0.3&w=1200&q=80", "alt": "Laptop with analytics", "caption": "Real-time optimization"},
+      {"url": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?ixlib=rb-4.0.3&w=1200&q=80", "alt": "AI technology network", "caption": "Advanced AI tech"}
+    ]
+  },
+  "h2Headings": ["Why Gort Businesses Choose Kraft Agency for AI Marketing", "The Complete AI Marketing Implementation Journey", "Measurable Business Results from AI in Gort", "Cutting-Edge AI Tools and Platforms", "Your AI Marketing Questions Answered", "Start Your AI Transformation in Gort Today"],
+  "faq": [
+    {"question": "How does AI improve marketing results?", "answer": "AI improves results through better targeting, real-time optimization, predictive insights, personalization at scale, and automation of time-consuming tasks. For Gort businesses, this typically translates to 20-40% better conversion rates, 30-50% time savings, and 15-25% lower acquisition costs."},
+    {"question": "What's required to get started with AI marketing?", "answer": "You need clear business goals, basic customer data, existing marketing channels, and openness to new approaches. We handle all technical requirements. Most Gort businesses can start with their existing infrastructure – we make AI accessible regardless of technical sophistication."},
+    {"question": "How long before we see ROI from AI?", "answer": "Timeline varies by implementation scope. Efficiency gains from automation appear within weeks. Improved campaign performance typically emerges within 2-4 months as AI learns and optimizes. Most Gort clients achieve positive ROI within 6-9 months."},
+    {"question": "Can AI generate quality content for our brand?", "answer": "Yes, with proper setup and oversight. We train AI on your brand voice, style, and messaging, then implement review processes. This delivers the speed of AI content generation with quality assurance, giving your Gort business both efficiency and excellence."},
+    {"question": "Is AI marketing suitable for our industry?", "answer": "AI delivers value across virtually all industries in Gort – retail, professional services, hospitality, manufacturing, healthcare, and more. We customize our approach based on your specific industry dynamics, target audience behaviors, and business model."},
+    {"question": "What happens if AI makes mistakes?", "answer": "We implement multiple safeguards including human review checkpoints, approval workflows, and quality monitoring. While AI is highly reliable, we never let it operate without oversight. Your Gort brand reputation is protected through proper governance."},
+    {"question": "How do you measure AI marketing success?", "answer": "We track multiple KPIs including time saved, campaign performance improvements, conversion rate increases, cost reductions, and overall ROI. You receive regular reports showing exactly how AI impacts your Gort business with clear metrics and insights."},
+    {"question": "Is our data secure with AI tools?", "answer": "Absolutely. We use enterprise-grade platforms with robust security, encryption, and GDPR compliance. Your Gort business data is protected, never used to train public models, and you maintain complete control with strict data governance throughout."}
+  ],
+  "keywords": ["AI marketing", "marketing automation", "artificial intelligence", "machine learning", "predictive analytics", "AI tools", "intelligent automation", "ChatGPT marketing", "marketing AI", "AI optimization"],
+  "localKeywords": ["AI marketing Gort", "marketing automation Gort", "AI agency Gort", "AI marketing Galway", "artificial intelligence Gort", "marketing automation Ireland", "AI solutions Gort", "Gort digital marketing", "intelligent marketing Gort", "AI marketing County Galway"],
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Schedule Your Free AI Consultation",
+  "ctaSecondary": "Request Custom Proposal"
+}

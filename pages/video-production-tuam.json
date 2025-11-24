@@ -1,0 +1,189 @@
+{
+  "id": "video-production-tuam",
+  "service": "Video Production & Marketing",
+  "serviceSlug": "video-production",
+  "location": "Tuam",
+  "locationSlug": "tuam",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Video Production Tuam - Expert Video Services | Kraft Agency",
+  "metaDescription": "Top video production services in Tuam, North Galway. Create professional videos that grow your business. Filming, editing & marketing. Free consultation today!",
+
+  "heroHeadline": "Expert Video Production in Tuam",
+  "heroSubheadline": "Professional Video Content for North Galway Businesses",
+
+  "description": "Searching for professional video production in Tuam? Kraft Agency delivers high-quality video services to businesses throughout Tuam and North Galway. We specialize in creating compelling video content that tells your story, engages your audience, and drives measurable business growth. From promotional videos and social media content to corporate communications and advertising campaigns, our experienced team brings professional expertise to every project.\n\nOur comprehensive video production services in Tuam cover every stage of the creative process. We begin with strategic consultation to understand your business objectives and target audience. Our creative team then develops concepts, scripts, and storyboards that bring your vision to life. Using professional cinema cameras, lighting, and audio equipment, we capture stunning footage at your Tuam location or in our studio. Finally, our expert editors polish your content with professional color grading, sound design, graphics, and effects that make your videos shine.\n\nKraft Agency combines creative excellence with marketing intelligence. Every video we produce in Tuam is designed to achieve specific business goals – whether that's increasing brand awareness, generating leads, driving sales, or building customer trust. We optimize content for maximum performance across all platforms, from YouTube and social media to your website and email campaigns. With professional equipment, years of experience serving North Galway businesses, and a track record of delivering results, we're your trusted partner for video production excellence in Tuam.",
+
+  "shortDescription": "Professional video production serving Tuam and North Galway. Comprehensive video services that drive business results.",
+
+  "benefits": [
+    "Local service for Tuam and North Galway",
+    "Cinema-quality production equipment",
+    "Complete end-to-end production service",
+    "Strategic marketing approach",
+    "Professional editing and effects",
+    "Social media optimization expertise",
+    "Competitive local business rates",
+    "Responsive and personal service"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Initial Strategy Meeting",
+      "description": "We meet to discuss your business, goals, target audience, and video requirements. Together we develop a strategic approach and creative direction that delivers results."
+    },
+    {
+      "step": 2,
+      "title": "Creative Development",
+      "description": "Our team creates scripts, storyboards, and detailed production plans. We handle all pre-production logistics including locations, scheduling, talent, and permits."
+    },
+    {
+      "step": 3,
+      "title": "Professional Production",
+      "description": "Our crew films using professional cinema cameras, lighting, and audio equipment at your Tuam location or our studio, capturing high-quality footage efficiently and professionally."
+    },
+    {
+      "step": 4,
+      "title": "Post-Production",
+      "description": "Our editors craft your footage into polished final videos with professional color correction, audio mixing, motion graphics, visual effects, and music integration."
+    },
+    {
+      "step": 5,
+      "title": "Review & Revisions",
+      "description": "We share draft versions for your detailed feedback and make revisions until the final video perfectly aligns with your vision and business requirements."
+    },
+    {
+      "step": 6,
+      "title": "Final Delivery",
+      "description": "Receive your completed videos optimized for all platforms in multiple formats, plus strategic recommendations for distribution and marketing to maximize reach and impact."
+    }
+  ],
+
+  "pricingInfo": "Video production in Tuam ranges from €1,500 for social media content to €10,000+ for comprehensive commercial productions. Pricing varies based on video length, complexity, filming days, locations, talent requirements, and post-production needs. We provide transparent quotes with no hidden costs. Contact us for a custom proposal.",
+
+  "serviceArea": "Tuam and surrounding areas including Milltown, Dunmore, Headford, Athenry, and North Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Weekend filming by arrangement.",
+
+  "qualifications": [
+    "Professional video production team",
+    "Certified cinematography specialists",
+    "Expert video editing professionals",
+    "Marketing strategy experts",
+    "10+ years industry experience"
+  ],
+  "yearsExperience": "10+ years combined video production experience",
+  "guarantees": [
+    "Professional broadcast quality",
+    "Comprehensive revision process",
+    "On-schedule delivery",
+    "Multi-format optimization",
+    "Complete usage rights"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1632187989763-c9c620420b4d?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Video production crew filming in Tuam with professional equipment",
+      "caption": "Professional Video Production Services in Tuam"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1595292340185-f8a3c5e8b593?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Female videographer with professional camera",
+        "caption": "Experienced video production professionals"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1612548403247-aa2873e9422d?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional DSLR camera and video equipment",
+        "caption": "Professional cinema-grade equipment"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1574717025058-2f8737d2e2b7?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Video editing software on laptop computer",
+        "caption": "Expert editing and post-production"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1625690303837-654c9666d2d0?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional camera tripod and equipment",
+        "caption": "State-of-the-art video technology"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Tuam Businesses Choose Kraft Agency",
+    "Our Complete Video Production Process",
+    "Video Content That Drives Business Growth",
+    "Strategic Video Marketing for North Galway",
+    "Common Video Production Questions Answered",
+    "Start Your Video Project Today"
+  ],
+
+  "faq": [
+    {
+      "question": "Can you film at our business in Tuam?",
+      "answer": "Yes! We regularly film on-site at client locations throughout Tuam and North Galway. Our team brings all necessary equipment and works professionally to minimize disruption while capturing great footage of your business, team, and operations."
+    },
+    {
+      "question": "What types of videos are most effective for local businesses?",
+      "answer": "Popular and effective options include business overview videos, customer testimonial videos, product or service demonstrations, behind-the-scenes content, social media videos, and team introduction videos. We'll recommend the best approach during our consultation."
+    },
+    {
+      "question": "How much does professional video production cost?",
+      "answer": "Costs start from €1,500 for simple social media videos, €3,500-€6,000 for professional business videos, and €8,000+ for comprehensive commercial productions. We provide detailed, transparent quotes based on your specific project requirements."
+    },
+    {
+      "question": "Do you write scripts or do we need to provide them?",
+      "answer": "We provide professional scriptwriting as part of our service. Our experienced writers can work from your ideas or develop concepts from scratch, ensuring the script effectively communicates your message and resonates with your target audience."
+    },
+    {
+      "question": "What's the typical timeline for video production?",
+      "answer": "Simple videos can be completed in 1-2 weeks from initial meeting to final delivery. More complex projects typically take 3-6 weeks. We provide realistic timelines during consultation and maintain clear communication throughout the process."
+    },
+    {
+      "question": "Can you help promote our videos once they're created?",
+      "answer": "Absolutely! We offer comprehensive video marketing services including YouTube optimization, social media advertising, email marketing integration, website integration, and performance analytics to ensure your videos reach your audience and drive results."
+    },
+    {
+      "question": "What equipment do you use for filming?",
+      "answer": "We use professional cinema cameras (Sony, Canon, Panasonic), high-quality lenses, professional lighting equipment, advanced audio recording systems, stabilization gear, and industry-standard editing software to ensure broadcast-quality results."
+    },
+    {
+      "question": "Do we get full ownership of the videos?",
+      "answer": "Yes! You receive complete copyright ownership and unlimited usage rights. We deliver files in all formats you need for unrestricted use across websites, social media, advertising, presentations, broadcasts, or any other purpose."
+    }
+  ],
+
+  "keywords": [
+    "video production",
+    "professional videography",
+    "business video services",
+    "corporate video",
+    "video marketing",
+    "commercial video production",
+    "promotional video",
+    "video content creation",
+    "professional filming",
+    "video editing services"
+  ],
+  "localKeywords": [
+    "video production Tuam",
+    "videographer Tuam",
+    "video services Tuam",
+    "Tuam video production",
+    "video marketing Tuam",
+    "North Galway video production",
+    "commercial video Tuam",
+    "business video Tuam",
+    "video company Tuam",
+    "professional video Tuam"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Request Your Free Video Quote",
+  "ctaSecondary": "See Our Portfolio"
+}

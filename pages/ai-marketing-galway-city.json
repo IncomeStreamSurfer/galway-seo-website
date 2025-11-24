@@ -1,0 +1,209 @@
+{
+  "id": "ai-marketing-galway-city",
+  "service": "AI-Powered Marketing Solutions",
+  "serviceSlug": "ai-marketing",
+  "location": "Galway City",
+  "locationSlug": "galway-city",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "AI Marketing Galway - Future-Proof Your Business | Kraft Agency",
+  "metaDescription": "Revolutionary AI marketing in Galway City. Kraft Agency delivers AI-powered automation, personalization & analytics that 10x your results. Book demo now!",
+
+  "heroHeadline": "AI-Powered Marketing Solutions in Galway City",
+  "heroSubheadline": "Supercharge Your Marketing with Cutting-Edge AI Technology",
+
+  "description": "Welcome to the future of marketing in Galway City. Kraft Agency specializes in AI-powered marketing solutions that transform how businesses connect with customers, automate repetitive tasks, and achieve unprecedented results. Whether you're a startup or established business in Galway, our cutting-edge AI tools and strategies will revolutionize your marketing performance, reduce costs, and drive exponential growth.\n\nArtificial intelligence is no longer science fiction – it's the competitive advantage that separates thriving businesses from those left behind. Our AI marketing solutions leverage machine learning, natural language processing, and predictive analytics to personalize customer experiences at scale, optimize campaigns in real-time, and uncover insights human analysts would miss. From AI-powered chatbots that engage customers 24/7 to predictive analytics that forecast customer behavior, we implement the AI tools that will give your Galway business an unfair advantage.\n\nWhat sets Kraft Agency apart is our practical, results-focused approach to AI marketing. We don't chase trends or implement technology for technology's sake. Every AI solution we deploy is carefully selected and customized to solve specific business challenges and achieve measurable results for your Galway City business. You'll see improvements in conversion rates, customer engagement, operational efficiency, and revenue – all backed by comprehensive reporting and ongoing optimization from our AI-certified team.",
+
+  "shortDescription": "Revolutionary AI marketing solutions in Galway City. Automate campaigns, personalize at scale, and 10x your results with cutting-edge AI technology.",
+
+  "benefits": [
+    "24/7 AI chatbots that engage and convert customers",
+    "Predictive analytics that forecast customer behavior",
+    "Automated marketing campaigns that run themselves",
+    "Hyper-personalized customer experiences at scale",
+    "AI-powered content creation for faster output",
+    "Real-time campaign optimization for maximum ROI",
+    "Competitive intelligence through AI monitoring",
+    "Comprehensive AI implementation and training"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "AI Readiness Assessment",
+      "description": "We begin by analyzing your current marketing operations, technology stack, and business goals to identify the AI opportunities with the highest potential ROI for your Galway City business. This assessment reveals where AI can deliver the biggest impact."
+    },
+    {
+      "step": 2,
+      "title": "AI Strategy Development",
+      "description": "Our team develops a customized AI marketing strategy aligned with your business objectives. We select the right AI tools and technologies – from chatbots and predictive analytics to automated personalization and content generation – that will transform your marketing performance."
+    },
+    {
+      "step": 3,
+      "title": "AI Tool Implementation",
+      "description": "We implement and integrate your chosen AI solutions seamlessly with your existing marketing systems. This includes setting up AI chatbots, configuring predictive models, connecting automation platforms, and ensuring everything works together perfectly."
+    },
+    {
+      "step": 4,
+      "title": "AI Training & Optimization",
+      "description": "AI systems learn and improve over time. We train your AI models using your business data, optimize algorithms for your specific use cases, and continuously refine performance to ensure your AI marketing delivers increasingly better results."
+    },
+    {
+      "step": 5,
+      "title": "Team Training & Enablement",
+      "description": "We provide comprehensive training so your Galway team understands how to leverage your new AI marketing tools effectively. Our hands-on training ensures you can maximize the value of your AI investment and continue innovating independently."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing AI Optimization",
+      "description": "AI marketing requires continuous monitoring and refinement. We track performance metrics, test new AI capabilities, and optimize your systems based on real results. As AI technology evolves, we ensure your Galway business stays at the cutting edge."
+    }
+  ],
+
+  "pricingInfo": "AI marketing solutions for Galway City businesses vary based on the tools and scope of implementation. Starter AI packages (chatbots, basic automation) typically begin at €2,500/month, while comprehensive AI marketing transformation projects range from €5,000-€15,000+ monthly. We design custom AI strategies that deliver maximum ROI for your investment. Contact us for a free AI readiness assessment and personalized proposal for your Galway business.",
+
+  "serviceArea": "Galway City and surrounding areas including Salthill, Oranmore, Knocknacarra, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. AI specialists available for consultation.",
+
+  "qualifications": [
+    "AI and machine learning certified",
+    "Google Partner certified",
+    "Marketing automation specialists",
+    "Data science expertise",
+    "15+ years digital marketing experience"
+  ],
+  "yearsExperience": "15+ years combined digital marketing and AI experience",
+  "guarantees": [
+    "Measurable ROI from AI implementations",
+    "Comprehensive team training included",
+    "Ongoing AI optimization and support",
+    "Ethical AI practices and data privacy",
+    "Flexible contracts - no lengthy commitments"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1746608943132-065d1d4b3c5d?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "AI marketing interface showing intelligent automation in Galway City",
+      "caption": "AI-Powered Marketing Solutions in Galway City",
+      "credit": {
+        "photographer": "Zulfugar Karimov",
+        "unsplashUrl": "https://unsplash.com/photos/L_ABvr0KxgU"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1555077292-22a4489e5897?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Business professional analyzing AI marketing data",
+        "caption": "AI-driven marketing insights for Galway businesses",
+        "credit": {
+          "photographer": "Elio Santos",
+          "unsplashUrl": "https://unsplash.com/photos/M38gjx6hifY"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1542744173-05336fcc7ad4?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing analytics dashboard with AI insights",
+        "caption": "Real-time AI marketing performance tracking",
+        "credit": {
+          "photographer": "Campaign Creators",
+          "unsplashUrl": "https://unsplash.com/photos/pypeCEaJeZY"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1533750349088-cd871a92f312?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "AI marketing strategy planning session",
+        "caption": "Strategic AI marketing planning for Galway businesses",
+        "credit": {
+          "photographer": "Campaign Creators",
+          "unsplashUrl": "https://unsplash.com/photos/yktK2qaiVHI"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1555421689-d68471e189f2?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing team implementing AI solutions",
+        "caption": "Expert AI implementation for Galway City businesses",
+        "credit": {
+          "photographer": "Annie Spratt",
+          "unsplashUrl": "https://unsplash.com/photos/QckxruozjRg"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Galway City Businesses Need AI Marketing Now",
+    "Our AI Marketing Solutions: From Strategy to Implementation",
+    "AI Tools That Transform Marketing Performance",
+    "Real Results: AI Marketing Success Stories",
+    "Common AI Marketing Questions from Galway Businesses",
+    "Ready to Transform Your Marketing with AI?"
+  ],
+
+  "faq": [
+    {
+      "question": "What is AI marketing and how can it help my Galway business?",
+      "answer": "AI marketing uses artificial intelligence technologies like machine learning, natural language processing, and predictive analytics to automate, optimize, and personalize your marketing efforts. For Galway businesses, this means 24/7 customer engagement through chatbots, automated campaigns that optimize themselves, personalized customer experiences at scale, and predictive insights that forecast customer behavior – all resulting in better results with less manual effort."
+    },
+    {
+      "question": "Do I need technical expertise to use AI marketing tools?",
+      "answer": "No! That's the beauty of modern AI marketing solutions. We implement user-friendly AI tools and provide comprehensive training so your Galway team can leverage AI effectively without needing technical expertise. Our ongoing support ensures you maximize your AI investment while focusing on your business, not the technology."
+    },
+    {
+      "question": "How quickly will I see results from AI marketing?",
+      "answer": "Many AI marketing solutions deliver immediate benefits. Chatbots can engage customers from day one, while automated campaigns optimize in real-time. More sophisticated AI applications like predictive analytics typically show significant improvements within 2-3 months as the AI learns from your data. We provide regular reports tracking your AI marketing ROI."
+    },
+    {
+      "question": "Is AI marketing expensive for Galway businesses?",
+      "answer": "AI marketing is more accessible than you think. Starter packages with chatbots and basic automation begin at €2,500/month, often paying for themselves through improved efficiency and conversions. Comprehensive AI transformations range from €5,000-€15,000/month but typically deliver 3-10x ROI through increased revenue and reduced marketing costs. We customize solutions to fit your budget."
+    },
+    {
+      "question": "What AI marketing tools do you implement?",
+      "answer": "We implement a range of AI tools based on your needs: AI chatbots for customer engagement, predictive analytics for forecasting, marketing automation platforms with AI optimization, AI-powered content generation, personalization engines for customized experiences, competitive intelligence tools, and customer sentiment analysis. Every tool is selected for your specific business goals."
+    },
+    {
+      "question": "Will AI replace my marketing team?",
+      "answer": "No – AI enhances your team, not replaces them. AI handles repetitive tasks, data analysis, and optimization, freeing your Galway team to focus on strategy, creativity, and relationship building – the human elements where they excel. Our AI solutions make your team more productive and effective, not obsolete."
+    },
+    {
+      "question": "Is AI marketing ethical and compliant with data privacy?",
+      "answer": "Absolutely. We implement AI marketing solutions that fully comply with GDPR and Irish data protection regulations. Ethical AI practices are non-negotiable for us – we ensure transparency in how AI makes decisions, protect customer privacy, and maintain human oversight of all AI systems deployed for your Galway business."
+    },
+    {
+      "question": "Can AI marketing work for small Galway businesses?",
+      "answer": "Yes! AI marketing isn't just for large corporations anymore. Modern AI tools are scalable and affordable for businesses of all sizes. Even small Galway businesses can leverage AI chatbots, automated email marketing, and basic predictive analytics to compete with larger competitors and deliver enterprise-level customer experiences."
+    }
+  ],
+
+  "keywords": [
+    "AI marketing",
+    "artificial intelligence marketing",
+    "marketing automation",
+    "AI chatbots",
+    "predictive analytics",
+    "AI tools",
+    "machine learning marketing",
+    "marketing AI",
+    "automated marketing",
+    "AI-powered marketing"
+  ],
+  "localKeywords": [
+    "AI marketing Galway",
+    "AI marketing agency Ireland",
+    "marketing automation Galway City",
+    "AI chatbots Galway",
+    "AI marketing consultant Ireland",
+    "artificial intelligence marketing Galway",
+    "marketing AI Galway City",
+    "Irish AI marketing services",
+    "AI marketing near me",
+    "Galway marketing automation"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Book Your Free AI Marketing Demo",
+  "ctaSecondary": "Download AI Marketing Guide"
+}

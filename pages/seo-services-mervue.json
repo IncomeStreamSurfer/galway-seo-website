@@ -1,0 +1,187 @@
+{
+  "id": "seo-services-mervue",
+  "service": "Search Engine Optimization (SEO)",
+  "serviceSlug": "seo-services",
+  "location": "Mervue",
+  "locationSlug": "mervue",
+  "serviceNiche": "Full-Service Digital Agency",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "SEO Mervue - Increase Traffic & Revenue | Kraft Agency",
+  "metaDescription": "Transform your Mervue business with expert SEO from Kraft Agency. Dominate local search, attract more customers, and boost revenue. Free audit available now!",
+  "heroHeadline": "Professional SEO Services for Mervue Businesses",
+  "heroSubheadline": "Increase Visibility, Drive Traffic, and Generate More Leads",
+
+  "description": "Is your Mervue business invisible on Google? Kraft Agency delivers powerful SEO solutions that transform your online presence and drive real business results. Our comprehensive SEO strategies help Mervue businesses rank higher, attract more qualified traffic, and convert visitors into loyal customers. With over 15 years of experience in the Irish market, we understand exactly what it takes to succeed in local and national search.\n\nServing businesses throughout Mervue and County Galway, our SEO experts specialize in creating customized strategies that align with your unique business goals. We start with in-depth research into your industry, competitors, and target customers in Mervue, then build SEO campaigns that deliver measurable ROI. Whether you're looking to dominate local searches or expand your reach across Ireland, we have the expertise and tools to make it happen.\n\nKraft Agency stands apart through our commitment to sustainable, ethical SEO practices combined with cutting-edge technology. We use AI-powered analytics and automation to continuously optimize your campaigns, ensuring you stay ahead of competitors and algorithm updates. With transparent monthly reporting, regular strategy consultations, and dedicated support, you'll have complete confidence in your SEO investment and the growth it delivers to your Mervue business.",
+
+  "shortDescription": "Expert SEO services for Mervue. Boost search rankings, increase organic traffic, and grow your business with proven SEO strategies.",
+
+  "benefits": [
+    "Increase visibility in Mervue and Galway search results",
+    "Drive targeted organic traffic that converts",
+    "Outrank competitors for valuable keywords",
+    "AI-powered optimization for superior results",
+    "Full-service SEO including technical and content",
+    "Transparent ROI tracking and reporting",
+    "Proven track record with Irish businesses",
+    "Flexible monthly service with dedicated support"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Comprehensive SEO Discovery",
+      "description": "We begin with a detailed audit of your website's SEO health, competitive position, and opportunities in the Mervue market. This includes technical analysis, content review, backlink assessment, and keyword research."
+    },
+    {
+      "step": 2,
+      "title": "Strategic Keyword Selection",
+      "description": "Our team identifies high-value keywords that your Mervue customers use when searching for your products or services. We focus on terms with strong commercial intent that drive qualified traffic and conversions."
+    },
+    {
+      "step": 3,
+      "title": "Technical Optimization",
+      "description": "We fix and enhance all technical aspects of your website including speed optimization, mobile responsiveness, site architecture, indexing, structured data, and core web vitals to meet Google's ranking requirements."
+    },
+    {
+      "step": 4,
+      "title": "Content Strategy & Implementation",
+      "description": "Our content experts create SEO-optimized content that serves both search engines and your Mervue audience. We develop content that ranks, engages, and drives action from your target customers."
+    },
+    {
+      "step": 5,
+      "title": "Authority Building",
+      "description": "We build high-quality backlinks from reputable Irish and international websites in your industry, increasing your domain authority and ability to rank for competitive keywords."
+    },
+    {
+      "step": 6,
+      "title": "Continuous Performance Optimization",
+      "description": "SEO requires ongoing attention. We monitor your results daily, analyze performance data, test improvements, and adapt strategies to maintain and grow your search visibility in Mervue and beyond."
+    }
+  ],
+
+  "pricingInfo": "SEO services for Mervue businesses range from €1,200 per month for local SEO campaigns targeting Galway searches, to €5,000+ monthly for competitive national campaigns. Pricing varies based on your industry, competition level, and objectives. Contact us for a complimentary SEO audit and customized proposal.",
+
+  "serviceArea": "Mervue and surrounding areas including Galway City, Renmore, Ballybane, Doughiska, and throughout County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Dedicated account management included with all packages.",
+
+  "qualifications": [
+    "Certified Google Partner",
+    "15+ years SEO experience",
+    "Technical SEO certified team",
+    "Professional content specialists",
+    "AI and marketing automation experts"
+  ],
+  "yearsExperience": "15+ years combined expertise",
+  "guarantees": [
+    "Detailed monthly reporting and analytics",
+    "White-hat SEO methods exclusively",
+    "Customized strategy for your goals",
+    "Regular communication and updates",
+    "No long-term contracts required"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1709281847981-73a69aa6f770?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "SEO services and digital marketing for Mervue businesses",
+      "caption": "Expert SEO Services in Mervue"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1674027326254-88c960d8e561?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "SEO strategy and optimization planning",
+        "caption": "Strategic SEO planning for growth"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing analytics and performance tracking",
+        "caption": "Track your SEO success with detailed analytics"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Google search ranking monitoring",
+        "caption": "Monitor your rankings in real-time"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1477013743164-ffc3a5e556da?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Mobile SEO and Google search on smartphone",
+        "caption": "Dominate mobile search in Mervue"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Mervue Businesses Choose Kraft Agency for SEO",
+    "Our Step-by-Step SEO Process",
+    "Understanding SEO Options for Your Mervue Business",
+    "Proven Results: SEO Case Studies from Galway",
+    "Common SEO Questions from Mervue Business Owners",
+    "Ready to Grow Your Mervue Business with SEO?"
+  ],
+
+  "faq": [
+    {
+      "question": "How soon will I see results from SEO in Mervue?",
+      "answer": "Most Mervue businesses begin seeing improved search visibility within 3-6 months, with substantial traffic increases typically occurring by 6-12 months. SEO is a long-term growth strategy that builds momentum over time. We provide monthly progress reports so you can track ranking improvements, traffic growth, and lead generation throughout your SEO journey."
+    },
+    {
+      "question": "Should my Mervue business focus on local or national SEO?",
+      "answer": "It depends on who your customers are. If you serve customers primarily in Mervue, Galway, and surrounding areas, local SEO is ideal for targeting searches like 'near me' and location-specific queries. If you serve customers across Ireland, national SEO makes sense. We'll assess your business model and recommend the best approach."
+    },
+    {
+      "question": "Can you guarantee my website will rank #1?",
+      "answer": "We can't ethically guarantee specific rankings as Google's algorithm changes constantly and rankings fluctuate. However, we guarantee our commitment to proven strategies, transparent reporting, and continuous optimization. Our track record shows most Mervue clients achieve first-page rankings for their target keywords within 6-12 months."
+    },
+    {
+      "question": "How much should I budget for SEO services?",
+      "answer": "SEO investment for Mervue businesses typically starts at €1,200 per month for local campaigns and ranges to €3,000-€5,000+ for competitive national campaigns. Pricing depends on your industry competition, current website status, and growth objectives. We'll provide a free audit and customized quote for your situation."
+    },
+    {
+      "question": "What's included in your SEO packages?",
+      "answer": "Our comprehensive SEO service includes website audits, keyword research and strategy, technical SEO optimization, content creation and optimization, on-page SEO, link building, local SEO setup and management, competitor monitoring, detailed monthly reports, and regular strategy consultations with your dedicated account manager."
+    },
+    {
+      "question": "Do you provide content writing services?",
+      "answer": "Yes! Content is essential for SEO success. Our professional writers create original, SEO-optimized content including blog articles, service pages, landing pages, and website copy that ranks well on Google while engaging your Mervue audience and driving conversions."
+    },
+    {
+      "question": "How do you measure and report SEO success?",
+      "answer": "We track multiple performance indicators including keyword rankings, organic traffic volume, user engagement metrics, conversion rates, lead generation, and revenue attribution where possible. You'll receive detailed monthly reports and regular video calls to review performance and discuss strategies."
+    },
+    {
+      "question": "Are your SEO methods safe and compliant?",
+      "answer": "Absolutely. We exclusively use white-hat SEO techniques that comply with Google's webmaster guidelines. We never use spam, link schemes, keyword stuffing, or other risky tactics. Our focus is building sustainable, penalty-free SEO success that protects your Mervue business's online reputation."
+    }
+  ],
+
+  "keywords": [
+    "SEO services",
+    "search engine optimization",
+    "SEO agency",
+    "SEO expert",
+    "organic search",
+    "Google rankings",
+    "local SEO",
+    "technical SEO",
+    "SEO consultant",
+    "search marketing"
+  ],
+  "localKeywords": [
+    "SEO Mervue",
+    "SEO services Mervue",
+    "Mervue SEO agency",
+    "SEO company Galway",
+    "local SEO Mervue",
+    "SEO expert Galway",
+    "search optimization Mervue",
+    "Mervue digital marketing",
+    "Google rankings Mervue",
+    "SEO near me"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Claim Your Free SEO Audit",
+  "ctaSecondary": "Explore SEO Success Stories"
+}

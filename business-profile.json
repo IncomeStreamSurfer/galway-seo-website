@@ -1,0 +1,336 @@
+{
+  "businessName": "Kraft Agency",
+  "tagline": "We craft marketing strategies that grow your revenue",
+  "description": "Kraft Agency is a full-service digital agency based in Galway, Ireland, specializing in SEO, web design, digital marketing, and AI-powered solutions. Founded in 2016, we're craftspeople in a digital sense, with a mission to drive authenticity into every project. Our 'Organic First' approach focuses on building solid foundations, increasing sales conversions, and driving high-intent traffic to help businesses achieve sustainable growth.",
+  "established": "2016",
+  "yearsInBusiness": "9 years",
+  "location": {
+    "address": "Galway, H91 FR3W",
+    "city": "Galway/Oranmore",
+    "region": "Galway, Connacht",
+    "country": "Ireland"
+  },
+  "services": [
+    "Search Engine Optimization (SEO)",
+    "Technical SEO",
+    "International SEO",
+    "Website Design & Development",
+    "Digital Marketing Strategy",
+    "Content Creation & Marketing",
+    "E-commerce Solutions",
+    "WordPress & Divi Development",
+    "Conversion Rate Optimization (CRO)",
+    "AI-Powered Marketing Solutions",
+    "Backlinking Services",
+    "Facebook Ads Management",
+    "Google Ads / PPC",
+    "Online Advertising",
+    "Brand Identity Development",
+    "Software Development",
+    "Marketing Automation",
+    "SaaS Solutions"
+  ],
+  "uniqueSellingPoints": [
+    "Organic First approach - focusing on sustainable, long-term growth",
+    "AI-powered SEO solutions through proprietary technology (seogrove.ai)",
+    "9 years of proven experience since 2016",
+    "International team of 20+ specialists",
+    "Dedicated Project Manager for every account",
+    "Robust Quality Assurance process",
+    "Environmental commitment - 1 tree planted every day for each client (via onetreeplanted.org)",
+    "ROI-focused approach with measurable results",
+    "Authenticity and transparency as core values",
+    "Support available via multiple platforms (WhatsApp, email, phone)",
+    "Work with diverse clients from Ireland and globally",
+    "Results-driven: proven case studies showing 44% revenue increase, 237% traffic growth"
+  ],
+  "teamMembers": [
+    {
+      "name": "Rowan Barlow Stainsby",
+      "role": "CEO / Managing Director",
+      "description": "Founder and leader driving the agency's vision"
+    },
+    {
+      "name": "Paula Gannon",
+      "role": "Chief Operations Officer",
+      "description": "Operations & Project Manager ensuring smooth project delivery"
+    },
+    {
+      "name": "Hamish Davison",
+      "role": "Chief Technical Officer",
+      "description": "Leading technical innovation and AI-powered SEO solutions"
+    },
+    {
+      "name": "Degen Storrer",
+      "role": "Chief SEO Officer / SEO Manager",
+      "description": "Driving organic growth strategies for clients"
+    },
+    {
+      "name": "Edward Chan",
+      "role": "Head of Development",
+      "description": "Leading the development team"
+    },
+    {
+      "name": "Jalak Avlani",
+      "role": "Senior Website Developer",
+      "description": "Expert in web development and technical solutions"
+    },
+    {
+      "name": "Anik Deb",
+      "role": "UI/UX Designer",
+      "description": "Creating user-centered, beautiful designs"
+    },
+    {
+      "name": "Mayar Bedda",
+      "role": "Account Manager",
+      "description": "Managing client relationships and project success"
+    },
+    {
+      "name": "Miriam Benjamin",
+      "role": "Account Manager",
+      "description": "Ensuring client satisfaction and project delivery"
+    },
+    {
+      "name": "Sheila Mae Limbo",
+      "role": "Regional Operations Manager",
+      "description": "Overseeing regional operations and coordination"
+    },
+    {
+      "name": "Aoife Malone",
+      "role": "Office Manager",
+      "description": "Managing office operations and administration"
+    },
+    {
+      "name": "Susanna Busiello",
+      "role": "Content Team Lead",
+      "description": "Leading content creation and strategy"
+    },
+    {
+      "name": "Nabanita Roy",
+      "role": "Technical SEO Expert",
+      "description": "Specialist in technical SEO, LLM SEO, and e-commerce"
+    },
+    {
+      "name": "Dhruvi Patel",
+      "role": "Technical SEO Specialist",
+      "description": "Technical SEO implementation and optimization"
+    },
+    {
+      "name": "Charmaine Hiponia",
+      "role": "Content Creator",
+      "description": "Creating engaging content for clients"
+    },
+    {
+      "name": "Viral Gohel",
+      "role": "Developer",
+      "description": "Web development and technical solutions"
+    },
+    {
+      "name": "Kamya Rojivadiya",
+      "role": "Developer",
+      "description": "Software development and implementation"
+    },
+    {
+      "name": "Cormac Kelly",
+      "role": "Social Media Specialist",
+      "description": "Managing social media strategies and campaigns"
+    },
+    {
+      "name": "Kenneth Xavier Albarracin",
+      "role": "YouTube Channel Manager",
+      "description": "Managing YouTube content and growth"
+    },
+    {
+      "name": "Roland Kim Andre Solon",
+      "role": "Harbor Lead Developer",
+      "description": "Lead developer for special projects"
+    }
+  ],
+  "teamSize": "20+ employees (2-10 core, with extended team)",
+  "testimonials": [
+    {
+      "text": "SEO and digital marketing does not happen overnight. For me I can tell you working with Hamish Davison has been an absolutely great investment into my SEO and online success.",
+      "author": "Client Review",
+      "platform": "Trustpilot",
+      "rating": 5,
+      "date": "2025-11-17"
+    },
+    {
+      "text": "Worked with a few SEO companies over the years and spent a long time trying to get onto page 1 for a bunch of terms. Within 4 months we were position 6 for our main keyword which was great. More climbing too, highly recommend",
+      "author": "Client Review",
+      "platform": "Trustpilot",
+      "rating": 5,
+      "date": "2025-07-28"
+    },
+    {
+      "text": "Thanks lads for the great work on our site. Gone from strength to strength and delighted with it. Recommend to anyone.",
+      "author": "Client Review",
+      "platform": "Trustpilot",
+      "rating": 5,
+      "date": "2025-09-12"
+    },
+    {
+      "text": "Man I finally found a agency that does what they say they are going to do. I have a team that prioritizes the success of their clients business. I am excited to see what every month will bring moving forward.",
+      "author": "Client Review",
+      "platform": "Trustpilot",
+      "rating": 5,
+      "date": "2025-03-01"
+    },
+    {
+      "text": "I have nothing but positive things to say about Kraft Agency. Unlike so many other agencies in this space, they never overpromise and then underdeliver. Kraft delivers quality SEO services at a fair price. Kraft's backlinking services continue to increase our organic rankings across the board. Very pleased with the results.",
+      "author": "Client Review",
+      "platform": "Trustpilot",
+      "rating": 5,
+      "date": "2025-03-10"
+    },
+    {
+      "text": "Professional and responsive company with good support and a friendly team. We used them to develop a new website and SEO.",
+      "author": "Client Review",
+      "platform": "Trustpilot",
+      "rating": 5,
+      "date": "2025-01-02"
+    },
+    {
+      "text": "Finding a good marketing company is always tough - especially when it's inbound marketing as it takes longer for results to appear. That being said, these guys dont just do run of the mill bs, they know how to get ahead. A good long term partner for all that is digital marketing.",
+      "author": "Client Review",
+      "platform": "Trustpilot",
+      "rating": 5,
+      "date": "2025-03-06"
+    },
+    {
+      "text": "The Kraft team are very professional, with a quick turnaround on results. The lads were always just a message away, for any questions. Highly recommend",
+      "author": "Client Review",
+      "platform": "Trustpilot",
+      "rating": 5,
+      "date": "2025-03-01"
+    },
+    {
+      "text": "I have had a great working experience here at Kraft. The Owner Rowan is courteous and professional. There is a great work-life balance due to a hybrid working model.",
+      "author": "Employee Review",
+      "platform": "Indeed",
+      "rating": 5,
+      "date": "2025"
+    }
+  ],
+  "reviews": {
+    "trustpilotRating": 3.6,
+    "trustpilotReviewCount": 11,
+    "linkedInFollowers": 915,
+    "facebookLikes": 1290,
+    "overallSentiment": "Mixed - mostly positive reviews highlighting results and professionalism, with some negative reviews regarding communication and service quality. Recent positive reviews show strong client satisfaction.",
+    "positiveHighlights": [
+      "Results-driven approach with measurable SEO improvements",
+      "Professional and responsive team",
+      "Quick turnaround times",
+      "Transparent pricing",
+      "Good communication via multiple channels",
+      "Quality work that delivers rankings"
+    ],
+    "improvementAreas": [
+      "Some clients report communication delays",
+      "Need for consistent service quality"
+    ]
+  },
+  "caseStudies": [
+    {
+      "client": "Leading Car History Check Brand",
+      "result": "Revenue Up 44% In 6 Months",
+      "type": "SEO & Digital Marketing"
+    },
+    {
+      "client": "IsuiT (Italian Fashion Giant)",
+      "result": "Traffic Up 237.5% In 14 Months",
+      "type": "SEO & Content Marketing"
+    },
+    {
+      "client": "Jameson",
+      "result": "Creating The Platform That Powers Jameson With Renewable Energy",
+      "type": "Platform Development"
+    },
+    {
+      "client": "Green Saffron",
+      "result": "Developing The Identity For Green Saffron. Now In Tesco & SuperValu.",
+      "type": "Brand Identity & Development"
+    }
+  ],
+  "clientsOrProjects": [
+    "Car History Check Brand",
+    "IsuiT (Italian Fashion)",
+    "Jameson",
+    "Green Saffron (now in Tesco & SuperValu)",
+    "Patrick Donald",
+    "HidraWear",
+    "Clients across Ireland, UK, America, and globally"
+  ],
+  "certifications": [],
+  "awards": [],
+  "process": [
+    {
+      "step": 1,
+      "title": "Build a solid foundation",
+      "description": "Without a solid foundation your entire marketing strategy will be impacted negatively. We always start here - getting your technical metrics into the green and ensuring Google sees your website optimally."
+    },
+    {
+      "step": 2,
+      "title": "Increase sales conversions",
+      "description": "Conversion Rate Optimization is one of the most important activities. It's about maximizing the chance to convert before spending a cent driving traffic - bolting on powerful features to drive conversions."
+    },
+    {
+      "step": 3,
+      "title": "Drive buyer intent traffic",
+      "description": "Time to build relevancy with content. Create trust with a strong backlink portfolio and aggressively scale organic visitors. With your website ready to convert, we drive high-intent prospects with helpful content and targeted offers."
+    }
+  ],
+  "values": [
+    "Authenticity - the cornerstone of our agency, breathing integrity and quality into our services",
+    "ROI Focus - understanding that return on investment is pivotal to our engagement",
+    "Quality Craftsmanship - taking craftsmanship seriously with robust QA processes",
+    "Environmental Responsibility - planting 1 tree per day for each client via onetreeplanted.org",
+    "Client Success - results-driven approach prioritizing client business growth",
+    "Transparency - honest communication and realistic expectations",
+    "Accessibility - support available on platforms clients use every day"
+  ],
+  "companyHistory": "Kraft Agency was founded in 2016 in Galway, Ireland, with a vision to provide authentic, results-driven digital marketing services. The name 'Kraft' reflects the team's commitment to craftsmanship in the digital realm. Starting as a web design and SEO agency, Kraft has evolved into a full-service digital marketing agency with AI-powered solutions. The agency has grown from a small team to 20+ international specialists, serving clients across Ireland and globally. Their focus has always been on driving real results - not just providing services - with an 'Organic First' philosophy that prioritizes sustainable, long-term growth over short-term gains. The team works with diverse clients from small businesses to major brands like Jameson and Green Saffron.",
+  "contactInfo": {
+    "phone": "+353 86 153 0832",
+    "email": "hello@kraftagency.ie",
+    "website": "https://kraftdigitalagency.com",
+    "alternateWebsites": [
+      "https://kraftagency.ie",
+      "https://kraftagency.co"
+    ],
+    "officeLocation": "Galway, Ireland (H91 FR3W)",
+    "availability": "Support available via WhatsApp, email, and phone"
+  },
+  "socialMedia": {
+    "facebook": "https://www.facebook.com/kraftagencylimited/",
+    "linkedIn": "https://ie.linkedin.com/company/kraft-web-agency",
+    "instagram": "Available via website",
+    "facebookLikes": 1290,
+    "linkedInFollowers": 915
+  },
+  "specializations": [
+    "Organic-first SEO strategies",
+    "AI-powered marketing solutions (seogrove.ai)",
+    "Technical SEO and website optimization",
+    "E-commerce SEO and development",
+    "International SEO for global markets",
+    "Conversion rate optimization",
+    "Content marketing and creation",
+    "WordPress and Divi development",
+    "SaaS solutions development",
+    "Brand identity development"
+  ],
+  "targetMarkets": [
+    "E-commerce businesses",
+    "B2B companies",
+    "B2C brands",
+    "Fashion and retail",
+    "Automotive",
+    "Food and beverage",
+    "Technology companies",
+    "Irish businesses expanding globally",
+    "International companies entering Irish market"
+  ],
+  "researchNotes": "Comprehensive information gathered from multiple sources including official website (kraftdigitalagency.com), LinkedIn, Facebook, Trustpilot reviews, and business directories. The company has strong case studies showing measurable results (44% revenue increase, 237.5% traffic growth). The team is well-documented with 20+ members. Reviews are mixed (3.6/5 on Trustpilot with 11 reviews) but recent reviews are more positive. The company has evolved significantly since 2016, now offering AI-powered solutions and working with major brands. Their 'Organic First' philosophy and commitment to authenticity are central to their brand identity. Office is confirmed in Galway, Ireland. Contact information verified from multiple sources."
+}

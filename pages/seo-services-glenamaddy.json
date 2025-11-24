@@ -1,0 +1,189 @@
+{
+  "id": "seo-services-glenamaddy",
+  "service": "Search Engine Optimization (SEO)",
+  "serviceSlug": "seo-services",
+  "location": "Glenamaddy",
+  "locationSlug": "glenamaddy",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "SEO Glenamaddy - Boost Your Rankings | Kraft Agency",
+  "metaDescription": "Grow your Glenamaddy business with powerful SEO services. Rank higher, attract more customers, and increase revenue. Free consultation available now!",
+
+  "heroHeadline": "Powerful SEO Services in Glenamaddy",
+  "heroSubheadline": "Rank Higher. Drive Traffic. Grow Revenue.",
+
+  "description": "Want your Glenamaddy business to be found when customers search on Google? Kraft Agency provides powerful SEO services that increase your visibility, drive qualified traffic, and turn searches into sales. With deep experience serving businesses throughout Glenamaddy and East Galway, we know exactly what it takes to dominate local search results and expand your reach across Ireland.\n\nOur comprehensive SEO services address every factor that influences your search rankings. We optimize your website's technical infrastructure to ensure Google can easily crawl and understand your content. We create strategic content that targets the exact phrases your Glenamaddy customers are searching for. And we build your website's authority through ethical link building and digital PR campaigns that establish your business as a trusted industry leader.\n\nAt Kraft Agency, we believe in complete transparency. You'll receive detailed monthly reports showing your keyword rankings, traffic growth, lead generation, and revenue impact. Regular strategy sessions keep you informed and involved in decision-making. Our AI-powered tools identify opportunities faster than traditional methods, giving your Glenamaddy business a competitive edge in the ever-evolving world of search engine optimization.",
+
+  "shortDescription": "Powerful SEO services for Glenamaddy businesses. Increase rankings, drive qualified traffic, and grow your business with expert optimization.",
+
+  "benefits": [
+    "Increase visibility for Glenamaddy local searches",
+    "Drive qualified traffic that converts to customers",
+    "Build lasting organic presence that compounds monthly",
+    "Leverage AI insights for competitive advantages",
+    "Complete technical, on-page, and off-page SEO",
+    "Transparent monthly reporting with clear metrics",
+    "Proven success with Glenamaddy area businesses",
+    "Flexible service with no lock-in contracts"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Initial SEO Discovery & Audit",
+      "description": "We conduct a comprehensive analysis of your Glenamaddy website, examining technical SEO, content quality, backlink profile, and competitive landscape. This audit identifies quick wins and long-term opportunities."
+    },
+    {
+      "step": 2,
+      "title": "Keyword Research & Prioritization",
+      "description": "We identify the most valuable keywords for your Glenamaddy business, balancing search volume, competition, and commercial intent. Our research ensures we target terms that actually drive business results."
+    },
+    {
+      "step": 3,
+      "title": "Technical Foundation Building",
+      "description": "We optimize your website's technical elements – site speed, mobile experience, crawl efficiency, schema markup, and site structure – creating the foundation needed for strong rankings in Glenamaddy searches."
+    },
+    {
+      "step": 4,
+      "title": "Content Optimization & Development",
+      "description": "We optimize existing content and create new pages targeting valuable keywords. Every piece of content is designed to serve your audience's needs while meeting Google's quality standards for your Glenamaddy business."
+    },
+    {
+      "step": 5,
+      "title": "Authority Building Through Links",
+      "description": "We implement strategic link building campaigns, earning quality backlinks from relevant websites in your industry. These links signal to Google that your Glenamaddy business is trustworthy and authoritative."
+    },
+    {
+      "step": 6,
+      "title": "Continuous Monitoring & Improvement",
+      "description": "We track performance metrics daily, conduct monthly analysis, and continuously refine our strategy based on data. Regular reporting and strategy calls ensure your Glenamaddy business stays ahead of the competition."
+    }
+  ],
+
+  "pricingInfo": "SEO services for Glenamaddy businesses begin at €1,200 per month for local campaigns, scaling to €4,500+ per month for competitive national or international strategies. Investment is tailored to your specific goals, industry competition, and desired growth rate. Contact us for a complimentary audit and custom proposal.",
+
+  "serviceArea": "Glenamaddy and surrounding areas including Mountbellew, Dunmore, Tuam, and throughout East Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Dedicated support with regular communication.",
+
+  "qualifications": [
+    "Google Partner certification",
+    "15+ years combined SEO expertise",
+    "Technical SEO certified specialists",
+    "Professional content strategists",
+    "AI and data analytics experts"
+  ],
+  "yearsExperience": "15+ years combined SEO experience",
+  "guarantees": [
+    "Complete transparency with monthly reporting",
+    "White-hat ethical SEO practices only",
+    "Customized approach for your Glenamaddy business",
+    "Regular communication and strategy alignment",
+    "Month-to-month flexibility with no contracts"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1599658880436-c61792e70672?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional working on SEO strategy",
+      "caption": "Powerful SEO Services in Glenamaddy"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1562577309-4932fdd64cd1?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "SEO text and search optimization tools",
+        "caption": "Strategic SEO implementation"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1686061594183-8c864f508b00?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Data analysis for search rankings",
+        "caption": "Data-driven optimization approach"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Analytics dashboard showing SEO metrics",
+        "caption": "Comprehensive performance tracking"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1557838923-2985c318be48?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Digital marketing planning session",
+        "caption": "Strategic SEO planning"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Glenamaddy Businesses Choose Kraft Agency for SEO",
+    "Our SEO Process: From Strategy to Rankings",
+    "Local SEO: Dominating Glenamaddy Search Results",
+    "Success Stories: Real SEO Results from Irish Businesses",
+    "SEO FAQs for Glenamaddy Business Owners",
+    "Ready to Grow Your Glenamaddy Business with SEO?"
+  ],
+
+  "faq": [
+    {
+      "question": "How long does SEO take to show results in Glenamaddy?",
+      "answer": "SEO typically takes 3-6 months to show significant results, with continued improvement over time. Initial ranking changes often appear within 30-90 days, but substantial traffic growth usually occurs between months 6-12. SEO is a long-term strategy that delivers compounding returns for your Glenamaddy business."
+    },
+    {
+      "question": "Is SEO better than Google Ads for my Glenamaddy business?",
+      "answer": "Both have their place! Google Ads delivers immediate traffic but stops when you stop paying. SEO builds long-term organic visibility that continues generating traffic without ongoing ad spend. For most Glenamaddy businesses, we recommend combining both for maximum impact."
+    },
+    {
+      "question": "How do you determine which keywords to target?",
+      "answer": "We analyze search volume, competition, commercial intent, and relevance to your Glenamaddy business. We prioritize keywords that balance achievable rankings with strong revenue potential. Our keyword strategy evolves based on performance data and changing market conditions."
+    },
+    {
+      "question": "What makes your SEO services different?",
+      "answer": "We combine 15+ years of SEO expertise with cutting-edge AI tools for deeper insights. We're completely transparent about our methods and results. We focus on metrics that matter – traffic, leads, and revenue for your Glenamaddy business – not just vanity metrics like rankings."
+    },
+    {
+      "question": "How much should a Glenamaddy business invest in SEO?",
+      "answer": "Investment depends on your goals, competition, and timeline. Local Glenamaddy campaigns often start at €1,200-€2,000/month, while more competitive strategies may require €3,000-€5,000/month. We provide custom proposals based on your specific situation and objectives."
+    },
+    {
+      "question": "Will you work with my existing website or do I need a new one?",
+      "answer": "We can work with most existing websites! We'll identify any technical limitations and recommend improvements. If your site is extremely outdated or has fundamental issues, we may suggest a redesign, but we can often achieve strong results through optimization alone."
+    },
+    {
+      "question": "How do you measure SEO success?",
+      "answer": "We track keyword rankings, organic traffic, user engagement, conversion rates, lead generation, and revenue impact. You'll receive monthly reports with all these metrics, and we schedule regular calls to discuss performance and strategy for your Glenamaddy business."
+    },
+    {
+      "question": "What if I'm not happy with the results?",
+      "answer": "We work on a monthly basis with no long-term contracts. If you're not satisfied with our service, you can cancel anytime. That said, we maintain high retention rates because we deliver results and communicate transparently about progress and challenges."
+    }
+  ],
+
+  "keywords": [
+    "SEO services",
+    "search engine optimization",
+    "SEO agency",
+    "SEO expert",
+    "organic search",
+    "Google rankings",
+    "local SEO",
+    "technical SEO",
+    "SEO consultant",
+    "search marketing"
+  ],
+  "localKeywords": [
+    "SEO Glenamaddy",
+    "SEO services East Galway",
+    "SEO agency Ireland",
+    "Glenamaddy SEO company",
+    "local SEO Glenamaddy",
+    "SEO consultant Galway",
+    "search engine optimization Ireland",
+    "Galway SEO expert",
+    "Irish SEO services",
+    "SEO near Glenamaddy"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Start Your Free SEO Consultation",
+  "ctaSecondary": "Download SEO Guide"
+}

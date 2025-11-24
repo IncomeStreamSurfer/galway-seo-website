@@ -1,0 +1,193 @@
+{
+  "id": "web-design-development-castlegar",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Castlegar",
+  "locationSlug": "castlegar",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Castlegar - Build Your Online Presence | Kraft Agency",
+  "metaDescription": "Expert web design in Castlegar. Build a powerful online presence that attracts customers. Custom websites, SEO-optimized, mobile-ready. Free quote today!",
+
+  "heroHeadline": "Expert Web Design & Development in Castlegar",
+  "heroSubheadline": "Build Your Online Presence and Attract More Customers",
+
+  "description": "Ready to establish a powerful online presence for your Castlegar business? Kraft Agency creates professional websites that position you as the go-to choice in your industry. As a leading digital agency serving Castlegar and East Galway, we understand that your website is often the first impression potential customers have of your business. We create custom websites that not only look professional but also convert visitors into paying customers, helping your Castlegar business grow and thrive in the digital age.\n\nOur web design approach in Castlegar starts with understanding what makes your business unique. We dive deep into your brand, your competitors, and your target customers to create a website strategy that sets you apart. Every element – from visual design and navigation structure to copywriting and call-to-action placement – is strategically crafted to guide visitors toward taking action. Whether you need a professional service website, an online store, a booking system, or a complex web application, we build solutions that are both beautiful and functional. Our websites are mobile-responsive, fast-loading, and optimized for search engines, ensuring your Castlegar business gets found online and makes an impact.\n\nWhat makes Kraft Agency the right choice for Castlegar web design? We combine local expertise with cutting-edge technology. We use AI-powered optimization tools to continuously improve your website's performance and conversion rates. Our websites are built on modern, secure platforms that are easy to manage and scale as your business grows. Plus, with transparent pricing, clear communication, and ongoing support, we make professional web design accessible and stress-free. From your initial consultation through launch and beyond, we're committed to your success – not just building a website, but building a digital asset that drives measurable business growth.",
+
+  "shortDescription": "Expert web design in Castlegar. Custom websites that build your online presence and drive business growth. Mobile-responsive, SEO-optimized, conversion-focused.",
+
+  "benefits": [
+    "Professional web design for Castlegar businesses",
+    "Custom designs that reflect your unique brand",
+    "Conversion-optimized for more leads and sales",
+    "Fully responsive across all devices",
+    "Fast-loading for better user experience",
+    "SEO-optimized to rank on Google",
+    "AI-powered performance optimization",
+    "Easy content management systems",
+    "E-commerce and booking system capabilities",
+    "Local support with ongoing partnership"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Strategic Planning",
+      "description": "We begin with comprehensive discovery to understand your Castlegar business, competitive landscape, target audience, and goals. This strategic foundation ensures your website is positioned to stand out in your market and drive meaningful results."
+    },
+    {
+      "step": 2,
+      "title": "Custom Brand Design",
+      "description": "Our designers create custom website mockups that reflect your brand identity and appeal to your ideal customers. We design with conversion in mind, creating clear visual hierarchies, compelling calls-to-action, and intuitive user journeys."
+    },
+    {
+      "step": 3,
+      "title": "Professional Development",
+      "description": "Our development team builds your website using modern, secure technologies. We ensure clean code, fast performance, mobile responsiveness, and seamless integration with tools like CRM systems, analytics, e-commerce, and more."
+    },
+    {
+      "step": 4,
+      "title": "Content & SEO Strategy",
+      "description": "We optimize your website for search engines and user engagement. This includes keyword research for Castlegar and surrounding areas, compelling copywriting, meta tag optimization, and technical SEO to maximize your visibility on Google."
+    },
+    {
+      "step": 5,
+      "title": "Testing & Refinement",
+      "description": "We thoroughly test your website across all devices, browsers, and screen sizes. We verify functionality, loading speeds, forms, security, and user experience. Any issues are addressed before launch to ensure flawless performance."
+    },
+    {
+      "step": 6,
+      "title": "Launch & Growth",
+      "description": "We launch your website and provide comprehensive training on content management. We include 90 days of post-launch support and offer ongoing services including maintenance, updates, optimization, and digital marketing to help your business grow."
+    }
+  ],
+
+  "pricingInfo": "Web design in Castlegar starts from €2,500 for professional business websites and ranges up to €15,000+ for advanced e-commerce or custom applications. Pricing depends on complexity, features, and integrations. We offer transparent quotes and flexible payment plans. Contact us for a detailed proposal tailored to your Castlegar business needs.",
+
+  "serviceArea": "Castlegar and surrounding areas including Galway City, Oranmore, Carnmore, Athenry, Claregalway, and all of East County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Flexible scheduling for consultations and meetings.",
+
+  "qualifications": [
+    "Award-winning web design team",
+    "Full-stack development expertise",
+    "Google Partner certified",
+    "AI and optimization specialists",
+    "15+ years combined experience",
+    "Modern technologies (React, Next.js, WordPress)"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive on all devices",
+    "SEO-optimized from launch",
+    "90-day post-launch support included",
+    "Secure hosting with SSL certificates",
+    "GDPR compliant websites"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional web design in Castlegar",
+      "caption": "Expert Web Design & Development in Castlegar"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Custom website design process",
+        "caption": "Strategic, conversion-focused design"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1542744095-0d53267d353e?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Responsive web design on devices",
+        "caption": "Perfect on every screen size"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1558655146-d09347e92766?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Web development and coding",
+        "caption": "Built with modern technology"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Website analytics dashboard",
+        "caption": "AI-powered optimization"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Castlegar Businesses Trust Kraft Agency",
+    "Our Strategic Web Design Process",
+    "Essential Features for Modern Business Websites",
+    "Building Your Online Presence in Castlegar",
+    "Common Web Design Questions Answered",
+    "Start Building Your Online Presence Today"
+  ],
+
+  "faq": [
+    {
+      "question": "Why does my Castlegar business need a professional website?",
+      "answer": "A professional website establishes credibility, helps customers find you on Google, showcases your products or services 24/7, and generates leads automatically. In today's digital world, customers expect to find and research businesses online before making purchasing decisions. Without a strong website, you're losing customers to competitors."
+    },
+    {
+      "question": "How long does it take to build a website?",
+      "answer": "Most business websites take 4-8 weeks from consultation to launch. Simple sites can be completed in 3-4 weeks, while e-commerce or complex applications may take 8-12 weeks. The timeline depends on features, content readiness, and feedback response. We provide clear schedules and keep you updated throughout."
+    },
+    {
+      "question": "How much does professional web design cost?",
+      "answer": "Professional web design in Castlegar starts from €2,500 for business websites. E-commerce sites range from €5,000-€10,000, and custom applications can be €10,000-€15,000+. Costs vary based on features and complexity. We provide transparent, detailed quotes with no hidden fees."
+    },
+    {
+      "question": "Will my website work on mobile phones?",
+      "answer": "Yes! Mobile responsiveness is standard on every website we build. Your site will automatically adjust to look perfect and function flawlessly on smartphones, tablets, and desktops. We test extensively across devices to ensure optimal user experience on every screen size."
+    },
+    {
+      "question": "Can you help with website content and copywriting?",
+      "answer": "Absolutely! Many Castlegar businesses need help with website content. Our professional copywriters create compelling text that engages visitors and drives conversions. We can write all your website content or refine existing materials – whatever helps you communicate your value effectively."
+    },
+    {
+      "question": "Will people find my website on Google?",
+      "answer": "We optimize every website for search engines with foundational SEO including keyword optimization, meta tags, fast loading speeds, mobile optimization, and technical SEO. This gives your Castlegar business a strong foundation for ranking. For competitive keywords, we also offer ongoing SEO services."
+    },
+    {
+      "question": "Can you build an online store or e-commerce website?",
+      "answer": "Yes! We build complete e-commerce solutions with product catalogs, shopping carts, secure payment processing, order management, inventory tracking, and customer accounts. Whether you're selling physical products, digital downloads, or services, we create e-commerce sites that drive online sales."
+    },
+    {
+      "question": "What support do you provide after the website launches?",
+      "answer": "All websites include 90 days of post-launch support for any questions or adjustments. We also offer ongoing maintenance packages including updates, backups, security monitoring, performance optimization, and technical support. We're your long-term digital partner, not just a one-time vendor."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "web designer",
+    "custom website",
+    "business website",
+    "responsive design",
+    "e-commerce website",
+    "professional website",
+    "website builder",
+    "web development"
+  ],
+  "localKeywords": [
+    "web design Castlegar",
+    "website design Castlegar",
+    "Castlegar web designer",
+    "web development Castlegar",
+    "website builder Castlegar",
+    "web design East Galway",
+    "Castlegar website company",
+    "web designer near me",
+    "website development Galway",
+    "Castlegar digital agency"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "View Our Portfolio"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "web-design-development-roundstone",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Roundstone",
+  "locationSlug": "roundstone",
+  "serviceNiche": "Full-Service Digital Agency",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Roundstone - Custom Websites That Convert | Kraft",
+  "metaDescription": "Transform your business with expert web design in Roundstone. Kraft Agency creates stunning, conversion-focused websites. Serving Roundstone & Connemara. Free consultation!",
+  "heroHeadline": "Professional Web Design in Roundstone",
+  "heroSubheadline": "Custom Websites Built for Connemara Businesses",
+
+  "description": "Looking for exceptional web design services in Roundstone? Kraft Agency delivers custom, conversion-focused websites that capture the unique spirit of your Connemara business. As a leading digital agency serving Roundstone and the surrounding coastal communities, we combine cutting-edge design with powerful functionality to create websites that don't just look beautiful – they drive real business results.\n\nOur web design process is rooted in understanding your business and your customers. We don't just build websites; we craft digital experiences that tell your brand story, showcase your unique value proposition, and guide visitors seamlessly toward taking action. Whether you're running a tourism business in Roundstone, a local service company, or looking to reach customers beyond Connemara, our team of expert designers and developers are ready to bring your vision to life.\n\nEvery website we create for Roundstone businesses is fully responsive, optimized for search engines, and built with the latest web technologies. We specialize in creating fast-loading, accessible websites that perform beautifully on every device – from desktop to mobile. With deep understanding of the Roundstone market and proven expertise in web design, Kraft Agency is your trusted partner for building an exceptional online presence that reflects the beauty and professionalism of your Connemara business.",
+
+  "shortDescription": "Expert web design and development in Roundstone. Custom, conversion-optimized websites for Connemara businesses. Mobile-first design with proven results.",
+
+  "benefits": [
+    "Custom web design tailored to Roundstone businesses",
+    "Fully responsive and mobile-optimized for all devices",
+    "SEO-friendly architecture for higher search rankings",
+    "Fast-loading performance for superior user experience",
+    "Conversion optimization to turn visitors into customers",
+    "Ongoing support and maintenance included",
+    "Local Galway team with expertise in tourism and service sectors",
+    "Transparent pricing with no hidden fees"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Strategy",
+      "description": "We begin with an in-depth consultation to understand your Roundstone business, target audience, and competitive landscape. This foundation ensures every design decision aligns with your objectives and resonates with your customers."
+    },
+    {
+      "step": 2,
+      "title": "Design & Prototyping",
+      "description": "Our designers create custom mockups and interactive prototypes that reflect your brand and the unique character of Roundstone. We iterate based on your feedback until the design perfectly captures your vision."
+    },
+    {
+      "step": 3,
+      "title": "Development & Integration",
+      "description": "Our development team brings the design to life using modern technologies and best practices. We integrate all necessary tools, from booking systems to analytics, ensuring everything works seamlessly for your Roundstone business."
+    },
+    {
+      "step": 4,
+      "title": "Testing & Optimization",
+      "description": "Before launch, we rigorously test your website across devices and browsers, optimizing performance, speed, and user experience to ensure flawless functionality for visitors from Roundstone and beyond."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Training",
+      "description": "We handle the launch process and provide comprehensive training so you can easily manage your new website. We're here for ongoing support whenever you need us, right from Roundstone."
+    },
+    {
+      "step": 6,
+      "title": "Ongoing Support",
+      "description": "Your website continues to evolve with your business. We provide ongoing maintenance, updates, and optimization to ensure peak performance and security for your Roundstone enterprise."
+    }
+  ],
+
+  "pricingInfo": "Website design projects for Roundstone businesses typically start from €2,500 for small business websites up to €15,000+ for complex e-commerce or booking systems. We offer flexible payment plans and transparent pricing with no hidden costs. Contact us for a custom quote based on your specific needs.",
+
+  "serviceArea": "Roundstone and surrounding Connemara areas including Clifden, Ballyconneely, and all of West Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Remote consultations available for Roundstone clients.",
+
+  "qualifications": [
+    "Award-winning design team",
+    "Full-stack development expertise",
+    "Google Partner certified",
+    "Tourism and hospitality website specialists",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Mobile-responsive on all devices",
+    "SEO-optimized from day one",
+    "90-day post-launch support included",
+    "Secure hosting and SSL certificates"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "Web design workspace with code on MacBook in Roundstone",
+      "caption": "Professional Web Design Services in Roundstone"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Responsive web design on multiple devices",
+        "caption": "Mobile-optimized websites for Roundstone businesses"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Modern web development setup with iMac and MacBook",
+        "caption": "Professional development tools and workflows"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Dual monitor web development workspace",
+        "caption": "Custom web development for Connemara"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Code editor on monitor displaying web development",
+        "caption": "Clean, efficient code for fast websites"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Choose Kraft Agency for Web Design in Roundstone?",
+    "Our Web Design Process: From Concept to Launch",
+    "Custom Website Features for Roundstone Businesses",
+    "Web Design Portfolio: Success Stories from Connemara",
+    "Frequently Asked Questions About Web Design",
+    "Ready to Transform Your Roundstone Business Online?"
+  ],
+
+  "faq": [
+    {
+      "question": "Do you work with businesses in Roundstone and Connemara?",
+      "answer": "Absolutely! We have extensive experience working with businesses throughout Roundstone and the wider Connemara region. We understand the unique needs of tourism, hospitality, and local service businesses in the area and can meet remotely or in person as needed."
+    },
+    {
+      "question": "How long does it take to design and build a website?",
+      "answer": "Most website projects take 4-8 weeks from initial consultation to launch, depending on complexity and features. For Roundstone businesses with seasonal needs, we can prioritize timelines to meet your business calendar."
+    },
+    {
+      "question": "Will my website work on mobile phones and tablets?",
+      "answer": "Yes! Every website we design is fully responsive and optimized for mobile, tablet, and desktop devices. With most visitors from Roundstone and beyond browsing on mobile, this is absolutely essential for your success."
+    },
+    {
+      "question": "Can you integrate booking systems for my Roundstone business?",
+      "answer": "Definitely! We specialize in integrating booking systems, payment gateways, and reservation platforms – perfect for tourism businesses, accommodation providers, and service companies in Roundstone and Connemara."
+    },
+    {
+      "question": "How much does a website cost for a Roundstone business?",
+      "answer": "Website costs vary based on your specific requirements. Small business websites typically start from €2,500, while more complex e-commerce or booking systems range from €5,000-€15,000+. We provide transparent quotes with no hidden fees."
+    },
+    {
+      "question": "Do you offer website hosting and maintenance?",
+      "answer": "Yes, we offer secure, fast website hosting and comprehensive maintenance packages for all Roundstone clients. This includes regular backups, security updates, performance optimization, and technical support."
+    },
+    {
+      "question": "Will my website be optimized for search engines?",
+      "answer": "Every website we build includes foundational SEO optimization – from clean code and fast loading speeds to proper meta tags and mobile responsiveness. We can also provide ongoing SEO services to help you rank for 'Roundstone' and 'Connemara' searches."
+    },
+    {
+      "question": "Can you help with photography for my Roundstone website?",
+      "answer": "Yes! We can recommend professional photographers in the Connemara area, or we can source and optimize stunning imagery that showcases Roundstone's natural beauty and your business's unique character."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "custom website",
+    "responsive design",
+    "business website",
+    "website redesign",
+    "web development agency",
+    "mobile website",
+    "tourism website",
+    "booking website"
+  ],
+  "localKeywords": [
+    "web design Roundstone",
+    "website design Connemara",
+    "Roundstone web designer",
+    "web development Roundstone",
+    "Connemara website company",
+    "Roundstone digital agency",
+    "web design West Galway",
+    "tourism website Roundstone",
+    "Roundstone web developer",
+    "website builder Connemara"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Get Your Free Website Consultation",
+  "ctaSecondary": "Email Us: hello@kraftagency.ie"
+}

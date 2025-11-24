@@ -1,0 +1,209 @@
+{
+  "id": "ecommerce-marketing-galway-city",
+  "service": "E-commerce Marketing & Development",
+  "serviceSlug": "ecommerce-marketing",
+  "location": "Galway City",
+  "locationSlug": "galway-city",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "E-commerce Marketing Galway - Drive Online Sales | Kraft Agency",
+  "metaDescription": "Boost your online sales in Galway with Kraft Agency's e-commerce marketing. Complete solutions from development to conversion optimization. Free audit available!",
+
+  "heroHeadline": "Drive Online Sales with E-commerce Marketing in Galway",
+  "heroSubheadline": "Complete E-commerce Solutions That Convert Visitors Into Customers",
+
+  "description": "Ready to dominate online sales in Galway? Kraft Agency delivers comprehensive e-commerce marketing and development solutions that drive revenue growth for businesses throughout Galway City. From building high-converting Shopify stores to running profitable advertising campaigns, we handle every aspect of your online retail success. As Galway's leading digital agency, we combine e-commerce expertise with AI-powered optimization to maximize your return on investment.\n\nOur e-commerce approach goes far beyond just building an online store. We create complete e-commerce ecosystems designed to attract, convert, and retain customers. This includes responsive e-commerce website development, strategic product photography and content, conversion rate optimization, SEO for product discovery, paid advertising campaigns (Google Shopping, Facebook, Instagram), email marketing automation, and analytics tracking. Whether you're launching your first online store in Galway or scaling an existing e-commerce business, we have the expertise to accelerate your growth.\n\nWhat sets Kraft Agency apart is our data-driven approach and use of cutting-edge AI tools. We continuously test and optimize every element of your e-commerce presence – from product page layouts to checkout flows to ad targeting. We don't just drive traffic; we drive qualified traffic that converts into paying customers. With transparent reporting and regular strategy sessions, you'll always know exactly how your e-commerce investment is performing and what we're doing to improve it.",
+
+  "shortDescription": "Complete e-commerce marketing solutions in Galway. Drive online sales with optimized stores, strategic advertising, and conversion optimization.",
+
+  "benefits": [
+    "Complete e-commerce solutions from store build to marketing",
+    "Conversion-optimized online stores that drive sales",
+    "Multi-channel advertising (Google, Facebook, Instagram)",
+    "AI-powered product recommendations and personalization",
+    "Email marketing automation that increases repeat purchases",
+    "SEO optimization for organic product discovery",
+    "Comprehensive analytics and ROI tracking",
+    "Ongoing optimization based on performance data"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "E-commerce Audit & Strategy",
+      "description": "We start by auditing your current e-commerce presence (or competitive landscape if you're starting fresh), analyzing your products, target customers in Galway and beyond, and developing a comprehensive strategy for online sales growth."
+    },
+    {
+      "step": 2,
+      "title": "Store Development & Optimization",
+      "description": "We build or optimize your e-commerce store on platforms like Shopify, WooCommerce, or custom solutions. This includes responsive design, fast loading speeds, intuitive navigation, and conversion-optimized checkout flows."
+    },
+    {
+      "step": 3,
+      "title": "Product Content & SEO",
+      "description": "We create compelling product descriptions, optimize product pages for search engines, implement structured data, and ensure your Galway e-commerce store is discoverable by customers searching for products you sell."
+    },
+    {
+      "step": 4,
+      "title": "Marketing Campaign Launch",
+      "description": "We launch multi-channel marketing campaigns including Google Shopping ads, Facebook/Instagram advertising, email marketing, and content marketing. Each channel is optimized for your specific products and target audience."
+    },
+    {
+      "step": 5,
+      "title": "Conversion Rate Optimization",
+      "description": "Using AI-powered testing, we continuously optimize your store's conversion rate – testing product page layouts, checkout flows, calls-to-action, and user experience elements to maximize sales from your traffic."
+    },
+    {
+      "step": 6,
+      "title": "Analytics & Continuous Improvement",
+      "description": "We monitor performance metrics, analyze customer behavior, and continuously refine our strategy. You receive regular reports showing revenue, conversion rates, customer acquisition costs, and ROI across all channels."
+    }
+  ],
+
+  "pricingInfo": "E-commerce marketing services typically range from €2,500/month for basic store management and advertising to €8,000+/month for comprehensive e-commerce marketing including development, SEO, paid ads, email marketing, and optimization. Store development projects start from €5,000. Custom quotes available based on your Galway business needs.",
+
+  "serviceArea": "Galway City and surrounding areas including Oranmore, Salthill, Knocknacarra, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Dedicated e-commerce account manager for all clients.",
+
+  "qualifications": [
+    "Certified Shopify Partners",
+    "Google Ads & Shopping certified",
+    "Facebook Blueprint certified",
+    "Conversion optimization specialists",
+    "15+ years combined e-commerce experience"
+  ],
+  "yearsExperience": "15+ years combined e-commerce experience",
+  "guarantees": [
+    "Data-driven strategy backed by analytics",
+    "Transparent monthly reporting",
+    "Conversion rate improvement guarantee",
+    "ROI-focused campaigns",
+    "No long-term contracts required"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1688561808434-886a6dd97b8c?ixlib=rb-4.1.0&w=1920&q=80",
+      "alt": "E-commerce marketing strategy in Galway City",
+      "caption": "Complete E-commerce Solutions in Galway",
+      "credit": {
+        "photographer": "Unsplash",
+        "unsplashUrl": "https://unsplash.com/photos/slLo94wES2M"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1664455340023-214c33a9d0bd?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Online shopping cart optimization",
+        "caption": "Conversion-optimized shopping experiences",
+        "credit": {
+          "photographer": "Shutter Speed",
+          "unsplashUrl": "https://unsplash.com/photos/BQ9usyzHx_w"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "Person shopping online with credit card",
+        "caption": "Seamless checkout experiences that convert",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/Q59HmzK38eQ"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1586880244406-556ebe35f282?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "E-commerce analytics dashboard",
+        "caption": "Data-driven e-commerce optimization",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/ejhjSZKTeeg"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1449247666642-264389f5f5b1?ixlib=rb-4.1.0&w=1200&q=80",
+        "alt": "E-commerce order fulfillment",
+        "caption": "Complete e-commerce solutions",
+        "credit": {
+          "photographer": "Unsplash",
+          "unsplashUrl": "https://unsplash.com/photos/MGaFENpDCsw"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Choose Kraft Agency for E-commerce Marketing in Galway?",
+    "Our Complete E-commerce Marketing Process",
+    "E-commerce Platforms We Work With",
+    "E-commerce Success Stories from Galway Businesses",
+    "E-commerce Marketing FAQs for Galway Retailers",
+    "Ready to Grow Your Online Sales in Galway?"
+  ],
+
+  "faq": [
+    {
+      "question": "What e-commerce platforms do you work with?",
+      "answer": "We specialize in Shopify, WooCommerce (WordPress), Magento, and custom e-commerce solutions. Shopify is our most recommended platform for most Galway businesses due to its ease of use, reliability, and extensive features. We'll recommend the best platform based on your specific needs."
+    },
+    {
+      "question": "How long does it take to launch an e-commerce store?",
+      "answer": "Basic e-commerce stores can launch in 4-6 weeks, while more complex stores with custom features may take 8-12 weeks. This includes design, development, product setup, payment integration, and testing. We can work with faster timelines for urgent Galway launches."
+    },
+    {
+      "question": "Do you handle product photography and content?",
+      "answer": "Yes! We offer professional product photography, copywriting, and content creation services. Great product content is crucial for e-commerce success. We can photograph your products in our studio or on location in Galway and write compelling descriptions that sell."
+    },
+    {
+      "question": "How much should I budget for e-commerce marketing?",
+      "answer": "Most successful Galway e-commerce businesses invest €2,500-€8,000/month in marketing services plus advertising budget. Your ad budget depends on your goals and industry, typically starting from €1,000-€3,000/month. We'll create a custom plan based on your revenue goals."
+    },
+    {
+      "question": "Can you help with international sales and shipping?",
+      "answer": "Absolutely! We help Galway businesses sell internationally by setting up multi-currency support, international shipping options, tax calculations, and localized content. We can help you expand from local Galway sales to customers across Ireland, EU, or worldwide."
+    },
+    {
+      "question": "What kind of results can I expect?",
+      "answer": "Results vary by industry and competition, but our Galway e-commerce clients typically see 20-40% increases in conversion rates, 50-100%+ increases in organic traffic within 6 months, and 3-5X return on ad spend. We focus on sustainable, profitable growth."
+    },
+    {
+      "question": "Do you provide ongoing e-commerce support?",
+      "answer": "Yes! We offer comprehensive e-commerce management including store maintenance, product updates, marketing campaign management, conversion optimization, and technical support. Most Galway clients work with us on monthly retainers for continuous growth."
+    },
+    {
+      "question": "Can you integrate with our existing systems?",
+      "answer": "Yes! We integrate e-commerce stores with accounting software (Xero, QuickBooks), inventory management systems, CRM platforms, email marketing tools, and shipping providers. We ensure your e-commerce operations run smoothly for your Galway business."
+    }
+  ],
+
+  "keywords": [
+    "e-commerce marketing",
+    "online store development",
+    "Shopify development",
+    "e-commerce SEO",
+    "Google Shopping ads",
+    "e-commerce optimization",
+    "online sales",
+    "e-commerce website",
+    "conversion optimization",
+    "e-commerce strategy"
+  ],
+  "localKeywords": [
+    "e-commerce marketing Galway",
+    "Shopify developer Galway City",
+    "online store Galway",
+    "e-commerce agency Galway",
+    "e-commerce SEO Ireland",
+    "Galway web shop",
+    "online sales Galway",
+    "e-commerce consultant Galway",
+    "Shopify expert Ireland",
+    "e-commerce near me"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free E-commerce Audit",
+  "ctaSecondary": "View E-commerce Case Studies"
+}

@@ -1,0 +1,189 @@
+{
+  "id": "marketing-automation-clifden",
+  "service": "Marketing Automation",
+  "serviceSlug": "marketing-automation",
+  "location": "Clifden",
+  "locationSlug": "clifden",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Marketing Automation Clifden - Automate Success | Kraft Agency",
+  "metaDescription": "Grow your Clifden business with marketing automation. Automate lead nurturing, save time & boost ROI with intelligent automation from Kraft Agency.",
+
+  "heroHeadline": "Marketing Automation Excellence in Clifden",
+  "heroSubheadline": "Automate Smarter, Grow Faster",
+
+  "description": "Want to multiply your marketing impact in Clifden without expanding your team? Kraft Agency's marketing automation expertise helps businesses automate time-consuming tasks, nurture leads intelligently, and create personalized customer experiences that drive real growth. Our sophisticated automation systems engage prospects 24/7, qualify leads automatically, and guide customers through optimized journeys—freeing you to focus on strategic initiatives and business development in Clifden and Connemara.\n\nAs a leading digital agency serving Clifden and West Galway, we know that effective marketing automation is about more than implementing technology—it's about designing experiences that resonate with your audience. We create complete customer journeys that seamlessly guide prospects from awareness through to loyal advocacy. Our automated workflows use behavioral intelligence, AI-powered personalization, and strategic segmentation to ensure every interaction feels relevant and timely to your Clifden customers.\n\nWhat sets Kraft Agency apart is our relentless focus on optimization and results. We don't just build automation and walk away—we continuously monitor performance, test new approaches, and refine workflows to maximize your ROI. With seamless CRM integration, real-time analytics, and strategic guidance from automation experts, you'll have the complete solution needed to scale your marketing efficiently and dominate your market in Clifden.",
+
+  "shortDescription": "Expert marketing automation in Clifden. Streamline workflows, nurture leads automatically, and increase conversions with AI-powered automation.",
+
+  "benefits": [
+    "Eliminate repetitive tasks and save 10-20 hours weekly",
+    "Nurture leads automatically with personalized messaging",
+    "Increase conversion rates by 35-45% with smart automation",
+    "Engage prospects 24/7 without manual intervention",
+    "Automatically prioritize leads based on behavior and engagement",
+    "Integrate seamlessly with CRM and marketing platforms",
+    "Access comprehensive analytics and performance insights",
+    "Receive ongoing optimization from automation experts"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Strategy & Business Alignment",
+      "description": "We begin with a deep-dive consultation to understand your business objectives, target audience, and current marketing challenges in Clifden. This strategic foundation ensures our automation delivers tangible business results."
+    },
+    {
+      "step": 2,
+      "title": "Journey Design & Workflow Architecture",
+      "description": "Our team maps your customer journey end-to-end and identifies high-impact automation opportunities. We design intelligent workflows for lead acquisition, nurturing, conversion, onboarding, and long-term customer engagement."
+    },
+    {
+      "step": 3,
+      "title": "Platform Implementation & Integration",
+      "description": "We configure your marketing automation platform, integrate with your CRM and marketing stack, implement tracking and analytics, and ensure all technical foundations are solid before workflow development begins."
+    },
+    {
+      "step": 4,
+      "title": "Workflow Development & Content Strategy",
+      "description": "Our team builds automated workflows, creates email sequences, develops personalized content for each segment, and implements lead scoring logic. Every element is optimized for engagement and conversion with your specific audience."
+    },
+    {
+      "step": 5,
+      "title": "Testing & Phased Deployment",
+      "description": "We rigorously test all workflows, triggers, and integrations before launch. Deployment is phased and monitored closely, with adjustments made in real-time based on performance data from your Clifden audience."
+    },
+    {
+      "step": 6,
+      "title": "Continuous Monitoring & Optimization",
+      "description": "Marketing automation is an ongoing journey, not a destination. We continuously monitor performance, conduct A/B tests, refine messaging, and optimize workflows to maximize engagement, conversion rates, and ROI for your business."
+    }
+  ],
+
+  "pricingInfo": "Marketing automation services range from €1,200 per month for small business implementations with core workflows to €5,000+ per month for enterprise solutions with sophisticated multi-channel automation and extensive integrations. Investment varies based on your customer journey complexity, lead volume, platform requirements, and support needs. Contact us for a complimentary automation assessment and customized proposal for your Clifden business.",
+
+  "serviceArea": "Clifden and surrounding areas including Galway City, Oughterard, Roundstone, Letterfrack, and all of Connemara and West Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Dedicated automation expert support.",
+
+  "qualifications": [
+    "Certified in HubSpot, Marketo, ActiveCampaign, and major platforms",
+    "Marketing automation strategy specialists",
+    "AI and machine learning experts",
+    "CRM and martech integration professionals",
+    "15+ years combined automation and marketing technology experience"
+  ],
+  "yearsExperience": "15+ years combined marketing automation and digital marketing expertise",
+  "guarantees": [
+    "Tailored automation strategy aligned with business goals",
+    "Seamless integration with existing systems",
+    "Transparent reporting with actionable insights",
+    "Ongoing testing and optimization",
+    "Responsive support from dedicated specialists"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Advanced marketing automation analytics dashboard",
+      "caption": "Powerful Marketing Automation for Clifden Businesses"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1542744173-05336fcc7ad4?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing professional working on automation campaigns",
+        "caption": "Expert automation strategy and execution"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing analytics and performance tracking",
+        "caption": "Data-driven automation optimization"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Email marketing automation on smartphone",
+        "caption": "Mobile-optimized automated campaigns"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Marketing automation metrics dashboard",
+        "caption": "Real-time performance tracking and insights"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Clifden Businesses Choose Kraft Agency for Marketing Automation",
+    "Our Proven Marketing Automation Implementation Process",
+    "Drive Growth with Intelligent Marketing Automation",
+    "Marketing Automation Success Stories from Connemara",
+    "Common Marketing Automation Questions Answered",
+    "Ready to Transform Your Marketing in Clifden?"
+  ],
+
+  "faq": [
+    {
+      "question": "How can marketing automation help my Clifden business?",
+      "answer": "Marketing automation helps Clifden businesses save time, improve lead quality, and increase conversions. By automating repetitive tasks like email follow-ups, lead scoring, and customer segmentation, you free up your team while engaging prospects more effectively. Most clients see 35-45% improvements in conversion rates within 3-6 months."
+    },
+    {
+      "question": "What marketing processes should we automate?",
+      "answer": "We typically prioritize email nurturing campaigns, welcome sequences, lead scoring, and abandoned cart recovery—the highest-impact workflows. From there, we expand to customer onboarding, re-engagement campaigns, event follow-ups, social media automation, and sophisticated multi-channel journeys."
+    },
+    {
+      "question": "Which marketing automation platform do you recommend?",
+      "answer": "We're platform-agnostic and recommend solutions based on your specific needs. HubSpot offers comprehensive all-in-one functionality, ActiveCampaign provides powerful automation at mid-market pricing, Marketo suits enterprise requirements, and Mailchimp works well for smaller businesses. We'll guide you to the perfect fit during our consultation."
+    },
+    {
+      "question": "Can marketing automation integrate with our CRM?",
+      "answer": "Absolutely! CRM integration is crucial for effective automation. We have extensive experience with Salesforce, HubSpot CRM, Pipedrive, Zoho, Microsoft Dynamics, and other major platforms. Integration ensures your marketing and sales teams work from unified customer data for maximum effectiveness."
+    },
+    {
+      "question": "How quickly will we see results?",
+      "answer": "Many clients see initial improvements within 2-4 weeks as foundational workflows go live. Substantial results—like significant increases in conversion rates and lead quality—typically appear within 2-3 months as automation matures and we implement ongoing optimizations."
+    },
+    {
+      "question": "Won't automated marketing feel robotic to customers?",
+      "answer": "Not when implemented correctly! Modern automation enables hyper-personalization through behavioral triggers, dynamic content, and AI. We design automation that delivers the right message to the right person at the right time—creating experiences that feel personal and relevant, not automated."
+    },
+    {
+      "question": "What's the investment for marketing automation?",
+      "answer": "Investment depends on platform choice, workflow complexity, and scale. Small business automation typically starts at €1,200/month (including platform and management). Enterprise solutions range from €3,000-€5,000/month. We provide detailed proposals after understanding your specific needs."
+    },
+    {
+      "question": "How do you measure automation success?",
+      "answer": "We track comprehensive metrics including email engagement rates, conversion rates, lead nurturing velocity, pipeline contribution, customer lifetime value, time saved, and overall marketing ROI. You'll receive detailed monthly reports showing exactly how automation impacts your Clifden business."
+    }
+  ],
+
+  "keywords": [
+    "marketing automation",
+    "automated marketing campaigns",
+    "lead nurturing automation",
+    "email marketing automation",
+    "marketing workflows",
+    "customer journey automation",
+    "marketing efficiency",
+    "automated lead scoring",
+    "marketing technology",
+    "CRM automation"
+  ],
+  "localKeywords": [
+    "marketing automation Clifden",
+    "marketing automation Connemara",
+    "email automation Clifden",
+    "automated marketing West Galway",
+    "marketing automation services Ireland",
+    "Clifden marketing automation",
+    "HubSpot automation Clifden",
+    "marketing automation agency Galway",
+    "CRM automation Clifden",
+    "marketing automation consultant Galway"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Automation Strategy Session",
+  "ctaSecondary": "View Success Stories"
+}

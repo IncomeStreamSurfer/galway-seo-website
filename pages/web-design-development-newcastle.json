@@ -1,0 +1,208 @@
+{
+  "id": "web-design-development-newcastle",
+  "service": "Web Design & Development",
+  "serviceSlug": "web-design-development",
+  "location": "Newcastle",
+  "locationSlug": "newcastle",
+  "serviceNiche": "Full-Service Digital Agency + AI",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Web Design Newcastle Galway - Professional Websites | Kraft Agency",
+  "metaDescription": "Professional web design for Newcastle Galway businesses. Kraft Agency creates effective, conversion-focused websites with proven results. Free consultation available!",
+  "heroHeadline": "Professional Web Design in Newcastle",
+  "heroSubheadline": "Effective Websites That Deliver Real Business Results",
+
+  "description": "Looking for professional web design in Newcastle? Kraft Agency creates effective, results-driven websites that help Newcastle businesses grow and succeed online. Serving Newcastle and across Galway City, we understand that local businesses need websites that work—not just look good, but actively generate leads, build trust, and drive sales. Our web design services focus on creating practical, professional digital solutions that deliver measurable ROI and support your business growth objectives.\n\nYour Newcastle business needs a website that works as a powerful business tool, not just an online brochure. Our web design approach starts with understanding your specific business challenges, your target customers in Newcastle and surrounding areas, and your practical business goals. We then create a professional website that clearly communicates your value proposition while incorporating proven conversion principles that turn visitors into customers. Every element is purposefully designed—from clear messaging and intuitive navigation to strategic calls-to-action and trust signals that build confidence and drive action.\n\nKraft Agency builds websites for Newcastle businesses using reliable, proven technologies that ensure consistent performance, strong security, and easy management. Every website is fully responsive across all devices, optimized for local search to help customers find you, and built with practical functionality that serves your business needs. We provide hands-on training so you can manage your website confidently, plus ongoing support and optimization to ensure continued effectiveness. With honest pricing and dedicated local service, Kraft Agency is your trusted partner for professional web design in Newcastle.",
+
+  "shortDescription": "Professional web design for Newcastle Galway businesses. Effective, results-driven websites with proven technology and reliable support. Free consultation available.",
+
+  "benefits": [
+    "Professional design tailored to your Newcastle business needs",
+    "Mobile-responsive design for all devices",
+    "Local Galway City SEO for better visibility",
+    "Reliable fast-loading performance",
+    "Proven conversion optimization strategies",
+    "Comprehensive training and support",
+    "Local Newcastle and Galway expertise",
+    "Straightforward pricing with no surprises"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Business Planning & Discovery",
+      "description": "We start with a practical discovery session to understand your Newcastle business, your customers, your goals, and your challenges. This planning phase creates the foundation for a website that truly serves your business needs and works effectively for your objectives."
+    },
+    {
+      "step": 2,
+      "title": "Professional Design Development",
+      "description": "Our designers create professional visual concepts and clear prototypes tailored to your business and audience. You'll review detailed mockups and provide feedback through collaborative revisions until we achieve a professional design that represents your business effectively."
+    },
+    {
+      "step": 3,
+      "title": "Reliable Development & Integration",
+      "description": "Our developers build your website using proven, reliable technologies. We integrate all necessary features—contact forms, booking systems, payment processing, analytics—ensuring everything works smoothly and reliably to support your business operations."
+    },
+    {
+      "step": 4,
+      "title": "Thorough Testing & Quality Check",
+      "description": "Before launch, we test your website thoroughly across devices, browsers, and usage scenarios. We verify functionality, optimize performance, ensure security, and refine the user experience until everything meets our professional standards and your requirements."
+    },
+    {
+      "step": 5,
+      "title": "Launch & Practical Training",
+      "description": "We handle the launch process and provide practical, hands-on training so you can confidently manage your website. You'll receive clear documentation and ongoing access to our support team for questions and assistance whenever needed."
+    },
+    {
+      "step": 6,
+      "title": "Support & Continuous Improvement",
+      "description": "After launch, we monitor performance, track results, and implement practical improvements. Your website continues working effectively for your Newcastle business through ongoing support, security updates, and optimization that maintains reliable performance."
+    }
+  ],
+
+  "pricingInfo": "Professional web design for Newcastle businesses typically ranges from €2,500 for effective small business websites to €15,000+ for comprehensive e-commerce platforms or custom applications. We offer flexible payment options and straightforward, transparent pricing. Contact us for a practical quote based on your specific business needs.",
+
+  "serviceArea": "Newcastle and surrounding areas including Galway City Centre, Knocknacarra, Westside, Salthill, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Reliable support for clients.",
+
+  "qualifications": [
+    "Professional certified design team",
+    "Experienced full-stack developers",
+    "Google Partner certified",
+    "AI and automation specialists",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined team experience",
+  "guarantees": [
+    "100% satisfaction guarantee",
+    "Responsive design on all devices",
+    "SEO-optimized from launch",
+    "90-day post-launch support",
+    "Secure reliable hosting included"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&w=1920&q=80",
+      "alt": "Professional web design workspace in Newcastle Galway",
+      "caption": "Professional Web Design Services in Newcastle",
+      "credit": {
+        "photographer": "Christopher Gower",
+        "unsplashUrl": "https://unsplash.com/photos/m_HRfLhgABo"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1558655146-d09347e92766?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional web development",
+        "caption": "Reliable development services",
+        "credit": {
+          "photographer": "Florian Olivo",
+          "unsplashUrl": "https://unsplash.com/photos/4hbJ-eymZ1o"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Responsive website design",
+        "caption": "Mobile-optimized design",
+        "credit": {
+          "photographer": "Edho Pratama",
+          "unsplashUrl": "https://unsplash.com/photos/T6fDN60bMWY"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Website analytics tracking",
+        "caption": "Results tracking and reporting",
+        "credit": {
+          "photographer": "Carlos Muza",
+          "unsplashUrl": "https://unsplash.com/photos/hpjSkU2UYSU"
+        }
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1555421689-d68471e189f2?ixlib=rb-4.0.3&w=1200&q=80",
+        "alt": "Professional team collaboration",
+        "caption": "Collaborative approach",
+        "credit": {
+          "photographer": "Arlington Research",
+          "unsplashUrl": "https://unsplash.com/photos/kN_kViDchA0"
+        }
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Newcastle Businesses Trust Kraft Agency for Web Design",
+    "Our Professional Web Design Process for Newcastle Businesses",
+    "Essential Features for Effective Newcastle Business Websites",
+    "Real Results from Professional Website Projects",
+    "Common Web Design Questions from Newcastle Business Owners",
+    "Start Your Professional Website Project in Newcastle"
+  ],
+
+  "faq": [
+    {
+      "question": "How long does it take to build a website for my Newcastle business?",
+      "answer": "Most website projects for Newcastle businesses take 4-8 weeks from start to launch. Timeline depends on project scope, features needed, and content readiness. We provide a clear, realistic schedule with milestones during planning so you know exactly what to expect throughout the process."
+    },
+    {
+      "question": "What kind of support do you provide after launch?",
+      "answer": "Every Newcastle business website includes 90 days of comprehensive support covering technical issues, updates, and questions. We also offer practical ongoing maintenance packages that include hosting, security updates, regular backups, performance monitoring, and technical support to keep your website running reliably."
+    },
+    {
+      "question": "Will my website work on mobile phones?",
+      "answer": "Yes! Every website we create is fully responsive and mobile-friendly. We test thoroughly on smartphones, tablets, and desktops to ensure your Newcastle business looks professional and works properly on every device your customers use to access your website."
+    },
+    {
+      "question": "Can you help create content for my Newcastle business website?",
+      "answer": "Yes! We offer practical content creation services including professional copywriting, image sourcing, and basic graphics. Our team creates clear, effective content that communicates your value to Newcastle customers and supports your business goals while being optimized for search engines."
+    },
+    {
+      "question": "What does a professional website cost?",
+      "answer": "Professional website costs vary based on your needs and requirements. Small business websites typically start from €2,500, mid-range sites with more features range from €5,000-€8,000, and complex e-commerce or custom applications range from €10,000-€15,000+. We provide honest, transparent quotes with no hidden fees."
+    },
+    {
+      "question": "Do you provide website hosting and security?",
+      "answer": "Yes! We offer reliable website hosting optimized for performance and security. Our hosting includes SSL certificates, automated daily backups, security monitoring, and 99.9% uptime guarantee. Your Newcastle business website will be secure, fast, and consistently accessible to your customers."
+    },
+    {
+      "question": "Will my website be optimized for Google?",
+      "answer": "Yes! Every website includes solid SEO optimization including clean code, fast loading, mobile optimization, proper meta tags, and best practices. This helps Newcastle customers find your business when searching on Google. We can also provide ongoing SEO services for better rankings and more traffic."
+    },
+    {
+      "question": "Can you improve my existing website?",
+      "answer": "Absolutely! We work with Newcastle businesses to improve and update existing websites. We'll review your current site, identify what's working and what needs fixing, then create practical improvements that enhance functionality, improve user experience, and deliver better business results."
+    }
+  ],
+
+  "keywords": [
+    "web design",
+    "website development",
+    "professional website",
+    "web designer",
+    "business website",
+    "responsive design",
+    "website redesign",
+    "web development",
+    "e-commerce website",
+    "digital agency"
+  ],
+  "localKeywords": [
+    "web design Newcastle",
+    "web design Galway",
+    "Newcastle web designer",
+    "website design Newcastle Galway",
+    "web development Newcastle",
+    "Galway City web design",
+    "Newcastle website company",
+    "web designer near Newcastle",
+    "Newcastle Galway web development",
+    "professional web design Galway"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaEmail": "hello@kraftagency.ie",
+  "ctaText": "Get Your Free Newcastle Website Consultation",
+  "ctaSecondary": "View Our Work"
+}

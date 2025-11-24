@@ -1,0 +1,188 @@
+{
+  "id": "content-marketing-salthill",
+  "service": "Content Marketing & Creation",
+  "serviceSlug": "content-marketing",
+  "location": "Salthill",
+  "locationSlug": "salthill",
+  "serviceNiche": "Full-Service Digital Agency",
+  "businessName": "Kraft Agency",
+
+  "pageTitle": "Content Marketing Salthill - Engage & Convert Your Audience | Kraft Agency",
+  "metaDescription": "Elevate your brand with expert content marketing in Salthill. Kraft Agency creates compelling content that drives engagement and sales. Free strategy session available!",
+
+  "heroHeadline": "Compelling Content Marketing in Salthill",
+  "heroSubheadline": "Transform Your Brand Story Into Revenue-Generating Content",
+
+  "description": "Want to stand out in Salthill's competitive marketplace with content that actually converts? Kraft Agency specializes in creating strategic, audience-focused content that builds brand authority and drives measurable business results. Serving businesses throughout Salthill and the greater Galway area, we understand what it takes to capture attention in today's crowded digital landscape and turn that attention into loyal customers.\n\nOur content marketing approach is built on a simple principle: great content solves problems and creates value for your audience. Whether it's an in-depth blog post that answers critical questions, a compelling case study that builds trust, or engaging social media content that sparks conversations, every piece we create serves a strategic purpose in your customer journey. We don't believe in content for content's sake - we create assets that work hard for your business in Salthill.\n\nWhat makes Kraft Agency different is our holistic approach to content marketing. We combine deep audience research, competitive analysis, SEO expertise, and creative storytelling to develop content strategies that deliver results. Our team uses AI-powered tools to identify high-impact opportunities and optimize performance, but we never lose sight of the human element that makes content truly resonate. From hospitality businesses along the Salthill promenade to professional services firms throughout the area, we've helped dozens of local businesses transform their content marketing and achieve their growth goals.",
+
+  "shortDescription": "Strategic content marketing in Salthill. Create engaging, conversion-focused content that builds authority and drives revenue. Free strategy session available.",
+
+  "benefits": [
+    "Strategic content aligned with business objectives",
+    "Increased brand visibility and authority in Salthill",
+    "Higher search rankings with SEO-optimized content",
+    "Enhanced customer engagement and loyalty",
+    "Multi-format content across all platforms",
+    "Data-driven optimization for maximum ROI",
+    "Experienced team with local market knowledge",
+    "Transparent reporting and performance tracking"
+  ],
+
+  "process": [
+    {
+      "step": 1,
+      "title": "Audience & Market Research",
+      "description": "We dive deep into understanding your target audience, their pain points, questions, and buying behaviors. This research forms the foundation of a content strategy that truly resonates with the people you want to reach in Salthill."
+    },
+    {
+      "step": 2,
+      "title": "Content Strategy Development",
+      "description": "Based on our research, we create a comprehensive content strategy that maps content to each stage of your customer journey. This includes topic clusters, content formats, distribution channels, and a realistic publishing calendar."
+    },
+    {
+      "step": 3,
+      "title": "Content Production",
+      "description": "Our team of experienced writers, designers, and creators produce compelling, high-quality content optimized for both search engines and human readers. Each piece reflects your brand voice and delivers genuine value to your audience."
+    },
+    {
+      "step": 4,
+      "title": "SEO & Technical Optimization",
+      "description": "Every piece of content is optimized for search visibility with strategic keyword placement, proper formatting, meta optimization, and internal linking. We ensure your content has the best chance to rank and be discovered."
+    },
+    {
+      "step": 5,
+      "title": "Multi-Channel Distribution",
+      "description": "Great content needs to reach your audience. We implement distribution strategies across your website, email, social media, and other relevant channels to maximize visibility and engagement."
+    },
+    {
+      "step": 6,
+      "title": "Performance Analysis & Optimization",
+      "description": "We continuously monitor performance metrics, analyze what's working, and refine our approach based on data. Regular reporting keeps you informed while we focus on delivering increasingly better results."
+    }
+  ],
+
+  "pricingInfo": "Content marketing services in Salthill range from €1,200 per month for essential content packages (4-6 blog posts plus social content) to €6,000+ per month for comprehensive multi-channel strategies including video, advanced SEO, and paid amplification. We customize every package to your specific needs and goals. Contact us for a complimentary content audit and tailored proposal for your Salthill business.",
+
+  "serviceArea": "Salthill and surrounding areas including Galway City, Knocknacarra, Barna, and all of County Galway",
+  "availability": "Monday to Friday, 9:00 AM - 6:00 PM GMT. Direct access to your content strategist.",
+
+  "qualifications": [
+    "Certified content marketing professionals",
+    "Experienced SEO specialists",
+    "Multi-industry content expertise",
+    "Digital marketing certified",
+    "15+ years combined experience"
+  ],
+  "yearsExperience": "15+ years combined content marketing experience",
+  "guarantees": [
+    "100% original, high-quality content",
+    "SEO optimization on all content",
+    "On-time delivery guaranteed",
+    "Revision rounds until perfect",
+    "Monthly performance reports"
+  ],
+  "emergencyAvailable": false,
+
+  "images": {
+    "heroImage": {
+      "url": "https://images.unsplash.com/photo-1537731121640-bc1c4aba9b80?ixlib=rb-4.1.0&q=80&w=1920",
+      "alt": "Content marketing strategy and creation in Salthill",
+      "caption": "Strategic Content Marketing Services in Salthill"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1621184078903-6bfe9482d935?ixlib=rb-4.1.0&q=80&w=1200",
+        "alt": "Mobile content marketing and social media",
+        "caption": "Multi-platform content distribution"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1686061594225-3e92c0cd51b0?ixlib=rb-4.1.0&q=80&w=1200",
+        "alt": "Content marketing analytics and data",
+        "caption": "Data-driven content strategy"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514?ixlib=rb-4.1.0&q=80&w=1200",
+        "alt": "Professional content writer working on laptop",
+        "caption": "Expert content creation"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?ixlib=rb-4.1.0&q=80&w=1200",
+        "alt": "Content planning and strategy session",
+        "caption": "Strategic content planning"
+      }
+    ]
+  },
+
+  "h2Headings": [
+    "Why Salthill Businesses Choose Kraft Agency for Content Marketing",
+    "Our Content Marketing Methodology: From Strategy to Success",
+    "Types of Content That Drive Results in Salthill",
+    "Content Marketing Case Studies from Local Businesses",
+    "Your Content Marketing Questions Answered",
+    "Start Your Content Transformation Today"
+  ],
+
+  "faq": [
+    {
+      "question": "What's the difference between content marketing and traditional advertising?",
+      "answer": "Traditional advertising interrupts people with promotional messages. Content marketing attracts people by providing value - solving problems, answering questions, and building trust. It's more cost-effective long-term and creates lasting assets that continue to drive results, unlike ads that stop working when you stop paying."
+    },
+    {
+      "question": "How do you develop content topics that resonate with my audience?",
+      "answer": "We use a combination of keyword research, competitor analysis, customer interviews, and data from your existing channels to identify topics your audience cares about. We also analyze search trends and social conversations to spot emerging opportunities relevant to your Salthill business."
+    },
+    {
+      "question": "Can content marketing work for B2B companies?",
+      "answer": "Absolutely! Content marketing is often even more effective for B2B companies. Longer sales cycles and complex purchasing decisions mean buyers actively research solutions. Strategic content positions you as the expert, builds trust, and nurtures prospects through the decision-making process."
+    },
+    {
+      "question": "How do you maintain our brand voice in the content?",
+      "answer": "We start by developing a comprehensive brand voice guide based on your input, existing materials, and brand positioning. Our writers follow this guide closely, and we submit content for your review and approval to ensure it perfectly reflects your brand personality."
+    },
+    {
+      "question": "What content formats do you recommend?",
+      "answer": "The best content mix depends on your audience and goals. Most businesses benefit from a combination of blog posts, social media content, email campaigns, and visual content like infographics or videos. We'll recommend the optimal mix based on where your audience spends time and what formats drive the best results."
+    },
+    {
+      "question": "How do you measure content marketing success?",
+      "answer": "We track a comprehensive set of metrics including organic traffic growth, keyword rankings, engagement metrics, lead generation, conversion rates, and revenue attribution. You'll receive detailed monthly reports showing exactly how content marketing is contributing to your business goals in Salthill."
+    },
+    {
+      "question": "Can you help with content ideas if we run out?",
+      "answer": "Running out of content ideas is never a problem when you work with us! We continuously research trends, competitor content, customer questions, and industry developments to maintain a robust content pipeline. We'll always have fresh, relevant ideas ready to go."
+    },
+    {
+      "question": "What happens if we need to pause content marketing services?",
+      "answer": "We offer flexible arrangements with no long-term contracts required. If you need to pause services temporarily, we can accommodate that. However, consistency is key to content marketing success - we'll work with you to find a sustainable approach that fits your budget and maintains momentum."
+    }
+  ],
+
+  "keywords": [
+    "content marketing",
+    "content creation",
+    "blog writing",
+    "content strategy",
+    "SEO content",
+    "content marketing services",
+    "digital content",
+    "brand content",
+    "content development",
+    "content marketing agency"
+  ],
+  "localKeywords": [
+    "content marketing Salthill",
+    "Salthill content agency",
+    "content creation Salthill",
+    "blog writing Salthill",
+    "Salthill content services",
+    "content strategy Galway",
+    "Salthill copywriting",
+    "content marketing Galway",
+    "Salthill digital marketing",
+    "SEO content Salthill"
+  ],
+
+  "ctaPhone": "+353 86 153 0832",
+  "ctaText": "Book Free Strategy Session",
+  "ctaSecondary": "See Content Portfolio"
+}
