@@ -1,11 +1,11 @@
 @import "tailwindcss";
 
 @theme {
-  --color-primary: #6366f1;
-  --color-secondary: #8b5cf6;
-  --color-dark: #0f0f23;
-  --color-darker: #080813;
-  --color-accent: #14b8a6;
+  --color-primary: #0d9488;
+  --color-secondary: #0891b2;
+  --color-dark: #0a0f0f;
+  --color-darker: #050808;
+  --color-accent: #f59e0b;
 
   --font-sans: var(--font-inter), system-ui, sans-serif;
   --font-display: var(--font-playfair), serif;
@@ -27,15 +27,15 @@ body {
 
 /* Gradient backgrounds */
 .gradient-hero {
-  background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #ec4899 100%);
+  background: linear-gradient(135deg, #0d9488 0%, #0891b2 100%);
 }
 
 .gradient-purple-blue {
-  background: linear-gradient(135deg, #8b5cf6 0%, #6366f1 100%);
+  background: linear-gradient(135deg, #0d9488 0%, #0891b2 100%);
 }
 
 .gradient-text {
-  background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #ec4899 100%);
+  background: linear-gradient(135deg, #0d9488 0%, #0891b2 50%, #06b6d4 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -51,13 +51,13 @@ body {
 
 .glass-card:hover {
   background: rgba(255, 255, 255, 0.08);
-  border-color: rgba(139, 92, 246, 0.5);
+  border-color: rgba(13, 148, 136, 0.5);
   transform: translateY(-5px);
 }
 
 /* Button animations */
 .btn-primary {
-  background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+  background: #0d9488;
   transition: all 0.3s ease;
   position: relative;
   overflow: hidden;
@@ -65,7 +65,8 @@ body {
 
 .btn-primary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 10px 40px rgba(99, 102, 241, 0.4);
+  box-shadow: 0 10px 40px rgba(13, 148, 136, 0.4);
+  background: #0f766e;
 }
 
 .btn-primary::before {
@@ -84,12 +85,12 @@ body {
 }
 
 .btn-outline {
-  border: 2px solid #6366f1;
+  border: 2px solid #0d9488;
   transition: all 0.3s ease;
 }
 
 .btn-outline:hover {
-  background: rgba(99, 102, 241, 0.1);
+  background: rgba(13, 148, 136, 0.1);
   transform: translateY(-2px);
 }
 
@@ -118,7 +119,7 @@ body {
   bottom: 0;
   border-radius: inherit;
   padding: 2px;
-  background: linear-gradient(135deg, #6366f1, #8b5cf6, #ec4899);
+  background: linear-gradient(135deg, #0d9488, #0891b2, #06b6d4);
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
   mask-composite: exclude;
@@ -148,8 +149,8 @@ body {
 
 /* Form focus states */
 .form-input:focus {
-  border-color: #6366f1;
-  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
+  border-color: #0d9488;
+  box-shadow: 0 0 0 3px rgba(13, 148, 136, 0.1);
   outline: none;
 }
 
