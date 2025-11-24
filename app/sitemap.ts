@@ -79,7 +79,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // Service+Location pages (the main SEO pages)
   const serviceLocationPages = servicePages.map((page) => ({
-    url: `${baseUrl}/${page.slug}`,
+    url: `${baseUrl}/${page.id}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
     priority: 0.6,
