@@ -1,11 +1,11 @@
 import { MetadataRoute } from 'next'
-import { getServicePages } from '../lib/data'
+import { getAllServiceLocationPages } from '../lib/data'
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = 'https://galwayseo.ai'
 
   // Get all service+location pages
-  const servicePages = getServicePages()
+  const servicePages = await getAllServiceLocationPages()
 
   // Static pages
   const staticPages = [
