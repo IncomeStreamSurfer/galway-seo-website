@@ -3,9 +3,9 @@ import Image from 'next/image'
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'About Us - Digital Craftspeople Since 2016 | Kraft Agency',
-  description: 'Learn about Kraft Agency, Galway\'s leading digital agency. 9+ years of experience, 20+ team members, and 200+ successful projects. We craft exceptional digital experiences.',
-  keywords: 'about Kraft Agency, digital agency Galway, web design team, SEO experts Ireland',
+  title: 'About Us - Digital Craftspeople Since 2016 | Galway SEO',
+  description: 'Learn about Galway SEO, Galway\'s leading digital agency. 9+ years of experience, 20+ team members, and 200+ successful projects. We craft exceptional digital experiences.',
+  keywords: 'about Galway SEO, digital agency Galway, web design team, SEO experts Ireland',
 }
 
 export default function AboutPage() {
@@ -103,7 +103,7 @@ export default function AboutPage() {
               </h2>
               <div className="space-y-4 text-gray-300 leading-relaxed">
                 <p>
-                  Kraft Agency was founded in 2016 in Galway, Ireland, with a vision to provide authentic, results-driven digital marketing services. The name 'Kraft' reflects our commitment to craftsmanship in the digital realm.
+                  Galway SEO was founded in 2016 in Galway, Ireland, with a vision to provide authentic, results-driven digital marketing services. We're committed to craftsmanship in the digital realm, helping local businesses dominate search results.
                 </p>
                 <p>
                   Starting as a web design and SEO agency, we've evolved into a full-service digital marketing agency with AI-powered solutions. Our team has grown from a small team to 20+ international specialists, serving clients across Ireland and globally.
@@ -116,7 +116,7 @@ export default function AboutPage() {
             <div className="relative h-96 rounded-2xl overflow-hidden">
               <Image
                 src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80"
-                alt="Kraft Agency team"
+                alt="Galway SEO team"
                 fill
                 className="object-cover"
               />

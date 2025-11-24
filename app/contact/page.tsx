@@ -2,9 +2,9 @@ import ContactForm from '@/components/ContactForm'
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Contact Us - Get Your Free Consultation | Kraft Agency',
-  description: 'Get in touch with Kraft Agency in Galway. Call +353 86 153 0832 or email hello@kraftagency.ie for web design, SEO, and digital marketing services.',
-  keywords: 'contact Kraft Agency, digital agency Galway contact, web design quote, SEO consultation',
+  title: 'Contact Us - Get Your Free Consultation | Galway SEO',
+  description: 'Get in touch with Galway SEO in Galway. Call +353 86 153 0832 or email hello@galwayseo.ai for web design, SEO, and digital marketing services.',
+  keywords: 'contact Galway SEO, digital agency Galway contact, web design quote, SEO consultation',
 }
 
 export default function ContactPage() {
@@ -68,8 +68,8 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="text-xl font-bold text-white mb-2">Email Us</h3>
-                      <a href="mailto:hello@kraftagency.ie" className="text-gray-400 hover:text-primary transition text-lg">
-                        hello@kraftagency.ie
+                      <a href="mailto:hello@galwayseo.ai" className="text-gray-400 hover:text-primary transition text-lg">
+                        hello@galwayseo.ai
                       </a>
                     </div>
                   </div>

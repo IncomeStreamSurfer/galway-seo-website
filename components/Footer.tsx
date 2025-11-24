@@ -9,9 +9,9 @@ export default function Footer() {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <div className="w-10 h-10 gradient-purple-blue rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-xl">K</span>
+                <span className="text-white font-bold text-lg">GS</span>
               </div>
-              <span className="font-display text-xl font-bold text-white">Kraft Agency</span>
+              <span className="font-display text-xl font-bold text-white">Galway SEO</span>
             </div>
             <p className="text-gray-400 mb-4">Craftspeople in a digital sense. Building exceptional digital experiences since 2016.</p>
             <div className="flex space-x-4">
@@ -58,7 +58,7 @@ export default function Footer() {
                 <a href="tel:+353861530832" className="hover:text-white transition">+353 86 153 0832</a>
               </li>
               <li>
-                <a href="mailto:hello@kraftagency.ie" className="hover:text-white transition">hello@kraftagency.ie</a>
+                <a href="mailto:hello@galwayseo.ai" className="hover:text-white transition">hello@galwayseo.ai</a>
               </li>
               <li>Galway, Ireland</li>
             </ul>
@@ -68,7 +68,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-white/10 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-            <p className="text-gray-400 text-sm">© 2025 Kraft Agency. All rights reserved. Craftspeople in a digital sense.</p>
+            <p className="text-gray-400 text-sm">© 2025 Galway SEO. All rights reserved. Craftspeople in a digital sense.</p>
             <div className="flex space-x-6">
               <Link href="/privacy" className="text-gray-400 hover:text-white transition text-sm">Privacy Policy</Link>
               <Link href="/terms" className="text-gray-400 hover:text-white transition text-sm">Terms of Service</Link>

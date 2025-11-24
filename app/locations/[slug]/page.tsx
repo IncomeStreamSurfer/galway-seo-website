@@ -21,12 +21,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   if (!location) {
     return {
-      title: 'Location Not Found | Kraft Agency'
+      title: 'Location Not Found | Galway SEO'
     }
   }
 
   return {
-    title: `Digital Services in ${location.name} | Web Design, SEO & Marketing | Kraft Agency`,
+    title: `Digital Services in ${location.name} | Web Design, SEO & Marketing | Galway SEO`,
     description: `Professional digital agency services in ${location.name}, ${location.county}. Web design, SEO, AI marketing, and more. Trusted by local businesses.`,
     keywords: `digital agency ${location.name}, web design ${location.name}, SEO ${location.name}, marketing ${location.county}`,
   }
@@ -182,7 +182,7 @@ export default async function LocationPage({ params }: Props) {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
             <h2 className="font-display text-3xl md:text-5xl font-bold text-white mb-12 text-center">
-              Why Choose Kraft Agency in {location.name}?
+              Why Choose Galway SEO in {location.name}?
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {[
@@ -227,7 +227,7 @@ export default async function LocationPage({ params }: Props) {
               <Link href="/contact" className="btn-primary text-white px-8 py-4 rounded-lg font-semibold text-lg">
                 Get Free Consultation
               </Link>
-              <a href="mailto:hello@kraftagency.ie" className="btn-outline text-white px-8 py-4 rounded-lg font-semibold text-lg">
+              <a href="mailto:hello@galwayseo.ai" className="btn-outline text-white px-8 py-4 rounded-lg font-semibold text-lg">
                 Email Us
               </a>
             </div>

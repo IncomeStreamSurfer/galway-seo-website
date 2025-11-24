@@ -120,7 +120,7 @@ export default function Home() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="font-display text-4xl md:text-6xl font-bold text-white mb-6">
-                Why Choose <span className="gradient-text">Kraft Agency</span>
+                Why Choose <span className="gradient-text">Galway SEO</span>
               </h2>
               <p className="text-xl text-gray-300 mb-8 leading-relaxed">
                 Since 2016, we've been crafting digital solutions that deliver real results. Based in Galway/Oranmore, Ireland, our team of 20+ specialists brings together creativity, technical expertise, and strategic thinking.
@@ -160,7 +160,7 @@ export default function Home() {
                 <div className="relative w-full h-64 mb-6 rounded-xl overflow-hidden">
                   <Image
                     src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80"
-                    alt="Team collaboration at Kraft Agency"
+                    alt="Team collaboration at Galway SEO"
                     fill
                     className="object-cover"
                   />
@@ -323,7 +323,7 @@ const contactInfo = [
   },
   {
     title: 'Email Us',
-    content: <a href="mailto:hello@kraftagency.ie" className="hover:text-primary transition">hello@kraftagency.ie</a>,
+    content: <a href="mailto:hello@galwayseo.ai" className="hover:text-primary transition">hello@galwayseo.ai</a>,
     icon: '<svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>'
   },
   {

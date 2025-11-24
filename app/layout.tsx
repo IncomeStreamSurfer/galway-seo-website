@@ -16,11 +16,11 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: 'Kraft Agency - Digital Craftspeople | Web Design, SEO, Marketing & AI Solutions',
+  title: 'Galway SEO - Digital Craftspeople | Web Design, SEO, Marketing & AI Solutions',
   description: 'Full-service digital agency in Galway, Ireland. 9 years of crafting exceptional web design, SEO, marketing, and AI-powered solutions. Organic first approach.',
   keywords: 'digital agency Galway, web design Ireland, SEO Galway, AI marketing, digital marketing Ireland',
   openGraph: {
-    title: 'Kraft Agency - Digital Craftspeople',
+    title: 'Galway SEO - Digital Craftspeople',
     description: 'Full-service digital agency in Galway. Web design, SEO, marketing & AI solutions.',
     images: ['/og-image.jpg'],
     type: 'website',

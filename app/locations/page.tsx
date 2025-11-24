@@ -3,8 +3,8 @@ import { getAllLocations, getPagesByLocation } from '@/lib/data'
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Service Locations Across County Galway | Kraft Agency',
-  description: 'Kraft Agency provides digital marketing, web design, SEO, and AI solutions across 48+ locations in County Galway, Ireland. Find services in your area.',
+  title: 'Service Locations Across County Galway | Galway SEO',
+  description: 'Galway SEO provides digital marketing, web design, SEO, and AI solutions across 48+ locations in County Galway, Ireland. Find services in your area.',
   keywords: 'digital agency Galway locations, web design Galway, SEO services Ireland, local digital marketing',
 }
 

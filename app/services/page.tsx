@@ -3,7 +3,7 @@ import { getAllServices, getPagesByService } from '@/lib/data'
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Our Services | Digital Marketing & Web Design | Kraft Agency',
+  title: 'Our Services | Digital Marketing & Web Design | Galway SEO',
   description: 'Full-service digital agency in Galway. Web design, SEO, AI marketing, content creation, PPC, social media, and more. Expert solutions for your business.',
   keywords: 'digital marketing services, web design services, SEO services, AI marketing, content marketing, PPC management',
 }

@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   if (!page) {
     return {
-      title: 'Page Not Found | Kraft Agency'
+      title: 'Page Not Found | Galway SEO'
     }
   }
 

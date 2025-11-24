@@ -22,12 +22,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   if (!service) {
     return {
-      title: 'Service Not Found | Kraft Agency'
+      title: 'Service Not Found | Galway SEO'
     }
   }
 
   return {
-    title: `${service.name} Services in Galway | Kraft Agency`,
+    title: `${service.name} Services in Galway | Galway SEO`,
     description: `Expert ${service.name.toLowerCase()} services across County Galway. ${service.description}`,
     keywords: `${service.name}, ${service.slug}, Galway digital agency, ${service.category}`,
   }
@@ -176,7 +176,7 @@ export default async function ServicePage({ params }: Props) {
               <Link href="/contact" className="btn-primary text-white px-8 py-4 rounded-lg font-semibold text-lg">
                 Get Free Consultation
               </Link>
-              <a href="mailto:hello@kraftagency.ie" className="btn-outline text-white px-8 py-4 rounded-lg font-semibold text-lg">
+              <a href="mailto:hello@galwayseo.ai" className="btn-outline text-white px-8 py-4 rounded-lg font-semibold text-lg">
                 Email Us
               </a>
             </div>

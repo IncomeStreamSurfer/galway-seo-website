@@ -14,10 +14,10 @@ export default function Header() {
             {/* Logo */}
             <Link href="/" className="flex items-center space-x-2">
               <div className="w-10 h-10 gradient-purple-blue rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-xl">K</span>
+                <span className="text-white font-bold text-lg">GS</span>
               </div>
               <div>
-                <span className="font-display text-xl font-bold text-white">Kraft Agency</span>
+                <span className="font-display text-xl font-bold text-white">Galway SEO</span>
               </div>
             </Link>
 
