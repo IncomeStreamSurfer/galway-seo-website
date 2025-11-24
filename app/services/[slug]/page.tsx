@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import { getService, getPagesByService, getAllServices } from '@/lib/data'
+import { getService, getPagesByService, getAllServices } from '../../../lib/data'
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 

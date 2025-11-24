@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { getAllServices, getPagesByService } from '@/lib/data'
+import { getAllServices, getPagesByService } from '../../lib/data'
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {

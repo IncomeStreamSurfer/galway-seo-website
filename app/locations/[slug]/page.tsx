@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { getLocation, getPagesByLocation, getAllLocations } from '@/lib/data'
+import { getLocation, getPagesByLocation, getAllLocations } from '../../../lib/data'
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 

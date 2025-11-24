@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { subscribeNewsletter, unsubscribeNewsletter } from '@/lib/forms'
+import { subscribeNewsletter, unsubscribeNewsletter } from '../../../lib/forms'
 
 export async function POST(request: NextRequest) {
   try {

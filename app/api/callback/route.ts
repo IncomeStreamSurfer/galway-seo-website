@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { submitCallbackRequest } from '@/lib/forms'
+import { submitCallbackRequest } from '../../../lib/forms'
 
 export async function POST(request: NextRequest) {
   try {

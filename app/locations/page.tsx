@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { getAllLocations, getPagesByLocation } from '@/lib/data'
+import { getAllLocations, getPagesByLocation } from '../../lib/data'
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {

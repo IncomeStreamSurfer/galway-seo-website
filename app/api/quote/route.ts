@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { submitQuoteRequest } from '@/lib/forms'
+import { submitQuoteRequest } from '../../../lib/forms'
 
 export async function POST(request: NextRequest) {
   try {

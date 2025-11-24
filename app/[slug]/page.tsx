@@ -1,9 +1,9 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import { getServiceLocationPage, getAllServiceLocationPages } from '@/lib/data'
+import { getServiceLocationPage, getAllServiceLocationPages } from '../../lib/data'
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
-import ContactForm from '@/components/ContactForm'
+import ContactForm from '../../components/ContactForm'
 
 interface Props {
   params: {

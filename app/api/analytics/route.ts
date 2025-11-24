@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { trackPageView } from '@/lib/forms'
+import { trackPageView } from '../../../lib/forms'
 
 export async function POST(request: NextRequest) {
   try {
